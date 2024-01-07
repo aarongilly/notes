@@ -1,8 +1,8 @@
 ---
 tags:
-- psychology
+  - psychology
 created: 2023-07-29T15:55:19-05:00
-updated: 2023-07-31T08:06:27-05:00
+updated: 2023-08-22T09:45-05:00
 ---
 **The desire for "sure things" and unambiguous results. It's not necessarily a good thing.**
 

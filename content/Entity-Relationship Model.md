@@ -1,9 +1,9 @@
 ---
 tags:
-- data
-- modeling
+  - data
+  - modeling
 created: 2023-07-29T13:29:49-05:00
-updated: 2023-07-29T13:29:49-05:00
+updated: 2023-07-29T13:29-05:00
 ---
 **A simplified description of things and how they relate to one another used in software engineering and business.**
 

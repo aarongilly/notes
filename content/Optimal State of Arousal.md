@@ -1,10 +1,12 @@
 ---
 tags:
-- science
-- society
-- productivity
-- health
-- fitness
+  - science
+  - society
+  - productivity
+  - health
+  - fitness
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **There's a range in which stress helps us perform, on either side of that range performance suffers.**
 

@@ -6,7 +6,7 @@ tags:
   - philosophy
   - productivity
 created: 2023-07-31T11:52:13-05:00
-updated: 2023-07-31T11:52:13-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **It's best to try a lot of quick low-cost options and see what works, rather than try to predict which one will and go all-in.**
 

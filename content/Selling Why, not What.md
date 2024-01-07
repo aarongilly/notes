@@ -3,6 +3,8 @@ tags:
   - business
 aliases:
   - start with why
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-11T11:42-06:00
 ---
 **People don’t buy what you’re doing, they but *why* you’re doing it.**
 

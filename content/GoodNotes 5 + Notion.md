@@ -1,7 +1,9 @@
 ---
 tags:
-- technique
-- notetaking
+  - technique
+  - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-06T13:34-06:00
 ---
 **GoodNotes 5 can supply the Apple Pencil support that Notion is missing.**
 

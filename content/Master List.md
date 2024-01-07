@@ -1,10 +1,10 @@
 ---
 tags:
-- productivity
-- modeling
-- notetaking
+  - productivity
+  - modeling
+  - notetaking
 created: 2023-07-29T20:56:23-05:00
-updated: 2023-07-29T21:10:27-05:00
+updated: 2023-12-18T15:13-06:00
 ---
 **A list of lists to keep track of where you’re keeping track of things.**
 

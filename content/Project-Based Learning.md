@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-19T21:38-05:00
+updated: 2023-08-19T21:45-05:00
 ---
 **A heck of a good way to learn something is to try to make something with it**
 

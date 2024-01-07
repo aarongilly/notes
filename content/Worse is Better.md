@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-09-14T23:14-05:00
+updated: 2023-12-06T23:46-06:00
 ---
 **Sometimes it is better to implement something without all the bells and whistles.**
 

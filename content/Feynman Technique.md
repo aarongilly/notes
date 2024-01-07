@@ -1,9 +1,11 @@
 ---
 tags:
-- technique
-- productivity
-- learning
-- notetaking
+  - technique
+  - productivity
+  - learning
+  - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-20T09:31-06:00
 ---
 **Learn a subject better by teaching it to a child.**
 

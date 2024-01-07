@@ -2,6 +2,8 @@
 tags:
   - fitness
 summary: Slow down, fast up.
+created: 2023-10-31T00:32-05:00
+updated: 2023-10-31T15:39-05:00
 ---
 **`= this.summary`**
 

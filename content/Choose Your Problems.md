@@ -1,8 +1,10 @@
 ---
 tags:
-- happiness
-- philosophy
-- psychology
+  - happiness
+  - philosophy
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T14:07-05:00
 ---
 **It's not possible to have a life with no problems. You should seek to have better problems.**
 

@@ -2,6 +2,8 @@
 tags:
   - psychology
 summary: The amount you can focus on right now.
+created: 2023-11-10T13:52-06:00
+updated: 2023-11-10T14:03-06:00
 ---
 **`= this.summary`**
 

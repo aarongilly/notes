@@ -3,6 +3,8 @@ tags:
   - data
   - philosophy
 summary: Time is the index of the universe. There's only ever one of each.
+created: 2023-12-11T13:00-06:00
+updated: 2023-12-11T13:03-06:00
 ---
 **`= this.summary`**
 

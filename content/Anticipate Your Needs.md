@@ -1,6 +1,8 @@
 ---
 tags:
-- money
+  - money
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Enable yourself to take advantage of deals & discounts.**
 

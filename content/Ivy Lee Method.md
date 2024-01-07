@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- productivity
-- habits
+  - technique
+  - productivity
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-20T11:48-05:00
 ---
 **End each day with a prioritized list of 6 things to work on tomorrow. Start each day working on tasks from yesterday’s list, one at a time.**
 

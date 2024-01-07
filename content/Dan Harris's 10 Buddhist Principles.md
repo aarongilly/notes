@@ -1,6 +1,8 @@
 ---
 tags:
-- philosophy
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-10-11T21:21-05:00
 ---
 **10 tips from 10% Happier**
 

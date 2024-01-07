@@ -1,7 +1,9 @@
 ---
 tags:
-- society
-- psychology
+  - society
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **An anonymous viewing of your room may reveal your personality more than an interview with your friends do.**
 

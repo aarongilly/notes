@@ -1,7 +1,9 @@
 ---
 tags:
-- philosophy
-- quote
+  - philosophy
+  - quote
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-11T11:41-06:00
 ---
 **To make principles effective, state them as verbs.**
 

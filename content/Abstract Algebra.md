@@ -1,5 +1,7 @@
 ---
 aliases: modern algebra
+created: 2023-08-21T22:27-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **All about actions about groups of things that can exhibit some form of symmetry**
 

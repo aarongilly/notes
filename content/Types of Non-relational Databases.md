@@ -1,8 +1,10 @@
 ---
 tags:
-- coding
-- modeling
-- data
+  - coding
+  - modeling
+  - data
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-17T14:54-05:00
 ---
 **Key-Value stores, document databases, graphs, and other NoSQL database types.**
 

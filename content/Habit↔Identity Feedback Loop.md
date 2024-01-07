@@ -1,6 +1,8 @@
 ---
 tags:
-- habits
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-09-07T14:10-05:00
 ---
 **Your habits shape your identity. Your identity shapes your habits.**
 

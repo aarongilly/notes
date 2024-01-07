@@ -1,7 +1,9 @@
 ---
 tags:
-- happiness
-- money
+  - happiness
+  - money
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Group experiments show that people "think" they'll have enough when they name 50% more, regardless of their earnings.**
 

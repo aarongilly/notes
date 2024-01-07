@@ -1,8 +1,8 @@
 ---
 tags:
-- science
+  - science
 created: 2023-07-31T08:09:26-05:00
-updated: 2023-07-31T08:09:26-05:00
+updated: 2023-07-31T08:09-05:00
 ---
 **Cartilage is stronger than concrete and smoother than glass.**
 

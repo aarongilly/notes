@@ -2,6 +2,8 @@
 tags:
   - psychology
 summary: The responses to an imminent threat.
+created: 2023-12-06T19:03-06:00
+updated: 2023-12-06T19:07-06:00
 ---
 **`= this.summary`**
 

@@ -1,6 +1,8 @@
 ---
 tags:
-- health
+  - health
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-31T12:32-05:00
 ---
 **TDEE is 2/3rds (or more) comprised of BMR.**
 

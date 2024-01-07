@@ -1,6 +1,8 @@
 ---
 tags:
-- society
+  - society
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-20T20:54-05:00
 ---
 **Creating Superhumans is the same Pandora's Box as creating nukes.**
 

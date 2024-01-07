@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- productivity
-- psychology
+  - technique
+  - productivity
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:23-05:00
 ---
 **Give your best guess twice over the course of time. Average your guesses.**
 

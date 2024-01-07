@@ -1,6 +1,8 @@
 ---
 tags:
-- science
+  - science
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-10T12:50-05:00
 ---
 **Units of measure defined exclusively in terms of 4 universal physical constants.**
 

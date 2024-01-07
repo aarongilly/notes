@@ -3,6 +3,8 @@ tags:
   - science
   - fitness
 summary: The allocation of resources to regain homeostasis.
+created: 2023-11-01T16:09-05:00
+updated: 2023-11-01T16:11-05:00
 ---
 **`= this.summary`**
 

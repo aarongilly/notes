@@ -1,5 +1,6 @@
 ---
-# alias: focus
+created: 2023-08-18T09:12-05:00
+updated: 2023-12-18T15:10-06:00
 ---
 **The application of energy, time, and attention toward one specific thing, ignoring all others**
 

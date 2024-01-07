@@ -1,7 +1,9 @@
 ---
 tags:
-- coding
-- society
+  - coding
+  - society
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-31T17:58-05:00
 ---
 **A collection of highly influential & important coders**
 

@@ -1,8 +1,10 @@
 ---
 tags:
-- happiness
-- clarity
-- philosophy
+  - happiness
+  - clarity
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Be aware of the domains you care about, and those where you have impact.**
 

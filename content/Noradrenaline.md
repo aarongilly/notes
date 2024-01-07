@@ -5,6 +5,8 @@ tags:
 summary: Honestly seems like it does the same thing as regular adrenaline.
 aliases:
   - Norepinephrine
+created: 2023-11-16T19:04-06:00
+updated: 2023-11-16T19:32-06:00
 ---
 **`= this.summary`**
 

@@ -1,6 +1,8 @@
 ---
 tags:
-- notetaking
+  - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-13T21:04-06:00
 ---
 **An open-source competitor to Notion [[Notion]] and Obsidian [[Obsidian]]**
 

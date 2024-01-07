@@ -1,9 +1,11 @@
 ---
 tags:
-- science
-- society
-- business
-- modeling
+  - science
+  - society
+  - business
+  - modeling
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-17T12:53-05:00
 ---
 **A measure of a situation that is only available after an event has occurred. Opposite of leading measure.**
 

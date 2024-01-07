@@ -3,6 +3,8 @@ tags:
   - philosophy
   - notetaking
 summary: More doesn't always mean better, if it's not more of the right thing.
+created: 2023-12-06T22:53-06:00
+updated: 2023-12-06T23:10-06:00
 ---
 **`= this.summary`**
 

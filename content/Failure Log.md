@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- productivity
-- notetaking
+  - technique
+  - productivity
+  - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-09-16T11:44-05:00
 ---
 **Keep a record of your failures, what caused them, look for patterns & ways to learn/grow.**
 

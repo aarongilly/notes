@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-07-17T15:39-05:00
+updated: 2023-07-17T15:40-05:00
 ---
 **"Good" leads to complacency, leads to stagnation.**
 

@@ -1,8 +1,10 @@
 ---
 tags:
-- philosophy
-- productivity
-- quote
+  - philosophy
+  - productivity
+  - quote
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-17T18:08-05:00
 ---
 **If I keep doing what I am about to do today for the next five years, will I end up with more of what I want or less of what I want? - James Clear**
 

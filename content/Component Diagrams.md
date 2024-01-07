@@ -1,7 +1,9 @@
 ---
 tags:
-- modeling
-- coding
+  - modeling
+  - coding
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:44-05:00
 ---
 **Component Diagrams represent system architecture, focusing on interface relationships.**
 

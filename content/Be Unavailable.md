@@ -1,6 +1,8 @@
 ---
 tags:
-- productivity
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Create space for yourself to have focused time to think/work/be bored.**
 

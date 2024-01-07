@@ -1,7 +1,9 @@
 ---
 tags:
-- notetaking
-- data
+  - notetaking
+  - data
+created: 2023-07-08T11:37-05:00
+updated: 2023-11-07T21:58-06:00
 ---
 **No other file is as widely openable as a ".txt".**
 

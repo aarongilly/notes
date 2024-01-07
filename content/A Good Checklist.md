@@ -1,7 +1,9 @@
 ---
 tags:
-- technique
-- productivity
+  - technique
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-20T14:39-05:00
 ---
 **Some basic rules for making a checklist good.**
 

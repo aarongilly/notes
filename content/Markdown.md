@@ -1,7 +1,9 @@
 ---
 tags:
-- coding
-- notetaking
+  - coding
+  - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-11-01T16:45-05:00
 ---
 **The lightweight styling markup language of GitHub, Reddit, StackExchange, Notion, and so many others.**
 

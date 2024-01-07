@@ -1,10 +1,10 @@
 ---
 tags:
-- technique
-- clarity
-- productivity
+  - technique
+  - clarity
+  - productivity
 created: 2023-07-24T11:41:03-05:00
-updated: 2023-07-24T11:41:03-05:00
+updated: 2023-07-24T11:41-05:00
 ---
 **If your project does not have an associated goal, it’s a hobby.**
 

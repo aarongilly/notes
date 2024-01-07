@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-07-10T10:53-05:00
+updated: 2023-07-10T11:09-05:00
 ---
 **Unexpected but direct impacts of developments in one area on an entirely different area**
 

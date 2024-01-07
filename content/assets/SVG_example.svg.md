@@ -1,3 +1,7 @@
+---
+created: 2023-12-06T13:24-06:00
+updated: 2023-12-06T13:25-06:00
+---
 <svg width="391" height="391" viewBox="-70.5 -70.5 391 391" xmlns="http://www.w3.org/2000/svg">
 <rect fill="#fff" stroke="#000" x="-70" y="-70" width="390" height="390"/>
 <g opacity="0.8">

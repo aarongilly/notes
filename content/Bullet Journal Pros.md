@@ -1,7 +1,9 @@
 ---
 tags:
-- philosophy
-- notetaking
+  - philosophy
+  - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T09:18-05:00
 ---
 **[[Focus]], portability, durability, modularity.**
 

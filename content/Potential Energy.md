@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-07-22T22:50-05:00
+updated: 2023-07-22T23:11-05:00
 ---
 **Energy Stored, in various forms**
 

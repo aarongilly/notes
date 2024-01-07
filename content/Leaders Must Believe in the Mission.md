@@ -1,8 +1,10 @@
 ---
 tags:
-- society
-- philosophy
-- business
+  - society
+  - philosophy
+  - business
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:04-05:00
 ---
 **If you don’t believe in the mission, you won’t do what’s necessary to achieve it.**
 

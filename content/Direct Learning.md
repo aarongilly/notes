@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-19T21:34-05:00
+updated: 2023-08-20T09:32-05:00
 ---
 
 > [!tldr] It is best to learn a thing is to **do the thing**.

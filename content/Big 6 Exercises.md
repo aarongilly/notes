@@ -1,7 +1,9 @@
 ---
 tags:
-- health
-- fitness
+  - health
+  - fitness
+created: 2023-07-08T11:37-05:00
+updated: 2023-10-31T00:23-05:00
 ---
 **Squats, Deadlift, Bench, Rows, Pull-ups, Overhead Press**
 

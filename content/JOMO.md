@@ -1,6 +1,8 @@
 ---
-tags: #philosophy #happiness 
+tags: 
 summary: Embrace the choices you've made. Everyone's missing out on everything all the time.
+created: 2023-10-11T20:56-05:00
+updated: 2023-10-11T20:59-05:00
 ---
 **`= this.summary`**
 

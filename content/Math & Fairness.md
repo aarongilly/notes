@@ -1,7 +1,9 @@
 ---
 tags:
-- math
-- society
+  - math
+  - society
+created: 2023-07-08T11:37-05:00
+updated: 2023-10-22T20:35-05:00
 ---
 **Predictions made by algorithms often have built-in biases and are unfair to the individual.**
 

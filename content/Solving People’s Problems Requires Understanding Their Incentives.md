@@ -1,9 +1,11 @@
 ---
 tags:
-- technique
-- clarity
-- business
-- productivity
+  - technique
+  - clarity
+  - business
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-31T12:28-05:00
 ---
 **Understanding the [[incentives]] of all the players involved in a given scenario is a key activity to problem solving.**
 

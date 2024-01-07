@@ -1,8 +1,10 @@
 ---
 tags:
-- society
-- data
-- psychology
+  - society
+  - data
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T16:10-05:00
 ---
 **Artificial Intelligence enables types of ads targeted to your personality and everything else about you.**
 

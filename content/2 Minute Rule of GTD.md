@@ -1,6 +1,8 @@
 ---
 tags:
-- productivity
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **If it takes less than 2 minutes to do, do it now.**
 

@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- productivity
-- manufacturing
+  - technique
+  - productivity
+  - manufacturing
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-13T20:20-06:00
 ---
 **A work management tool for visualizing workflow & scope.**
 

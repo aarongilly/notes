@@ -1,11 +1,13 @@
 ---
 tags:
-- happiness
-- society
-- productivity
-- data
-- psychology
-- notetaking
+  - happiness
+  - society
+  - productivity
+  - data
+  - psychology
+  - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-21T12:30-05:00
 ---
 **A movement in measurement.**
 

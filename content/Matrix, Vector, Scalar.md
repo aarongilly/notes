@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-14T15:09-05:00
+updated: 2023-08-14T15:15-05:00
 ---
 **Defining terms in [[Matrices|Matrix]] math**
 

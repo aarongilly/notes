@@ -1,6 +1,8 @@
 ---
 tags:
-- data
+  - data
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T14:04-05:00
 ---
 **Fields in a table that could be part of its key.**
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- philosophy
-- psychology
+  - philosophy
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T12:34-05:00
 ---
 **Anticipating, Experiencing, and Remembering**
 

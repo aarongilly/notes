@@ -1,7 +1,6 @@
 ---
-# alias:
 created: 2023-07-25T09:19:45-05:00
-updated: 2023-07-25T09:19:45-05:00
+updated: 2023-07-25T09:19-05:00
 ---
 **A single-file, lightweight [[SQL]] database platform**
 

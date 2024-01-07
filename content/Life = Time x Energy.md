@@ -1,6 +1,8 @@
 ---
 tags:
-- philosophy
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-21T13:27-05:00
 ---
 **Life is what you spend your energy doing for the most time.**
 

@@ -1,8 +1,10 @@
 ---
 tags:
-- coding
-- philosophy
-- making
+  - coding
+  - philosophy
+  - making
+created: 2023-07-08T11:37-05:00
+updated: 2023-09-14T23:30-05:00
 ---
 **A poem about good coding principles.**
 

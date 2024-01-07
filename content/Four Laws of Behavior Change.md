@@ -1,8 +1,8 @@
 ---
 tags:
-- habits
+  - habits
 created: 2023-07-31T09:40:02-05:00
-updated: 2023-07-31T09:40:02-05:00
+updated: 2023-07-31T09:40-05:00
 ---
 **Change habits (good and bad) by workin on each component of the Habit Loop.**
 

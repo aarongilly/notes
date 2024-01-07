@@ -5,6 +5,8 @@ tags:
   - manufacturing
   - systemdesign
 summary: A transdisciplinary and integrative approach to enable successful realization, use, and retirement of systems.
+created: 2023-12-07T15:24-06:00
+updated: 2023-12-07T16:16-06:00
 ---
 **`= this.summary`**
 

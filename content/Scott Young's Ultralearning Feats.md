@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-16T18:03-05:00
+updated: 2023-08-20T20:52-05:00
 ---
 The author of ultralearning got inspiration from a guy who claimed to learn languages in three months by total immersion and aggressive, self learning. The author took his friend on a year-long trip to four different countries, and both of them succeeded in learning four new languages, one every 3 months, by refusing to speak English the entire time.
 

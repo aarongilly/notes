@@ -3,8 +3,8 @@ author: James Nestor
 url: 
 type: book
 created: 2023-07-31T11:55:28-05:00
-updated: 2023-07-31T12:04:57-05:00
-aliases:
+updated: 2024-01-01T23:13-06:00
+aliases: 
 ---
 ## Review
 Man there are some bold claims right out the gate. Wow and they continue. What an incredibly on-message book. The message: 

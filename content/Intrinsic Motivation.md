@@ -1,7 +1,9 @@
 ---
 tags:
-- happiness
-- productivity
+  - happiness
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:06-05:00
 ---
 **Doing it for you is the best way to do good work that you enjoy.**
 

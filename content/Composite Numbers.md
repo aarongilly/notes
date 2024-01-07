@@ -1,7 +1,7 @@
 ---
 aliases: Highly Composite Numbers
 created: 2023-07-29T09:22:46-05:00
-updated: 2023-07-29T10:10:02-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **Numbers that are not [[Prime Numbers]] - they can be evenly divided into small segments**
 

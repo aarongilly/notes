@@ -1,7 +1,9 @@
 ---
 tags:
-- notetaking
-- coding
+  - notetaking
+  - coding
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-18T15:20-05:00
 ---
 **A collection of places I’ve come across YAML**
 

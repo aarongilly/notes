@@ -3,6 +3,8 @@ tags:
   - technique
   - productivity
 summary: Cogitating on a [[MOS]]
+created: 2023-12-11T11:14-06:00
+updated: 2023-12-18T15:13-06:00
 ---
 **`= this.summary`**
 

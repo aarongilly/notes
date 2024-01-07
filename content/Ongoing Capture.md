@@ -1,9 +1,11 @@
 ---
 tags:
-- clarity
-- productivity
-- notetaking
-- habits
+  - clarity
+  - productivity
+  - notetaking
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-16T21:18-05:00
 ---
 **A constant process of separating wheat from chaff.**
 

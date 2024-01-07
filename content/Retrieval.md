@@ -1,5 +1,7 @@
 ---
 aliases: recall
+created: 2023-08-20T18:34-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **When it comes to learning things, having to recall content *from memory* is better than simply reviewing the content**
 

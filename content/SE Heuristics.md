@@ -2,6 +2,8 @@
 tags:
   - systemdesign
 summary: Some example Heuristics from the SEBoK
+created: 2023-12-07T20:32-06:00
+updated: 2023-12-07T20:38-06:00
 ---
 **`= this.summary`**
 

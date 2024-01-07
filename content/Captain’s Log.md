@@ -6,7 +6,7 @@ tags:
   - clarity
   - notetaking
 created: 2023-07-29T15:59:13-05:00
-updated: 2023-07-29T15:59:13-05:00
+updated: 2024-01-06T22:55-06:00
 ---
 **Writing down what time it is, what you did, and what’s next**
 
@@ -23,10 +23,7 @@ You make an entry when you **change tasks, take a break, or get distracted** and
 ```
 
 ---
-
-## Source
-
-## Source
+### Source
 
 [Captain's Logs for Navigating Knowledge Work](https://www.jamesstuber.com/captains-log/)
 

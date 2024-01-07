@@ -1,7 +1,7 @@
 ---
 aliases: strategic planning
 created: 2023-07-28T08:37:56-05:00
-updated: 2023-07-28T08:40:42-05:00
+updated: 2024-01-06T22:37-06:00
 ---
 **Strategies direct plans, make them coherent.**
 
@@ -29,7 +29,7 @@ To avoid "playing just to play" and actually act according to a *strategy*:
 
 ### Related
 - [[Plan for Failure]]
-- [[Planning Vs Procrastinating]]
+- [[Planning is Often Procrastinating]]
 
 #### Tags
 #business #productivity #manufacturing 

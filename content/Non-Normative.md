@@ -2,6 +2,8 @@
 tags:
   - language
 summary: '"Informative", but not formal.'
+created: 2023-12-18T10:52-06:00
+updated: 2023-12-18T10:58-06:00
 ---
 **`= this.summary`**
 

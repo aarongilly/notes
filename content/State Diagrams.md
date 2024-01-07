@@ -1,6 +1,8 @@
 ---
 tags:
-- modeling
+  - modeling
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-08T11:01-06:00
 ---
 **Graphical depiction of the ways an entity can exist and the transitions between them.**
 

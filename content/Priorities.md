@@ -1,8 +1,10 @@
 ---
 tags:
-- clarity
-- philosophy
-- language
+  - clarity
+  - philosophy
+  - language
+created: 2023-07-08T11:37-05:00
+updated: 2023-09-05T21:46-05:00
 ---
 **The term “Priority” didn’t used to be plural.**
 

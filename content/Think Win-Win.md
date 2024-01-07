@@ -1,8 +1,10 @@
 ---
 tags:
-- society
-- business
-- productivity
+  - society
+  - business
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Always look for mutually beneficial resolutions to every transaction.**
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- philosophy
-- productivity
+  - philosophy
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **One year from now, the direction you're headed today matters more than today's results.**
 

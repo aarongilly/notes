@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-04T10:34-05:00
+updated: 2023-08-04T11:08-05:00
 ---
 **Passing code into the function that depends on it.**
 

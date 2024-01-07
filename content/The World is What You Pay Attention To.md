@@ -4,6 +4,8 @@ tags:
   - clarity
   - happiness
 summary: Your world is dictated by what is within your attentional filter. Pay attention to what makes you happier & healthier.
+created: 2023-11-06T09:05-06:00
+updated: 2023-11-06T09:09-06:00
 ---
 **`= this.summary`**
 

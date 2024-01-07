@@ -6,6 +6,8 @@ tags:
 aliases:
   - Inductive Reasoning
   - Deductive Reasoning
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-13T21:56-06:00
 ---
 **Inductive: Specific → General. Deductive: General → Specific.**
 

@@ -3,8 +3,8 @@ author: Cathy O'Neil
 url: 
 type: 
 created: 2023-07-31T11:55:28-05:00
-updated: 2023-07-31T12:04:57-05:00
-aliases:
+updated: 2024-01-01T23:13-06:00
+aliases: 
 ---
 ## Review
 I dictated this review. Hence it reads like a stream of thought. I fixed up some words it got wrong, but I'm not going to put much more effort in than that. I didn't love this book. Its point is basically "don't trust algorithms to solve the world's problems" - but it didn't really propose anything better.

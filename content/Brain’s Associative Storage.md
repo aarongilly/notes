@@ -1,7 +1,9 @@
 ---
 tags:
-- learning
-- psychology
+  - learning
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Connections in the brain are based on associated properties.**
 

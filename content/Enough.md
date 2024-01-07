@@ -1,7 +1,9 @@
 ---
 tags:
-- happiness
-- philosophy
+  - happiness
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-09-05T16:13-05:00
 ---
 **Don’t search for more, search for enough.**
 

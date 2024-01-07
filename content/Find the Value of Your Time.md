@@ -1,7 +1,9 @@
 ---
 tags:
-- technique
-- productivity
+  - technique
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Literally decide on a dollar figure per hour of your life. Use this figure to guide decisions.**
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- society
-- money
+  - society
+  - money
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **A state in which your living expenses are met through passive income.**
 

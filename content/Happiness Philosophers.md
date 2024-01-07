@@ -1,8 +1,10 @@
 ---
 tags:
-- happiness
-- philosophy
-- index
+  - happiness
+  - philosophy
+  - index
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Index of Notes on Great Thinkers about Happiness**
 

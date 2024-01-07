@@ -1,7 +1,9 @@
 ---
 tags:
-- happiness
-- money
+  - happiness
+  - money
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Anything beyond he peak of the money/fulfillment curve.**
 

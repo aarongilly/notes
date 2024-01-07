@@ -1,7 +1,9 @@
 ---
 tags:
-- technique
-- productivity
+  - technique
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:04-05:00
 ---
 **Relax. Look around. Make a call.**
 

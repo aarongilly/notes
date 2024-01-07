@@ -1,7 +1,9 @@
 ---
 tags:
-- learning
-- psychology
+  - learning
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **A special & important mode our brain goes in when we’re bored.**
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- technique
-- psychology
+  - technique
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **In negotiations, your goal is to make the other person realize you understand their position.**
 

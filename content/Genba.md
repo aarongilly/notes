@@ -1,8 +1,10 @@
 ---
 tags:
-- philosophy
-- business
-- manufacturing
+  - philosophy
+  - business
+  - manufacturing
+created: 2023-07-08T11:37-05:00
+updated: 2023-11-14T22:47-06:00
 ---
 **The best way to understand a customer’s problem is to go see it for yourself.**
 

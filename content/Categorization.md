@@ -1,6 +1,8 @@
 ---
 tags:
-- philosophy
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Categorization is a cognitive shortcut that allows us to group wide varieties of objects and concepts together via a variety of relationships (inherent, temporal, or dependent upon our relationship to the thing).**
 

@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- society
-- psychology
+  - technique
+  - society
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **People respond to what other’s are doing. Use that when designing nudges.**
 

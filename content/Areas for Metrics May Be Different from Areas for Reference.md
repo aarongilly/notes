@@ -4,6 +4,8 @@ tags:
   - productivity
   - notetaking
 summary: Areas for Metrics May Be Different from Areas for Reference
+created: 2023-12-17T15:34-06:00
+updated: 2023-12-17T15:37-06:00
 ---
 **`= this.summary`**
 

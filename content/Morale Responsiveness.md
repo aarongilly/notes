@@ -1,6 +1,8 @@
 ---
 tags:
-- productivity
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:45-05:00
 ---
 **Are you consistently performing at a 3 to a 7? Or consistently outside that range?**
 

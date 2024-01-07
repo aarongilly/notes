@@ -1,9 +1,11 @@
 ---
 tags:
-- business
-- coding
-- productivity
-- manufacturing
+  - business
+  - coding
+  - productivity
+  - manufacturing
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-21T14:54-06:00
 ---
 **Use standard processes, find improvements, update the standards**
 

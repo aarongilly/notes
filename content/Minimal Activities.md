@@ -1,8 +1,10 @@
 ---
 tags:
-- clarity
-- philosophy
-- quote
+  - clarity
+  - philosophy
+  - quote
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Do only what you suits you well, and you'll love everything you do.**
 

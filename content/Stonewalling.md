@@ -1,8 +1,10 @@
 ---
 tags:
-- happiness
-- psychology
-- language
+  - happiness
+  - psychology
+  - language
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:45-05:00
 ---
 **delay or block (a request, process, or person) by refusing to answer questions or by giving evasive replies, especially in politics.**
 

@@ -1,6 +1,8 @@
 ---
-tags: #productivity #philosophy 
+tags: 
 summary: The issue with Stephen Covey's "Jar full of Sand" is that there's a finite number of big rocks, in reality there's way too many.
+created: 2023-10-11T21:04-05:00
+updated: 2023-10-11T21:08-05:00
 ---
 **`= this.summary`**
 

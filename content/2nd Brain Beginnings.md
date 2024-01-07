@@ -1,6 +1,8 @@
 ---
 tags:
-- notetaking
+  - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-04T17:46-05:00
 ---
 **Start with a small scope, Tiago used it for managing a health conditions.**
 

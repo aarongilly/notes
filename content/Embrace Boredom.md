@@ -1,8 +1,10 @@
 ---
 tags:
-- clarity
-- philosophy
-- psychology
+  - clarity
+  - philosophy
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Boredom isn’t bad and shouldn’t be always eliminated.**
 

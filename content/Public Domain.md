@@ -1,7 +1,6 @@
 ---
-# alias:
 created: 2023-07-25T09:40:12-05:00
-updated: 2023-07-25T12:41:36-05:00
+updated: 2023-07-25T12:41-05:00
 ---
 **Stuff that nobody has copyright on that you can do anything with**
 

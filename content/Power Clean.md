@@ -1,6 +1,8 @@
 ---
 tags:
-- fitness
+  - fitness
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:45-05:00
 ---
 **The first half of the Clean and Jerk, raising a bar from the floor up to a resting position on the shoulders.**
 

@@ -1,6 +1,8 @@
 ---
 tags:
-- data
+  - data
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:45-05:00
 ---
 **The identifier of a row in a table. May be a combination of fields or a single field.**
 

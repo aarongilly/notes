@@ -2,6 +2,8 @@
 tags:
   - business
 summary: People get promoted to the point where they aren't effective, then stop getting promoted.
+created: 2023-12-05T17:30-06:00
+updated: 2023-12-05T23:06-06:00
 ---
 **`= this.summary`**
 

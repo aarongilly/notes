@@ -1,9 +1,11 @@
 ---
 tags:
-- society
-- business
-- productivity
-- psychology
+  - society
+  - business
+  - productivity
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Look for situations in which a group can become more than the sum of its parts.**
 

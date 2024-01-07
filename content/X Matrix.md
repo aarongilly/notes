@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-09T20:55-05:00
+updated: 2023-08-11T17:31-05:00
 ---
 **A Business Alignment, Goal-setting, and Strategy Tool**
 

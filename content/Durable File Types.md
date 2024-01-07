@@ -3,6 +3,8 @@ tags:
   - coding
   - data
 aliases: durable files
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **.txt, .csv, .ods, .pdf, .mp4, .flac, .tif**
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- technique
-- productivity
+  - technique
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-06T22:37-06:00
 ---
 **Sometimes procrastination is a good thing.**
 
@@ -16,4 +18,4 @@ You definitely want to leave enough time to complete the work and edit it... but
 
 ### Related Notes
 - [[First Idea ≠ Best Idea]] 
-- [[Planning Vs Procrastinating ]]
+- [[Planning is Often Procrastinating]]

@@ -1,7 +1,9 @@
 ---
 tags:
-- society
-- psychology
+  - society
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **You can no longer rely on personal relationships to dictate behaviors once a groups number exceeds ~150 members.**
 

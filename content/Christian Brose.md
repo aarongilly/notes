@@ -1,6 +1,8 @@
 ---
 tags:
-- society
+  - society
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:57-05:00
 ---
 **The right-hand man of John McCaine**
 

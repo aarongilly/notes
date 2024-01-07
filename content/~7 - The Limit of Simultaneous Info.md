@@ -1,7 +1,9 @@
 ---
 tags:
-- modeling
-- psychology
+  - modeling
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Traditionally thought to be 7 things, more recent studies suggest 4.**
 

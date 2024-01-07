@@ -2,6 +2,8 @@
 aliases:
   - RASIC
   - RACI
+created: 2023-08-10T11:00-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **A tool to clarify the roles & responsibilities of *agents* to aspects of an effort ([[Defining Project|projects]] or [[Defining Area|areas]])**
 

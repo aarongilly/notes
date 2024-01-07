@@ -4,6 +4,8 @@ tags:
 summary: System behavior that "emerges" from interactions between components, not from any individual component.
 aliases:
   - emergence
+created: 2023-12-07T22:09-06:00
+updated: 2023-12-07T22:32-06:00
 ---
 **`= this.summary`**
 

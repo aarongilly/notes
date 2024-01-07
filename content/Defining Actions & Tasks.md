@@ -1,6 +1,8 @@
 ---
 tags:
-- productivity
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-17T12:46-05:00
 ---
 **Tasks are simple sequences of actions that accomplish a small result.**
 

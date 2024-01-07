@@ -1,9 +1,9 @@
 ---
 tags:
-- coding
-- technique 
+  - coding
+  - technique
 created: 2023-07-31T08:12:52-05:00
-updated: 2023-07-31T08:12:52-05:00
+updated: 2023-07-31T08:12-05:00
 ---
 **Major.Minor.Patch, ^=minor, ~=patch**
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- philosophy
-- productivity
+  - philosophy
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Creative Projects follow a standard pattern, more diverging ideas - followed by fewer converging ideas.**
 

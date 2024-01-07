@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- philosophy
-- productivity
+  - technique
+  - philosophy
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-04T22:46-05:00
 ---
 **There is no one-size-fits-all solution to changing behaviors, the best solution depends on the particulars of the situation.**
 

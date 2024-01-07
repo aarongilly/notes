@@ -1,9 +1,11 @@
 ---
 tags:
-- clarity
-- philosophy
-- business
-- productivity
+  - clarity
+  - philosophy
+  - business
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:43-05:00
 ---
 **If you are not selective about the actions you accept, you’ll spend 80% of your time on 20% value.**
 

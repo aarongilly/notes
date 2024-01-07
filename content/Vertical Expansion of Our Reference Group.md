@@ -1,7 +1,9 @@
 ---
 tags:
-- happiness
-- society
+  - happiness
+  - society
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T16:57-05:00
 ---
 **No longer "keeping up with the Joneses", now it's keeping up with the Kardashians. **
 

@@ -1,6 +1,8 @@
 ---
-tags: #psychology
+tags: 
 summary: Periodic that happen more than once per day.
+created: 2023-10-04T19:24-05:00
+updated: 2023-12-07T10:31-06:00
 ---
 **`= this.summary`**
 

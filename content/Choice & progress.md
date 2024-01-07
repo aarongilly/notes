@@ -1,8 +1,10 @@
 ---
 tags:
-- clarity
-- philosophy
-- productivity
+  - clarity
+  - philosophy
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-11T11:41-06:00
 ---
 **It is worse to be making a millimeter of progress in a million directions than to make great progress in a few.**
 

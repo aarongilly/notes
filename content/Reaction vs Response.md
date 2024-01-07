@@ -1,7 +1,9 @@
 ---
 tags:
-- psychology
-- language
+  - psychology
+  - language
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T17:43-05:00
 ---
 **Responses are *well-considered* reactions.**
 

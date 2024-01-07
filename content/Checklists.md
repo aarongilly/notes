@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- productivity
-- index
+  - technique
+  - productivity
+  - index
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **An under appreciated tool for doing things right every time while freeing you up to think about the hard stuff.**
 

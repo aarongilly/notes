@@ -3,6 +3,8 @@ tags:
   - science
   - psychology
 summary: Dopamine, adrenaline, noradrenaline
+created: 2023-11-16T15:29-06:00
+updated: 2023-11-16T15:52-06:00
 ---
 **`= this.summary`**
 

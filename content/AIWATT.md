@@ -1,7 +1,9 @@
 ---
 tags:
-- technique
-- habits
+  - technique
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **"Am I Willing At This Time to make the investment required to make a positive difference on this topic?" - the first principle of becoming the person you want to be**
 

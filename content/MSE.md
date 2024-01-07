@@ -1,9 +1,11 @@
 ---
 tags:
-- math
-- science
-- modeling
-- data
+  - math
+  - science
+  - modeling
+  - data
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:23-05:00
 ---
 **Mean Squared Error - method variability testing and system tuning.**
 

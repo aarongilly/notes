@@ -3,6 +3,8 @@ aliases: hedonic set point
 tags:
   - happiness
   - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **Humans tend to return to baseline levels of happiness no matter their circumstance.**
 

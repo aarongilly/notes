@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-18T09:08-05:00
+updated: 2023-08-18T09:22-05:00
 ---
 
 ## Procrastination Avoidance Hierarchy

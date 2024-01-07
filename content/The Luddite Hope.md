@@ -1,8 +1,10 @@
 ---
 tags:
-- society
-- philosophy
-- business
+  - society
+  - philosophy
+  - business
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-19T13:17-05:00
 ---
 **It's not possible to enjoy the benefits of innovation without also giving up predictability.**
 

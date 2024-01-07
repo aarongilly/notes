@@ -1,6 +1,8 @@
 ---
 tags:
-- society
+  - society
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:58-05:00
 ---
 **The US Military Focuses on small numbers of large platforms, which could be problemtic.**
 

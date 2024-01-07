@@ -1,3 +1,7 @@
+---
+created: 2023-09-06T08:57-05:00
+updated: 2023-09-07T08:34-05:00
+---
 **When components of a system are separated out into discrete layers**
 
 ```mermaid

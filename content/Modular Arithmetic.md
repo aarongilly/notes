@@ -1,7 +1,6 @@
 ---
-# alias:
 created: 2023-07-24T11:34:17-05:00
-updated: 2023-07-24T11:34:17-05:00
+updated: 2023-07-24T11:34-05:00
 ---
 **A system of arithmetic that considers the *remainder* of division**.
 

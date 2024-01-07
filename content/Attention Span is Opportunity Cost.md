@@ -1,6 +1,8 @@
 ---
 tags:
-- psychology
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T09:18-05:00
 ---
 **Losing [[focus]] after a long time on the same thing could be the brain becoming aware of the opportunity cost of focusing on only one thing. **
 

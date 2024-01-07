@@ -4,6 +4,8 @@ tags:
   - productivity
   - society
 summary: A problem with certain characteristics that make it solution resistant
+created: 2023-11-19T13:26-06:00
+updated: 2023-11-19T13:35-06:00
 ---
 **`= this.summary`**
 

@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- society
-- business
+  - technique
+  - society
+  - business
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **it's often best to not immediately jump into the solution space**
 

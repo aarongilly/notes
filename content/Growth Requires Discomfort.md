@@ -1,8 +1,10 @@
 ---
 tags:
-- philosophy
-- learning
-- psychology
+  - philosophy
+  - learning
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **You cannot grow without being uncomfortable.**
 

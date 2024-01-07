@@ -1,7 +1,6 @@
 ---
-# alias:
 created: 2023-07-28T19:05:52-05:00
-updated: 2023-07-28T19:05:52-05:00
+updated: 2023-07-28T19:05-05:00
 ---
 **When atoms combine to form new, heavier atoms.**
 

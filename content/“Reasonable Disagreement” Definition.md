@@ -1,7 +1,9 @@
 ---
 tags:
-- language
-- philosophy
+  - language
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:45-05:00
 ---
 **When “reasonable” people disagree, they both are willing to diverge from their preferred stance equal amounts. **
 

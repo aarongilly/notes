@@ -1,9 +1,9 @@
 ---
 tags:
-- philosophy
-- productivity
+  - philosophy
+  - productivity
 created: 2023-07-31T09:39:08-05:00
-updated: 2023-07-31T09:39:08-05:00
+updated: 2023-07-31T09:39-05:00
 ---
 **Paradoxically, you get better results by focusing more on process than result.**
 

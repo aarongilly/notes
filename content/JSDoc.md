@@ -1,6 +1,8 @@
 ---
 tags:
-- coding
+  - coding
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-23T13:14-05:00
 ---
 **The correct syntax for writing comments in [[JavaScript]]**
 

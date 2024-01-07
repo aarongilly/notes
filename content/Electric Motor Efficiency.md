@@ -1,6 +1,8 @@
 ---
 tags:
-- sustainability
+  - sustainability
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-21T12:33-05:00
 ---
 **80 to 90% efficient, ~2.5-3x better than internal combustion engines.**
 

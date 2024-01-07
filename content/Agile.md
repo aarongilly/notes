@@ -4,6 +4,8 @@ tags:
   - business
   - coding
   - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **LEAN is to Manufacturing what Agile is to Software Development.**
 

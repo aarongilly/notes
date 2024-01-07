@@ -1,7 +1,9 @@
 ---
 tags:
-- health
-- psychology
+  - health
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Alzheimer’s is so heavily linked to Diabetes, it’s been referred to as ‘type 3’**
 

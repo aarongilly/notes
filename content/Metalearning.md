@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-16T18:10-05:00
+updated: 2023-08-16T18:18-05:00
 ---
 **Learning how to best learn a thing**
 

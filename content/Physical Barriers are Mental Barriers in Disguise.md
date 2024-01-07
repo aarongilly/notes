@@ -1,11 +1,11 @@
 ---
 tags:
-- philosophy
-- productivity
-- psychology
-- fitness
+  - philosophy
+  - productivity
+  - psychology
+  - fitness
 created: 2023-07-31T09:42:28-05:00
-updated: 2023-07-31T09:48:21-05:00
+updated: 2023-07-31T09:48-05:00
 ---
 **If you set out to do 10 pushups, you’ll get tired at 9. If you set out to do 20, you’ll blow right past 9 without fatigue.**
 

@@ -1,9 +1,11 @@
 ---
 tags:
-- technique
-- happiness
-- learning
-- habits
+  - technique
+  - happiness
+  - learning
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Dedicate the next 30 Days to accomplishing something, or behaving in some new way.**
 

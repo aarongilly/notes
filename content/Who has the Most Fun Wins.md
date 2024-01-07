@@ -2,6 +2,8 @@
 tags:
   - philosophy
 summary: the person who has the most fun wins, and the climb is the fun part.
+created: 2023-10-12T19:37-05:00
+updated: 2023-11-03T10:52-05:00
 ---
 **`= this.summary`**
 

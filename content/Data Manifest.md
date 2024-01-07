@@ -1,7 +1,9 @@
 ---
 tags:
-- notetaking
-- habits
+  - notetaking
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-11T12:55-06:00
 ---
 **A quantified self map.**
 

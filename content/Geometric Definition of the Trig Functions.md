@@ -1,6 +1,8 @@
 ---
 tags:
-- math
+  - math
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-21T22:30-05:00
 ---
 **Sine, Cosine, Tangent, and the Secant versions are all parts of a triangle overlaying a Unit Circle.**
 

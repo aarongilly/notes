@@ -1,9 +1,11 @@
 ---
 tags:
-- happiness
-- society
-- business
-- psychology
+  - happiness
+  - society
+  - business
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-17T20:46-05:00
 ---
 **Work that's performed for a reward is often worse than work that was done for fun.**
 

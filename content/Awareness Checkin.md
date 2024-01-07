@@ -4,6 +4,8 @@ tags:
   - clarity
   - productivity
 summary: A short procedure to check if you're acting in accordance with your intentions.
+created: 2023-11-06T08:56-06:00
+updated: 2023-11-06T09:03-06:00
 ---
 **`= this.summary`**
 

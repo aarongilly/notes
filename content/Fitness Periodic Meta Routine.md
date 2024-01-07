@@ -4,6 +4,8 @@ tags:
   - technique
   - health
 summary: Change focus areas on longer timespans (~1 month to 12 weeks) for continued improvement long-term.
+created: 2023-11-02T11:06-05:00
+updated: 2024-01-03T08:23-06:00
 ---
 **`= this.summary`**
 
@@ -22,5 +24,5 @@ B - Lower weights, 2-3 sets of 8-12 reps, shorter rests (60-90 secs)
 ### Related
 - [[Ideal Exercise Regiment]]
 - [[Routinized Variety]]
-- [[~15 Sets Per Week]]
+- [[~10-15 Sets Per Week]]
 - [[Huberman's Foundational Fitness Routine]]

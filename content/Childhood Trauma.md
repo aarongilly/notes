@@ -1,8 +1,8 @@
 ---
 tags:
-- psychology
+  - psychology
 created: 2023-07-29T20:54:05-05:00
-updated: 2023-07-29T20:54:05-05:00
+updated: 2023-07-29T20:54-05:00
 ---
 **Potentially a huge part of what makes up each of us.**
 

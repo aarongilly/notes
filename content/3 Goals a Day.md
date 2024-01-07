@@ -1,8 +1,10 @@
 ---
 tags:
-- clarity
-- productivity
-- habits
+  - clarity
+  - productivity
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T09:33-05:00
 ---
 **Have 1-3 goals set every day.**
 

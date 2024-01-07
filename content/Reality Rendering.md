@@ -1,7 +1,9 @@
 ---
 tags:
-- society
-- psychology
+  - society
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:15-05:00
 ---
 **We only "render" the small sliver of the world we have the capacity/capability/experience to notice.**
 

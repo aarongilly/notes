@@ -1,7 +1,9 @@
 ---
 tags:
-- society
-- health
+  - society
+  - health
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **The less time you think you have left, the more you focus on enjoying things you already know you enjoy.**
 

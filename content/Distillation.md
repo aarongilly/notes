@@ -2,6 +2,8 @@
 tags:
   - philosophy
 summary: Cut the crap. Communicate well.
+created: 2023-12-06T23:39-06:00
+updated: 2023-12-11T12:21-06:00
 ---
 **`= this.summary`**
 

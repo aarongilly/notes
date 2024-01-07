@@ -1,6 +1,8 @@
 ---
 tags:
-- technique
+  - technique
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T17:46-05:00
 ---
 **Never make piles. Things get lost & there's no end to them.**
 

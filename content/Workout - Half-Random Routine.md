@@ -1,6 +1,8 @@
 ---
 tags:
-- fitness
+  - fitness
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T21:43-05:00
 ---
 **A routine I designed for overall physical fitness, based on barbell strength training & a randomized mix of other exercises.**
 

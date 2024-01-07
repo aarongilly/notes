@@ -1,6 +1,8 @@
 ---
 tags:
-- philosophy
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-06T23:48-06:00
 ---
 **Using purpose-built tools for their purpose brings satisfaction.**
 

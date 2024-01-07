@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-11T11:28-05:00
+updated: 2023-08-11T11:37-05:00
 ---
 **One fact table to many independent (but self contained) dimension tables**
 

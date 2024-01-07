@@ -1,7 +1,9 @@
 ---
 tags:
-- coding
-- data
+  - coding
+  - data
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-06T13:25-06:00
 ---
 **Scalable Vector Graphics - a text-based representation of images.**
 

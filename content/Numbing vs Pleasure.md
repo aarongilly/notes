@@ -1,8 +1,10 @@
 ---
 tags:
-- happiness
-- clarity
-- psychology
+  - happiness
+  - clarity
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **A lot of the things that bring us joy, we also turn to when we need to numb our feelings. You should know which you're doing.**
 

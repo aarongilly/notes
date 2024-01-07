@@ -2,6 +2,8 @@
 tags:
   - fitness
 summary: Make each workout harder than the last, possible in a number of ways.
+created: 2023-10-31T00:24-05:00
+updated: 2023-10-31T15:39-05:00
 ---
 **`= this.summary`**
 

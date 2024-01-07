@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- business
-- productivity
+  - technique
+  - business
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Big, ambitious goals you set before you know how you'll achieve them (or even if they are possible) to force you to think in terms of revolution and not just evolution.**
 

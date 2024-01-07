@@ -3,6 +3,8 @@ aliases: MVP
 tags:
   - productivity
   - habits
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **Making small progress consistently towards a goal will result in long teen wives.**
 

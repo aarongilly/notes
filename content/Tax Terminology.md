@@ -1,3 +1,7 @@
+---
+created: 2023-09-21T15:28-05:00
+updated: 2023-09-25T17:04-05:00
+---
 **What some [[Tax Index|Tax]] terms mean, mostly from the 1040**
 
 Directly from the [[1040 Analysis]].

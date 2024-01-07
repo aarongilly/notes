@@ -1,6 +1,8 @@
 ---
 tags:
-- coding
+  - coding
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-23T13:21-05:00
 ---
 **HTML→Structure, CSS→Styling, [[JavaScript]]→Interactivity**
 

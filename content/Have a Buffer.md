@@ -1,7 +1,9 @@
 ---
 tags:
-- technique
-- habits
+  - technique
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-13T21:10-06:00
 ---
 **No buffer = no choice.**
 

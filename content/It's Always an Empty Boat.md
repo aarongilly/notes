@@ -1,7 +1,9 @@
 ---
 tags:
-- philosophy
-- psychology
+  - philosophy
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **A Buddhist parable about a man hit by a boat that teaches the responsibility lies with you.**
 

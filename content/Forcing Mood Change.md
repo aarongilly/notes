@@ -2,6 +2,8 @@
 tags:
   - psychology
 summary: Don't try to "overpower" the mood you're in. Redirect it like judo, or at least recognize the situation and your limits.
+created: 2023-12-10T00:04-06:00
+updated: 2023-12-10T08:31-06:00
 ---
 **`= this.summary`**
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- happiness
-- science
+  - happiness
+  - science
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Happiness, like all emotions, are not external to the body.**
 

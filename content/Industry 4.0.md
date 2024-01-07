@@ -1,9 +1,9 @@
 ---
 tags:
-- business
-- manufacturing
+  - business
+  - manufacturing
 created: 2023-07-31T08:22:39-05:00
-updated: 2023-07-31T08:22:39-05:00
+updated: 2023-07-31T08:22-05:00
 ---
 **A buzzword, arguably shouldn't exist. **
 

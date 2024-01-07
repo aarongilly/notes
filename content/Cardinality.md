@@ -1,11 +1,11 @@
 ---
 tags:
-- math
-- modeling
-- data
-- language
+  - math
+  - modeling
+  - data
+  - language
 created: 2023-07-28T14:41:03-05:00
-updated: 2023-07-28T15:13:24-05:00
+updated: 2023-07-28T15:13-05:00
 ---
 **How many of a thing there are, basically.**
 

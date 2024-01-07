@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-07-31T22:23-05:00
+updated: 2023-07-31T22:31-05:00
 ---
 **Set a fixed time for a type of activity, get done what you get done then move on at the allotted time.**
 

@@ -1,9 +1,11 @@
 ---
 tags:
-- philosophy
-- productivity
-- learning
-- quote
+  - philosophy
+  - productivity
+  - learning
+  - quote
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-06T22:37-06:00
 ---
 **In the face of uncertainty, more often than not, *it's better to act*, even if imperfectly, than to do nothing.**
 
@@ -23,6 +25,6 @@ Have a bias toward action. Don't wait until you're 100% you won't fail. Just *ac
 - [[Learn by Doing]]
 - [[Low-Cost Trials]]
 - [[Hugh Laurie Ready Quote]]
-- [[Planning Vs Procrastinating]]
+- [[Planning is Often Procrastinating]]
 - [[Commit for a Bit]]
 - [[When to Decide]]

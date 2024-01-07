@@ -1,6 +1,8 @@
 ---
 tags:
-- society
+  - society
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T09:53-05:00
 ---
 **Once you’re talented “enough” in a discipline, you just need a ripe situation to become an outlier.**
 

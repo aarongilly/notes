@@ -1,6 +1,8 @@
 ---
 tags:
-- psychology
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **If you can quickly think of examples of a thing, it will seem more common.**
 

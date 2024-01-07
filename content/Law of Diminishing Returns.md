@@ -1,10 +1,12 @@
 ---
 tags:
-- business
-- productivity
-- fitness
-- manufacturing
-- habits
+  - business
+  - productivity
+  - fitness
+  - manufacturing
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:41-05:00
 ---
 **The more you put in, the less it starts to mean.**
 

@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-04T17:46-05:00
+updated: 2023-12-06T23:46-06:00
 ---
 **It doesn't work to try to do everything up front**
 

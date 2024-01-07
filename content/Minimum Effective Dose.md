@@ -1,7 +1,9 @@
 ---
 tags:
-- productivity
-- fitness
+  - productivity
+  - fitness
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:41-05:00
 ---
 **Do the minimum to achieve the effect you need.**
 

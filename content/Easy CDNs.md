@@ -1,8 +1,8 @@
 ---
 tags:
-- coding
+  - coding
 created: 2023-07-31T10:18:15-05:00
-updated: 2023-07-31T10:22:10-05:00
+updated: 2023-07-31T10:22-05:00
 ---
 **GitHub files/gists and npm uploads are embedded with Script tags**
 

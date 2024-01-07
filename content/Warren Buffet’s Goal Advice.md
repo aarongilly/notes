@@ -1,9 +1,11 @@
 ---
 tags:
-- clarity
-- philosophy
-- business
-- productivity
+  - clarity
+  - philosophy
+  - business
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T09:23-05:00
 ---
 **Pick no more than 5 goals. Ignore the rest.**
 

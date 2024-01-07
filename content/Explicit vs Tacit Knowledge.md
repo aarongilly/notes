@@ -1,6 +1,8 @@
 ---
 tags:
-- learning
+  - learning
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-31T15:28-05:00
 ---
 **Explicit - having recipe to read. Tacit - knowing how to make it**
 

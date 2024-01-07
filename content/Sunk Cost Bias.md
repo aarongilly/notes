@@ -1,7 +1,9 @@
 ---
 tags:
-- business
-- psychology
+  - business
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T09:22-05:00
 ---
 **Continuing to spend resources on something not because it's still promising, but because you've already invested a lot.**
 

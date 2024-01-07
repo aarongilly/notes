@@ -1,9 +1,11 @@
 ---
 tags:
-- clarity
-- society
-- philosophy
-- business
+  - clarity
+  - society
+  - philosophy
+  - business
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T09:37-05:00
 ---
 **While interacting, priority #1 is to understand the other person. Priority #2 is to have your point understood.**
 

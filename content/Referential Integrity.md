@@ -4,6 +4,8 @@ tags:
   - systemdesign
   - modeling
 summary: Tooling that ensures references between entities don't become outdated, dangling, or stale.
+created: 2023-12-08T09:46-06:00
+updated: 2023-12-08T15:01-06:00
 ---
 **`= this.summary`**
 

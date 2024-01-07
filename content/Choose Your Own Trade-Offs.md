@@ -1,7 +1,9 @@
 ---
 tags:
-- clarity
-- philosophy
+  - clarity
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **If you aren't choosing your own trade-offs, they will be chosen for you.**
 

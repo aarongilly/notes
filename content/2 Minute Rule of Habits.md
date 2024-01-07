@@ -1,6 +1,8 @@
 ---
 tags:
-- habits
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T09:02-05:00
 ---
 **Make habits 2 minutes or less so they stick.**
 

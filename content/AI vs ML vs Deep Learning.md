@@ -1,6 +1,8 @@
 ---
 tags:
-- coding
+  - coding
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **AI is the result of Machine Learning, which is the often done through deep learning.**
 

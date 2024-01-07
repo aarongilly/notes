@@ -1,9 +1,11 @@
 ---
 tags:
-- technique
-- clarity
-- business
-- productivity
+  - technique
+  - clarity
+  - business
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T09:30-05:00
 ---
 **When you have enough information - probably earlier than you think.**
 

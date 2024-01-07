@@ -1,8 +1,10 @@
 ---
 tags:
-- philosophy
-- business
-- productivity
+  - philosophy
+  - business
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-09-11T18:54-05:00
 ---
 **A 5-step cycle for problem solving.**
 

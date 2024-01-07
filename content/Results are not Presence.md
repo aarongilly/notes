@@ -1,7 +1,9 @@
 ---
 tags:
-- happiness
-- productivity
+  - happiness
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:15-05:00
 ---
 **Doing something only to get a result is a less-than-desirable experience.**
 

@@ -1,6 +1,8 @@
 ---
 tags:
-- science
+  - science
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-10T12:48-05:00
 ---
 **Covers the electromagnetic, weak, and strong forces (not gravity) and classifies all known elementary particles.**
 

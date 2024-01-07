@@ -1,8 +1,10 @@
 ---
 tags:
-- society
-- philosophy
-- learning
+  - society
+  - philosophy
+  - learning
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Who we are & how we engage with the world are much stronger predictors of how our children will do than how much we know about parenting.**
 

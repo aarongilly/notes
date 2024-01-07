@@ -1,8 +1,10 @@
 ---
 tags:
-- happiness
-- philosophy
-- productivity
+  - happiness
+  - philosophy
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-11-14T22:45-06:00
 ---
 **Motivation follows action just as often as action follows motivation.**
 

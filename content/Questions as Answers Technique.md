@@ -1,7 +1,9 @@
 ---
 tags:
-- technique
-- clarity
+  - technique
+  - clarity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Treat the question you're trying to solve as an answer, figure out what question it answers, find other ways to answer it.**
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- philosophy
-- society
+  - philosophy
+  - society
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **AI is getting easier and cheaper, and things that host AI are also. AI-if-i-cation will be the next electrification.**
 

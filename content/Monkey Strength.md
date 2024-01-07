@@ -1,8 +1,8 @@
 ---
 tags:
-- science
+  - science
 created: 2023-07-31T09:48:49-05:00
-updated: 2023-07-31T09:48:49-05:00
+updated: 2023-07-31T09:48-05:00
 ---
 **Monkeys are really strong, but not probably as strong as we give them credit for.**
 

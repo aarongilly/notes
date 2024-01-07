@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- business
-- productivity
+  - technique
+  - business
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Rather than a checklist to handle the little things, a communications checklist ensures the big things are covered.**
 

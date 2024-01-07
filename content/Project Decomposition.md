@@ -1,7 +1,9 @@
 ---
 tags:
-- productivity
-- business
+  - productivity
+  - business
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-03T21:04-06:00
 ---
 **Projects are divisible into tasks, milestones, and goals.**
 

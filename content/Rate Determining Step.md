@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-20T11:51-05:00
+updated: 2023-08-20T12:15-05:00
 ---
 **The Bottlenecking Factor in a process, the step that slows the rest down**
 

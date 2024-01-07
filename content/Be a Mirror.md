@@ -1,9 +1,11 @@
 ---
 tags:
-- technique
-- society
-- business
-- psychology
+  - technique
+  - society
+  - business
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **When negotiating, repeat people’s words to them, and take time.**
 

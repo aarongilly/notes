@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-23T21:59-05:00
+updated: 2023-08-24T08:49-05:00
 ---
 **As you go up in number of factors considered in problem solving, it becomes increasingly likely that the optimal approach will haveat least one of them will be at an extreme.*
 

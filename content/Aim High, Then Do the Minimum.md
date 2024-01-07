@@ -1,8 +1,10 @@
 ---
 tags:
-- philosophy
-- business
-- productivity
+  - philosophy
+  - business
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T11:20-05:00
 ---
 **Aim incredibly high, then do the bare minimum to achieve your goal.**
 

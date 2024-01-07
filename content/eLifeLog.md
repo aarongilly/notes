@@ -1,7 +1,9 @@
 ---
 tags:
-- coding
-- data
+  - coding
+  - data
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-19T14:15-06:00
 ---
 **A defunct attempt at an open standard for lifelogging**
 

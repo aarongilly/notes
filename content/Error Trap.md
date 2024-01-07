@@ -1,7 +1,9 @@
 ---
 tags:
-- business
-- manufacturing
+  - business
+  - manufacturing
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-05T19:46-06:00
 ---
 **Existing deficiencies in a system, process, or product that are likely to lead to a mistake down the road.**
 
@@ -11,7 +13,7 @@ An Error Trap is an existing deficiency in a system, process, or product that ma
 
 - Leaving something unfinished with the intent to "finish it later"
 - Leaving exposed sharp edges, or hot surfaces, or other hidden dangers
-- Using [[Lack of Signal ]]as a signal
+- Using [[Lack of Signal is a Bad Signal]]as a signal
 - Having disconnected dependencies of any time, really
 
 ---
@@ -20,4 +22,4 @@ An Error Trap is an existing deficiency in a system, process, or product that ma
 
 
 ### Related Notes
-- [[Lack of Signal ]]
+- [[Lack of Signal is a Bad Signal]]

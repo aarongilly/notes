@@ -1,7 +1,7 @@
 ---
-# alias:
+created: 2023-08-18T09:08-05:00
+updated: 2024-01-06T22:56-06:00
 ---
-
 **To avoid discomfort of what you know is important, or because the thing doesn't seem important**
 
 Procrastinating is essentially failing to start focusing. When it happens it's either because the thing you're procrastinating FROM seems too uncomfortable, or the thing you're procrastinating WITH seems more important. Try to recognize when you're procrastinating (aka not focusing on what you should be) and ask yourself which situation is causing it. 
@@ -15,7 +15,7 @@ If you think your distraction is more important than the [[Know Your Immediate T
 - [[Ultralearning]]
 
 ### Related
-- [[Planning Vs Procrastinating]]
+- [[Planning is Often Procrastinating]]
 - [[Procrastination Avoidance Hierarchy]]
 
 #### Tags

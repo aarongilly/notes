@@ -1,6 +1,8 @@
 ---
 tags:
-- habits
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-09-30T12:19-05:00
 ---
 **Gretchen Rubin's "Essential Seven" types of habits.**
 

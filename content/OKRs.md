@@ -1,8 +1,10 @@
 ---
 tags:
-- clarity
-- business
-- manufacturing
+  - clarity
+  - business
+  - manufacturing
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-22T13:31-05:00
 ---
 **Objectives and Key Results are a form of connected goal setting.**
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- coding
-- modeling
+  - coding
+  - modeling
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-17T18:46-05:00
 ---
 **There are a number of methods, each with pros and cons. **
 

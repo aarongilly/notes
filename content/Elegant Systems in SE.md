@@ -1,7 +1,9 @@
 ---
 tags:
-- science
-- philosophy
+  - science
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-10T08:10-06:00
 ---
 **8 Properties of “Elegance” to aim for with our systems**
 

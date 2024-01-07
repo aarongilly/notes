@@ -1,7 +1,9 @@
 ---
 tags:
-- productivity
-- technique
+  - productivity
+  - technique
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:40-05:00
 ---
 **Do 2-4 hours of focused work. Force yourself to be productive or bored instead. De-clutter your schedule.**
 

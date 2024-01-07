@@ -2,6 +2,8 @@
 tags:
   - notetaking
 summary: Stubs, definitions, bridges, narrow, questions, abstractions & outlines
+created: 2023-12-07T00:01-06:00
+updated: 2023-12-13T21:53-06:00
 ---
 **`= this.summary`**
 

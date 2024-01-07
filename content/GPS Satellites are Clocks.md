@@ -1,10 +1,11 @@
 ---
-# alias:
+created: 2023-07-17T14:27-05:00
+updated: 2023-07-17T14:27-05:00
 ---
 
 # GPS Satellites are Clocks
-GPS Satellites are just clocks. They are in known locations and they repeatedly send out very precise measurements of the time according to their on-board clock. GPS receivers like your phone read those times from at least 3 satellites and use the differences in the received time to determine path lengths to the satellites and triangulate their position. 
-![[Drawing 2023-07-11 20.19.19.excalidraw]]
+GPS Satellites are just clocks. They are in known locations and they repeatedly send out very precise measurements of the time according to their on-board clock. GPS receivers like your phone read those times from at least 3 satellites and use the differences in the received time to determine path lengths to the satellites and triangulate their position.
+![[Untitled-2023-12-30-2219.png]]
 
 ---
 ### Source

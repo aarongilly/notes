@@ -2,6 +2,8 @@
 aliases: Personal Knowledge Management
 tags:
   - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **Personal Knowledge Management  - what this is trying to do **
 

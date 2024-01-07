@@ -1,8 +1,8 @@
 ---
 tags:
-- notetaking
+  - notetaking
 created: 2023-07-31T11:49:01-05:00
-updated: 2023-07-31T11:49:01-05:00
+updated: 2023-12-13T21:52-06:00
 ---
 **Fleeting, Permanent, Project, Logs, Procedures.**
 

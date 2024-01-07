@@ -1,12 +1,14 @@
 ---
 tags:
-- clarity
-- philosophy
-- business
-- coding
-- modeling
-- learning
-- data
+  - clarity
+  - philosophy
+  - business
+  - coding
+  - modeling
+  - learning
+  - data
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-08T20:19-06:00
 ---
 **description of the concepts and relationships that can formally exist for an agent or a community of agents.**
 

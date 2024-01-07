@@ -1,8 +1,10 @@
 ---
 tags:
-- philosophy
-- learning
-- psychology
+  - philosophy
+  - learning
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-13T23:01-06:00
 ---
 **Highly influential figures in arts and science usually have a broad background.**
 

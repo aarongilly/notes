@@ -1,7 +1,9 @@
 ---
 tags:
-- coding
-- modeling
+  - coding
+  - modeling
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-17T20:50-05:00
 ---
 **The set of properties and methods available on an object. **
 

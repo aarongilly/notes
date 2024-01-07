@@ -1,6 +1,8 @@
 ---
 tags:
-- money
+  - money
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-20T20:55-05:00
 ---
 **Check your finances & budgets each month.**
 

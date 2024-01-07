@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-10T11:21-05:00
+updated: 2023-08-10T11:32-05:00
 ---
 **A mapping of concepts from a [[Responsibility Assignment Matrix]] to an [[IDEF0]] diagram**
 
@@ -8,7 +9,7 @@
 - Output = Informed (a portion of the output)
 - Mechanism = Responsible, Support
 
-![[RACI and IDEF0 2023-08-10 11.25.42.excalidraw]]
+![[Pasted image 20240107120546.png]]
 
 ---
 ### Source

@@ -1,6 +1,8 @@
 ---
 tags:
-- philosophy
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-22T09:22-05:00
 ---
 **"starting from a blank page" is a romantic fallacy**
 

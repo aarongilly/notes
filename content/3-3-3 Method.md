@@ -1,6 +1,8 @@
 ---
-tags: #productivity 
+tags: 
 summary: 3 hours deep work, 3 urgent tasks, 3 maintenance activities
+created: 2023-09-21T22:37-05:00
+updated: 2023-10-14T13:34-05:00
 ---
 **`= this.summary`**
 

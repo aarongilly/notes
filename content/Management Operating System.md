@@ -5,6 +5,8 @@ tags:
 summary: A framework for groups to define their expectations, goals, and processes.
 aliases:
   - MOS
+created: 2023-12-11T11:29-06:00
+updated: 2023-12-11T11:50-06:00
 ---
 **`= this.summary`**
 

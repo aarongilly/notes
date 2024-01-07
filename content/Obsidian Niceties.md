@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-07-18T18:09-05:00
+updated: 2024-01-06T23:18-06:00
 ---
 **Because [[Obsidian]] is sometimes better than [[Notion]]**
 
@@ -14,6 +15,10 @@
 	- Used NodeJS + JavaScript to mass edit notes
 	- Also used VSCode for global find/replace
 - Built-in `tag` support is nice, rather than hacking them
+- You can use [[Obsidian URIs]] to do things from outside obsidian, like link to [[Obsidian URIs#^abcde]]
+
+> [!NOTE]- Callouts
+> Callouts aren't bad, either! Especially these collapsible ones.
 
 ---
 ### Source
@@ -23,6 +28,7 @@
 - [[Obsidian Annoyances]]
 - [[Obsidian]]
 - [[Obsidian vs Notion]]
+- [[Obsidian URIs]]
 
 #### Tags
 #notetaking 

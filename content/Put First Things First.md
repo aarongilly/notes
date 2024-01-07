@@ -1,7 +1,9 @@
 ---
 tags:
-- clarity
-- productivity
+  - clarity
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T09:36-05:00
 ---
 **The things that matter most must never be at the mercy of the things that matter least.**
 

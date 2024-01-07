@@ -1,10 +1,12 @@
 ---
 tags:
-- clarity
-- philosophy
-- coding
-- modeling
-- language
+  - clarity
+  - philosophy
+  - coding
+  - modeling
+  - language
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:41-05:00
 ---
 **A container for text string meanings, providing context and preventing ambiguity.**
 

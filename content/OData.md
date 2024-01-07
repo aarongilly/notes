@@ -1,5 +1,7 @@
 ---
 aliases: Open Data Protocol
+created: 2023-08-14T14:18-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **A [[ISO]] standard of best practices for building & consuming [[RESTful API]]s*
 

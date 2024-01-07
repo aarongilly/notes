@@ -1,7 +1,9 @@
 ---
 tags:
-- clarity
-- productivity
+  - clarity
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-06T22:38-06:00
 ---
 **planning is dangerous, sometimes. Doing is better.**
 
@@ -13,13 +15,15 @@ Action is writing a draft.
 
 Motion isn’t always bad, you should usually have some idea of your plan, but rethinking something before turning your previous plan into *action* is when you’re spinning your wheels.
 
+[[Learn by Doing]]. Run [[[Low-Cost Trials]] and see how it goes.
+
 > [!tldr] 🚫 Planning fools you into **thinking** you’re making progress, when really you’re just avoiding failure (and by doing so, failing to achieve anything real).
 
-The correct approach is a balanced one. And you have been askew. Do more. Think less. 
+The correct approach is a balanced one. Trust your [[Periodic Reviews]] and dedicated project planning sessions. Now: do more. Think less. 
 
 ---
 
-## Source
+### Source
 - [[Atomic Habits]]
 
 ### Related Notes

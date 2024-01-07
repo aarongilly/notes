@@ -4,6 +4,8 @@ tags:
   - data
   - business
 summary: Tooling. Conditionals. Logical Operators. Arrow Relations.
+created: 2023-12-08T09:34-06:00
+updated: 2023-12-08T10:58-06:00
 ---
 **`= this.summary`** 
 
@@ -29,7 +31,8 @@ I can't imagine this being done *within* the IDEF0 diagram framework, but it wou
 
 ## Small Example
 Small example I whipped up to illustrate some deficiencies.
-![[What's Missing from IDEF0 2023-12-08 10.13.31.excalidraw|800px]]
+
+![[Pasted image 20240107120315.png]]
 ### Example Issues:
 1. Tooling didn't force me to put function numbers in my boxes, or tunnel the recipe/ingredients
 2. What does "Food choice" entail? Is that a digital dataset? 

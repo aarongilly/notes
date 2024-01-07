@@ -1,10 +1,12 @@
 ---
 tags:
-- technique
-- philosophy
-- coding
-- productivity
-- notetaking
+  - technique
+  - philosophy
+  - coding
+  - productivity
+  - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-10-05T13:52-05:00
 ---
 > [!tldr] Starting at zero every time means you never get far from zero.
 

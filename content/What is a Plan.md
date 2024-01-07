@@ -1,5 +1,7 @@
 ---
 aliases: plan
+created: 2023-07-20T11:22-05:00
+updated: 2024-01-01T23:20-06:00
 ---
 
 > [!success] An allocation of resources to achieve a specific end

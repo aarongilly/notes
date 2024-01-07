@@ -1,5 +1,7 @@
 ---
 aliases: force results
+created: 2023-08-04T12:26-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **Don't "force results" to happen. Set up situations that enable them to be more likely to happen.**
 

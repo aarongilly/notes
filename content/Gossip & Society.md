@@ -1,6 +1,8 @@
 ---
 tags:
-- society
+  - society
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-16T21:27-05:00
 ---
 **It’s possible we have gossip to thank for man’s ability to collectively cooperate.**
 

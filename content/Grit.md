@@ -1,7 +1,9 @@
 ---
 tags:
-- psychology
-- language
+  - psychology
+  - language
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:09-05:00
 ---
 **Grit is perseverance for very long term goals.**
 

@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-23T20:50-05:00
+updated: 2023-12-07T08:42-06:00
 ---
 **A project timed to exercise mental muscles you haven't used in a while**
 

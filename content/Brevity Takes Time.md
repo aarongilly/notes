@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-26T12:08-05:00
+updated: 2023-12-06T23:41-06:00
 ---
 **It takes longer to keep messages (& code) short**
 

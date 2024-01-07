@@ -2,6 +2,8 @@
 aliases:
   - 2 Minute Rule
   - 5 Minute Rule
+created: 2023-08-18T08:55-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **If you don't want to do it at all, commit for just a couple minutes.**
 

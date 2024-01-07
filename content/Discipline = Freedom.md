@@ -1,8 +1,10 @@
 ---
 tags:
-- happiness
-- philosophy
-- productivity
+  - happiness
+  - philosophy
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:03-05:00
 ---
 **If you’re not disciplined, you’re not free from your most lazy self. He will control you.**
 

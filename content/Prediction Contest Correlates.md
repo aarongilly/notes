@@ -1,7 +1,9 @@
 ---
 tags:
-- science
-- psychology
+  - science
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Those who are right in the end are most often those who changed their minds a bunch of times**
 

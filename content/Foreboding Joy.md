@@ -1,7 +1,9 @@
 ---
 tags:
-- happiness
-- psychology
+  - happiness
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Picturing the worst thing that could possibly happen to something that brings you joy.**
 

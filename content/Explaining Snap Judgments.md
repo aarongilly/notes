@@ -1,7 +1,9 @@
 ---
 tags:
-- society
-- psychology
+  - society
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **People's gut will make up its mind, then their head will justify the gut decision for reasons that aren't true.**
 

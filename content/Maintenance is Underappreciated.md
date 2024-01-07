@@ -1,7 +1,9 @@
 ---
 tags:
-- society
-- philosophy
+  - society
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:15-05:00
 ---
 **The general concept of maintenance is as important as it is unsexy. We have a debt of appreciation to all the maintainers around us.**
 

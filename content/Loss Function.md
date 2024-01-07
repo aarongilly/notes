@@ -4,6 +4,8 @@ tags:
   - data
   - clarity
 summary: The function that machine learning is told to optimize.
+created: 2023-10-22T20:15-05:00
+updated: 2023-10-22T20:35-05:00
 ---
 **`= this.summary`**
 

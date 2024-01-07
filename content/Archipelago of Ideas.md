@@ -1,6 +1,8 @@
 ---
 tags:
-- technique
+  - technique
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Start a writing project with a series of close-but-disconnected well formed ideas, then just connect them.**
 

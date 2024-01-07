@@ -2,6 +2,8 @@
 tags:
   - philosophy
 summary: A landing place for principles I try to embrace
+created: 2023-12-13T22:11-06:00
+updated: 2023-12-17T15:30-06:00
 ---
 **`= this.summary`**
 

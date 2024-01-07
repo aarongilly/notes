@@ -1,3 +1,7 @@
+---
+created: 2023-09-21T15:31-05:00
+updated: 2023-09-21T16:36-05:00
+---
 **Results from analyzing nearly a decade of 1040s**
 
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |

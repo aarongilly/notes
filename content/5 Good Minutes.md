@@ -1,7 +1,9 @@
 ---
 tags:
-- productivity
-- quote
+  - productivity
+  - quote
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-04T23:08-05:00
 ---
 **You can accomplish a lot in a good 5 minutes.**
 

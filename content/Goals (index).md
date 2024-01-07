@@ -2,6 +2,8 @@
 tags:
   - index
 summary: An index for goal-related topics
+created: 2023-12-13T11:38-06:00
+updated: 2023-12-13T20:51-06:00
 ---
 **`= this.summary`**
 

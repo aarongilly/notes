@@ -4,6 +4,8 @@ tags:
   - productivity
   - business
 summary: The humble calendar is the king of the Productivity Tools
+created: 2023-12-11T13:03-06:00
+updated: 2023-12-13T20:20-06:00
 ---
 **`= this.summary`**
 

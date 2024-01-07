@@ -1,7 +1,9 @@
 ---
 tags:
-- society
-- business
+  - society
+  - business
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-31T12:35-05:00
 ---
 ***Skilled peers* are the best judge of whether or not a new idea is going to be successful.**
 

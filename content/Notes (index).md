@@ -1,6 +1,8 @@
 ---
-tags: #index #productivity 
+tags: 
 summary: An index for notes
+created: 2023-11-21T10:13-06:00
+updated: 2023-12-13T11:44-06:00
 ---
 **`= this.summary`**
 

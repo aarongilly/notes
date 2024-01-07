@@ -1,6 +1,8 @@
 ---
 tags:
-- philosophy
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:10-05:00
 ---
 **Strivers make better teammates & partners.**
 

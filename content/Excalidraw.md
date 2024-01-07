@@ -1,9 +1,10 @@
 ---
-# alias:
+created: 2023-07-10T11:39-05:00
+updated: 2023-12-18T14:35-06:00
 ---
 **An awesome open-source collaborative whiteboard app with a cool aesthetic.**
 
-![[Excalidraw Meta.excalidraw]]
+![[Pasted image 20240107120121.png]]
 
 ## [[Obsidian]] workflows
 #### Creation

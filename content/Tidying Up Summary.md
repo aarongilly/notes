@@ -1,6 +1,8 @@
 ---
 tags:
-- happiness
+  - happiness
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **One paragraph summarizing "The Life-Changing Magic of Tidying Up".**
 

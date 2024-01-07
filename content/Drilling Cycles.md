@@ -1,6 +1,8 @@
 ---
 aliases:
   - drilling
+created: 2023-08-20T12:15-05:00
+updated: 2023-12-06T23:10-06:00
 ---
 
 **Apply [[Direct Learning]], figure out what's your [[Rate Determining Step]], figure out how you can drill just that with [[Deliberate Practice]]. Then go back to [[Direct Learning]]**

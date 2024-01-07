@@ -1,6 +1,8 @@
 ---
 tags:
-- coding
+  - coding
+created: 2023-07-08T11:37-05:00
+updated: 2023-10-13T15:40-05:00
 ---
 **NodeJS is a [[JavaScript]] runtime environment that runs on the machine, not in the browser**
 

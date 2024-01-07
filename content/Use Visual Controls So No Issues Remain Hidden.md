@@ -8,6 +8,8 @@ tags:
 summary: Create compelling & dynamic visuals to make emerging issues obvious.
 aliases:
   - visual control
+created: 2023-12-11T11:58-06:00
+updated: 2023-12-11T12:54-06:00
 ---
 **`= this.summary`**
 

@@ -1,6 +1,8 @@
 ---
 tags:
-- notetaking
+  - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-18T14:35-06:00
 ---
 **Similar, not the same**
 
@@ -8,7 +10,7 @@ tags:
 
 Notion’s better for highly dynamic stuff & project management stuff… but Obsidian may be better for [[PKM]].
 
-![[Drawing 2023-07-17 22.35.55.excalidraw]]
+![[Pasted image 20240107120638.png]]
 
 Notion PKM Wins:
 - Sync is not a concern

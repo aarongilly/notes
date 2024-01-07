@@ -2,6 +2,8 @@
 aliases: area
 tags:
   - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **Areas are on-going facets of your life in which you have some standard to maintain.**
 

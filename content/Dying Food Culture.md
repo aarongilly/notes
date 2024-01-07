@@ -1,8 +1,10 @@
 ---
 tags:
-- society
-- health
-- philosophy
+  - society
+  - health
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-05T16:54-06:00
 ---
 **We stopped enjoying food. Instead it's been relegated as a means to an end.**
 
@@ -16,6 +18,6 @@ We aren't appreciating what's been a vital part of the human experience for all 
 - [[Stuff You Should Know]]
 
 ### Related Notes
-- [[Eat Food -Not Too Much - Mostly Plants]] 
+- [[Eat Food - Not Too Much - Mostly Plants]] 
 - [[Enough]] 
 - [[Results are not Presence]]

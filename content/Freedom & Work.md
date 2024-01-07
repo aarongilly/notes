@@ -1,7 +1,9 @@
 ---
 tags:
-- happiness
-- philosophy
+  - happiness
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:49-05:00
 ---
 **True freedom is the ability to work only when, where, and how you want.**
 

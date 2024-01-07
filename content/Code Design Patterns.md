@@ -1,7 +1,9 @@
 ---
 tags:
-- technique
-- coding
+  - technique
+  - coding
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-04T10:37-05:00
 ---
 **Index of 10 Design Patterns**
 

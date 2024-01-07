@@ -1,8 +1,10 @@
 ---
 tags:
-- society
-- philosophy
-- productivity
+  - society
+  - philosophy
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:40-05:00
 ---
 **Don’t aim to tackle big problems directly. Other people have tried and they remain big problems. Attack at the edges and you might get more traction than you expect.**
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- happiness
-- psychology
+  - happiness
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-09-05T13:54-05:00
 ---
 **Pleasure is not enjoyment. They are related, but not synonymous. Both are possible without the other.**
 

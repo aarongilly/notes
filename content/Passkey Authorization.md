@@ -1,6 +1,8 @@
 ---
 tags:
-- coding
+  - coding
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-04T22:47-05:00
 ---
 **A phone as a password**
 

@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- health
-- psychology
+  - technique
+  - health
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **A (roughly) 12 week program of best practices to ward off dementia.**
 

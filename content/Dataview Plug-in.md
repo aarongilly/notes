@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-04T18:47-05:00
+updated: 2023-09-21T15:56-05:00
 ---
 [summary::**A very powerful [[Obsidian]] plug-in**.]
 

@@ -1,10 +1,12 @@
 ---
 tags:
-- philosophy
-- productivity
-- business
-- manufacturing
-- modeling
+  - philosophy
+  - productivity
+  - business
+  - manufacturing
+  - modeling
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-17T08:10-06:00
 ---
 **Systems shouldn’t require perfection to be reliable.**
 

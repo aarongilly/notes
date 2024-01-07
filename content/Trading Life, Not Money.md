@@ -1,8 +1,10 @@
 ---
 tags:
-- happiness
-- clarity
-- philosophy
+  - happiness
+  - clarity
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Economic opportunities should be valued on the basis of how much life you stand to gain or lose - not money.**
 

@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-19T10:29-05:00
+updated: 2023-08-19T10:31-05:00
 ---
 > [!tldr] There's an upside-down U curve relating performance and arousal
 

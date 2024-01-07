@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- society
-- productivity
+  - technique
+  - society
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-21T23:21-05:00
 ---
 **Wisdom of the crowd only works when their inputs are made independently.**
 

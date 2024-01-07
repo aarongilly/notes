@@ -1,7 +1,9 @@
 ---
 tags:
-- business
-- productivity
+  - business
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-17T18:03-05:00
 ---
 **G.T.D. focuses on the Individual, and the "things" that a person gets done should be aligned with their colleagues.**
 

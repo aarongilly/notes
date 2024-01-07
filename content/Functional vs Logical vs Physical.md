@@ -4,6 +4,8 @@ tags:
   - data
   - business
 summary: Disambiguating types of architecture.
+created: 2023-12-06T23:53-06:00
+updated: 2023-12-07T22:37-06:00
 ---
 **`= this.summary`**
 

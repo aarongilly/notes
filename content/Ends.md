@@ -1,7 +1,9 @@
 ---
 tags:
-- philosophy
-- psychology
+  - philosophy
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-11T12:23-06:00
 ---
 **Endings have more importance to behavior & recollection.**
 

@@ -2,8 +2,10 @@
 author: Gretchen Rubin
 url: 
 type: book
-tags: 
-- source
+tags:
+  - source
+created: 2023-07-09T20:04-05:00
+updated: 2023-08-10T12:33-05:00
 ---
 
 ## Review

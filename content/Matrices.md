@@ -1,5 +1,7 @@
 ---
 aliases: Matrix
+created: 2023-08-14T14:56-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **Way more useful than you were taught**
 

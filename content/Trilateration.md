@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-07-11T23:30-05:00
+updated: 2023-07-11T23:35-05:00
 ---
 **Not triangulation - but confused for it. Positioning yourself by looking at distances to 3 known objects.**
 

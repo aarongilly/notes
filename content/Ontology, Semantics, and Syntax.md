@@ -1,7 +1,9 @@
 ---
 tags:
-- modeling
-- language
+  - modeling
+  - language
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-08T20:20-06:00
 ---
 **The 3 components to any language.**
 

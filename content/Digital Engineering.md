@@ -5,6 +5,8 @@ tags:
   - manufacturing
   - systemdesign
 summary: An integrated digital approach that uses authoritative sources of systems data and models as a continuum across disciplines to support lifecycle activities from concept through disposal (DoD, 2018)
+created: 2023-12-07T15:40-06:00
+updated: 2023-12-07T16:13-06:00
 ---
 **`= this.summary`**
 

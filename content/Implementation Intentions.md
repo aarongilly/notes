@@ -1,6 +1,8 @@
 ---
 tags:
-- habits
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-11-06T10:54-06:00
 ---
 **People are way more likely to follow through on actions if they have specific implementation plans.**
 

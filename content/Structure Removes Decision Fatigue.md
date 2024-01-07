@@ -1,7 +1,9 @@
 ---
 tags:
-- technique
-- habits
+  - technique
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-21T12:27-05:00
 ---
 **Structure & Ingrained Habits remove the need to make decisions & stave off Decision Fatigue.**
 

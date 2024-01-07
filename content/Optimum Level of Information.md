@@ -4,6 +4,8 @@ tags:
   - science
   - learning
   - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **Humans almost invariable think "More info" would be helpful - well after that is no longer true.**
 

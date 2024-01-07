@@ -1,8 +1,8 @@
 ---
 tags:
-- philosophy
+  - philosophy
 created: 2023-07-31T08:09:04-05:00
-updated: 2023-07-31T08:09:04-05:00
+updated: 2023-08-18T09:21-05:00
 ---
 **A mental and emotional state where you're able to respond appropriately to inputs, without distraction.**
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- modeling
-- notetaking
+  - modeling
+  - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-17T18:46-05:00
 ---
 **A wiki with structured entries and meaningful links between them.**
 

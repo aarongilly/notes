@@ -1,6 +1,8 @@
 ---
 tags:
-- philosophy
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-18T12:55-05:00
 ---
 **The ability to say no is the same as the ability to choose.**
 

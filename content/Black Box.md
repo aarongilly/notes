@@ -1,7 +1,9 @@
 ---
 tags:
-- modeling
-- language
+  - modeling
+  - language
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-23T13:21-05:00
 ---
 **A function/process whose inner workings are unknown, but have known inputs and outputs.**
 

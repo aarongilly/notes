@@ -1,9 +1,11 @@
 ---
 tags:
-- productivity
-- learning
-- fitness
-- habits
+  - productivity
+  - learning
+  - fitness
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:10-05:00
 ---
 **Working at the edges of a skill to achieve greatness.**
 

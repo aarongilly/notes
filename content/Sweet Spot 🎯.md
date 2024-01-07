@@ -1,8 +1,10 @@
 ---
 tags:
-- happiness
-- philosophy
-- productivity
+  - happiness
+  - philosophy
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Concept in which the most effective thing is done with the least effort, like the sweet spot on a tennis raquet.**
 

@@ -1,6 +1,8 @@
 ---
 tags:
-- modeling
+  - modeling
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-31T12:19-05:00
 ---
 **Basic Rules for Produce GOOD IDEF0 Models**
 

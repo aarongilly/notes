@@ -1,7 +1,9 @@
 ---
 tags:
-- philosophy
-- habits
+  - philosophy
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **There's often a period of no results while potential builds, eventually resulting in rapid success.**
 

@@ -1,5 +1,7 @@
 ---
 aliases: PWA
+created: 2023-08-01T14:24-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **A type of application that starts as a website, that can be progressively enhanced to be a local app.**
 

@@ -1,11 +1,11 @@
 ---
 tags:
-- technique
-- happiness
-- clarity
-- philosophy
+  - technique
+  - happiness
+  - clarity
+  - philosophy
 created: 2023-07-31T11:54:00-05:00
-updated: 2023-07-31T11:54:00-05:00
+updated: 2023-08-04T17:45-05:00
 ---
 **Never settle for something that’s less than a 90% fit for your life.**
 

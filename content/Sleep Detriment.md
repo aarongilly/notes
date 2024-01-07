@@ -1,8 +1,10 @@
 ---
 tags:
-- science
-- health
-- fitness
+  - science
+  - health
+  - fitness
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:45-05:00
 ---
 **sleep – a consistent seven- to nine-hour opportunity each night – is the single most effective thing we can do to reset our brain and body health**
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- technique
-- productivity
+  - technique
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-13T23:00-06:00
 ---
 **It’s best to have multiple vastly different Projects going at any one time.**
 

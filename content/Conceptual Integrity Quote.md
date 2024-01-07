@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-07-10T17:45-05:00
+updated: 2023-07-10T17:47-05:00
 ---
 
 ## Conceptual Integrity Quote

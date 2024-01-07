@@ -1,8 +1,8 @@
 ---
 tags:
-- society
+  - society
 created: 2023-07-31T09:49:49-05:00
-updated: 2023-07-31T09:49:49-05:00
+updated: 2023-07-31T09:49-05:00
 ---
 **Modern Man isn't any more lazy than our hunter gathering ancestors, we are just enabled in a way they weren't.**
 

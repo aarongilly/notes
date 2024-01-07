@@ -1,7 +1,9 @@
 ---
 tags:
-- science
-- health
+  - science
+  - health
+created: 2023-07-08T11:37-05:00
+updated: 2023-11-16T19:35-06:00
 ---
 **A substance produced in one part of the body that causes action in another.**
 

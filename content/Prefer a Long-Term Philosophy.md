@@ -1,7 +1,9 @@
 ---
 tags:
-- philosophy
-- productivity
+  - philosophy
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:40-05:00
 ---
 **A focus on long-term purpose & evaluate all actions against their ability to move you toward it.**
 

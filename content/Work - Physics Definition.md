@@ -1,5 +1,7 @@
 ---
 aliases: []
+created: 2023-07-22T23:10-05:00
+updated: 2023-12-11T14:19-06:00
 ---
 **Work = Force x Displacement**
 

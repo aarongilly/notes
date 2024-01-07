@@ -1,10 +1,12 @@
 ---
 tags:
-- technique
-- clarity
-- philosophy
-- psychology
-- habits
+  - technique
+  - clarity
+  - philosophy
+  - psychology
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **If I didn't have this, how much would I give to get it?**
 

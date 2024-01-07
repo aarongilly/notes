@@ -1,9 +1,11 @@
 ---
 tags:
-- clarity
-- philosophy
-- business
-- productivity
+  - clarity
+  - philosophy
+  - business
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T11:20-05:00
 ---
 **80% of outputs come from 20% of the inputs.**
 

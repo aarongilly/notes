@@ -1,6 +1,8 @@
 ---
-tags: #philosophy #business #science #productivity 
+tags: 
 summary: Nature will fill available space - and human nature will cause you to, too
+created: 2023-10-11T10:40-05:00
+updated: 2023-10-11T14:21-05:00
 ---
 **`= this.summary`**
 

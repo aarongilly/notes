@@ -1,8 +1,10 @@
 ---
 tags:
-- happiness
-- clarity
-- psychology
+  - happiness
+  - clarity
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-04T17:52-05:00
 ---
 **Seeing the same thing, but it feeling new.**
 

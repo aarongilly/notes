@@ -4,6 +4,8 @@ tags:
   - business
   - productivity
 summary: You cannot predict **strong emergent behaviors**, only observe them and react.
+created: 2023-12-07T22:22-06:00
+updated: 2023-12-07T22:33-06:00
 ---
 **`= this.summary`**
 

@@ -1,9 +1,9 @@
 ---
 tags:
-- money
-- psychology
+  - money
+  - psychology
 created: 2023-07-30T21:44:05-05:00
-updated: 2023-07-30T21:44:05-05:00
+updated: 2023-07-30T21:44-05:00
 ---
 **An "upgrade" to a personal possession leads to a cascade of additional desires for other upgrades.**
 

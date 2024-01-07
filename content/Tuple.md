@@ -1,8 +1,10 @@
 ---
 tags:
-- math
-- modeling
-- data
+  - math
+  - modeling
+  - data
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:45-05:00
 ---
 **A finite, ordered set of elements**
 

@@ -1,5 +1,6 @@
 ---
-# alias: cohesive
+created: 2023-07-17T15:06-05:00
+updated: 2023-12-06T23:47-06:00
 ---
 **The degree to which different elements inside a module "belong" together.**
 

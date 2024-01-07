@@ -2,6 +2,8 @@
 tags:
   - science
 summary: Chemical messages sent between individuals or between distinct parts of the body, respectively.
+created: 2023-10-09T15:35-05:00
+updated: 2023-12-07T10:31-06:00
 ---
 **`= this.summary`**
 

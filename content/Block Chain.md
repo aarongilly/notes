@@ -1,8 +1,10 @@
 ---
 tags:
-- science
-- society
-- coding
+  - science
+  - society
+  - coding
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Block chain is a method of mathematically-ensured federated trust, which is potentially useful in many contexts.**
 

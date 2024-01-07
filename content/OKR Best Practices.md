@@ -1,11 +1,11 @@
 ---
 tags:
-- clarity
-- business
-- productivity
-- manufacturing
+  - clarity
+  - business
+  - productivity
+  - manufacturing
 created: 2023-07-24T10:40:08-05:00
-updated: 2023-07-24T10:40:08-05:00
+updated: 2023-07-24T10:40-05:00
 ---
 **Have 3-5 Objectives, each with 3-5 Key Results. Review & renew regularly.**
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- coding
-- data
+  - coding
+  - data
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-23T13:21-05:00
 ---
 **[[JavaScript]] Object Notation - the internet's favorite data storage solution.**
 

@@ -1,6 +1,8 @@
 ---
 tags:
-- happiness
+  - happiness
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T15:36-05:00
 ---
 **People are happier when they have better *relationships*, not better things.**
 

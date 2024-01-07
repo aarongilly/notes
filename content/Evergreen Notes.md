@@ -4,6 +4,8 @@ tags:
   - philosophy
   - language
 summary: What these notes are, I think.
+created: 2023-12-06T11:51-06:00
+updated: 2023-12-13T20:47-06:00
 ---
 **`= this.summary`**
 

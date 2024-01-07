@@ -1,7 +1,9 @@
 ---
 tags:
-- health
-- fitness
+  - health
+  - fitness
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T21:56-05:00
 ---
 **Basic Big 6 Routine**
 

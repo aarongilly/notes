@@ -1,10 +1,12 @@
 ---
 tags:
-- technique
-- society
-- business
-- productivity
-- manufacturing
+  - technique
+  - society
+  - business
+  - productivity
+  - manufacturing
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Some techniques that may foster more productive, happier teams.**
 

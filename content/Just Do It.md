@@ -1,11 +1,13 @@
 ---
 tags:
-- technique
-- happiness
-- philosophy
-- productivity
-- learning
-- habits
+  - technique
+  - happiness
+  - philosophy
+  - productivity
+  - learning
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-06T22:37-06:00
 ---
 **Just do it.**
 
@@ -25,7 +27,7 @@ It's the best way to learn. It's the best way to produce big results in the long
 
 ### Related Notes
 - [[Understanding isn't Doing]] 
-- [[Planning Vs Procrastinating ]] 
+- [[Planning is Often Procrastinating]] 
 - [[ Daring Greatly  Quote]] 
 - [[ Can Do It → Want To → Do It  Cycle]] 
 - [[Habits Have Compounding Returns]] 

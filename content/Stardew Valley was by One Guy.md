@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-16T18:01-05:00
+updated: 2023-08-16T18:05-05:00
 ---
 The game "Stardew Valley" was created whole cloth entirely by one dude over the course of 5 years. He worked as a theater usher immediately after getting his CS degree so he wouldn't get comfortable. He had to teach himself mastery over things like: music, pixel art, game design, and obviously programming. 
 

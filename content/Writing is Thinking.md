@@ -1,7 +1,9 @@
 ---
 tags:
-- learning
-- notetaking
+  - learning
+  - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Writing forces you to clarify and put new information in context & gives you an external scaffold to build on.**
 

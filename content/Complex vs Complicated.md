@@ -1,6 +1,8 @@
 ---
 tags:
-- language
+  - language
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-04T13:03-05:00
 ---
 **Complex = Not Simple. Complicated = Not Easy. Often they both apply, but not always.**
 

@@ -1,11 +1,13 @@
 ---
 tags:
-- happiness
-- clarity
-- philosophy
-- learning
-- notetaking
-- quote
+  - happiness
+  - clarity
+  - philosophy
+  - learning
+  - notetaking
+  - quote
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Following what is interesting is a way to ensure long-term success & a satisfactory journey.**
 

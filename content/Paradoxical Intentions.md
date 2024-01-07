@@ -1,7 +1,6 @@
 ---
-# alias:
 created: 2023-07-30T21:19:52-05:00
-updated: 2023-07-31T09:36:05-05:00
+updated: 2023-07-31T09:36-05:00
 ---
 **Trying to will into existence the thing you're afraid of happening as a means of seeing it isn't worth fearing**
 

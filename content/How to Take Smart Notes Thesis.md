@@ -1,8 +1,10 @@
 ---
 tags:
-- philosophy
-- productivity
-- index
+  - philosophy
+  - productivity
+  - index
+created: 2023-07-08T11:37-05:00
+updated: 2023-09-06T09:01-05:00
 ---
 **The philosophical thesis of *"How to Take Smart Notes"***
 

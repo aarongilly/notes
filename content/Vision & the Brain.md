@@ -1,6 +1,8 @@
 ---
 tags:
-- science
+  - science
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **What you see as "the present" is actually a prediction your brain makes 1/5th of a second into the future.**
 

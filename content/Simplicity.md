@@ -1,10 +1,12 @@
 ---
 tags:
-- technique
-- society
-- philosophy
-- business
-- productivity
+  - technique
+  - society
+  - philosophy
+  - business
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-11T16:21-06:00
 ---
 **Keep the mission *as simple and clear as possible*. Complexity creates confusion. **
 

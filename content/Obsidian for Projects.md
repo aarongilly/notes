@@ -4,6 +4,8 @@ tags:
   - productivity
   - technique
 summary: Not a core competency, but impossible.
+created: 2023-12-03T20:48-06:00
+updated: 2023-12-03T20:55-06:00
 ---
 **`= this.summary`**
 

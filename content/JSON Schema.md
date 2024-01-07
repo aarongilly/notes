@@ -1,7 +1,9 @@
 ---
 tags:
-- coding
-- data
+  - coding
+  - data
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-11T11:23-05:00
 ---
 **A JSON shape description language, using JSON**
 

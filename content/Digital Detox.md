@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- clarity
-- productivity
+  - technique
+  - clarity
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-19T00:08-05:00
 ---
 **A [[minimalist]] technique for tech.**
 

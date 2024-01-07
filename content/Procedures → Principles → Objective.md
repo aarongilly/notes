@@ -1,9 +1,11 @@
 ---
 tags:
-- technique
-- business
-- productivity
-- manufacturing
+  - technique
+  - business
+  - productivity
+  - manufacturing
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-22T09:24-05:00
 ---
 **Have a documented Strategic Objective, Guiding Principles, and Working Procedures. Use them and improve them.**
 

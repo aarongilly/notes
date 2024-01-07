@@ -1,9 +1,11 @@
 ---
 tags:
-- business
-- productivity
-- modeling
-- manufacturing
+  - business
+  - productivity
+  - modeling
+  - manufacturing
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-20T11:59-05:00
 ---
 **Application of the Pareto Principle to reduce the effective arity of a function in order to better control it.**
 

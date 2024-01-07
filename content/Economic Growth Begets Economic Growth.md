@@ -1,7 +1,9 @@
 ---
 tags:
-- society
-- money
+  - society
+  - money
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-05T17:03-06:00
 ---
 **People give loans when the future is bright & the future is bright when people get loans.**
 
@@ -13,3 +15,4 @@ People only continue to act in good faith (making and repaying loans, making pur
 - [[Homo Deus]]
 
 ### Related Notes
+- [[Snowball Effects]]

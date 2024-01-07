@@ -1,8 +1,10 @@
 ---
 tags:
-- business
-- language
-- philosophy
+  - business
+  - language
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-18T12:56-05:00
 ---
 **Value is only valuable if it's valuable from the perspective of the customer.**
 

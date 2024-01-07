@@ -1,8 +1,10 @@
 ---
 tags:
-- society
-- philosophy
-- quote
+  - society
+  - philosophy
+  - quote
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T16:58-05:00
 ---
 **Love all that you own, own only what you love.**
 

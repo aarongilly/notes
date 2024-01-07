@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- philosophy
-- modeling
+  - technique
+  - philosophy
+  - modeling
+created: 2023-07-08T11:37-05:00
+updated: 2023-11-01T16:43-05:00
 ---
 **Model-Based Systems Engineering**
 

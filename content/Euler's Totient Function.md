@@ -1,7 +1,6 @@
 ---
-# alias:
 created: 2023-07-24T09:48:41-05:00
-updated: 2023-07-24T09:48:41-05:00
+updated: 2023-07-24T09:48-05:00
 ---
 **Known as the 'Phi Function', tells how many numbers less than a number 'N' have no common factors (other than 1) with 'N'**
 

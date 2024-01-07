@@ -1,5 +1,7 @@
 ---
 aliases: trapdoor function
+created: 2023-07-23T21:44-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **Easy to do one way, difficult to do the other**
 

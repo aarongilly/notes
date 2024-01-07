@@ -1,8 +1,10 @@
 ---
 tags:
-- business
-- coding
-- habits
+  - business
+  - coding
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-01T14:09-05:00
 ---
 **The only time you should reinvent the wheel is when you're 100% sure that's what you want to do.**
 

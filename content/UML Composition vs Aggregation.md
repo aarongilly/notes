@@ -1,8 +1,10 @@
 ---
 tags:
-- data
-- modeling
-- coding
+  - data
+  - modeling
+  - coding
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:45-05:00
 ---
 **Composition: Children can’t exist without parent. Aggregation: Children can exist separately from parent.**
 

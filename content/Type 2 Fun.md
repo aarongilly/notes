@@ -1,6 +1,6 @@
 ---
 created: 2023-07-31T09:54:17-05:00
-updated: 2023-07-31T10:11:56-05:00
+updated: 2023-07-31T10:11-05:00
 ---
 **Suffering now; fun after the fact, in retrospect**
 

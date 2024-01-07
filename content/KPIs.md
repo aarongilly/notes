@@ -1,7 +1,9 @@
 ---
 tags:
-- business
-- manufacturing
+  - business
+  - manufacturing
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-17T12:52-05:00
 ---
 **Key Performance Indicators are [[Metrics]] to measure the status quo.**
 

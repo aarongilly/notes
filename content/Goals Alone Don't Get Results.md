@@ -1,9 +1,9 @@
 ---
 tags:
-- philosophy
-- productivity
+  - philosophy
+  - productivity
 created: 2023-07-24T11:39:42-05:00
-updated: 2023-07-24T11:39:42-05:00
+updated: 2023-07-24T11:39-05:00
 ---
 > [!tldr] **Establishing a goal isn't as important as establishing a system to achieve it.**
 

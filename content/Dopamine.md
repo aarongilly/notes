@@ -1,7 +1,9 @@
 ---
 tags:
-- science
-- psychology
+  - science
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-11-16T17:45-06:00
 ---
 **Dopamine is the chemical that motivates us. (Serotonin is the one that makes us happy)**
 

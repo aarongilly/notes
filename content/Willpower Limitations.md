@@ -3,6 +3,8 @@ tags:
   - psychology
   - science
 summary: It's not settled whether willpower is inherently limited, but we know what can affect it.
+created: 2023-11-01T16:16-05:00
+updated: 2023-11-01T16:21-05:00
 ---
 **`= this.summary`**
 

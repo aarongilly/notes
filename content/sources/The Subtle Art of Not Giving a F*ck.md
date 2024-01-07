@@ -3,8 +3,8 @@ author: Mark Manson
 url: 
 type: book
 created: 2023-07-31T11:55:28-05:00
-updated: 2023-07-31T12:04:57-05:00
-aliases:
+updated: 2024-01-01T23:13-06:00
+aliases: 
 ---
 ## Review
 One of the first things to know about this book is that it is not about how to become "The Dude". Mark Manson comes across more like a Tyler Durden (minus most of the nihilism) than Jeff Lebowski. Here's some fun quote comparisons:

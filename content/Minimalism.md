@@ -1,8 +1,10 @@
 ---
 tags:
-- clarity
-- philosophy
-- sustainability
+  - clarity
+  - philosophy
+  - sustainability
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-12T21:00-05:00
 ---
 **Minimalism is about having and doing less, but better.**
 

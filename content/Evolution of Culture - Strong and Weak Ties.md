@@ -1,7 +1,9 @@
 ---
 tags:
-- society
-- language
+  - society
+  - language
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Culture evolves most quickly if the communities in that culture are made of a mix of strong and weak ties.**
 

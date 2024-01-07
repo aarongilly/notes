@@ -1,9 +1,9 @@
 ---
 tags:
-- clarity
-- philosophy
+  - clarity
+  - philosophy
 created: 2023-07-25T20:52:46-05:00
-updated: 2023-07-25T20:52:46-05:00
+updated: 2023-07-25T20:52-05:00
 ---
 **Think like a journalist about your own life. What’s the story?**
 

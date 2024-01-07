@@ -1,6 +1,8 @@
 ---
 tags:
-- psychology
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T09:17-05:00
 ---
 **Getting tunnel vision when you're suddenly switched to a state of high engagement.**
 

@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-16T18:17-05:00
+updated: 2023-12-13T21:57-06:00
 ---
 
 > [!tldr] The different categories of learning. 

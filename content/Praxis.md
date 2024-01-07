@@ -2,6 +2,8 @@
 tags:
   - language
 summary: Translating an idea into action
+created: 2023-12-07T16:30-06:00
+updated: 2023-12-07T16:31-06:00
 ---
 **`= this.summary`**
 

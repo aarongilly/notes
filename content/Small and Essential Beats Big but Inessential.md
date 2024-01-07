@@ -1,8 +1,10 @@
 ---
 tags:
-- philosophy
-- business
-- productivity
+  - philosophy
+  - business
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-17T18:09-05:00
 ---
 **Small progress in an essential area is better than a big win on something inessential.**
 

@@ -1,9 +1,9 @@
 ---
 tags:
-- happiness
-- philosophy
+  - happiness
+  - philosophy
 created: 2023-07-31T09:50:40-05:00
-updated: 2023-07-31T09:50:40-05:00
+updated: 2024-01-06T22:50-06:00
 ---
 **Life exists only in the present. Be happy in it.**
 
@@ -12,13 +12,11 @@ While there is something to be said about learning from the past and planning fo
 Develop your powers of sight and sound. Notice those ordinary things you long stopped paying attention to. Be present in your space, in your moment. Stop tuning out the beautiful complexity of the world around you. Train yourself to [[focus]] on the little things. What can you touch, hear, and see? [[Meditation]] helps increase awareness of and appreciation for the present.
 
 > Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present. - Bill Keane
-> 
 
-The desire for more, the desire for progress, can be the enemy of enjoying the process. The process is all there is. It is today. It is the present. [[Love the Process]]. [[Results are not Presence]].
+The desire for more, the desire for progress, can be the enemy of enjoying the process. The process is all there is. It is today. It is the present. [[Love the Process]]. [[Results are not Presence]].  
 
 ---
-
-## Source
+### Source
 - [[Stillness is the Key]]
 - [[Flow]]
 - [[21 Lessons for the 21st Century]]
@@ -34,7 +32,7 @@ The desire for more, the desire for progress, can be the enemy of enjoying the p
 - [[Enough]]
 - [[Self Improvement ≠ Self Loathing]]
 - [[Love the Process]]
-- [[What's Important Now (W I N )]]
+- [[What's Important Now]]
 - [[Financial Independence]] 
 - [[Stoicism]] 
 - [[Meditation]] 

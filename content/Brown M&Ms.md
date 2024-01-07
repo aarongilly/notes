@@ -1,6 +1,8 @@
 ---
 tags:
-- technique
+  - technique
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-05T19:46-06:00
 ---
 **Van Halen’s pre-show instructions included the famous “no brown M&Ms” clause to give them a signal that the show runners read the technical requirements.**
 
@@ -19,4 +21,4 @@ I don’t remember where I first learned this.
 
 ### Related Notes
 - [[Feedback Loop]] 
-- [[Lack of Signal ]]
+- [[Lack of Signal is a Bad Signal]]

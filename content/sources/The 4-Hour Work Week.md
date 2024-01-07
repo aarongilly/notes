@@ -1,8 +1,10 @@
 ---
 author: Tim Ferris
 url: 
-type: book # book/article/video/class/other
+type: book
 tags: source
+created: 2023-07-08T22:02-05:00
+updated: 2023-08-10T13:35-05:00
 ---
 ## Review
 I had heard about this book on various podcasts for the past several years. I never fully understood what it was about, but I knew that it was a book that existed and that it was decently popular. When I went to look for books from my local library, I put a hold on this book pretty early on - and it was the longest waiting period.

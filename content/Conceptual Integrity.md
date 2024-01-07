@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-07-10T17:48-05:00
+updated: 2023-12-06T23:47-06:00
 ---
 
 **A system should have a powerful metaphor that is uniformly applied to each of its parts**

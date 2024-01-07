@@ -1,9 +1,11 @@
 ---
 tags:
-- philosophy
-- productivity
-- fitness
-- #money 
+  - philosophy
+  - productivity
+  - fitness
+  - 
+created: 2023-07-08T11:37-05:00
+updated: 2023-09-16T22:31-05:00
 ---
 **Most common plights have obvious, albeit unsexy solutions.**
 

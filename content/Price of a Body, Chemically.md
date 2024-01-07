@@ -1,6 +1,8 @@
 ---
 tags:
-- science
+  - science
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **You cost between $100 and $100k, depending on who you ask and the purity requirements levied.**
 

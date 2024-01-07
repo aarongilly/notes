@@ -1,9 +1,9 @@
 ---
 tags:
-- happiness
-- psychology
+  - happiness
+  - psychology
 created: 2023-07-29T20:52:43-05:00
-updated: 2023-07-29T20:54:04-05:00
+updated: 2023-11-13T19:40-06:00
 ---
 **We don’t remember periods of time, but instead individual moments.**
 

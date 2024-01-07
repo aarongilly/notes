@@ -3,6 +3,8 @@ tags:
   - fitness
   - health
 summary: Doing cardio at ~135 to ~145bpm. Apparently very important.
+created: 2023-11-02T11:00-05:00
+updated: 2024-01-03T08:23-06:00
 ---
 **`= this.summary`**
 
@@ -32,7 +34,7 @@ Huberman follows a monthly [[Fitness Periodic Meta Routine]].
 
 ### Related
 - [[Ideal Exercise Regiment]]
-- [[~15 Sets Per Week]]
+- [[~10-15 Sets Per Week]]
 - [[Zone 2]]
 - [[Fitness Periodic Meta Routine]]
 - [[Balance]]

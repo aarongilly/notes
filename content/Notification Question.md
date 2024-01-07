@@ -1,9 +1,11 @@
 ---
 tags:
-- technique
-- happiness
-- clarity
-- productivity
+  - technique
+  - happiness
+  - clarity
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Is this notification serving me, or am I serving it?**
 

@@ -1,6 +1,8 @@
 ---
 tags:
-- notetaking
+  - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Bullet Journals are planners, trackers, journals, and art all rolled into one.**
 

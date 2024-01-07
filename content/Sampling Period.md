@@ -1,8 +1,10 @@
 ---
 tags:
-- clarity
-- learning
-- psychology
+  - clarity
+  - learning
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-21T23:20-05:00
 ---
 **A common pattern of success is to sample a wide range of endeavors before selecting what suits you best, then going deep on it.**
 

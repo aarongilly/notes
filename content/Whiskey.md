@@ -1,5 +1,7 @@
 ---
 aliases: whisky
+created: 2023-08-18T20:32-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **Cowboy's Liquor - fermented grain mash aged in oak casks**
 

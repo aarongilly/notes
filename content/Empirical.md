@@ -1,7 +1,7 @@
 ---
 aliases: empirical evidence
 created: 2023-07-31T11:40:47-05:00
-updated: 2023-07-31T11:48:41-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **Based on *observation*, not theory.**
 

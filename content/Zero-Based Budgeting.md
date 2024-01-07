@@ -1,9 +1,11 @@
 ---
 tags:
-- technique
-- money
-- business
-- manufacturing
+  - technique
+  - money
+  - business
+  - manufacturing
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-05T13:32-05:00
 ---
 **Starting plans for future expenses from zero, rather than from the pre-existing plan, to avoid the [[Sunk Cost Bias]].**
 

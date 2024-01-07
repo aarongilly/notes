@@ -1,6 +1,8 @@
 ---
 tags:
-- sustainability
+  - sustainability
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:45-05:00
 ---
 **We’d be better burning gas to charge the batteries in an electric vehicle - but let’s not use gas at all.**
 

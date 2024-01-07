@@ -1,6 +1,8 @@
 ---
 tags:
-- science
+  - science
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-04T18:45-05:00
 ---
 **It's estimated that all bacteria and viruses combined weigh more than all plants and animals combined.**
 

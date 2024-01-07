@@ -2,6 +2,8 @@
 tags:
   - notetaking
 summary: A dude who takes public notes and is highly influential on Obsidian
+created: 2023-12-06T09:36-06:00
+updated: 2023-12-07T00:11-06:00
 ---
 **`= this.summary`**
 

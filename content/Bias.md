@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-22T09:12-05:00
+updated: 2023-08-22T09:18-05:00
 ---
 **A misplacement in judgment or a systems output in a consistent direction**
 

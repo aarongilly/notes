@@ -1,6 +1,8 @@
 ---
 tags:
-- society
+  - society
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:15-05:00
 ---
 **The public nature of any tweet means you are only capable of telling one version of a story to any potential audience member - your parents, friends, lovers, future employers, and worst enemies are jammed together**
 

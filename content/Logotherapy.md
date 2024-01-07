@@ -1,7 +1,6 @@
 ---
-# alias:
 created: 2023-07-29T18:17:36-05:00
-updated: 2023-07-29T18:37:22-05:00
+updated: 2023-07-29T18:37-05:00
 ---
 **A type of therapy concerned with the meaning of life**
 

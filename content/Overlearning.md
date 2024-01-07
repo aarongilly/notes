@@ -1,6 +1,8 @@
 ---
 tags:
-- learning
+  - learning
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-23T20:46-05:00
 ---
 **The learning MORE than you need, so you will remember the bit you need.**
 

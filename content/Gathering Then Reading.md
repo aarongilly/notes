@@ -1,9 +1,9 @@
 ---
 tags:
-- technique
-- learning
+  - technique
+  - learning
 created: 2023-07-29T13:32:44-05:00
-updated: 2023-07-29T13:50:36-05:00
+updated: 2023-07-29T13:50-05:00
 ---
 **Read articles in phases: Gather online. Read in Pocket.**
 

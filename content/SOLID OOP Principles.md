@@ -1,6 +1,8 @@
 ---
 tags:
-- coding
+  - coding
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:54-05:00
 ---
 **5 principles for Object-Oriented Programming**
 

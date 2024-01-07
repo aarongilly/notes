@@ -6,6 +6,8 @@ tags:
 summary: Capturing & distilling information into graphical formats.
 aliases:
   - sketch notes
+created: 2023-12-06T23:10-06:00
+updated: 2023-12-06T23:17-06:00
 ---
 **`= this.summary`**
 
@@ -19,7 +21,7 @@ Writing a ton of words doesn't produce better learning than doing the work of [[
 
 ## Example
 
-![[Visual Notetaking 2023-12-06 22.17.17.excalidraw]]
+![[Pasted image 20240107120342.png]]
 
 ---
 ### Source

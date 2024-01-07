@@ -1,9 +1,11 @@
 ---
 tags:
-- clarity
-- technique
-- business
-- science
+  - clarity
+  - technique
+  - business
+  - science
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:41-05:00
 ---
 **Intentional efforts made for the sake of receiving process feedback.**
 

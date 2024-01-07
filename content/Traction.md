@@ -1,9 +1,11 @@
 ---
 tags:
-- productivity
-- learning
-- psychology
-- habits
+  - productivity
+  - learning
+  - psychology
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-10-11T21:24-05:00
 ---
 **You need time & space free from distraction to actually progress on anything.**
 

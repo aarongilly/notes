@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- clarity
-- productivity
+  - technique
+  - clarity
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-09-20T11:43-05:00
 ---
 **Decision making models with minimum inputs that still yield high quality outputs.**
 

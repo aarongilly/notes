@@ -1,7 +1,9 @@
 ---
 tags:
-- learning
-- psychology
+  - learning
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-13T20:55-06:00
 ---
 **To actually learn things, the process shouldn't be too easy.**
 

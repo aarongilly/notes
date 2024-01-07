@@ -1,6 +1,8 @@
 ---
-tags: #philosophy 
+tags: 
 summary: If every moment is spent in pursuit of growth or making some imagined future "better", you'll never live for now.
+created: 2023-10-12T19:09-05:00
+updated: 2023-10-12T22:53-05:00
 ---
 **`= this.summary`**
 

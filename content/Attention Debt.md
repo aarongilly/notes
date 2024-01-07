@@ -1,7 +1,9 @@
 ---
 tags:
-- clarity
-- language
+  - clarity
+  - language
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-02T19:56-05:00
 ---
 **Things that deserve attention that aren't being paid it.**
 

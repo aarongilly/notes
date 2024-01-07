@@ -1,8 +1,8 @@
 ---
 tags:
-- coding
+  - coding
 created: 2023-07-24T09:55:51-05:00
-updated: 2023-07-24T09:55:51-05:00
+updated: 2023-07-24T09:55-05:00
 ---
 **A software framework for building native applications using web technologies.**
 

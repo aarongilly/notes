@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- money
-- index
+  - technique
+  - money
+  - index
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **The 9 Steps from "Your Money or Your Life"**
 

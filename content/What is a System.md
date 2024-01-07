@@ -4,6 +4,8 @@ tags:
   - business
   - clarity
 summary: A note I've avoided writing.
+created: 2023-12-07T16:36-06:00
+updated: 2023-12-07T16:48-06:00
 ---
 **`= this.summary`**
 

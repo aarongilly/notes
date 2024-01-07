@@ -1,8 +1,10 @@
 ---
 tags:
-- society
-- money
-- business
+  - society
+  - money
+  - business
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Gross Domestic Product - Market value of goods and services produced within a country**
 

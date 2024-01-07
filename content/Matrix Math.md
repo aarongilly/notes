@@ -3,13 +3,14 @@ aliases:
   - cross product
   - dot product
   - determinant
+created: 2023-08-14T15:20-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **A graphical review of [[Matrices|Matrix]] operations**
 
 Dot and cross products are still confusing. 
 
-![[Drawing 2023-08-14 15.02.33.excalidraw]]
-
+![[Pasted image 20240107120531.png]]
 ## Addition & Subtraction
 Just add or subtract each element in `a` with its corresponding position in `b`.
 ## Magnitude

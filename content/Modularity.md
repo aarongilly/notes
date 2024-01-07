@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-07-17T14:52-05:00
+updated: 2023-07-17T21:14-05:00
 ---
 **A property of systems**
 

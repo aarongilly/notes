@@ -1,7 +1,9 @@
 ---
 tags:
-- quote
-- philosophy
+  - quote
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-05T17:32-06:00
 ---
 **Quote from GCPGrey**
 
@@ -9,12 +11,8 @@ tags:
 > 
 
 ---
-
-## Source
-
-## Source
-
-[CGP Grey was WRONG](https://youtu.be/ua4QMFQATco)
+### Source
+- [CGP Grey was WRONG](https://youtu.be/ua4QMFQATco)
 
 ### Related Notes
 - [[Perfectionism]] 

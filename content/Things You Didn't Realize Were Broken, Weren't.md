@@ -2,6 +2,8 @@
 tags: 
 summary: If you didn't realize something was broken until seeing "the better way", there's a good chance it wasn't broken to begin with.
 aliases: Don't fix what isn't broken
+created: 2023-10-11T21:08-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **`= this.summary`**
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- society
-- philosophy
+  - society
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-11-15T09:42-06:00
 ---
 **Technology cycle is speeding up. We’ll never get to be ‘comfortable with what we’ve already got’, by that time it won’t be what we have anymore.**
 

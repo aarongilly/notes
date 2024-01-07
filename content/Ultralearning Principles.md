@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-16T18:08-05:00
+updated: 2023-08-18T09:23-05:00
 ---
 There is no recipe for how to learn, but there are some general principles that can be used.
 1. [[Metalearning]] - start with a road map

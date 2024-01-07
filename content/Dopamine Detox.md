@@ -1,8 +1,10 @@
 ---
 tags:
-- clarity
-- productivity
-- psychology
+  - clarity
+  - productivity
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T09:19-05:00
 ---
 **[[Focus]] by Training Yourself to Crave Less [[Dopamine]]**
 

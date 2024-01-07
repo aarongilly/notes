@@ -1,9 +1,9 @@
 ---
 tags:
-- modeling
-- data
+  - modeling
+  - data
 created: 2023-07-29T13:30:22-05:00
-updated: 2023-07-29T13:30:22-05:00
+updated: 2023-07-29T13:30-05:00
 ---
 **IDEF1X, UML, Crows Feet, etc **
 

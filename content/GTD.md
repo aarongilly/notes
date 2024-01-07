@@ -1,8 +1,10 @@
 ---
 tags:
-- philosophy
-- business
-- productivity
+  - philosophy
+  - business
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **A system of tools & techniques to accomplish work.**
 

@@ -1,6 +1,8 @@
 ---
 tags:
-- productivity
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-21T23:29-05:00
 ---
 **Don't spend more time classifying things than it would take to find it via search.**
 

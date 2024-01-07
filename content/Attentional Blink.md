@@ -2,6 +2,8 @@
 tags:
   - psychology
 summary: After spotting Waldo, you have a ~1/2 second period where you cannot see another.
+created: 2023-10-26T08:23-05:00
+updated: 2023-12-07T10:31-06:00
 ---
 **`= this.summary`**
 

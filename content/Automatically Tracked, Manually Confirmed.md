@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-07-10T10:28-05:00
+updated: 2023-07-10T10:49-05:00
 ---
 **The best, most consistent way to get good quantified-self data**
 

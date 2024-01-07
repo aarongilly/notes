@@ -1,6 +1,8 @@
 ---
 tags:
-- psychology
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T09:18-05:00
 ---
 **A localized region of the brain allows you to switch [[focus]], at a cost of some energy.**
 

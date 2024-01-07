@@ -1,6 +1,8 @@
 ---
-tags: #health #fitness
-summary: a brief deliberate period of exposure to icy water for various benefits 
+tags: 
+summary: a brief deliberate period of exposure to icy water for various benefits
+created: 2023-11-16T19:36-06:00
+updated: 2023-11-16T19:52-06:00
 ---
 **`= this.summary`**
 

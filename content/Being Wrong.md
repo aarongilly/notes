@@ -1,8 +1,10 @@
 ---
 tags:
-- happiness
-- philosophy
-- learning
+  - happiness
+  - philosophy
+  - learning
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:41-05:00
 ---
 **It's better to realize when you're wrong than to lie to yourself and everyone else that you're not.**
 

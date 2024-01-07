@@ -1,8 +1,10 @@
 ---
 tags:
-- productivity
-- clarity
-- philosophy
+  - productivity
+  - clarity
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-06T13:34-06:00
 ---
 **Making things easier for you later helps you later, AND helps you now.**
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- society
-- language
+  - society
+  - language
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:23-05:00
 ---
 **Judgment, we hope, would drive people toward a common conclusion. Opinion and taste are ok to be different.**
 

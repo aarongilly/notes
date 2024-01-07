@@ -1,6 +1,8 @@
 ---
 tags:
-- fitness
+  - fitness
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-03T08:23-06:00
 ---
 **Pyramid - low to high, straight - same always, Reverse pyramid - high to low**
 
@@ -33,5 +35,5 @@ Good for strength development.
 
 ### Related Notes
 - [[Ideal Exercise Regiment]] 
-- [[~15 Sets Per Week]]
+- [[~10-15 Sets Per Week]]
 - [[Progressive Overload]]

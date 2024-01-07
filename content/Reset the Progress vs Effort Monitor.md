@@ -4,6 +4,8 @@ tags:
   - psychology
   - productivity
 summary: Some tips for resetting yourself when progress feels horribly fleeting despite large effort.
+created: 2023-12-06T20:10-06:00
+updated: 2023-12-06T20:15-06:00
 ---
 **`= this.summary`**
 

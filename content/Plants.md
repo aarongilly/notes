@@ -1,7 +1,6 @@
 ---
-# alias:
 created: 2023-07-26T18:44:20-05:00
-updated: 2023-07-26T19:18:45-05:00
+updated: 2023-07-26T19:18-05:00
 ---
 **An incomplete list of plants and their identifying features**.
 

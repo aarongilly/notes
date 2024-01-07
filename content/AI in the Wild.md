@@ -1,7 +1,9 @@
 ---
 tags:
-- science
-- society
+  - science
+  - society
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-20T14:40-05:00
 ---
 **AI is all around us already.**
 

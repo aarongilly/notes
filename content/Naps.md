@@ -1,8 +1,10 @@
 ---
 tags:
-- happiness
-- productivity
-- psychology
+  - happiness
+  - productivity
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-11T12:56-06:00
 ---
 **The right kind of naps can be an effective way to maintain performance.**
 

@@ -1,6 +1,8 @@
 ---
 tags:
-- business
+  - business
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-31T12:14-05:00
 ---
 **High Expectation & little control is a recipe for a depressed workforce (or child).**
 

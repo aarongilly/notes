@@ -2,6 +2,8 @@
 tags:
   - fitness
 summary: Tension is king
+created: 2023-10-31T00:13-05:00
+updated: 2023-10-31T00:22-05:00
 ---
 **`= this.summary`**
 

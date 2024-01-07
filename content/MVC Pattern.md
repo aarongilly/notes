@@ -1,3 +1,7 @@
+---
+created: 2023-09-06T09:02-05:00
+updated: 2023-09-06T09:14-05:00
+---
 **A pattern for Separation of Concerns for UI Design**
 
 MVC is Model, View, Controller.

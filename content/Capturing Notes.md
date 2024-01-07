@@ -1,7 +1,9 @@
 ---
 tags:
-- productivity
-- notetaking
+  - productivity
+  - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-19T10:56-05:00
 ---
 **The Slip-Box Method category of on-going capture.**
 

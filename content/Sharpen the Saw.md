@@ -1,10 +1,12 @@
 ---
 tags:
-- technique
-- philosophy
-- productivity
-- psychology
-- fitness
+  - technique
+  - philosophy
+  - productivity
+  - psychology
+  - fitness
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Take time to new your physical, spiritual, mental, and social well being.**
 

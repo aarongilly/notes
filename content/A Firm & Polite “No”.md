@@ -1,8 +1,10 @@
 ---
 tags:
-- clarity
-- philosophy
-- habits
+  - clarity
+  - philosophy
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-10-13T20:35-05:00
 ---
 **Develop a talent for delivering a firm & polite “no” to those things which are not essential.**
 

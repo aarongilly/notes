@@ -1,12 +1,12 @@
 ---
 tags:
-- happiness
-- society
-- philosophy
-- index
-- health
+  - happiness
+  - society
+  - philosophy
+  - index
+  - health
 created: 2023-07-31T08:30:17-05:00
-updated: 2023-07-31T09:21:22-05:00
+updated: 2023-07-31T09:21-05:00
 ---
 **Balance in all things. One of my central tenets.**
 

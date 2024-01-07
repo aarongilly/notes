@@ -6,12 +6,15 @@ tags:
   - clarity
   - habits
 summary: A graphical cross-area technique I did that was informative.
+created: 2023-12-13T09:09-06:00
+updated: 2023-12-13T15:53-06:00
 ---
 **`= this.summary`**
 
 In the service of deriving [[Goals (index)|goals]] for 2024 and formalizing (or codifying) my [[Personal MOS]], I did a thing that was interesting. For the sake of me potentially publishing these notes, this is a generalized representation & fictitious example:
 
-![[What's Working, What's Not 2023-12-13 15.32.24.excalidraw|90%]]
+![[Pasted image 20240107120242.png]]
+
 ## Process
 1. Put all life [[Defining Area|area]]s in boxes in rough proximity to each other on a whiteboarding application like [[Excalidraw]]
 2. Place labels around each area for:

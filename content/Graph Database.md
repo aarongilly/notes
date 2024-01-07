@@ -1,8 +1,10 @@
 ---
 tags:
-- data
-- modeling
-- coding
+  - data
+  - modeling
+  - coding
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-17T14:53-05:00
 ---
 **A form of non-relational database where links between entries are first-class citizens.**
 

@@ -1,7 +1,6 @@
 ---
-# alias:
 created: 2023-07-31T08:26:17-05:00
-updated: 2023-07-31T08:26:17-05:00
+updated: 2023-07-31T08:26-05:00
 ---
 **A topic I write about a decent amount**
 

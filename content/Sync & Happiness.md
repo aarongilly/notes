@@ -1,8 +1,10 @@
 ---
 tags:
-- happiness
-- society
-- psychology
+  - happiness
+  - society
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-11T12:23-06:00
 ---
 **Syncing with others, such as in choir, has huge effects on happiness.**
 

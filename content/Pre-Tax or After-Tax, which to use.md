@@ -1,6 +1,8 @@
 ---
 tags:
-- money
+  - money
+created: 2023-07-08T11:37-05:00
+updated: 2023-09-21T16:42-05:00
 ---
 **1st: get your match. 2nd: Roth IRA. 3rd: Max employer-sponsored accts.**
 

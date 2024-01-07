@@ -1,7 +1,9 @@
 ---
 tags:
-- notetaking
-- productivity
+  - notetaking
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-13T20:20-06:00
 ---
 **An online, block-based wiki/project management/notes super multitool app**
 

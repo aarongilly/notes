@@ -1,7 +1,9 @@
 ---
 tags:
-- productivity
-- philosophy
+  - productivity
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-01T08:45-05:00
 ---
 **Slow burns are easier, more sustainable, and can produce better results.**
 

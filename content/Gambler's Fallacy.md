@@ -1,7 +1,9 @@
 ---
 tags:
-- math
-- psychology
+  - math
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:41-05:00
 ---
 **A belief that independent samples somehow relate to one-another. "We haven't rolled a 7 in forever, so this one is more likely to be a 7."**
 

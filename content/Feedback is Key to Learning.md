@@ -1,7 +1,9 @@
 ---
 tags:
-- philosophy
-- learning
+  - philosophy
+  - learning
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-22T09:42-05:00
 ---
 **If you can’t see what a thing results in, you can’t learn about the thing. Experiments are cultivations of feedback.**
 

@@ -1,9 +1,11 @@
 ---
 tags:
-- happiness
-- clarity
-- philosophy
-- productivity
+  - happiness
+  - clarity
+  - philosophy
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-11T11:43-06:00
 ---
 **Know why you are doing what you're doing.**
 

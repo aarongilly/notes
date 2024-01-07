@@ -1,6 +1,8 @@
 ---
 tags:
-- science
+  - science
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Atoms are Protons, Neutrons, and Electrons, which are quarks - and there’s more.**
 

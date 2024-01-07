@@ -1,6 +1,8 @@
 ---
 tags:
-- psychology
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-11-02T11:15-05:00
 ---
 **Things that happened recently seem like they happen more often, or are more important.**
 

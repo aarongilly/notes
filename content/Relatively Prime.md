@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-07-23T22:43-05:00
+updated: 2023-07-23T22:46-05:00
 ---
 **Two numbers are said to be 'relatively prime' if their greatest common factor is 1**
 

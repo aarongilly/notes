@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-01T08:49-05:00
+updated: 2023-08-01T08:57-05:00
 ---
 **A philosophical approach to collaborative coding**
 

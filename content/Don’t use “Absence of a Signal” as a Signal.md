@@ -1,9 +1,11 @@
 ---
 tags:
-- technique
-- manufacturing
-- business
-- productivity
+  - technique
+  - manufacturing
+  - business
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-01T14:08-05:00
 ---
 **Don't design a system or process that uses “absence of a negative” as an assumed positive.**
 

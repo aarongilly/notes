@@ -1,7 +1,9 @@
 ---
 tags:
-- science
-- philosophy
+  - science
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-13T21:56-06:00
 ---
 **Making a guess, then seeing if you’re right.**
 

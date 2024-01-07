@@ -1,7 +1,8 @@
 ---
-# alias:
 tags:
-- #notetaking 
+  - 
+created: 2023-07-08T23:24-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 
 >[!tldr] **Quick reference for [[Obsidian]]'s built in callout syntax.**

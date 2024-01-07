@@ -1,6 +1,8 @@
 ---
-tags: #philosophy 
+tags: 
 summary: There's not really a better way to define living your life than by looking at what you do with your time.
+created: 2023-10-11T20:59-05:00
+updated: 2023-10-11T21:02-05:00
 ---
 **`= this.summary`**
 

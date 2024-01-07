@@ -1,9 +1,9 @@
 ---
 tags:
-- philosophy
-- psychology
+  - philosophy
+  - psychology
 created: 2023-07-31T08:10:51-05:00
-updated: 2023-07-31T08:10:51-05:00
+updated: 2023-07-31T08:10-05:00
 ---
 **Negotiation is about feelings, not logic.**
 

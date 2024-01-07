@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-07-18T15:15-05:00
+updated: 2023-08-21T23:39-05:00
 ---
 **[[Obsidian]] isn't perfect**
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- psychology
-- habits
+  - psychology
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-21T12:27-05:00
 ---
 **Put something you want to do with something you have to do.**
 

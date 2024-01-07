@@ -1,6 +1,8 @@
 ---
 tags:
-- society
+  - society
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Norms and constructs can pre-dispose certain peoples to higher chances of success or failure in different endeavors.**
 

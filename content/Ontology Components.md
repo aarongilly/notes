@@ -1,9 +1,11 @@
 ---
 tags:
-- philosophy
-- coding
-- modeling
-- data
+  - philosophy
+  - coding
+  - modeling
+  - data
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T14:04-05:00
 ---
 **Individuals, Classes, Attributes, Relations, Etc**
 

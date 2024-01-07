@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-14T14:36-05:00
+updated: 2023-08-14T14:39-05:00
 ---
 **An organization for structured information standards, like a more-specific [[ISO]] that sometimes works *with* ISO**
 

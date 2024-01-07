@@ -1,9 +1,9 @@
 ---
 tags:
-- happiness
-- philosophy
+  - happiness
+  - philosophy
 created: 2023-07-31T09:51:03-05:00
-updated: 2023-07-31T09:54:06-05:00
+updated: 2023-10-11T10:38-05:00
 ---
 **Don't wait for results to give yourself permission to be satisfied.**
 

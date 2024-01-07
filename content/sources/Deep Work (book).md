@@ -3,8 +3,8 @@ author: Cal Newport
 url: 
 type: book
 created: 2023-07-31T11:55:28-05:00
-updated: 2023-07-31T12:04:57-05:00
-aliases:
+updated: 2024-01-01T23:13-06:00
+aliases: 
 ---
 ## Review
 Deep Work is work done during intense (and often long) periods of distraction-free focus. This may be writing a novel out in the woods in a cabin with no electricity, or it may be turning off notifications and closing out all applications other than your productivity application of choice to put together a business plan or write code.

@@ -1,10 +1,10 @@
 ---
 tags:
-- clarity
-- philosophy
-- productivity
+  - clarity
+  - philosophy
+  - productivity
 created: 2023-07-29T15:54:21-05:00
-updated: 2023-07-29T15:54:21-05:00
+updated: 2023-07-29T15:54-05:00
 ---
 **Productive distraction is still distraction.**
 

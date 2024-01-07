@@ -1,6 +1,8 @@
 ---
 tags:
-- modeling
+  - modeling
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T14:04-05:00
 ---
 **One of the main building blocks of UML - shows attributes and methods of classes, as well as relationships between classes.**
 

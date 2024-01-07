@@ -1,8 +1,10 @@
 ---
 tags:
-- coding
-- learning
-- index
+  - coding
+  - learning
+  - index
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-23T13:22-05:00
 ---
 **An index for Web Development Topics**
 

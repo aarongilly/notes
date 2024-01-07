@@ -1,8 +1,8 @@
 ---
 tags:
-- modeling
+  - modeling
 created: 2023-07-28T17:53:47-05:00
-updated: 2023-07-28T18:10:45-05:00
+updated: 2023-12-08T11:00-06:00
 ---
 **Brief look at IDEF0-5**
 

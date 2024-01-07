@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-07-23T11:52-05:00
+updated: 2023-07-23T11:59-05:00
 ---
 **A geometric term, meaning same shape & size, denoted with a `≡`**
 

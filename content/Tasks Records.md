@@ -3,6 +3,8 @@ tags:
   - philosophy
   - productivity
 summary: Tasks don't need to be saved in perpetuity.
+created: 2023-11-20T22:36-06:00
+updated: 2023-12-13T20:20-06:00
 ---
 **`= this.summary`**
 

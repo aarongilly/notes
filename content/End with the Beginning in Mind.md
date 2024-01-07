@@ -1,8 +1,10 @@
 ---
 tags:
-- philosophy
-- productivity
-- technique
+  - philosophy
+  - productivity
+  - technique
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T21:19-05:00
 ---
 **When you stop working on a thing, think about what you’ll start with next time you pick it up, make that process easier for your future self.**
 

@@ -1,8 +1,10 @@
 ---
 tags:
-- happiness
-- society
-- psychology
+  - happiness
+  - society
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:05-05:00
 ---
 **We do what we want, but also what society makes us want.**
 

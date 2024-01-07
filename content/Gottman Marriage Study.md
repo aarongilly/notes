@@ -1,8 +1,10 @@
 ---
 tags:
-- happiness
-- science
-- psychology
+  - happiness
+  - science
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Predicting divorce within 15 years using 15 minutes of film at 90% accuracy using conscious Thin Slicing.**
 

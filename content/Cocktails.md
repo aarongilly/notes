@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-18T21:09-05:00
+updated: 2023-09-21T16:32-05:00
 ---
 **Quality over Quantity**
 

@@ -1,8 +1,10 @@
 ---
 tags:
-- math
-- society
-- philosophy
+  - math
+  - society
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **The Criminal Justice System was designed before today's tech, and its precedents are outdated. **
 

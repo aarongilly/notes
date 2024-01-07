@@ -1,6 +1,8 @@
 ---
-tags: #productivity #happiness #philosophy 
+tags: 
 summary: You will **never** be "on top" of your tasks, schedule, and goals. Accept that.
+created: 2023-10-11T10:20-05:00
+updated: 2023-12-07T00:00-06:00
 ---
 **`= this.summary`**
 

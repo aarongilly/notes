@@ -1,9 +1,11 @@
 ---
 tags:
-- clarity
-- philosophy
-- productivity
-- modeling
+  - clarity
+  - philosophy
+  - productivity
+  - modeling
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T09:23-05:00
 ---
 **More information isn’t ALWAYS better. **
 

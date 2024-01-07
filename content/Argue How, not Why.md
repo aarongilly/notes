@@ -1,7 +1,9 @@
 ---
 tags:
-- technique
-- psychology
+  - technique
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **When arguing against a position, ask the opponent how their side works - get into the details.**
 

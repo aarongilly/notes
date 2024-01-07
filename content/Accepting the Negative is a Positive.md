@@ -1,8 +1,10 @@
 ---
 tags:
-- happiness
-- philosophy
-- quote
+  - happiness
+  - philosophy
+  - quote
+created: 2023-07-08T11:37-05:00
+updated: 2023-09-05T16:10-05:00
 ---
 **Wanting more positive experiences is a negative experience. Accepting a negative experience is a positive one.**
 

@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-09-08T09:39-05:00
+updated: 2023-09-08T09:48-05:00
 ---
 **There's *Meteorological* Seasons that align with months and *astronomical* seasons that align with equinoxes and solstices**
 

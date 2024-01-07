@@ -1,9 +1,9 @@
 ---
 tags:
-- sustainability
-- science
+  - sustainability
+  - science
 created: 2023-07-25T20:54:04-05:00
-updated: 2023-07-25T20:55:17-05:00
+updated: 2023-07-25T20:55-05:00
 ---
 **Cars are Inherently Inefficient due to their own mass vs the mass of their payload.**
 

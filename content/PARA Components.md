@@ -1,7 +1,9 @@
 ---
 tags:
-- philosophy
-- productivity
+  - philosophy
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:46-05:00
 ---
 **Projects, Areas, Resources, Archive**
 

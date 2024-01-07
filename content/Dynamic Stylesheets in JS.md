@@ -1,6 +1,8 @@
 ---
 tags:
-- coding
+  - coding
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-23T13:21-05:00
 ---
 **You CAN affect the document’s stylesheets in JS... a couple of ways, actually.**
 

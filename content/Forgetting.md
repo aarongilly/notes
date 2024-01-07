@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-23T21:20-05:00
+updated: 2023-08-23T21:30-05:00
 ---
 **Decay, Interference, Forgotten Cues**
 

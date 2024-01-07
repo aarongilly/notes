@@ -1,7 +1,9 @@
 ---
 tags:
-- happiness
-- philosophy
+  - happiness
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T09:20-05:00
 ---
 **Don't give up. It brings more long-term stress than powering through pain.**
 

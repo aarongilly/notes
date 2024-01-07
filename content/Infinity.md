@@ -1,8 +1,8 @@
 ---
 tags:
-- math
+  - math
 created: 2023-07-29T10:14:28-05:00
-updated: 2023-07-29T10:14:28-05:00
+updated: 2023-07-29T10:14-05:00
 ---
 **It goes in forever. And there are different sizes of it. It's also the basis of calculus.**
 

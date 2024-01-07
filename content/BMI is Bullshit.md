@@ -3,6 +3,8 @@ tags:
   - society
   - health
 summary: BMI is biased, flawed, and straight-up wrong.
+created: 2023-12-08T14:38-06:00
+updated: 2023-12-08T15:01-06:00
 ---
 **`= this.summary`**
 

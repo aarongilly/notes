@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-19T10:32-05:00
+updated: 2023-08-19T10:39-05:00
 ---
 **Smallest files: DrawIO + SVG for diagrams**
 

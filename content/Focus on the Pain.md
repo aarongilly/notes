@@ -1,6 +1,8 @@
 ---
-tags: #philosophy #happiness 
+tags: 
 summary: A monk found the only way to endure ice water was to *focus on the pain* rather than try to think about something else.
+created: 2023-10-11T21:13-05:00
+updated: 2023-10-11T21:20-05:00
 ---
 **`= this.summary`**
 

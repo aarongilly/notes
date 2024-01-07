@@ -4,6 +4,8 @@ tags:
   - science
   - fitness
 summary: Some metrics that can predict chances of death.
+created: 2023-11-16T18:41-06:00
+updated: 2023-11-16T19:18-06:00
 ---
 **`= this.summary`**
 

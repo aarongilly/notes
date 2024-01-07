@@ -1,7 +1,9 @@
 ---
 tags:
-- philosophy
-- notetaking
+  - philosophy
+  - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-21T12:30-05:00
 ---
 **List of 7 practical motivations for self-tracking**
 

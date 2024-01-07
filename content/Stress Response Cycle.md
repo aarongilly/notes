@@ -2,6 +2,8 @@
 tags:
   - psychology
 summary: Strategies for getting your body through stress, and dealing with it.
+created: 2023-12-06T19:10-06:00
+updated: 2023-12-06T20:07-06:00
 ---
 **`= this.summary`**
 

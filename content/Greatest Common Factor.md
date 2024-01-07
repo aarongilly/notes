@@ -1,5 +1,7 @@
 ---
 aliases: GCF
+created: 2023-07-23T22:46-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **Abbreviated "GFC", it's looking at two numbers and finding the largest of their factors.**
 

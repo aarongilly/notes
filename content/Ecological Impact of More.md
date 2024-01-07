@@ -3,6 +3,8 @@ tags:
   - happiness
   - society
   - sustainability
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-13T21:19-06:00
 ---
 **A desire to constantly scratch the novelty itch of new and different things causes great ecological harm.**
 

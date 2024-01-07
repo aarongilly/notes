@@ -1,9 +1,11 @@
 ---
 tags:
-- money
-- society
-- psychology
-- language
+  - money
+  - society
+  - psychology
+  - language
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-13T22:39-06:00
 ---
 **A thing that motivates or encourages one to do something.**
 

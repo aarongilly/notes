@@ -1,7 +1,9 @@
 ---
 tags:
-- data
-- coding
+  - data
+  - coding
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **A data structure enabling very fast retrieval of data by loading values into slots based on a hash function**
 

@@ -1,10 +1,12 @@
 ---
 tags:
-- money
-- philosophy
-- business
-- productivity
-- manufacturing
+  - money
+  - philosophy
+  - business
+  - productivity
+  - manufacturing
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-19T13:17-05:00
 ---
 **The Venn Diagram of "what I like", "what I'm good at", and "what pays" changes over time.**
 

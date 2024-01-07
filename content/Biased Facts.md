@@ -1,8 +1,10 @@
 ---
 tags:
-- society
-- philosophy
-- learning
+  - society
+  - philosophy
+  - learning
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-19T22:00-05:00
 ---
 **Just because statements are factual doesn’t mean they represent actual truth.**
 

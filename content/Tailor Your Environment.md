@@ -1,7 +1,9 @@
 ---
 tags:
-- productivity
-- habits
+  - productivity
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-18T09:40-05:00
 ---
 **Influence your environment, because it influences you.**
 

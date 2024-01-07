@@ -1,8 +1,10 @@
 ---
 tags:
-- philosophy
-- productivity
-- quote
+  - philosophy
+  - productivity
+  - quote
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-08T19:30-06:00
 ---
 **(When it comes to Behavior) What matters more than “wanting something” is aligned incentives. - 3Blue1Brown**
 

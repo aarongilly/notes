@@ -1,7 +1,9 @@
 ---
 tags:
-- philosophy
-- productivity
+  - philosophy
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-06T22:37-06:00
 ---
 **Doing something a lot is the best way to do it well.**
 
@@ -24,4 +26,4 @@ They were doing the work and learning. The other half was just theorizing.
 
 ### Related Notes
 - [[2 Minute Rule of Habits]]
-- [[Planning Vs Procrastinating ]]
+- [[Planning is Often Procrastinating]]

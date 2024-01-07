@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-07-17T15:45-05:00
+updated: 2023-07-17T15:47-05:00
 ---
 
 **When negotiating, it's good to let your opponent say "no" for a while**

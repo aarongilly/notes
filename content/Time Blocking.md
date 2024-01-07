@@ -1,6 +1,8 @@
 ---
 tags:
-- productivity
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-10-13T20:33-05:00
 ---
 **Schedule your day into themed blocks & behave according to those themes.**
 

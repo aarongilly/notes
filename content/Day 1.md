@@ -1,8 +1,10 @@
 ---
 tags:
-- philosophy
-- business
-- psychology
+  - philosophy
+  - business
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:45-05:00
 ---
 **Jeff Bezos's philosophy for succeeding in business.**
 

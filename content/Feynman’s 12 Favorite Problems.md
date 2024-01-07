@@ -1,8 +1,10 @@
 ---
 tags:
-- learning
-- technique
-- clarity
+  - learning
+  - technique
+  - clarity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **List out your favorite problems. Everything you learn, you can think ‘how does this apply to my problems?’**
 

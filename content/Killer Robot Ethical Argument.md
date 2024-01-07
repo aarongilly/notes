@@ -1,7 +1,9 @@
 ---
 tags:
-- philosophy
-- society
+  - philosophy
+  - society
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:58-05:00
 ---
 **Christian Brose [[Christian Brose]] says that robots could be more ethical in war than people**
 

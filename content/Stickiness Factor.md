@@ -1,7 +1,9 @@
 ---
 tags:
-- society
-- psychology
+  - society
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-17T20:48-06:00
 ---
 **Messages that are easier to remember, by being simple, clever, or novel, are more effective at sticking with us and therefore more effective at driving action.**
 

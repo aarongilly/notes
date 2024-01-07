@@ -1,7 +1,9 @@
 ---
 tags:
-- productivity
-- manufacturing
+  - productivity
+  - manufacturing
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-25T11:19-05:00
 ---
 **Group time spent on like-tasks together to minimize context-switching and maximize throughput.**
 

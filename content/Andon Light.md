@@ -4,6 +4,8 @@ tags:
   - manufacturing
   - technique
 summary: The "I need help here" light that you find (for example) at a cash register.
+created: 2023-12-11T12:27-06:00
+updated: 2023-12-11T12:29-06:00
 ---
 **`= this.summary`**
 

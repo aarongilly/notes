@@ -1,6 +1,8 @@
 ---
 tags:
-- science
+  - science
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-22T09:18-05:00
 ---
 **Random variation in the output of a system, prediction, or judgment.**
 

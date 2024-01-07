@@ -1,7 +1,9 @@
 ---
 tags:
-- society
-- philosophy
+  - society
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-17T18:05-05:00
 ---
 **Things that only exist in our collective consciousness.**
 

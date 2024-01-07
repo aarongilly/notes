@@ -1,8 +1,10 @@
 ---
 tags:
-- happiness
-- learning
-- psychology
+  - happiness
+  - learning
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-18T19:20-05:00
 ---
 **the quality of being anxious to challenge or avoid criticism.**
 

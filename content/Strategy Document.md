@@ -2,6 +2,8 @@
 tags:
   - business
 summary: ~1 page explaining simply where you're playing and how you'll win.
+created: 2023-12-13T22:04-06:00
+updated: 2023-12-20T09:31-06:00
 ---
 **`= this.summary`**
 

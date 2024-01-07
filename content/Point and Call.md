@@ -1,9 +1,11 @@
 ---
 tags:
-- technique
-- society
-- health
-- manufacturing
+  - technique
+  - society
+  - health
+  - manufacturing
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **A Japanese railroad innovation of pointing at and saying aloud all caution signs and signals. **
 

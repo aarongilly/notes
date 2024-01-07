@@ -1,8 +1,10 @@
 ---
 tags:
-- clarity
-- learning
-- quote
+  - clarity
+  - learning
+  - quote
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:45-05:00
 ---
 **If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions. - Albert Einstein**
 

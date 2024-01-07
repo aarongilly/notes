@@ -1,8 +1,10 @@
 ---
 tags:
-- psychology
-- learning
-- science
+  - psychology
+  - learning
+  - science
+created: 2023-07-08T11:37-05:00
+updated: 2023-11-13T19:40-06:00
 ---
 **If you weren't paying attention to a thing, you won’t remember the thing.**
 

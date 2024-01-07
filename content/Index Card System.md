@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- productivity
-- notetaking
+  - technique
+  - productivity
+  - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-21T23:28-05:00
 ---
 **Carry around index cards & a pen. Write down thoughts, tasks, and notes on them. One thing per card.**
 

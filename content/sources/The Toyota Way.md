@@ -3,8 +3,8 @@ author: Jeffrey Liker
 url: 
 type: book
 created: 2023-07-31T11:55:28-05:00
-updated: 2023-07-31T12:04:57-05:00
-aliases:
+updated: 2024-01-01T23:13-06:00
+aliases: 
 ---
 ## Review
 The Toyota Way is a systemic philosophy that enabled the slow, accumulative build up of the Toyota Production System - a series of related tools and techniques that have made Toyota THE manufacturing king.

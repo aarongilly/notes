@@ -1,7 +1,9 @@
 ---
 tags:
-- happiness
-- psychology
+  - happiness
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-11-14T09:26-06:00
 ---
 **Contempt. Stonewalling. Criticism. Defensiveness.**
 

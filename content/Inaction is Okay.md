@@ -1,7 +1,9 @@
 ---
 tags:
-- happiness
-- philosophy
+  - happiness
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-10-13T20:37-05:00
 ---
 **It's often better to do nothing & keep options open rather than to do something wrong.**
 

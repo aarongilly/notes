@@ -1,9 +1,9 @@
 ---
 tags:
-- happiness
-- psychology
+  - happiness
+  - psychology
 created: 2023-07-24T10:38:52-05:00
-updated: 2023-07-24T10:38:52-05:00
+updated: 2023-08-21T14:17-05:00
 ---
 **A peak human experience.**
 

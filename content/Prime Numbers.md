@@ -1,9 +1,9 @@
 ---
 tags:
-- math
-- language
+  - math
+  - language
 created: 2023-07-29T09:19:13-05:00
-updated: 2023-07-29T09:19:13-05:00
+updated: 2023-07-29T09:19-05:00
 ---
 **Numbers >1 that are only divisible by themselves and 1.**
 

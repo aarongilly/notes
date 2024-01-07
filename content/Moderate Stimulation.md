@@ -1,8 +1,10 @@
 ---
 tags:
-- productivity
-- happiness
-- psychology
+  - productivity
+  - happiness
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:41-05:00
 ---
 **Too much stimulation causes you to not get things done.**
 

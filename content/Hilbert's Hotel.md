@@ -3,7 +3,7 @@ aliases: Comparing Infinities
 tags:
   - math
 created: 2023-07-29T10:13:52-05:00
-updated: 2023-07-29T10:13:52-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **A metaphor for [[infinity]]. A hotel with a single, never ending hallway.**
 

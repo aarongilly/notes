@@ -4,6 +4,8 @@ tags:
   - data
   - clarity
 summary: That which warrants saving, that which does not.
+created: 2023-11-20T22:40-06:00
+updated: 2023-11-20T22:45-06:00
 ---
 **`= this.summary`**
 

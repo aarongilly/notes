@@ -1,9 +1,9 @@
 ---
 tags:
-- sustainability
-- society
+  - sustainability
+  - society
 created: 2023-07-31T08:23:24-05:00
-updated: 2023-07-31T08:23:24-05:00
+updated: 2023-07-31T08:23-05:00
 ---
 **In an average American city, approximately 50% of available space is taken up by streets and parking lots.**
 

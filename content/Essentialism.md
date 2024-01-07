@@ -1,6 +1,8 @@
 ---
 tags:
-- philosophy
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-11T16:19-06:00
 ---
 **[[Less, but Better]]**
 

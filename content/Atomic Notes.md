@@ -1,8 +1,10 @@
 ---
 tags:
-- clarity
-- philosophy
-- notetaking
+  - clarity
+  - philosophy
+  - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Notes that contain one idea, or represent one concept.**
 

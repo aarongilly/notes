@@ -1,6 +1,8 @@
 ---
 tags:
-- science
+  - science
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-31T12:33-05:00
 ---
 **Relativity assumes a continuous universe - quantum mechanics says it’s discrete**
 

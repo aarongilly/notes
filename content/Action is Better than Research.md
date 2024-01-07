@@ -1,8 +1,10 @@
 ---
 tags:
-- productivity
-- learning
-- philosophy
+  - productivity
+  - learning
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-18T14:28-06:00
 ---
 **Develop a bias for action over research.**
 

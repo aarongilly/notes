@@ -1,7 +1,9 @@
 ---
 tags:
-- philosophy
-- habits
+  - philosophy
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Once behaviors are automatic, you can accomplish things and keep a free mind.**
 

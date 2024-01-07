@@ -1,7 +1,9 @@
 ---
 tags:
-- science
-- society
+  - science
+  - society
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-01T14:50-05:00
 ---
 **SI units (e.g. "Kilogram"), as opposed to Imperial ones (e.g. "pound")**
 

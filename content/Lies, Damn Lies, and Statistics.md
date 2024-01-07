@@ -1,8 +1,10 @@
 ---
 tags:
-- math
-- society
-- quote
+  - math
+  - society
+  - quote
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:45-05:00
 ---
 **“There are three kinds of lies: lies, damned lies, and statistics.” - origin unknown, popularly attributed to Mark Twain**
 

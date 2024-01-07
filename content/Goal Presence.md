@@ -1,7 +1,6 @@
 ---
-# alias:
 created: 2023-07-29T20:48:26-05:00
-updated: 2023-07-29T20:48:26-05:00
+updated: 2023-07-29T20:48-05:00
 ---
 **How aware of your goals you are on an hour-by-hour basis**
 

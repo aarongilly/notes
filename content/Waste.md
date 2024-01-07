@@ -1,9 +1,11 @@
 ---
 tags:
-- productivity
-- manufacturing
-- business
-- sustainability
+  - productivity
+  - manufacturing
+  - business
+  - sustainability
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:41-05:00
 ---
 **The allocation of resources to that which provides no value.**
 

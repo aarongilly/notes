@@ -1,8 +1,10 @@
 ---
 tags:
-- productivity
-- psychology
-- health
+  - productivity
+  - psychology
+  - health
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-11T12:23-06:00
 ---
 **Ideal Break: A short walk with a friend in which you discuss something entirely unrelated.**
 

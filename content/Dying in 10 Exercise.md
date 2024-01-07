@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- happiness
-- clarity
+  - technique
+  - happiness
+  - clarity
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:43-05:00
 ---
 **What would you do if you were dying in 10 minutes/hours/days/months/years**
 

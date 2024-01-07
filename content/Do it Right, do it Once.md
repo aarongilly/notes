@@ -1,8 +1,10 @@
 ---
 tags:
-- philosophy
-- productivity
-- making
+  - philosophy
+  - productivity
+  - making
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:41-05:00
 ---
 **If you cut corners in a process, you are more likely to have to put in more effort later when things stop working.**
 

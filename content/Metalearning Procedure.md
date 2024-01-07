@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-16T18:12-05:00
+updated: 2023-08-16T21:01-05:00
 ---
 
 **Some general steps for better [[Metalearning]]**

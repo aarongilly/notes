@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- happiness
-- habits
+  - technique
+  - happiness
+  - habits
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Making "breaking the routine" part of the routine.**
 

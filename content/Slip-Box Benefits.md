@@ -1,6 +1,8 @@
 ---
 tags:
-- notetaking
+  - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-21T23:30-05:00
 ---
 **A note is only as valuable as its context – its network of associations, relationships, and connections to other information.**
 

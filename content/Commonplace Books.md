@@ -1,7 +1,9 @@
 ---
 tags:
-- notetaking
-- technique
+  - notetaking
+  - technique
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-13T20:51-06:00
 ---
 **Books the intellectuals used to use, containing good arguments and ideas for reference.**
 

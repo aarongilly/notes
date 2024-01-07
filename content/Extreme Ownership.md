@@ -1,8 +1,10 @@
 ---
 tags:
-- technique
-- philosophy
-- business
+  - technique
+  - philosophy
+  - business
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:02-05:00
 ---
 **owning every outcome of whatever result the team you’re leading manages to achieve.**
 

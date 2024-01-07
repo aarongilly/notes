@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-07-17T19:28-05:00
+updated: 2023-11-02T17:22-05:00
 ---
 > [!tldr] Probably three 30 minute runs per week.
 

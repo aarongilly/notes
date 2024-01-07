@@ -1,7 +1,9 @@
 ---
 tags:
-- money
-- sustainability
+  - money
+  - sustainability
+created: 2023-07-08T11:37-05:00
+updated: 2023-10-16T15:55-05:00
 ---
 **Use what you've got until you can't any more. Squeeze all the juice.**
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- clarity
-- science
+  - clarity
+  - science
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:23-05:00
 ---
 **There are limits to how good of a prediction we can make, and often they’re quire low.**
 

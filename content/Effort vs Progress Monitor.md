@@ -3,6 +3,8 @@ tags:
   - psychology
   - happiness
 summary: We all have a built in gage for the ratio of effort put into something versus progress made on it, and a bias toward meeting that expectation.
+created: 2023-12-06T20:07-06:00
+updated: 2023-12-06T20:10-06:00
 ---
 **`= this.summary`**
 

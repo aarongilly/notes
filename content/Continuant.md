@@ -1,8 +1,10 @@
 ---
 tags:
-- modeling
-- philosophy
-- language
+  - modeling
+  - philosophy
+  - language
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **A thing that retains its identity even though it's states and relations may change**
 

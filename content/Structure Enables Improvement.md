@@ -1,8 +1,10 @@
 ---
 tags:
-- philosophy
-- productivity
-- psychology
+  - philosophy
+  - productivity
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T21:16-05:00
 ---
 **Without structure, we revert to default behaviors, which typically don't get better.**
 

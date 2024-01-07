@@ -1,9 +1,11 @@
 ---
 tags:
-- clarity
-- coding
-- productivity
-- modeling
+  - clarity
+  - coding
+  - productivity
+  - modeling
+created: 2023-07-08T11:37-05:00
+updated: 2023-09-19T08:25-05:00
 ---
 **Complex systems are more difficult to maintain over time.**
 

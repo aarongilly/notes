@@ -1,6 +1,8 @@
 ---
 tags:
-- sustainability
+  - sustainability
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:45-05:00
 ---
 **Between engine output and the wheels cars lose an estimated 15% of their power on average. Electric vehicles do better.**
 

@@ -1,8 +1,10 @@
 ---
 tags:
-- productivity
-- psychology
-- language
+  - productivity
+  - psychology
+  - language
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **The self-destructive and addictive belief system that fuels this primary thought: if I look perfect and do everything perfectly, I can avoid or minimize the feelings of shame, judgment, and blame**
 

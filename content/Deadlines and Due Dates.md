@@ -1,7 +1,9 @@
 ---
 tags:
-- technique
-- productivity
+  - technique
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-04T18:44-05:00
 ---
 **When you want to work on something should be a separate datapoint from when it HAS to be done.**
 

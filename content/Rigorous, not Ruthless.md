@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-07-17T15:44-05:00
+updated: 2023-07-17T15:44-05:00
 ---
 
 > [!tldr] When in doubt, don’t hire. A company should limit its growth to how quickly they can hire **the right** people.

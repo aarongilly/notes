@@ -2,7 +2,7 @@
 aliases:
   - strategy
 created: 2023-07-28T08:38:00-05:00
-updated: 2023-07-28T09:34:57-05:00
+updated: 2023-12-13T22:37-06:00
 ---
 
 > [!success] Strategy = a integrative set of choices that positions you to win

@@ -5,6 +5,8 @@ tags:
 summary: 1.0 - guessing. 2.0 - science at time of illness. 3.0 - science *before* illness.
 aliases:
   - Medicine 3.0
+created: 2023-11-16T12:00-06:00
+updated: 2023-11-16T15:23-06:00
 ---
 
 **`= this.summary`**

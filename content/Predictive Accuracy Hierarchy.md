@@ -1,7 +1,9 @@
 ---
 tags:
-- science
-- society
+  - science
+  - society
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:23-05:00
 ---
 **Layperson judgment < Expert judgment < frugal models < equal weight models < linear regression models < Machine Learning.**
 

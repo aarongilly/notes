@@ -1,6 +1,8 @@
 ---
 tags:
-- happiness
+  - happiness
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-10T13:15-05:00
 ---
 **Mindfulness is living in the now, not the past or future.**
 

@@ -1,8 +1,8 @@
 ---
 tags:
-- philosophy
+  - philosophy
 created: 2023-07-29T18:37:58-05:00
-updated: 2023-07-29T18:37:58-05:00
+updated: 2023-07-29T18:37-05:00
 ---
 **Buddha says other people's criticism of you is their problem, basically.**
 

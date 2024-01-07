@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-07-17T15:25-05:00
+updated: 2023-07-17T15:27-05:00
 ---
 
 **Dependency, Association, and Generalization**

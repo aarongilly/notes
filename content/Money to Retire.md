@@ -1,6 +1,8 @@
 ---
 tags:
-- money
+  - money
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-16T21:05-05:00
 ---
 **Rule of Thumb: When 4% covers 80% of your pre-retirement income.**
 

@@ -1,7 +1,6 @@
 ---
-# alias:
 created: 2023-07-28T19:12:13-05:00
-updated: 2023-07-28T19:12:13-05:00
+updated: 2023-08-01T14:36-05:00
 ---
 **Fusion and Fission of different atoms have different energy responses**
 

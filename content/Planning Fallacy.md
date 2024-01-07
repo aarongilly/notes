@@ -1,7 +1,9 @@
 ---
 tags:
-- business
-- psychology
+  - business
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-07T22:27-06:00
 ---
 **When we plan tasks, we fail to account for setbacks - even when history shows they always happen.**
 

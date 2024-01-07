@@ -4,6 +4,8 @@ tags:
 summary: A hard thing to define, has many parts - ironically
 aliases:
   - complex systems
+created: 2023-12-07T21:37-06:00
+updated: 2023-12-07T22:16-06:00
 ---
 **`= this.summary`**
 

@@ -2,6 +2,8 @@
 aliases: pre-tax
 tags:
   - money
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **Standard 401k and other accts. No tax now, yes tax later.**
 

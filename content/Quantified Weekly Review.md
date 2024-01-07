@@ -1,9 +1,9 @@
 ---
 tags:
-- productivity
-- notetaking
+  - productivity
+  - notetaking
 created: 2023-07-30T21:48:28-05:00
-updated: 2023-07-30T21:52:43-05:00
+updated: 2023-12-18T15:13-06:00
 ---
 **Overlap life logging & the [[Weekly Review]] to keep yourself honest.**
 

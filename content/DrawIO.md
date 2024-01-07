@@ -1,7 +1,6 @@
 ---
-# alias:
 created: 2023-07-25T09:41:11-05:00
-updated: 2023-07-28T19:27:33-05:00
+updated: 2023-08-01T14:24-05:00
 ---
 **An open-source, [[Public Domain]] diagramming software.**
 

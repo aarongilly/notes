@@ -4,6 +4,8 @@ tags:
   - philosophy
 aliases:
   - Perfect Tool
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-06T23:47-06:00
 ---
 **A tool is perfect not when there's nothing left to add, but when there's nothing left to remove.**
 

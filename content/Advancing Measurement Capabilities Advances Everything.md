@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-07-17T14:28-05:00
+updated: 2023-07-17T14:30-05:00
 ---
 
 **Advancements in fine-grain measurements often precede new advancements which benefit from those measurements**

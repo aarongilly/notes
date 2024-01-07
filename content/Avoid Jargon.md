@@ -7,6 +7,8 @@ tags:
 summary: Jargon (& acronyms) are a defense mechanism. Speak plainly.
 aliases:
   - jargon
+created: 2023-12-20T09:23-06:00
+updated: 2023-12-20T12:55-06:00
 ---
 **`= this.summary`**
 

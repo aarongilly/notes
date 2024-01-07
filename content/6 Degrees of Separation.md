@@ -1,6 +1,8 @@
 ---
 tags:
-- society
+  - society
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-22T15:50-05:00
 ---
 **An experiment showed that two random people are likely only separated by ~6 people, largely thanks to certain individuals who connect broad swaths of people.**
 

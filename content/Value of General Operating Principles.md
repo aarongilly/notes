@@ -1,10 +1,10 @@
 ---
 tags:
-- technique
-- philosophy
-- productivity
+  - technique
+  - philosophy
+  - productivity
 created: 2023-07-31T09:22:20-05:00
-updated: 2023-07-31T09:22:20-05:00
+updated: 2023-08-22T09:29-05:00
 ---
 **Have a set of guidelines to use for situations you haven't encountered before.**
 

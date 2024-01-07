@@ -1,6 +1,8 @@
 ---
 tags:
-- index
+  - index
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-18T15:12-06:00
 ---
 **Decision making Index**
 

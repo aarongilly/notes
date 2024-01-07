@@ -1,8 +1,10 @@
 ---
 tags:
-- happiness
-- psychology
-- language
+  - happiness
+  - psychology
+  - language
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-20T13:41-05:00
 ---
 **the feeling that a person or a thing is beneath consideration, worthless, or deserving scorn.**
 

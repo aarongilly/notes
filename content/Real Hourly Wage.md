@@ -1,7 +1,9 @@
 ---
 tags:
-- technique
-- money
+  - technique
+  - money
+created: 2023-07-08T11:37-05:00
+updated: 2023-07-09T10:44-05:00
 ---
 **Your salary, minus working expenses, divided by hours worked + hours spent in service of work.**
 

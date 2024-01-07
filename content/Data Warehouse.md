@@ -1,8 +1,10 @@
 ---
 tags:
-- business
-- coding
-- data
+  - business
+  - coding
+  - data
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-11T11:27-05:00
 ---
 **Central Repository of integrated, historical data from disparate sources**
 

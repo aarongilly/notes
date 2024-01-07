@@ -3,6 +3,8 @@ tags:
   - philosophy
   - notetaking
 summary: See title.
+created: 2023-12-13T11:44-06:00
+updated: 2023-12-13T15:21-06:00
 ---
 **`= this.summary`**
 

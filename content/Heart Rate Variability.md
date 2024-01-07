@@ -2,6 +2,8 @@
 tags: 
 aliases: HRV
 summary: HRV is due to the shrinking and growing of the area the heart has to work with due to movement of the diaphragm.
+created: 2023-10-05T22:25-05:00
+updated: 2024-01-01T23:13-06:00
 ---
 **`= this.summary`**
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- society
-- psychology
+  - society
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-20T09:35-05:00
 ---
 **The types of people who cause widespread change**
 

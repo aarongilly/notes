@@ -1,6 +1,8 @@
 ---
 tags:
-- philosophy
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-09-21T15:56-05:00
 ---
 **Reporter, Meditation advocate, author of "[[10 Percent Happier|10% Happier]]".**
 

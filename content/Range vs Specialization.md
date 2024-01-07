@@ -1,7 +1,9 @@
 ---
 tags:
-- philosophy
-- psychology
+  - philosophy
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-25T11:18-05:00
 ---
 **Depending on task, either depth or breadth may be more important.**
 

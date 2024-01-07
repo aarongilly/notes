@@ -1,16 +1,16 @@
 ---
 tags:
-- clarity
-- philosophy
-- productivity
+  - clarity
+  - philosophy
+  - productivity
 created: 2023-07-24T11:32:20-05:00
-updated: 2023-07-24T11:32:20-05:00
+updated: 2024-01-06T22:24-06:00
 ---
 **From your immediate actions to what your want life to be.**
 
 ## 0 - Actions
 
-Stuff that's actively on your task list and in your rapidly-approaching calendar.
+Stuff that's actively on your task list and in your rapidly-approaching calendar. It is [[What's Important Now]]
 
 ## 1 - Projects
 

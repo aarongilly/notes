@@ -6,6 +6,8 @@ tags:
 summary: Sometimes the only option, always to be taken with a huge grain of salt.
 aliases:
   - epidemiological study
+created: 2023-11-26T12:45-06:00
+updated: 2023-12-03T21:12-06:00
 ---
 **`= this.summary`**
 

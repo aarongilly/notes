@@ -1,5 +1,6 @@
 ---
-# alias:
+created: 2023-08-23T20:47-05:00
+updated: 2023-08-23T20:49-05:00
 ---
 **Scheduled deferred [[Retrieval|recall]] exercises**
 

@@ -1,6 +1,7 @@
 ---
-# alias: 
 tags: " #health #fitness "
+created: 2023-07-09T20:11-05:00
+updated: 2024-01-03T08:23-06:00
 ---
 
 > [!tldr] chest, arms, shoulders, back, core, legs
@@ -19,5 +20,5 @@ A cross section of sources:
 - A few google results, Bard, and actually the "Strong" app
 
 ### Related
-- [[~15 Sets Per Week]]
+- [[~10-15 Sets Per Week]]
 - [[Facets of Fitness]]

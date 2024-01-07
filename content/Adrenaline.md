@@ -5,6 +5,8 @@ tags:
 summary: 
 aliases:
   - Epinephrine
+created: 2023-11-16T18:50-06:00
+updated: 2023-11-16T19:04-06:00
 ---
 **`= this.summary`**
 

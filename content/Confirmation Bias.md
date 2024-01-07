@@ -1,7 +1,9 @@
 ---
 tags:
-- society
-- psychology
+  - society
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-01T14:08-05:00
 ---
 **When you believe something is likely to be true, you'll notice cases that reinforce this belief much and likely miss cases where it isn't true.**
 

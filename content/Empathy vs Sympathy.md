@@ -1,8 +1,8 @@
 ---
 tags:
-- language
+  - language
 created: 2023-07-31T08:10:45-05:00
-updated: 2023-07-31T08:10:45-05:00
+updated: 2023-07-31T08:10-05:00
 ---
 **Sympathy = same feeling. Empathy = understand feeling.**
 

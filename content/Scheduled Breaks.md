@@ -1,9 +1,11 @@
 ---
 tags:
-- technique
-- happiness
-- productivity
-- psychology
+  - technique
+  - happiness
+  - productivity
+  - psychology
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-11T12:23-06:00
 ---
 **Pre-schedule your breaks for maximum effect. Even give them an agenda.**
 

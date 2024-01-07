@@ -1,7 +1,9 @@
 ---
 tags:
-- technique
-- health
+  - technique
+  - health
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-03T08:23-06:00
 ---
 **No "global" ideal regiment exists, but there are many that are "good enough" for most cases.**
 
@@ -36,6 +38,7 @@ Based on [[Heart Rate Zones]] of a ~33 year old
 - [[Facets of Fitness]] 
 - [[Anti-inflammatory Behavior]] 
 - [[Ideal Rest Time for Hypertrophy]] 
-- [[~15 Sets Per Week]]
+- [[~10-15 Sets Per Week]]
 - [[Minimum Viable Cardio]]
 - [[Huberman's Foundational Fitness Routine]]
+- [[Minimalist Weightlifting Training]]

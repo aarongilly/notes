@@ -1,9 +1,11 @@
 ---
 tags:
-- technique
-- happiness
-- clarity
-- productivity
+  - technique
+  - happiness
+  - clarity
+  - productivity
+created: 2023-07-08T11:37-05:00
+updated: 2024-01-05T19:49-06:00
 ---
 **An optimal timeframe for planning an ambitious life.**
 
@@ -19,7 +21,7 @@ Often when you ask people to describe their lives to to this point, they tend to
 
 ---
 
-## Source
+### Source
 - [[Designing Your Life]]
 - [[Antifragile Planning (article)]]
 - [[Getting Things Done The Art of Stress-Free Product]]

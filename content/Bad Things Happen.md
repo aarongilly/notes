@@ -1,7 +1,9 @@
 ---
 tags:
-- happiness
-- philosophy
+  - happiness
+  - philosophy
+created: 2023-07-08T11:37-05:00
+updated: 2023-10-11T14:22-05:00
 ---
 **Bad things will happen. If something bad is happening, realize that it’s normal.**
 

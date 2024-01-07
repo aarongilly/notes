@@ -1,9 +1,11 @@
 ---
 tags:
-- technique
-- productivity
-- philosophy 
-- happiness
+  - technique
+  - productivity
+  - philosophy
+  - happiness
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-16T19:55-05:00
 ---
 **It’s better to set goals that you have full control over.**
 

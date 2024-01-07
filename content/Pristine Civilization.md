@@ -1,9 +1,9 @@
 ---
 tags:
-- society
-- language
+  - society
+  - language
 created: 2023-07-29T13:32:03-05:00
-updated: 2023-07-29T13:32:03-05:00
+updated: 2024-01-01T23:22-06:00
 ---
 **Civilizations that came about in a vacuum from scratch. There were around 6 known.**
 

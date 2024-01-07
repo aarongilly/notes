@@ -1,9 +1,11 @@
 ---
 tags:
-- math
-- coding
-- modeling
-- data
+  - math
+  - coding
+  - modeling
+  - data
+created: 2023-07-08T11:37-05:00
+updated: 2023-08-04T18:13-05:00
 ---
 **1 bit = IDs 1/2 of all results **
 

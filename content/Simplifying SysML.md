@@ -4,6 +4,8 @@ tags:
   - business
   - clarity
 summary: Some thoughts on democratizing knowledge wrapped up in models.
+created: 2023-12-20T13:03-06:00
+updated: 2023-12-20T22:33-06:00
 ---
 **`= this.summary`**
 

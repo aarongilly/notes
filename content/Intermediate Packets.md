@@ -4,6 +4,8 @@ tags:
   - technique
   - productivity
   - notetaking
+created: 2023-07-08T11:37-05:00
+updated: 2023-12-11T15:19-06:00
 ---
 **Small, potentially reusable units of discrete work produced in service of large deliverables.**
 
