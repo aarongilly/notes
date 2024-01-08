@@ -20,15 +20,16 @@ Every note here *other* than this one was written with **me** as the expected au
 These notes use a slightly modified [[Slip-Box Method]]. They are meant to be [[Evergreen Notes]] and [[Atomic Notes]]. They are densely interconnected, and each relatively short. The best way to interact with them is to jump from link-to-link, use the graph view & backlinks (below), dive in on a particular tag, or the search bar. 
 
 ### Tags
-Every note is associated with one or more of the following tags:  
+Every note is associated with one or more of the tags shown at the top of this page.  
 
-In particular the tag *should* pull decently good starting points.
+In particular the **index** tag *should* pull decently good starting points.
 
 ## About Me
 
 I'm a guy trying to figure things out and live each day a little better than the last. I'm married with a couple of growing sons, living in a happy house here in Lawrence, KS.
 
 ![[GT9A8895_Gillespie_Original.jpeg]]
+
 I'm an engineer by training. Coder by interest. Productivity nerd by habit. Quantified self believer by default. Maker by choice.
 ### My Other Stuff
 * I have maintained a blog ("[The Column](https://aarongilly.com)") since 2012
