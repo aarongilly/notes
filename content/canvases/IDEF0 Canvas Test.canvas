@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"0e43ca5b293c2c00","x":-137,"y":-141,"width":250,"height":60,"type":"text","text":"Function"},
+		{"id":"9d076ba2f5398405","x":-137,"y":-300,"width":250,"height":60,"type":"text","text":"Control"},
+		{"id":"2abd14ebf541b65b","x":-360,"y":-141,"width":127,"height":60,"type":"text","text":"Input"},
+		{"id":"655a3e78cd858f56","x":220,"y":-40,"width":250,"height":60,"type":"text","text":"Function 2"},
+		{"id":"c011ecec9e0e562c","x":-137,"y":220,"width":250,"height":60,"type":"text","text":"Mechanism "},
+		{"id":"ae192c56b2a1b06f","x":584,"y":-40,"width":250,"height":60,"type":"text","text":"Main output"}
+	],
+	"edges":[
+		{"id":"2535c50d41db4201","fromNode":"c011ecec9e0e562c","fromSide":"top","toNode":"0e43ca5b293c2c00","toSide":"bottom"},
+		{"id":"bc1adeca025237eb","fromNode":"9d076ba2f5398405","fromSide":"bottom","toNode":"0e43ca5b293c2c00","toSide":"top"},
+		{"id":"90289333975c5c50","fromNode":"2abd14ebf541b65b","fromSide":"right","toNode":"0e43ca5b293c2c00","toSide":"left"},
+		{"id":"cf66f53f27082277","fromNode":"0e43ca5b293c2c00","fromSide":"right","toNode":"655a3e78cd858f56","toSide":"left","label":"Output"},
+		{"id":"2b32d8a7d999575c","fromNode":"c011ecec9e0e562c","fromSide":"top","toNode":"655a3e78cd858f56","toSide":"bottom"},
+		{"id":"afcac62e1c722f4f","fromNode":"655a3e78cd858f56","fromSide":"right","toNode":"ae192c56b2a1b06f","toSide":"left"}
+	]
+}

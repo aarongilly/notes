@@ -1,0 +1,19 @@
+---
+aliases: 
+tags:
+  - philosophy
+  - productivity
+---
+**One year from now, the direction you're headed today matters more than today's results.**
+
+### Source
+- [[Atomic Habits]]
+
+One year from now, what you accomplished today will matter much less than your trajectory today. Time passes. You will eventually be looking back at your current self. Having an off-day in the gym doesn't matter. What does matter is consistently putting in the work. 
+
+Long-term thinking drives sustainable growth. 
+
+### Related
+- [[Valley of Disappointment]]
+- [[Habits Have Compounding Returns]]
+- [[Prefer a Long-Term Philosophy]]

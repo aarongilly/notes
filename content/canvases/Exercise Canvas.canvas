@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"type":"group","id":"c25a3d291b427aa7","x":40,"y":500,"width":2060,"height":1667,"color":"3","label":"Strength "},
+		{"type":"file","file":"Big 6 Exercises.md","id":"c9ea694caaeda0a6","x":612,"y":1520,"width":361,"height":200},
+		{"type":"file","file":"Squat.md","id":"b5ef713ba7327d84","x":973,"y":1880,"width":278,"height":267},
+		{"type":"file","file":"Facets of Fitness.md","id":"fc36cb5f5f335577","x":1251,"y":-160,"width":327,"height":302},
+		{"type":"text","text":"# Endurance ","id":"efef6c072ad5025a","x":1920,"y":-145,"width":250,"height":60},
+		{"type":"text","text":"# Mobility","id":"6a925c302410282f","x":2170,"y":220,"width":250,"height":60},
+		{"type":"file","file":"RPE.md","id":"59d086f0400f2380","x":612,"y":-775,"width":360,"height":255},
+		{"type":"file","file":"METs.md","id":"753a6135800e2eb3","x":1026,"y":-811,"width":308,"height":291},
+		{"type":"file","file":"VO2 Max.md","id":"bd3581a2a465761d","x":1415,"y":-760,"width":275,"height":240},
+		{"type":"file","file":"Heart Rate Zones.md","id":"0ddd2bd98c3bf0cd","x":1757,"y":-762,"width":325,"height":244},
+		{"type":"file","file":"Major Muscle Groups.md","id":"352a8fb21ad50132","x":163,"y":773,"width":377,"height":227},
+		{"type":"file","file":"Bent-Over Row.md","id":"b0c555a03bbedffd","x":60,"y":1543,"width":303,"height":270},
+		{"type":"text","text":"## Pull","id":"8afdcc8076cf412f","x":420,"y":1604,"width":118,"height":56,"color":"4"},
+		{"type":"text","text":"## Push","id":"bfd65b37d9605ac4","x":1056,"y":1612,"width":124,"height":50,"color":"4"},
+		{"type":"file","file":"Bench Press.md","id":"aac5cef56283e35a","x":1300,"y":1610,"width":280,"height":270},
+		{"type":"file","file":"Deadlift.md","id":"802430259aee99e3","x":292,"y":1860,"width":320,"height":240},
+		{"type":"file","file":"Pull-Ups.md","id":"5b79f374012c3586","x":212,"y":1200,"width":280,"height":280},
+		{"type":"file","file":"Overhead Press.md","id":"6ef002582f39f8e9","x":1112,"y":1265,"width":296,"height":278},
+		{"type":"text","text":"# Strength","id":"6d3de4c6cac50ef4","x":723,"y":280,"width":250,"height":60},
+		{"type":"file","file":"Minimalist Weightlifting Training.md","id":"b8e0a9a76e31a7c3","x":1580,"y":564,"width":320,"height":313},
+		{"type":"file","file":"~10-15 Sets Per Week.md","id":"7b3a59e54c51e99c","x":723,"y":589,"width":360,"height":200},
+		{"type":"file","file":"Ideal Exercise Regiment.md","id":"400725ee2c9bd7aa","x":1180,"y":564,"width":281,"height":262},
+		{"type":"file","file":"Lung Capacity Predicts Longevity.md","id":"e5841b8c421134f3","x":2278,"y":-762,"width":285,"height":265}
+	],
+	"edges":[
+		{"id":"ec1a04469df3ffed","fromNode":"7b3a59e54c51e99c","fromSide":"left","toNode":"352a8fb21ad50132","toSide":"right","label":"For each"},
+		{"id":"29074bbf0e4f4c76","fromNode":"c9ea694caaeda0a6","fromSide":"left","toNode":"8afdcc8076cf412f","toSide":"right"},
+		{"id":"92b351a0eb478cd5","fromNode":"c9ea694caaeda0a6","fromSide":"right","toNode":"bfd65b37d9605ac4","toSide":"left"},
+		{"id":"e361c353c2a16708","fromNode":"bfd65b37d9605ac4","fromSide":"bottom","toNode":"b5ef713ba7327d84","toSide":"top"},
+		{"id":"c4b5ed86cd76458f","fromNode":"bfd65b37d9605ac4","fromSide":"right","toNode":"aac5cef56283e35a","toSide":"left"},
+		{"id":"b38696753cfc2d72","fromNode":"bfd65b37d9605ac4","fromSide":"top","toNode":"6ef002582f39f8e9","toSide":"bottom"},
+		{"id":"e6a59cde2f02d92c","fromNode":"8afdcc8076cf412f","fromSide":"top","toNode":"5b79f374012c3586","toSide":"bottom"},
+		{"id":"087a4bc568fc4ef0","fromNode":"8afdcc8076cf412f","fromSide":"left","toNode":"b0c555a03bbedffd","toSide":"right"},
+		{"id":"9f79e35010519c32","fromNode":"8afdcc8076cf412f","fromSide":"bottom","toNode":"802430259aee99e3","toSide":"top"},
+		{"id":"ee44ef9a28087dc7","fromNode":"fc36cb5f5f335577","fromSide":"left","toNode":"6d3de4c6cac50ef4","toSide":"top"},
+		{"id":"b8021c2df90a1895","fromNode":"6d3de4c6cac50ef4","fromSide":"bottom","toNode":"c25a3d291b427aa7","toSide":"top"},
+		{"id":"02d2221d66d03993","fromNode":"fc36cb5f5f335577","fromSide":"right","toNode":"efef6c072ad5025a","toSide":"left"},
+		{"id":"28ada5acd798efff","fromNode":"fc36cb5f5f335577","fromSide":"bottom","toNode":"6a925c302410282f","toSide":"left"},
+		{"id":"b6f6edae6ddc2a0e","fromNode":"400725ee2c9bd7aa","fromSide":"left","toNode":"7b3a59e54c51e99c","toSide":"right"}
+	]
+}
