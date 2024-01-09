@@ -12,4 +12,5 @@ The process by which the body responds (via allocation of bodily resources) to s
 - [[Huberman Labs]] Podcast
 
 ### Related
+- [[Stress Response Cycle]]
 - [[Balance]]
