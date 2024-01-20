@@ -7,7 +7,7 @@ tags:
 ---
 **P(H|E) = (P(H)P(E|H)**
 
-![[assetsimage.jpg]]
+!![[image.jpg.jpg]]
 
 Examples:
 

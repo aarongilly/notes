@@ -20,3 +20,4 @@ We have three selves, the anticipating self, the experiencing self, and the reme
 - [[Peak-End Rule]]
 - [[Anticipatory Anxiety]]
 - [[Commit for a Bit]]
+- [[3rd Person Self Talk Can Yield Better Judgment]]

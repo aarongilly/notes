@@ -13,8 +13,6 @@ tags: [index]
 - [[Car Inefficiency from Weight]]
 - [[Vehicle Internal Inefficiencies]]
 
-
-
 ---
 ### Source
 - 

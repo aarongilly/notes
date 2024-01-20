@@ -21,3 +21,4 @@ Life has its ups and downs. That’s just how it is. It’s impossible to avoid 
 - [[Just Do It]] 
 - [[Vulnerability is Necessary]]
 - [[Feeling "On Top" of Life]]
+- [[The Cost of Perfection is Infinite]]

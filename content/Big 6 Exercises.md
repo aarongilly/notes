@@ -33,8 +33,6 @@ There are big 6 compound movements. Doing JUST these would give you a pretty dec
 [[Deadlift]] 
 
 # Example Routines
-
-- [[Workout - Half Random Routine]]
 - [[Workout - My Shorter Barbell Routine]]
 - [[Workout - SSF Redemption]]
 - [[Workout - Starting Strength]]

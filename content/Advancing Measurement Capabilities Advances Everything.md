@@ -2,7 +2,6 @@
 aliases: 
 tags: [science, society, learning, making, manufacturing]
 ---
-
 **Advancements in fine-grain measurements often precede new advancements which benefit from those measurements**
 
 Our ability to make finer-grain measurements (or new kinds of technology-enabled observations) in any given area tends to precede large advancements in our understanding of how that area (or tangentially related areas) works. 

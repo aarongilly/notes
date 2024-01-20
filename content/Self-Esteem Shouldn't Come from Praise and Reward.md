@@ -16,3 +16,4 @@ Self-esteem is important. This fact was widely recognized (perhaps even *over*-r
 ### Related
 - [[Locus of Control]]
 - [[Reward Don't Make for Good Work]]
+- [[Intrinsic Motivation]]

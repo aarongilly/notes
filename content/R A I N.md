@@ -25,3 +25,4 @@ A simple acronym for how to practice mindfulness. It stands for:
 - [[Meditation]] 
 - [[You Aren’t Your Thoughts, You’re Their Thinker]] 
 - [[Mindfulness & Now]]
+- [[Interoception]]

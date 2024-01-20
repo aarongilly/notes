@@ -8,6 +8,7 @@ tags:
 summary: A transdisciplinary and integrative approach to enable successful realization, use, and retirement of systems.
 ---
 Full Definition per [[INCOSE]]:
+
 > A transdisciplinary and integrative approach to enable the successful realization, use, and retirement of engineered systems, using systems principles and concepts, and scientific, technological, and management methods.
 
 The [[Systems Engineering Book of Knowledge|SEBoK]] offers a Venn Diagram to help clarify the boundary between SE, Systems *implementation*, and systems *management*:
@@ -25,3 +26,4 @@ Systems Engineering has been a discipline since ~1950 when it was established wi
 ### Related
 - [[Elegant Systems in SE]]
 - [[Digital Engineering]]
+- [[SysML]]

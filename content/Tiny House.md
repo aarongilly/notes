@@ -39,3 +39,4 @@ You can just order tiny houses from [Home Depot](https://www.homedepot.com/p/Wav
 - [[Minimal Stuff]] 
 - [[Minimalism]] 
 - [[Wasted Energy Cooling Extra Space]]
+- [[Passive Houses]]

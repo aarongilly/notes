@@ -16,6 +16,8 @@ Or, as it's presented in [[The Happiness Equation]] : "Be Happy First". Don't pu
 
 James Stuber suggests the existence of [[Type 2 Fun]] to describe feeling happy while doing the work that *leads to the thing you want*.
 
+Once you achieve your goals, you'll probably have new goals. You have to spend much of your days [[Living For Now]].
+
 ---
 
 ### Source

@@ -14,7 +14,6 @@ tags:
 - The body heals
 
 ---
-
 ### Source
 - [[The Organized Mind]]
 

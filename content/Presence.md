@@ -14,6 +14,8 @@ Develop your powers of sight and sound. Notice those ordinary things you long st
 
 The desire for more, the desire for progress, can be the enemy of enjoying the process. The process is all there is. It is today. It is the present. [[Love the Process]]. [[Results are not Presence]].  
 
+You may ask yourself, which of your [[Three Selves]] have you been listening to lately?
+
 ---
 ### Source
 - [[Stillness is the Key]]

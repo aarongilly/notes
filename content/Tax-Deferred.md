@@ -9,6 +9,7 @@ Tax-Deferred accounts allow you to **not** pay income taxes on the money you’r
 
 There are certain restrictions and constraints you have to abide by, or pay penalties (such as personal age requirements or length-of-time requirements). 
 
+![[Untitled 65.png]]
 ## Examples
 
 [[Traditional 401k]] 

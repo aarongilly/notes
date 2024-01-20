@@ -16,6 +16,8 @@ You do all those things automatically while you think about where you want to go
 
 **Routine enables difficult things to become easy. Soon you can autopilot the accomplishment of one essential task while devoting the mind to work on the next essential thing.** Doing the same things the same way every time enables you to maintain standards of performance and avoid [[Decision Fatigue]].  It enables [[Multichannel Multitasking]]. 
 
+Be careful to stop and smell the roses every so often. [[Results are not Presence]]. Don't fill your day executing routines only to go to sleep not being sure where the day went. 
+
 ---
 
 ### Source

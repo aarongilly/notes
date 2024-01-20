@@ -21,7 +21,8 @@ Per [[The Power of Habit ]]  - the Habit Loop consists of three parts. Cue → R
 4. Reward - Whatever the result of the habit is. Serves to lessen discomfort. 
 
 ### Related
-- [[Discomfort & Motivation]]
+- [[All Motivation is the Desire to Escape Discomfort]]
 - [[Habits Have Compounding Returns]]
 - [[Habit Loop & Change]]
 - [[Four Laws of Behavior Change]]
+- [[Addiction]]

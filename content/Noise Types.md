@@ -7,7 +7,7 @@ tags:
 ---
 **Level Noise vs Pattern Noise**
 
-![[assets7E7EEC26-F039-451A-ACD1-7356283B1915.jpeg]]
+![[7E7EEC26-F039-451A-ACD1-7356283B1915.jpeg.jpeg]]
 
 **Level noise** - different base levels between individuals’ averages across all cases
 

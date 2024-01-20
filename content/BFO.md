@@ -9,6 +9,8 @@ tags:
 
 BFO is the ‘Basic Formal [[Ontology]] ’, which is an upper-level (domain-independent) ontology for scaffolding out lower-level (domain-specific) ontologies. There are multiple domain-specific ontologies that are extensions of the BFO (e.g. - the [information artifact ontology](https://github.com/information-artifact-ontology/IAO)). The BFO is documented in the spec & the OWL language.
 
+![[IMG_0964.jpeg.jpeg]]
+
 It's a hierarchy. The top-level split is a breakdown into a thing that exist and endures (a “[[Continuant]]“) and a thing that *happens* (an “Occurent”). This is basically the “Objects” and “Processes” from [[OPM]].
 
 ### Entities

@@ -18,4 +18,4 @@ Don’t fall victim to the [[Planning Fallacy]]. Prepare prepare prepare. Add 50
 - [[Essentialism]]
 
 ### Related
-- - [ ]  planning fallacy
+- [[Set Boundaries]]

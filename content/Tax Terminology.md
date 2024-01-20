@@ -4,8 +4,6 @@ tags: [language, money]
 ---
 **What some [[Tax Index|Tax]] terms mean, mostly from the 1040**
 
-Directly from the [[1040 Analysis]].
-
 **Total income** - what's called your "Taxable Gross" at work, it's gross minus [[Tax-Deferred|pre-tax]] deductions
 
 **Adjustments to income** - adding income from other sources, subtracting expenses for school
@@ -53,5 +51,3 @@ Directly from the [[1040 Analysis]].
 ### Related
 - [[Tax Index]]
 - [[Tax-Deferred|pre-tax]]
-- [[1040 Analysis]]
- 

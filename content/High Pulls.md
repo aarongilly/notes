@@ -11,8 +11,6 @@ High Pulls are an [[Olympic Weightlifting]] technique in which the lifter pulls 
 
 ### Source
 
-# Source
-
 [High Pull](https://exrx.net/WeightExercises/OlympicLifts/HighPull)
 
 ### Related

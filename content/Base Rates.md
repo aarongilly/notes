@@ -10,9 +10,12 @@ We are bad at working with probabilities, as a species. If you read that a drug 
 
 If you think you might have a disease that has a 0.005% prevalence in the population. You test for it and test positive. The tests are 95% chance accurate. You’re still MUCH MORE LIKELY to NOT have the disease than to have it. (This is an application of [[Bayes Theorem]])
 
+![[image.jpg.jpg]]
+
 ## Examples
 
 Prostate cancer - you’re more likely to die with it, than die of it. Removing the Prostate is a serious surgery that will rob you of time now (Getting the procedure & recovering) and the quality of life you’ll give up (due to side effects). Roll the dice, 12 means you die sooner, but 2 through 11 mean you’re not hassled with any of these things.
+
 
 ---
 

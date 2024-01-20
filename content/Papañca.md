@@ -7,7 +7,7 @@ tags:
 ---
 **Casting forward to the imagined worst-case scenario.**
 
-Papañca is the casting forward of the mind to the imagined worst-case scenario. It doesn't really do you any good, and adds stress.
+Papañca is the casting forward of the mind to the imagined worst-case scenario. It doesn't really do you any good, and adds stress. This is a specific type of [[Anticipatory Anxiety]]. One that you of probably stop doing. 
 
 ## Example
 

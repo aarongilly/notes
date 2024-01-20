@@ -7,7 +7,7 @@ tags:
 ---
 **Humans have an intrinsic need for control, it's motivating.**
 
-The root of all motivation, as told in [[When (book)]] is discomfort (see: [[Discomfort & Motivation]]). The biological seat of motivation is the striatum, a part of your lizard brain. Damage to the striatum can cause a complete and utter loss of motivation and the ability to make decisions. 
+The root of all motivation, as told in [[When (book)]] is discomfort (see: [[All Motivation is the Desire to Escape Discomfort]]). The biological seat of motivation is the striatum, a part of your lizard brain. Damage to the striatum can cause a complete and utter loss of motivation and the ability to make decisions. 
 
 There are medical cases of a complete and utter loss of motivation. People would become suddenly passive. Not sad. Not dealing with memory loss or change in intelligence. This comes from damage to the striatum. Very small damage can result in total apathy. They don't care to move on their own, but CAN move.
 
@@ -19,7 +19,7 @@ There are medical cases of a complete and utter loss of motivation. People would
 - [[Smarter, Faster, Better]]
 
 ### Related
-- [[Discomfort & Motivation]] 
+- [[All Motivation is the Desire to Escape Discomfort]] 
 - [[Motivation Follows Action]] 
 - [[Action Relieves Anxiety]]
 - [[Feeling "On Top" of Life]]

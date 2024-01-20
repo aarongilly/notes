@@ -16,12 +16,8 @@ The use of JAMstack technology may result in **over-reliance on third-party ser
 
 ### Source
 - [[Fireship YouTube Channel]]
-
-# Source
-
-Fireship introduced me to the concept.
-
-[Jamstack: Are Static Sites a New Revolution for the Web?](https://www.codemotion.com/magazine/frontend/web-developer/jamstack-are-static-sites-a-new-revolution-for-the-web/)
+- [Jamstack: Are Static Sites a New Revolution for the Web?](https://www.codemotion.com/magazine/frontend/web-developer/jamstack-are-static-sites-a-new-revolution-for-the-web/)
 
 ### Related
 - [[HTML CSS JavaScript]]
+- [[Static Site Generator]]

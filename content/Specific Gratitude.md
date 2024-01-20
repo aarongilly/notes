@@ -3,7 +3,7 @@ aliases:
 tags:
   - happiness
 ---
-**Gratefulness turns into happiness when it's specific. **
+**Gratefulness turns into happiness when it's specific.**
 
 Making the gratitude *specific* makes it more real. It calls attention to what's specifically worth being grateful for in your specific circumstances where you're at right *now*.
 

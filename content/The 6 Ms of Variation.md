@@ -10,6 +10,7 @@ tags:
 
 Variation in processes can stem from any of the six “M”s:
 
+![[Untitled.jpeg.jpeg]]
 Image from: [https://sixsigmastudyguide.com/six-ms-6ms-or-5ms-and-one-p-5m1p/](https://sixsigmastudyguide.com/six-ms-6ms-or-5ms-and-one-p-5m1p/)
 
 These are the sources of variation in all processes (manufacturing and anything else).

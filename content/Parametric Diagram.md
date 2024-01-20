@@ -11,7 +11,7 @@ Constraints have `Constraint Parameters`, which are bound to Block `Value Proper
 
 Parametric diagrams are exploded views of Blocks, and sometimes more specifically *Constraint* Blocks. If a parametric diagram is representing a Constraint block, it will have ports along the boundaries of the diagram frame, representing input and output points. Otherwise, if the diagram is representing a more generic block, the diagram may be self-contained.
 
-![[assetsFBD6B2CA-6A72-46A1-83B0-C1B43440CB33.jpeg]]
+![[FBD6B2CA-6A72-46A1-83B0-C1B43440CB33.jpeg.jpeg]]
 
 ---
 

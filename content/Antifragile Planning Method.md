@@ -12,6 +12,8 @@ Taylor Pearson's system for connected goal-setting & moving toward who you want 
 
 [[Antifragile]] Planning is a series of selection, execution, and review cycles, broken out on an escalating timeline, to ensure the day-to-day activities are in alignment with your overall goals and continue to be the most effective things.
 
+![[A2705359-79C3-4179-A5AB-24F75D2DB2EB.jpeg.jpeg]]
+
 # Steps
 
 ## Quarterly

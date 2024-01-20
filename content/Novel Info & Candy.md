@@ -17,4 +17,3 @@ Our brains are not biologically adapted to deal with constant information and st
 ### Related
 - [[Wealth of Information ⇒ Poverty of Attention]]
 - [[Neutral Circuit]]
-- [[avoiding

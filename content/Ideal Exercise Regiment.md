@@ -17,12 +17,12 @@ There is no single "global" recommendation that can be made for what amounts of 
 - Additional health benefits are gained by engaging in physical activity beyond the equivalent of 300 minutes of moderate-intensity physical activity a week.
 - Adults should also do **muscle-strengthening activities** of moderate or greater intensity and that involve **all major muscle groups** on **2 or more days a week**, as these activities provide additional health benefit
 
-> [!tldr] 💓 TL;DR:
-- strength train 2+ times/week & do cardio at various levels of intensity such that you’re at:
-    - 75 minutes at 130-160bpm
-    - 150 minutes at 90-130bpm
+> [!tldr]+ 💓 TL;DR
+> Strength train 2+ times/week & do cardio at various levels of intensity such that you’re at:
+> - 75 minutes at 130-160bpm
+> - 150 minutes at 90-130bpm
 
-Based on [[Heart Rate Zones]] of a ~33 year old
+Based on [[Heart Rate Zones]] of a ~33 year old.
 
 ---
 

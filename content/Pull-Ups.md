@@ -5,7 +5,7 @@ tags:
 ---
 **Hanging from a bar, pulling yourself up. Pretty simple.**
 
-![image credit: [https://ss.fitness](https://ss.fitness) - note this is actually what's commonly referred to as a "chin-up" as opposed to a "pull-up"](https://ss.fitness/img/big-six-chin-up.svg)
+![note this is actually what's commonly referred to as a "chin-up" as opposed to a "pull-up"](https://ss.fitness/img/big-six-chin-up.svg)
 
 image credit: [https://ss.fitness](https://ss.fitness) - note this is actually what's commonly referred to as a "chin-up" as opposed to a "pull-up"
 

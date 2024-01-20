@@ -14,7 +14,7 @@ Trying to force results looks like:
 Enabling results looks like:
 - setting effort-based action plans ([[Fix Time, Flex Scope]])
 - focusing on the process itself ([[Right Process ⇒ Right Results]])
-- reacting to resistance, finding new ways
+- responding to resistance, finding new ways
 - recognizing when something isn't working 
 - being satisfied by setting up the result, whether or not it comes out ([[Love the Process]])
 ## Trying to Force It

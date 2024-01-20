@@ -11,7 +11,7 @@ For a single measurement:
 
 Error = Bias + [[Noise]] 
 
-For the Mean Squared Error ([[MSE]] ) of multiple measurements:
+For the Mean Squared Error ([[Mean Squared Error]] ) of multiple measurements:
 
 MSE = Bias^2 + Noise^2
 

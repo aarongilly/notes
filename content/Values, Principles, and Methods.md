@@ -14,7 +14,7 @@ Sort of a "why", "what", and "how" trio... sort of.
 | Value | Principle | Methods |
 | :-: | :-- | -- |
 | Charity | Give what you can to those who need it more |  I will donate 25% of my bonuses and volunteer one day per quarter at XYZ shelter |
-| Simplicity |  Do the simplest thing | I will favor plans with the fewest moving parts. I won't reinvent the wheel. I will apply the [[Pareto Principle]] rather than do it all. | 
+| Simplicity |  [[Do the Simplest Thing]] | I will favor plans with the fewest moving parts. I won't reinvent the wheel. I will apply the [[Pareto Principle]] rather than do it all. | 
 
 ---
 ### Source

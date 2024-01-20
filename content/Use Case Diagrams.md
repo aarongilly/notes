@@ -15,10 +15,15 @@ Use Case diagrams illustrate the services a system provides and the actors which
 Uses Cases are a behavior of a system. Primary Actors are the people that invoke a Use Case. Secondary actors are anyone who is involved in the behavior.
 
 ## Example
-
-![from [https://en.wikipedia.org/wiki/Use_case_diagram#/media/File:Use_case_restaurant_model.svg](https://en.wikipedia.org/wiki/Use_case_diagram#/media/File:Use_case_restaurant_model.svg)](Untitled%2011.png)
-
-from [https://en.wikipedia.org/wiki/Use_case_diagram#/media/File:Use_case_restaurant_model.svg](https://en.wikipedia.org/wiki/Use_case_diagram#/media/File:Use_case_restaurant_model.svg)
+```mermaid
+---
+title: Use Cases
+---
+flowchart TD
+  w[Writer] --> cn((Create Notes))
+  r[Reader] --> rn((Read Notes))
+  w-->rn
+```
 
 ### Related
 - [[SysML]]

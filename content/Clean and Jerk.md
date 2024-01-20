@@ -10,10 +10,7 @@ Clean and Jerk is literally a [[Power Clean]] followed immediately by a [[Jerk]]
 ---
 
 ### Source
-
-# Source
-
-[Power Clean and Jerk](https://exrx.net/WeightExercises/OlympicLifts/PowerCleanJerk)
+- [Power Clean and Jerk](https://exrx.net/WeightExercises/OlympicLifts/PowerCleanJerk)
 
 ### Related
 - [[Olympic Weightlifting]]

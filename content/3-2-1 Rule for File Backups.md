@@ -5,12 +5,7 @@ tags:
 ---
 **The 3-2-1 rule states that you should keep three (or more) copies of your data on two different media and one in an offsite location.**
 
-> The 3-2-1 rule states that you should keep **three** (or more) copies of your data on **two** different media and **one** in an offsite location.
-> 
-
 ---
-
-
 
 ### Source
 

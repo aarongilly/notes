@@ -7,6 +7,6 @@ tags:
 
 ### Source
 
-![[assetsGuide to bolts.jpeg]]
+![[assets/Guide to bolts.jpeg]]
 
 ### Related

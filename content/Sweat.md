@@ -15,3 +15,4 @@ Sweat allows us to cool. Which enables distance running. Which enables our hunti
 
 ### Related
 - [[Anticipatory Anxiety]]
+- [[History of Cooling]]

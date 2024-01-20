@@ -17,5 +17,5 @@ This is a core feature of Buddhism, which is a religion heavily based around hap
 
 ### Related
 - [[Accepting the Negative is a Positive]]
-- [[Discomfort & Motivation]]
+- [[All Motivation is the Desire to Escape Discomfort]]
 - [[Enough]]

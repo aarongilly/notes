@@ -25,7 +25,7 @@ Subject - Predicate - Object (and context)
 ---
 
 ### Source
-- [[Wikipedia]]
+- Wikipedia
 
 ### Related
 - [[Graph Database]] 

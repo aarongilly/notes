@@ -6,8 +6,6 @@ tags: [data, coding]
 
 Started by Microsoft in 2007. Since adopted as an [[OASIS]] and [[ISO]] standard.
 
-more research needed
-
 ---
 ### Source
 - [Wikipedia](https://en.wikipedia.org/wiki/Open_Data_Protocol)

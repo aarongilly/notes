@@ -14,3 +14,4 @@ The process by which the body responds (via allocation of bodily resources) to s
 ### Related
 - [[Stress Response Cycle]]
 - [[Balance]]
+- [[Growth Requires Discomfort]]

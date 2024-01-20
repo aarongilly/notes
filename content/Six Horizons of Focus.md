@@ -25,11 +25,11 @@ Where do you want to be in 18 months and what do you want to have accomplished. 
 
 ## 4 - Three-to-Five Year Goal
 
-Who do you want to be in a few years, accounting for reasonable change from external factors.
+Who do you want to be in a few years, accounting for reasonable change from external factors. [[5 Year Plan]]
 
 ## 5 - Purpose & Principles
 
-What do you want your life to be.
+What do you want your life to be. [[Be Principle-Centered]]
 
 ---
 

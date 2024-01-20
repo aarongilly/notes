@@ -27,7 +27,7 @@ Open the content of a ".svg" file in notepad you see:
 </svg>
 ```
 
-Open it in a browser or image viewer and you see (minus the grid):
+Open it in a browser or image viewer and you see:
 
 ![Example](SVG_example.svg)
 

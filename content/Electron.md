@@ -9,7 +9,12 @@ tags:
 
 Electron is an Open Source software framework developed by GitHub. It uses Chromium rendering and Node.js runtime.
 
-Electron is an npm package.
+Electron is an npm package. 
+
+Electron Apps:
+- [[Obsidian]] 
+- VSCode
+- [[Notion]] (or at least it was at one point)
 
 ---
 

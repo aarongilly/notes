@@ -15,6 +15,8 @@ Another definition- Ultralearning is that math joke:
 
 Overlearning can be applied to any realm of education or technique to further build it into your brain. 
 
+A physical analog to over learning is to train your muscles to lift 300lbs now, so that they will be able to lift 200lbs in the future.
+
 ---
 ### Source
 - [[Ultralearning]]

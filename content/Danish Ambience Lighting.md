@@ -3,7 +3,7 @@ aliases:
 tags:
   - happiness
 ---
-**Candles. Warm colors. Many small lights. **
+**Candles. Warm colors. Many small lights.**
 
 Danes love candles. Danish people burn 6+ kilos of candle wax each year. Not for the scent, most Danes don't use scented candles, but for the ambiance. 
 

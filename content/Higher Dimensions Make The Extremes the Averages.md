@@ -2,7 +2,7 @@
 aliases: 
 tags: [math]
 ---
-**As you go up in number of factors considered in problem solving, it becomes increasingly likely that the optimal approach will haveat least one of them will be at an extreme.*
+**As you go up in number of factors considered in problem solving, it becomes increasingly likely that the optimal approach will have at least one of them will be at an extreme.**
 
 It's just math and probability. If you have dimensions of trade space, as you add more dimensions the "optimal" solution becomes increasingly likely to be at an extreme of one or more dimensions. 
 

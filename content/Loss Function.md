@@ -15,5 +15,5 @@ This means that there has to be a codifable loss function in order to point mach
 
 ### Related
 - [[Artificial Intelligence]]
-- [[MSE]]
+- [[Mean Squared Error]]
 - [[Math & Fairness]]

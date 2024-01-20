@@ -9,7 +9,7 @@ tags:
 
 When at all possible - keep your code, models, and specifications DRY. That is to say, don't write the same things over and over. Don't repeat yourself. Don't repeat yourself.
 
-This is a best practice because it consolidates logic into a single source of truth.
+This is a best practice because it consolidates logic into a [[single source of truth]].
 
 ## Benefits of DRY code/docs include:
 

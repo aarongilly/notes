@@ -6,7 +6,7 @@ tags:
 ---
 **Some lesser-supported Markdown syntaxes**
 
-While nearly **all** [[Markdown]] clients support the basic markdown syntax, there are some “official” extended syntaxes that are not as widely supported. These are, unfortunately, also things that applications have come up with their own non-standard ways to implement.
+While nearly **all** [[Markdown]] clients support the basic markdown syntax, there are some “official” extended syntaxes that are not as widely supported. These are, unfortunately, also things that applications have come up with their own non-standard ways to implement, including [[Notion Markdown]] and [[Obsidian]]-flavored markdown.
 
 Things commonly added:
 
@@ -71,8 +71,6 @@ Extended Markdown Specs/support:
 - MultiMarkdown
 
 ---
-
-### Source
 
 ### Source
 

@@ -43,15 +43,15 @@ A relationship from a requirement to a test case (which is a behavior modeled us
 
 ### Direct Notation
 
-![[assets90A67798-5728-4699-85DE-0DA421F7CD87.jpeg]]
+![[90A67798-5728-4699-85DE-0DA421F7CD87.jpeg.jpeg]]
 
 ### Compartment Notation
 
-![[assetsCCAA7FAD-DAA5-4521-BC6C-AFCF592D40EB.jpeg]]
+![[CCAA7FAD-DAA5-4521-BC6C-AFCF592D40EB.jpeg.jpeg]]
 
 ### Matrix Notation
 
-![[assets9B6CDD59-425B-45AE-BFB9-AB0E6C1786A8.jpeg]]
+![[9B6CDD59-425B-45AE-BFB9-AB0E6C1786A8.jpeg.jpeg]]
 
 ---
 

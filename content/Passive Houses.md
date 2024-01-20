@@ -14,11 +14,8 @@ The standard dictates:
 - No more air than 60% the volume of the house can leave the house over the course of an hour.
 
 ---
-
 ### Source
-
-### Source
-
-[Exploring Passive House Design - 90% Energy Savings!](https://youtu.be/secB3R0sIYU)
+- [Exploring Passive House Design - 90% Energy Savings!](https://youtu.be/secB3R0sIYU)
 
 ### Related
+- [[Tiny House]]

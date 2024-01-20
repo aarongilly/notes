@@ -25,5 +25,4 @@ There are 8 commonly reported elements when people talk about something they enj
 ### Related
 - [[Flow]] 
 - [[Timeboxing]] 
-- [[Defining  Project ]] 
 - [[Pleasure vs Enjoyment]]

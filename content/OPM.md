@@ -17,11 +17,7 @@ There is a free tool called OPCAT (which has evolved into [https://www.opcloud.t
 
 OPM is about Objects, which have States, which are created, modified, and consumed by Processes, and the processes that link between them. Processes and Objects are "equal players" in the OPM model. Objects and Processes always come in pairs. A Process doesn't exist without some sort of Object(s) that it modifies. Processes are described using their gerund form ("kicking", not "kick"). Objects are represented with rectangles. Processes with ovals. Arrows between them have different conventions which each have their own assigned meanings. 
 
-OPM is bi-modal - **is it has two modes of existence** (one graphical, and one textual) that can directly translate to one another. These are Object-Process Diagram (OPD) and Object-Process Language (OPL).
-
-![Derived from images on [Wikipedia](https://en.wikipedia.org/wiki/Object_Process_Methodology)](Untitled%203.png)
-
-Derived from images on [Wikipedia](https://en.wikipedia.org/wiki/Object_Process_Methodology)
+OPM is bi-modal - **is it has two modes of existence** (one graphical, and one textual) that can directly translate to one another. These modes are called Object-Process Diagram (OPD) and Object-Process Language (OPL).
 
 The [Wikipedia Article](https://en.wikipedia.org/wiki/Object_Process_Methodology) is *incredibly* thorough. The rabbit hole for [[Ontology, Semantics, and Syntax]] for this language is too deep for here. Here are some of the natively supported concepts:
 

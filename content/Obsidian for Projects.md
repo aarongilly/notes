@@ -4,9 +4,11 @@ tags:
   - notetaking
   - productivity
   - technique
-summary: Not a core competency, but impossible.
+summary: Not a core competency, but possible.
 ---
 Obsidian's new "properties" feature makes it much more Notion-like. They show databases in their roadmap, perhaps soon they will be even more [[Notion]]-like.
+
+To use Obsidian for Projects would probably be best-served by making heavy use of the [[Dataview Plug-in]] and calendar plug-in... as well as the formation of some sort of tagging scheme.
 
 ---
 ### Source

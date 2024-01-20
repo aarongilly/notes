@@ -10,6 +10,8 @@ One of the key messages in the book "[[10% Happier]] is the notion of "respondin
 
 This is also what Steven Covery was talking about when he talked about [[Be Proactive]]. 
 
+This was also identified as one of the [[4 Pillars of Toughness]].
+
 ---
 ### Source
 - [[10% Happier]]

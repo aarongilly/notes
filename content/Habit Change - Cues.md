@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: [habits, 1:]
+tags:
+  - habits
 ---
 **Make habit cues obvious & be specific about intentions.**
 

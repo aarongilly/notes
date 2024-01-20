@@ -9,7 +9,7 @@ tags:
 | --- | --- |
 | My house average this year | 2055 |
 | Standard Microwave | 1000 |
-| Human Body at Rest | 100 |
+| Human Body at Rest, or an average TV | 100 |
 | My Computer | 65 |
 | Standard Incandescent Bulb | 60 |
 | Human Brain | 20 |
@@ -17,17 +17,13 @@ tags:
 | Raspberry Pi | 4 |
 | iPhone 13 (see below) | 0.49 |
 
----
-
-### Source
-
 iPhone 13 Assumptions/research:
 
 3.7 V battery with 3.2Ah capacity & lasting 24 hours. Why not. 
 
+---
 ### Source
-
-Googling things
+- Googling things
 
 ### Related
 - [[Average Energy Cost]] 

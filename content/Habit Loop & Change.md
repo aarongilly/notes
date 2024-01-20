@@ -3,7 +3,7 @@ aliases:
 tags:
   - habits
 ---
-**You can cultivated good habits & break bad ones by manipulating each step of the Habit Loop. **
+**You can cultivated good habits & break bad ones by manipulating each step of the Habit Loop.**
 
 The basic [[Habit Loop]]  is cue → craving → response → reward. You can manipulate each step in this process to help adopt good habits and break bad ones.
 

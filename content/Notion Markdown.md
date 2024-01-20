@@ -4,9 +4,9 @@ tags:
   - notetaking
   - coding
 ---
-**How Notion [[Notion]] flavors its Extended Markdown Syntax [[Extended Markdown Syntax]] **
+**How Notion [[Notion]] flavors its Extended Markdown Syntax [[Extended Markdown Syntax]]**
 
-This note is an **experiment** to see how [[Notion]] handles [[Markdown]].
+This note is an **experiment** to see how [[Notion]] handles [[Markdown]]. This page was originally written in Notion. I see here, now, in [[Obsidian]] that Obsidian handles the **exact** same feature set. Neat. Obsidian also has a mechanism for storing ==highlights== to [[Plain Text Durability|plain text]]. So that's nice.
 
 # Fully supported in Markdown:
 

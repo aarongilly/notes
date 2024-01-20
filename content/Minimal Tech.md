@@ -10,7 +10,7 @@ Like anything else, the tenants of [[Minimalism]] can be applied to the integrat
 
 ## Amish
 
-Do not reject all technology. Mini, to most, of them have selected pieces of technology that have been carefully chosen to uphold their values and provide them with more value. They do not own a car because the cost of owning a car outweigh the benefit of owning a car in their eyes. Costs like always running to the store instead of using their local shop.
+Do not reject all technology. Many, to most, of them have selected pieces of technology that have been carefully chosen to uphold their values and provide them with more value. They do not own a car because the cost of owning a car outweigh the benefit of owning a car in their eyes. Costs like always running to the store instead of using their local shop.
 
 ## Digital Decluttering
 

@@ -3,7 +3,7 @@ aliases:
 tags:
   - psychology
 ---
-**Experiential memories are skewed towards peaks and ends. **
+**Experiential memories are skewed towards peaks and ends.**
 
 There are two selves - the experiencing self and the remembering self. 
 

@@ -10,10 +10,6 @@ There are a number of standards for creating representations for [[Entity-Relati
 
 Also the [[Block Definition Diagram ]] from [[SysML]].
 
-![Source: [Wikipedia](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)](Untitled%2029.png)
-
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)
-
 ---
 
 ### Source

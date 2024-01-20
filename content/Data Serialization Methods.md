@@ -13,12 +13,12 @@ tags:
 - Space Separated Value
 - Dot Delimited
 
-## JSON-like
+## [[JSON]]-like
 
 - [[JSON]]
 - [[YAML]]
 
-## XML-like
+## [[XML]]-like
 
 - [[XML]]
 - [[SVG]]
@@ -27,7 +27,7 @@ tags:
 ## Graph
 
 - .ttl (turtle) - the main serialization for [[Resource Description Framework]]
-- JSON-LD - also for RDF
+- [[JSON-LD]] - also for [[Resource Description Framework|RDF]]
 
 ## Real-World
 

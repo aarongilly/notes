@@ -45,4 +45,4 @@ Because [[Goals Alone Don't Get Results]], I am working a personal [[Management 
 * [[Management Operating System]]
 - [[Standard Processes]]
 - [[Inbox]]
-- [[What's Working & What Needs Attention Diagram]]
+- [[What's Working , What Needs Attention, and What You're Doing About It Diagram]]

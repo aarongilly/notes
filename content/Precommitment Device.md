@@ -32,3 +32,4 @@ A precommitment device is any sort of one-time action that ensures you will perf
 ### Related
 - [[Habit Change - Ease]]
 - [[Habit Tracking]]
+- [[Morale Dependence is Worse]]

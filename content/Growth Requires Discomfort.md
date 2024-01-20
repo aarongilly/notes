@@ -17,4 +17,5 @@ You cannot grow without being uncomfortable. If you're constantly comfortable in
 ### Related
 - [[Vulnerability is Necessary]] 
 - [[Good Feedback Requires Vulnerability]] 
-- [[Discomfort & Motivation]]
+- [[All Motivation is the Desire to Escape Discomfort]]
+- [[Allostasis]]

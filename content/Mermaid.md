@@ -21,6 +21,12 @@ It is a newer, brighter-burning cousin to [[PlantUML]]. Mermaid has native suppo
 There is an excellent free Progressive Web App for creating, learning about, and sharing Mermaid diagrams:
 [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaid.live)
 
+Since I originally wrote this note Mermaid introduced many new great features:
+- [[Frontmatter]] support for titles & config info
+- New syntactic sugar, like A & B --> C for creating two links on the same line
+- Lollipop connectors & bi-directional arrows 
+- New chart types
+
 ## Example
 
 ```mermaid
@@ -32,8 +38,6 @@ erDiagram
     ORDER||--|{ LINE-ITEM: contains
     CUSTOMER}|..|{ DELIVERY-ADDRESS: uses
 ```
-
-![https://mermaid-js.github.io/mermaid/img/simple-er.png](https://mermaid-js.github.io/mermaid/img/simple-er.png)
 
 ---
 

@@ -10,28 +10,28 @@ tags:
 
 > [!tldr] 👉 A balanced approach to fitness would not have you focus on or exclude completely any one aspect.
 
-# Facets of Fitness
+## Simplest Breakdown
+
+What I prefer for tracking, covers all the bases well enough.
 
 - Strength
-    - Lifting heavy
-- Cardiovascular Endurance
-    - Running ([[VO2 Max]])
-- Muscular Endurance
-    - Step machines, sit-ups, push-ups
-- Flexibility & Range of Motion
-    - Stretching, yoga
-- Coordination & Balance
-    - Yoga, sports
+- Cardio
+- Mobility
 
 ## Alternative Breakdown
 
 Per cited source spps.org
 
 - Cardiovascular Endurance - ability for the heart and lungs to provide oxygen
+	- Running ([[VO2 Max]])
 - Muscular Strength - amount of force muscles can produce
+	-  Lifting heavy
 - Muscular endurance - resistance to muscular fatigue
+	- Step machines, sit-ups, push-ups
 - Flexibility - ability for full range of motion about each joint
+	-  Stretching, yoga
 - Body Composition - fat mass compared to muscle/bone/organs
+	- What you eat, mostly
 
 ## Alt Alt
 
@@ -43,7 +43,7 @@ Per cited source spps.org
 - Speed - The ability to minimize the time cycle of a repeated movement.
 - Flexibility - The ability to maximize the range of motion at a given joint.
 - Balance - The ability to control the placement of bodies centre of gravity in relation to its support base.
-- Coordination - The ability to minimise transition time from one movement pattern to another.
+- Coordination - The ability to minimize transition time from one movement pattern to another.
 - Accuracy - The ability to control movement in a given direction or at a given intensity.
 
 ## Health.Gov's Table
@@ -66,7 +66,7 @@ Per cited source spps.org
 
 **Strength** - how strong are you across various functional movement patterns
 
-**Stability** - how prone are you to injury, stability is about your stabilizers somewhat, but more so about ideal functional movement patterns. Notv
+**Stability** - how prone are you to injury, stability is about your stabilizers somewhat, but more so about ideal functional movement patterns. 
 
 ---
 

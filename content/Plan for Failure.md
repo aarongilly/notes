@@ -22,3 +22,5 @@ There are a few ways to plan for failure.
 ### Related
 - [[Pre-mortem]] 
 - [[System Fault Tolerance]]
+- [[Do the Simplest Thing]]
+- [[Morale Dependence is Worse]]

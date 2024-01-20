@@ -2,7 +2,7 @@
 aliases: 
 tags: [philosophy, business, manufacturing, systemdesign]
 ---
-**Design a system so that you'd have to actively avoid success in order to fail. **
+**Design a system so that you'd have to actively avoid success in order to fail.**
 
 The definition of the Pit of Success is taken from [Jeff Atwood's blog](http://www.codinghorror.com/blog/2007/08/falling-into-the-pit-of-success.html):
 

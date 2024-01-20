@@ -8,7 +8,7 @@ tags:
 
 Among the class of 2x2-Grid-based ways of categorization (alongside the Punnet Square and the [[The Eisenhower Square]]) is the known/unknown matrix. 
 
-![[assets/PNG image.png]]
+![[PNG20image.png]]
 
 # Components
 

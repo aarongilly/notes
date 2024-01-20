@@ -6,7 +6,7 @@ tags:
 ---
 **What habit prevents you from sliding into the abyss?**
 
-The Broken Windows Theory of economics states that all broken windows should be fixed, and police should crack down on perpetrators of other such highly-visible signs of run down. **This same theory can apply to habits**. 
+[[The Broken Windows Theory]] of economics states that all broken windows should be fixed, and police should crack down on perpetrators of other such highly-visible signs of run down. **This same theory can apply to habits**. 
 
 ## Examples
 

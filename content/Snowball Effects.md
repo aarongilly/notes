@@ -23,5 +23,5 @@ Being good at a thing puts you in a situation to do the thing more, which makes 
 - 
 
 ### Related
-See body.
+- [[System Archetype]]
  

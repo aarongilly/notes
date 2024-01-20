@@ -13,5 +13,5 @@ A particular Buddhist, in training to be a monk, was subject to submission into 
 
 ### Related
 - [[Criticism and Buddha]]
-- [[Discomfort & Motivation]]
+- [[All Motivation is the Desire to Escape Discomfort]]
 - [[Embrace Boredom]]
