@@ -13,6 +13,9 @@ Complicated and complex are not synonyms. Complicated things can be easy  Simple
 ---
 
 ### Source
+- 
 
 ### Related
 - [[The Zen of Python]]
+- [[Simplicity]]
+- [[Do the Simplest Thing]]

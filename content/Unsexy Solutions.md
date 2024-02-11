@@ -9,7 +9,7 @@ tags:
 ---
 **Most common plights have obvious, albeit unsexy solutions.**
 
-Most common plights have obvious, albeit unsexy solutions. People don't want to hear the fix to their biggest problem is actually incredibly simple... but genuinely most of the chronic problems people deal with have a "one simple trick" that they aren't doing, because it's too simple and not interesting.
+Most common plights have obvious, albeit unsexy solutions. People don't want to hear the fix to their biggest problem is actually incredibly simple... but genuinely most of the chronic problems people deal with have a "one simple trick" that they aren't doing, because it's too simple and not interesting. You just need to [[Do the Simplest Thing]].
 
 ## Examples
 

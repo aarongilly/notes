@@ -34,7 +34,12 @@ tags:
   - technique
   - leadership
 ---
-`Last Updated: 2024-02-11`
+`Last Updated: 2024-02-10`
+`Note Count: 1505` 
+
+%% Dataview helper: 
+`$=dv.pages().length`
+%%
 
 > [!success] Hello world!
 

@@ -9,7 +9,7 @@ tags:
 Polar & Apple suggest there are 5 "zones", based on your maximum heart rate. The Mayo Clinic is a little less granular. They both agree on the max heart rate formula:
 
 > [!NOTE] **Max Heart Rate Approximation**:
-> $$ 220 - \text{your age in years} $$
+> $$ \text{HR}_{\text{max}} = 220 - \text{your age in years} $$
 
 If you're using the five zone approach, they typically break out zones by decades of percentages of Max Heart Rate from 50% to 100%. So for a 35 year old you'd get:
 
@@ -27,7 +27,7 @@ If you're using the five zone approach, they typically break out zones by decade
 ## Why They're Important
 The different heart rate zones tap into the [[3 Types of Energy Supply in Mammals]] differently. 
 
-## Alternatives
+## Alternative Breakdowns
 
 ### Mayo Clinic's Heart Rate Zones
 

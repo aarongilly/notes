@@ -13,6 +13,7 @@ I am not fluent in the mathematical formula coding language "Tex" or any of its 
 - `\` - the main escape character, saying "this is special"
 - `^` - superscript
 - `_` - subscript
+- `{}` - partitioning syntax
 - `\frac{a}{b}` - fractions
 - `\sqrt{a} ` - square root
 - `\sqrt[n]{a}` - nth root

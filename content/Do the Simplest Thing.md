@@ -8,7 +8,9 @@ tags:
 ---
 **Basic life advice that’s almost always been right**
 
-A lesson you’ve learned over and over again: do the simplest thing. This has come in various forms:
+A lesson you’ve learned over and over again: do the simplest thing. 
+
+This has come in various forms:
 
 - When choosing between options, pick the one with fewer moving parts and dependencies.
 - Don’t start from scratch when it’s simpler to use an existing system. [[Don’t Reinvent Things]]
@@ -24,7 +26,7 @@ Source: [https://todoist.com/inspiration/complexity-bias-comic](https://todoist.
 ---
 
 ### Source
-- [[https://todoist.com/inspiration/complexity-bias-comic](https://todoist.com/inspiration/complexity-bias-comic)](Untitled%2014.png)
+- https://todoist.com/inspiration/complexity-bias-comic
 
 ### Related
 - [[Simple is Maintainable]] 

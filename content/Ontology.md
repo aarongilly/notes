@@ -18,7 +18,7 @@ An ontology is where the real world meets the code that is being written to perf
 
 No matter what discipline or domain is being described, most ontologies use the same [[Ontology Components]]. Describing an ontology takes some variety of [[Ontology Language]] (e.g. [[IDEF5]]), and a software in which to do the work. [[Semantic Wikis]] are a form of Ontology Software.
 
-The internet is a partial ontology, through the use of semantic links and things like [[JSON-LD]].
+The internet is a partial ontology, through the use of semantic links and things like [[JSON-LD]] the "turtle" syntax for [[Resource Description Framework|RDF]].
 
 ---
 

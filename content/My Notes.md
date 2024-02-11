@@ -17,6 +17,8 @@ I have decided not to include other people’s writing (beyond simple quotes) in
 These notes are also not meant to be [[Capturing Logs|logs]][^1]. They are meant to be [[Evergreen Notes]]. They do not record details about events of my life or particulars about things that aren't universal. Ideally these Notes would be of value to anyone who may stumble across them. If that's you, hi! I hope I'm not dead. If I am dead tell my family I love them.
 
 At one point I was using the [[Dataview Plug-in]], [[Excalidraw]] plugin, and [[DrawIO]] plugin for making these notes more "rich", but ultimately this made them less portable, less easily published. So I've tried to remove those dependencies.
+### Backlinks & Outgoing Links
+The best feature of any [[PKM]] app is back-linking. Each of my notes has a "Related" section
 
 ## Structure
 
@@ -31,9 +33,12 @@ Finally, there are some standard sections at the bottom, each of which serve a p
 
 **Source** is for looking up more stuff you may not have seen yet about the note (in addition to note *attribution*), and **Related Notes** is meant to be *more* than a collection of links that you could find in the body, but instead a more considered "here's what you could jump to next", more like a train of thoughts. If this were a true [[Zettelkasten Components|Zettelkasten]] this would be the index system (that alternates letters and numbers) that allows branches of thought to exist.
 
-The **Related Notes** footer is not meant to be an exhaustive collection of related notes. Instead these are notes that "feel" related to me, but weren't necessarily included in the body of the note.
+The **Related** footer is not meant to be an exhaustive collection of related notes. Instead these are notes that "feel" related to me, but weren't necessarily included in the body of the note. For the exhaustive list of related notes, see [[#Backlinks & Outgoing Links]].
+
+Some notes (like this one) have **Footnotes**[^2]. This text is here for pseudo-completeness.
 
 [^1]:My [[PDW]] is for that.
+[^2]:Like this.
 
 ## History
 
