@@ -34,20 +34,16 @@ tags:
   - technique
   - leadership
 ---
-`Last Updated: 2024-02-10`
+`Last Updated: 2024-02-10`  
 `Note Count: 1505` 
-
-%% Dataview helper: 
-`$=dv.pages().length`
-%%
 
 > [!success] Hello world!
 
 What you're reading here are [[My Notes]]. They cover whatever topics I feel like. I wrote them using [[Obsidian]], although they originated in [[Notion]]. You're able to see them [here](https://notes-aarongilly.vercel.app/) because I used [[Quartz Publishing]] to generate a static website, which is hosted through Vercel.
 
 > [!info]- Expectations
-> A note on expectations about the notes you'll find here:  **They are imperfect.**
-> They aren't *meant* to be perfect.
+> A note on expectations about the notes you'll find here:  **They are imperfect.**  
+> They aren't *meant* to be perfect.  
 
 Every note here *other* than this one was written with **me** as the expected audience. 
 
@@ -55,9 +51,7 @@ Every note here *other* than this one was written with **me** as the expected au
 These notes use a slightly modified [[Slip-Box Method]]. They are meant to be [[Evergreen Notes]] and [[Atomic Notes]]. They are densely interconnected, and each relatively short. The best way to interact with them is to jump from link-to-link, use the graph view & backlinks (below), dive in on a particular tag, or the search bar. 
 
 ### Tags
-Every note is associated with one or more of the following tags:  
-
-In particular the tag *should* pull decently good starting points.
+Every note is associated with one or more tags (see the top of this page). They are a good entry point. In particular [the index tag](https://www.gillespedia.com/tags/index) is a good entry point to other entry points.
 
 ## About Me
 
@@ -69,3 +63,4 @@ I'm an engineer by training. Coder by interest. Productivity nerd by habit. Quan
 * I have maintained a blog ("[The Column](https://aarongilly.com)") since 2012
 * I have been doing quantified self stuff since 2014, recently rebuilt my system which is hosted [here](https://pdw.one), although [you probably shouldn't use it](https://aarongilly.com/pdw).
 * I have been making puzzle boxes for my family to solve for the past few years, which have been living at [aaronspuzzles.com](https://aaronspuzzles.com)
+* I have a [podcast about movies](https://shows.acast.com/we-scene-a-movie)
