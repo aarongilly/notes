@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - technique
@@ -23,7 +24,6 @@ Gantt Charts (and, more generally, schedules) are checklists of tasks to be comp
 ---
 
 ### Source
-
 
 ### Related
 - [[Checklists]] 

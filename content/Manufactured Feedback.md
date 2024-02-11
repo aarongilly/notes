@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - clarity
@@ -19,7 +20,6 @@ I much prefer situations where you can insert frictionless feedback at multiple 
 ---
 
 ### Source
-
 
 ### Related
 - [[Feedback is Key to Learning]] 

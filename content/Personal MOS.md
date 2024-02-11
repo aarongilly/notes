@@ -1,4 +1,5 @@
 ---
+created: 2023-12-11
 aliases: 
 tags:
   - technique
@@ -6,7 +7,7 @@ tags:
 summary: Cogitating on a [[MOS]]
 ---
 > [!done] Goal
-> To stay on top of what you're doing so you move toward where you want to go next.
+> To stay on top of what you're doing ([[Feeling "On Top" of Life|to the extent possible]]) so you move toward where you want to go next.
 
 Because [[Goals Alone Don't Get Results]], I am working a personal [[Management Operating System|MOS]] to:
 1. Minimize missed responsibilities
@@ -15,17 +16,25 @@ Because [[Goals Alone Don't Get Results]], I am working a personal [[Management 
 4. [[Connecting Areas, Projects, & Goals]]
 5. Perform a [[Commitment Inventory]] to ensure I'm not over-extending my ambitions beyond the [[Essentialism|essential]] things.
 
-## Components
-- Calendar
-- Task List
-- Notes
-- Templates & [[Standard Processes]] for quick re-use
-- Project List
-- Goals/[[OKRs]]
-- [[KPIs]]
+> [!quote] You do not rise to the level of your goals. **You fall to the level of your systems.**
+> *- James Clear*
 
-### Areas
-- Health
+## Components
+- Google
+	- Calendar
+	- Gmail
+- [[Obsidian]]
+	- Notes
+- [[Notion]]
+	- Task List
+	- Templates & [[Standard Processes]] for quick re-use
+	- Project List
+	- Goals/[[OKRs]]
+- [[PDW]]
+	- [[KPIs]]
+
+### [[Defining Area|Areas]]
+- [[Health is Vague|Health]]
 - Relationship
 - Kids
 - Job
@@ -33,9 +42,16 @@ Because [[Goals Alone Don't Get Results]], I am working a personal [[Management 
 - Friends
 - Creating
 
-### Key Activities
-- [[Weekly Review]] 
-- Monthly, quarterly, and annual reviews
+### [[Core Business Processes|Key Activities]]
+- [[Periodic Reviews]]
+	- Nightly, [[Weekly Review]] , monthly quarterly, & annual reviews
+- [[Inbox Zero]]
+- Write
+	- Assimilate new knowledge into [[My Notes]]
+	- Reflect on life & write Columns
+- Make
+	- Code-based solutions and novelties
+	- Building things with my hands
 
 ---
 ### Source

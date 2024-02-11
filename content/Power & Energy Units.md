@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - science
@@ -12,8 +13,6 @@ The ‘power company’ is really the **energy** company. They supply energy. Th
 Batteries are measured in Amp-hours (or milliamp-hours) because they put out a certain Voltage. They put out that Voltage at however many Amps for an hour. That’s [Volts]x[Amps]x[Hours], which is the same thing as [Watts]x[Hours], which is the same thing as energy. 
 
 ---
-
-
 
 # Source
 

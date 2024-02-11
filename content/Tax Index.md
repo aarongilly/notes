@@ -1,4 +1,5 @@
 ---
+created: 2023-09-21
 aliases: 
 summary: An index of what I know about Taxes
 tags: [money, index]
@@ -16,7 +17,7 @@ See the [[Retirement Index]], and [[Tax-Advantaged Accounts]], which is an Index
 
 ### Related
 - [[Tax Terminology]]
-- [[1040 Analysis]]
 - [[Income Tax Overview]]
 - [[Tax-Advantaged Accounts]]
+- [[Tax Math Reduced]]
  

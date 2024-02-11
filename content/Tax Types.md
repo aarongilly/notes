@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - money
@@ -20,7 +21,6 @@ You should expect to see varying withholdings from your pay stubs for each.
 ---
 
 ### Source
-
 
 ### Related
 - [[Pre-Tax or After-Tax, which to use ]] 

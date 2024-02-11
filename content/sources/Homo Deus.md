@@ -1,4 +1,5 @@
 ---
+created: 2023-08-10
 author: Yoval Noah Harari
 url: 
 type: book

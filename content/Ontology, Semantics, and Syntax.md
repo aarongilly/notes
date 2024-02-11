@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - modeling
@@ -17,7 +18,6 @@ All languages have these three components in order to function as a language: On
 ---
 
 ### Source
-
 
 ### Related
 - [[IDEF]] 

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - psychology
@@ -19,7 +20,6 @@ tags:
 ---
 
 ### Source
-
 
 ### Related
 - [[Loss Aversion]] 

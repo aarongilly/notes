@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - health
@@ -8,6 +9,10 @@ tags:
 VO2 Max (VO2MAX, or $VO_2 Max$ is the maximum rate of oxygen consumption per unit of time. It's the limit to how much energy you can expend through aerobic means. It's **not** what enables you to sprint at full speed for 30 seconds. It's what enables you to run a mile as fast as you can. It's related to the final stage of the [[3 Types of Energy Supply in Mammals]].
 
 VO2 Max is a powerful predictor of all-cause mortality.
+
+According to the [[Apple Health App]] (which cites its source, too) - these are the 'healthy' ranges:
+
+![[IMG_8F0A1963CBC4-1.jpeg]]
 
 ### Measuring
 

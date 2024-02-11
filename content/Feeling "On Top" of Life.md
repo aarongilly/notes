@@ -1,4 +1,5 @@
 ---
+created: 2023-10-11
 aliases: 
 tags: 
 summary: You will **never** be "on top" of your tasks, schedule, and goals. Accept that.

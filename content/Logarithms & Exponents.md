@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - math
@@ -12,7 +13,6 @@ If $x^y=z$ then $\log_x(z)=y$.
 ---
 
 ### Source
-
 
 ### Related
 - [[Fundamental Theorem of Calculus]]

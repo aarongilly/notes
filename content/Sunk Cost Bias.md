@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - business
@@ -15,7 +16,6 @@ While there is something to be said at not immediately throwing in the towel and
 ---
 
 ### Source
-
 
 ### Related
 - [[Bias Index]] 

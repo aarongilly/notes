@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - technique
@@ -26,7 +27,6 @@ Because [[Shame]] is not a necessary part of life and brings about pain - it's b
 4. Speak shame.
     
     Are you talking about how you feel and asking for what you need?
-    
 
 ---
 

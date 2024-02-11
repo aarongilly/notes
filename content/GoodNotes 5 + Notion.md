@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - technique
@@ -29,7 +30,6 @@ And more!
 ---
 
 ### Source
-
 
 ### Related
 - [[Notes (index)]]

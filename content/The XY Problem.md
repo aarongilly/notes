@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - clarity
@@ -27,8 +28,6 @@ The problem occurs when people get stuck on what they believe is the solution an
 3. If there are other solutions you've already ruled out, share why you've ruled them out. This gives more information about your requirements.
 
 ---
-
-
 
 # Source
 

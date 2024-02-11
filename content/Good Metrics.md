@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: good KPIs
 tags:
   - business
@@ -22,7 +23,7 @@ Leading measures are a good way to see if something is going off the rails befor
 Having a dashboard (something like a [[Work, Health, Love, Play Dashboard]]) or a common personal operating system (something like [[Periodic Reviews]]) will give you the needed structure to actually rely on your system of metrics.
 
 ### Think about what Behaviors are being Incentivized
-People respond to incentives. If it is possible to [[Gaming KPIs]]
+People respond to incentives. If it is possible to [[Gaming KPIs]] and [[Rule Beating]].
 
 ### Pair Quantity with Quality
 

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-19
 aliases: strategic planning
 tags: [business, productivity, manufacturing]
 ---

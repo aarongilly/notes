@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - happiness
@@ -6,7 +7,7 @@ tags:
   - productivity
   - psychology
 ---
-**Balance above all else - in these ways. **
+**[[Balance]] above all else - in these ways.**
 
 When seeking [[Balance]] - there are (practically) infinitely many dimensions you could consider. Here are some major ones.
 
@@ -24,7 +25,6 @@ When seeking [[Balance]] - there are (practically) infinitely many dimensions yo
 ---
 
 ### Source
-
 
 ### Related
 - [[Balance]] 

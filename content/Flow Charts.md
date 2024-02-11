@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - modeling
@@ -19,7 +20,6 @@ Flow charts are everywhere. Flow charts are in several [[Six Sigma]] tools,  Bus
     ![Untitled](Untitled%2052.png)
     
     ![Untitled](Untitled%2053.png)
-    
 
 They are useful for explaining how processes work. They’re typically fairly intuitive - easy to create and easy to understand. You can even create them using code with tools like [[Mermaid]] or [[PlantUML]].
 

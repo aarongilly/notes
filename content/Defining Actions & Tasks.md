@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -11,7 +12,7 @@ tags:
 
 A series of actions completes a task, which has some defined result. A series completed tasks completes a Project, which has its own larger result. The Project exists in one or many areas, which are not "completable".
 
-Practically speaking, the delineation between "Action" and "Task" is somewhat arbitrary. Actions are simple verbs. they shouldn't require explanation or additional context to understand . Tasks are slightly more abstract in nature. They may be accomplished in one of several ways. Moreover, calling an action a “task” and a task and “action” makes no difference. What’s helpful is realizing the distinction. If your task list is unapproachable, make it into an “Next Actions” list. 
+Practically speaking, the delineation between "Action" and "Task" is somewhat arbitrary. Actions are simple verbs. they shouldn't require explanation or additional context to understand. Tasks are slightly more abstract in nature. They may be accomplished in one of several ways. Moreover, calling an action a “task” and a task and “action” makes no difference. What’s helpful is realizing the distinction. If your task list is unapproachable, make it into an “Next Actions” list. 
 
 ## Example Tasks & Actions
 
@@ -31,7 +32,7 @@ Practically speaking, the delineation between "Action" and "Task" is somewhat ar
 ---
 
 ### Source
-- [[Getting Things Done The Art of Stress-Free Product]]
+- [[Getting Things Done The Art of Stress-Free Productivity]]
 
 ### Related
 - [[Defining Project ]]

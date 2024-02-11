@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - business
@@ -19,7 +20,6 @@ The Status Quo Bias applied to hopes & plans for the future is related to the [[
 ---
 
 ### Source
-
 
 ### Related
 - [[Status Quo Bias]]

@@ -1,4 +1,5 @@
 ---
+created: 2023-12-07
 aliases: 
 tags:
   - business
@@ -27,7 +28,6 @@ A key goal of DE is to enable the use of high-quality data, security, and access
 Alongside Data, *knowledge* is the most important key to successful DE. Another goal of Digital Engineering is to achieve a shared [[Mental Models]] amongst the organization. This makes new insights brought from the periphery to be more likely valid than a reflection of a misunderstanding or lack of perspective. This is done through cultural transformation, where people are encouraged and enabled to adopt new ways of thinking and working together. 
 
 Failure to address the underlying cultural shift will result in **putting a new technological coat of paint on the same crumbling organizational walls**.
-
 
 ## Interoperability and Standardization
 

@@ -1,4 +1,5 @@
 ---
+created: 2023-11-26
 tags:
   - science
   - society

@@ -1,7 +1,9 @@
 ---
+created: 2023-12-13
 aliases: 
 tags:
   - business
+  - leadership
 summary: ~1 page explaining simply where you're playing and how you'll win.
 ---
 Because [[A Plan is Not a Strategy]], strategies don't have to be (and *shouldn't* be) complicated. You should be able to write your [[What is a Strategy|strategy]] down on ~1 sheet of paper. It should lay out the logic simply, not hide behind [[Avoid Jargon|jargon]] (see: [[Feynman Technique]]), and it should cover:

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - notetaking
@@ -21,7 +22,6 @@ The closest thing to a Local version of Notion is probably [[Obsidian]].
 ---
 
 ### Source
-
 
 ### Related
 - [[Obsidian]] - A Competitor

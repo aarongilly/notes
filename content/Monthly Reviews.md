@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -19,7 +20,6 @@ The [[Weekly Review]] is an idea cadence for creating a short term action plan, 
 ---
 
 ### Source
-
 
 ### Related
 - [[Periodic Reviews]]

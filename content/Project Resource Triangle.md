@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - business
@@ -14,7 +15,6 @@ You can only have so much shaded area in that tringle. Moving up one axis will i
 ---
 
 ### Source
-
 
 ### Related
 - [[3 Personal Resources]]

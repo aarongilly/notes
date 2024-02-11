@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - health
@@ -7,9 +8,8 @@ tags:
 
 Polar & Apple suggest there are 5 "zones", based on your maximum heart rate. The Mayo Clinic is a little less granular. They both agree on the max heart rate formula:
 
-> [!NOTE]
-> 💓 **Max Heart Rate Approximation**:
-> $220 - your.age.in.years$
+> [!NOTE] **Max Heart Rate Approximation**:
+> $$ 220 - \text{your age in years} $$
 
 If you're using the five zone approach, they typically break out zones by decades of percentages of Max Heart Rate from 50% to 100%. So for a 35 year old you'd get:
 
@@ -23,6 +23,9 @@ If you're using the five zone approach, they typically break out zones by decade
 |3|146|
 | 2 | 134|
 | 1 |  below 133 |
+
+## Why They're Important
+The different heart rate zones tap into the [[3 Types of Energy Supply in Mammals]] differently. 
 
 ## Alternatives
 
@@ -54,7 +57,7 @@ Above 85% is too hard for sustained activity. This is where you start "sucking w
 
 Good for recovery. Basically walking.
 
-### Zone 2 - Light - 60-70% of HRMAX
+### [[Zone 2]] - Light - 60-70% of HRMAX
 
 Good for general endurance. Should be able to go for a long time at this intensity.
 

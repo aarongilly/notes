@@ -1,4 +1,5 @@
 ---
+created: 2023-12-20
 tags:
   - business
   - philosophy

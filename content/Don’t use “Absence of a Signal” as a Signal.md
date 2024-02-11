@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags: [technique, manufacturing, business, productivity, systemdesign]
 ---
@@ -11,7 +12,6 @@ Positive confirmation of success is better than implicit assumptions of not fail
 ---
 
 ### Source
-
 
 ### Related
 - [[The Zen of Python]] 

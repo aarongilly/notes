@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - business
@@ -15,7 +16,6 @@ When it comes to overspending, taking too long, or producing a shoddy product - 
 ---
 
 ### Source
-
 
 ### Related
 - [[Known Unknown Matrix]]

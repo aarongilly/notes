@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - modeling
@@ -13,12 +14,11 @@ If the purpose of the model is for **simulation**, then completeness is necessar
 
 It seems to me that BPMN serves no purpose, aside from potentially being used as a visual configuration in a workflow management software.
 
-[[IDEF0]] is fantastic because it knows what it was for.
+[[IDEF0]] is fantastic because it knows what it was for. 
 
 ---
-
 ### Source
-
+- 
 
 ### Related
 - [[UML]] 

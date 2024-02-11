@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - coding
@@ -11,7 +12,6 @@ Non-relational databases are databases that aren't simple tables of consistent r
 ---
 
 ### Source
-
 
 ### Related
 - [[Relational Databases]]

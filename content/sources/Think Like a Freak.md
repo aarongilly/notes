@@ -1,4 +1,5 @@
 ---
+created: 2023-08-10
 author: Steven Levitt and Stephen Dubner
 url: 
 type: book

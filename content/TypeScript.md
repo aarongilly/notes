@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - coding
@@ -10,7 +11,6 @@ TypeScript is better than JavaScript. Although apparently Svelte is moving away 
 ---
 
 ### Source
-
 
 ### Related
 - [[JavaScript]]

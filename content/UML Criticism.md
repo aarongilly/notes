@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - coding
@@ -13,7 +14,6 @@ Know *why* you’re using UML. Is your [[Modeling Purposes]] to create something
 ---
 
 ### Source
-
 
 ### Related
 - [[UML]] 

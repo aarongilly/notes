@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - coding
@@ -18,7 +19,7 @@ tags:
 | --- | --- | --- |
 | Class Diagrams [[Class Diagrams]]  | ✅ | ✅ |
 | State Diagrams [[State Diagrams]]  | ✅ | ✅ |
-| Entity-Relationship Model [[Entity-Relationship Model]]  | ✅ | ✅ |
+| Entity-Relationship Model [[Entity-Relationship Diagrams]]  | ✅ | ✅ |
 | Flow Charts [[Flow Charts]]  | ✅ | ✅ |
 | Gantt Charts [[Gantt Charts]]  | ✅ | ✅ |
 | Pie Chart | ❌ | ✅ |
@@ -32,7 +33,6 @@ tags:
 ---
 
 ### Source
-
 
 # Deployment
 

@@ -1,4 +1,5 @@
 ---
+created: 2023-09-14
 aliases: 
 tags: [coding, philosophy]
 ---

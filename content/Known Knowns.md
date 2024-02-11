@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - business
@@ -11,7 +12,6 @@ Known knowns are the easiest part of the [[Known Unknown Matrix]]. They are thin
 ---
 
 ### Source
-
 
 ### Related
 - [[Known Unknown Matrix]]

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - language
@@ -12,7 +13,6 @@ Complicated and complex are not synonyms. Complicated things can be easy  Simple
 ---
 
 ### Source
-
 
 ### Related
 - [[The Zen of Python]]

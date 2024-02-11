@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - technique
@@ -30,7 +31,6 @@ Mechanisms:
 ---
 
 ### Source
-
 
 ### Related
 - [[Anti-inflammatory Diet]] 

@@ -1,4 +1,5 @@
 ---
+created: 2023-08-14
 aliases:
   - cross product
   - dot product
@@ -14,7 +15,6 @@ Dot and cross products are still confusing.
 Just add or subtract each element in `a` with its corresponding position in `b`.
 ## Magnitude
 Use the Pythagorean theorem. Square all the terms, add them, then do a square root.
-
 
 ## 2x1 and 2x2
 A vector on a 2d plane is defined by a vector `(a, b)`. If you take a 2x1 vector (or 1x2, doesn't matter) and multiply it by a 2x2 matrix, the result will be a new 2x1 vector, which is effectively just a *scaling and rotation* of the first one.

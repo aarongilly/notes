@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - clarity
@@ -9,13 +10,14 @@ tags:
 
 A lesson you’ve learned over and over again: do the simplest thing. This has come in various forms:
 
+- When choosing between options, pick the one with fewer moving parts and dependencies.
 - Don’t start from scratch when it’s simpler to use an existing system. [[Don’t Reinvent Things]]
 - Don’t solve hypothetical problems. [[YAGNI]]
 - Set simple goals. Apply yourself to achieving them in the simplest possible way. [[SMART Goals]]
 - Know [[When to Decide]] is probably earlier than you expect ([[Optimum Level of Information]]), then [[Decide and Move On]]
 - Consistently performing simple [[2 Minute Rule of Habits]] or [[2 Minute Rule of GTD]] will yield better long-term results.
 
-![Source: [https://todoist.com/inspiration/complexity-bias-comic](https://todoist.com/inspiration/complexity-bias-comic)](Untitled%2014.png)
+![Comic showing how we overcomplicate health, productivity, personal finance, etc](https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_2624/https%3A%2F%2Ftdinspiration.wpengine.com%2Fwp-content%2Fuploads%2F2021%2F05%2FCognitive_Biases-complexity_Doist.png)
 
 Source: [https://todoist.com/inspiration/complexity-bias-comic](https://todoist.com/inspiration/complexity-bias-comic)
 
@@ -23,7 +25,6 @@ Source: [https://todoist.com/inspiration/complexity-bias-comic](https://todoist.
 
 ### Source
 - [[https://todoist.com/inspiration/complexity-bias-comic](https://todoist.com/inspiration/complexity-bias-comic)](Untitled%2014.png)
-
 
 ### Related
 - [[Simple is Maintainable]] 

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - clarity
@@ -34,7 +35,7 @@ What do you want your life to be. [[Be Principle-Centered]]
 ---
 
 ### Source
-- [[Getting Things Done The Art of Stress-Free Product]]
+- [[Getting Things Done The Art of Stress-Free Productivity]]
 
 ### Related
 - [[Defining Area ]]

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - modeling
@@ -8,7 +9,6 @@ tags:
 Use Case diagrams illustrate the services a system provides and the actors which care about those services. A system, when viewed through the lens of a Use Case diagram, can be thought of as a tool which provides utility/value to *someone*. The Use Case diagram makes that value clear.
 
 ---
-
 
 - [[SysML Distilled]]
 

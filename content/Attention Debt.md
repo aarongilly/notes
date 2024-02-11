@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - clarity
@@ -15,7 +16,6 @@ tags:
 ---
 
 ### Source
-
 
 ### Related
 - [[Commitment Inventory]]

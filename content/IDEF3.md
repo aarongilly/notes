@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - modeling
@@ -64,3 +65,4 @@ It’s there, so I’m including it. Don’t worry about it, though. I cannot im
 - [[Activity Diagrams]] 
 - [[State Diagrams]] 
 - [[Block Definition Diagram ]]
+- [[Diagram Types (index)]]

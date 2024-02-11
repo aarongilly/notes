@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - health
@@ -22,7 +23,6 @@ Recombinant DNA (DNA made in a lab)
         - Humira
         - Enbrel
         - Remicade
-    
 
 ---
 

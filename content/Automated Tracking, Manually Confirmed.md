@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - technique
@@ -16,7 +17,6 @@ Manual-only tracking is more likely to result in missed data.
 ---
 
 ### Source
-
 
 ### Related
 - [[Single Source of Truth]]

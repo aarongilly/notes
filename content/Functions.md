@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - math
@@ -47,7 +48,6 @@ The result of a function. Its output.
 ---
 
 ### Source
-
 
 ### Related
 - [[Maps]]

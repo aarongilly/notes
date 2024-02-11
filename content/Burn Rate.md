@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - money
@@ -12,7 +13,6 @@ Your [[Budget]] should be set after closely analyzing your burn rate.
 ---
 
 ### Source
-
 
 ### Related
 - [[Budget]]

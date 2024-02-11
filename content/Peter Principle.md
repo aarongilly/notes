@@ -1,4 +1,5 @@
 ---
+created: 2023-12-05
 aliases: 
 tags:
   - business

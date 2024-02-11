@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -26,7 +27,7 @@ It does, however, clearly delineate the different mindsets with which you should
 
 ### Source
 - [[PARA Method]]
-- [[Getting Things Done The Art of Stress-Free Product]]
+- [[Getting Things Done The Art of Stress-Free Productivity]]
 
 ### Related
 - [[Defining Area]]

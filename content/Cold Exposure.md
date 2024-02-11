@@ -1,4 +1,5 @@
 ---
+created: 2023-11-16
 aliases: 
 tags: 
 summary: a brief deliberate period of exposure to icy water for various benefits

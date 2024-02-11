@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -14,8 +15,6 @@ The one true exception to the guidance “[[Never Multitask]]” is multichannel
 - Cleaning the house while listening to a book
 - Any task that involves waiting in a line + any other task which may be done from that line
 - Exercising while thinking about a problem you're trying to solve
-
- 
 
 ---
 

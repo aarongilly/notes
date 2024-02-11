@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - philosophy
@@ -42,7 +43,6 @@ In 4 Categories: Philosophy, Process, People, & Problem Solving
 - Go see for yourself, and thoroughly understand the situation
 - Make decisions slowly, and by consensus, then act upon them rapidly
 - Become a learning organization through relentless reflection and continuous improvement
-
 
 ---
 

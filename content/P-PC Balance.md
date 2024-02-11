@@ -1,11 +1,12 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - philosophy
   - productivity
   - manufacturing
 ---
-**Balance work on production with work on the ability to produce.**
+**[[Balance]] work on production with work on the ability to produce.**
 
 # Definitions
 

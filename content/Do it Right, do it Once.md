@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - philosophy
@@ -18,7 +19,6 @@ If you cut corners in a process, you are more likely to have to put in more effo
 ---
 
 ### Source
-
 
 ### Related
 - [[Right Process ⇒ Right Results]]

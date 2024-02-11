@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - math
@@ -10,7 +11,6 @@ tags:
 The following quote was popularized by Mark Twain, although it’s unclear who originally coined it:
 
 > There are three kinds of lies: lies, damned lies, and statistics
-> 
 
 ---
 

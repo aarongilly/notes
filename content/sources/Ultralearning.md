@@ -1,4 +1,5 @@
 ---
+created: 2023-08-14
 author: Scott Young
 url: https://www.scotthyoung.com/blog/ultralearning/
 type: book

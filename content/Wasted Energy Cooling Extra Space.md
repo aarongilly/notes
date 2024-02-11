@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - sustainability
@@ -13,7 +14,6 @@ This is one of the benefits of [[Tiny House]]s.
 ---
 
 ### Source
-
 
 ### Related
 - [[Car Inefficiency from Weight]] 

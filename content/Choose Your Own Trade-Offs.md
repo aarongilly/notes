@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - clarity
@@ -11,7 +12,8 @@ Because resources are limited ([[Anything, but Not Everything]]), everything is 
 ## Examples
 
 - If you don't fight for your nights and weekends, you may lose them to "extra tasks" at work.
-- If you don't budget smartly, you're money will be out before you've covered your wants.
+- If you don't [[budget]] smartly, you're money will be out before you've covered your wants.
+- I'm choosing to *not* use some plugins that would make these notes a little easier to write on account of my commitment [[Only Use Obsidian Plug-ins That Retain Portability]]
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - technique
@@ -9,17 +10,11 @@ tags:
 
 For a single measurement:
 
-Error = Bias + [[Noise]] 
+Error = [[Bias]] + [[Noise]] 
 
-For the Mean Squared Error ([[Mean Squared Error]] ) of multiple measurements:
+For the [[Mean Squared Error]] (MSE) of multiple measurements:
 
 MSE = Bias^2 + Noise^2
-
-Using the Pythagorean Theorem gives you a nice geometric representation that can give you a feel for the contributions of both noise and bias to MSE:
-
-![[assetsImage derived from the book itself.]]
-
-Image derived from the book itself.
 
 Reduction is either bias or noise will reduce overall error.
 

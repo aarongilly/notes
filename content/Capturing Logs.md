@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -12,7 +13,6 @@ This is the [[Lifelogging]] category of ongoing capture. As events occur in your
 ---
 
 ### Source
-
 
 ### Related
 - [[Lifelogging]]

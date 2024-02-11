@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - psychology
@@ -14,7 +15,6 @@ You are not your internal narrator. You’re the person who he’s talking to.
 ---
 
 ### Source
-
 
 ### Related
 - [[Meditation]] 

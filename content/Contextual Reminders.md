@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - clarity
@@ -42,7 +43,6 @@ Contextual reminders is one of **the most helpful tools** you can add to your pe
 
 ---
 # Source
-
 
 # Related
 - [[Organization & Spacetime]]

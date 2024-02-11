@@ -1,4 +1,5 @@
 ---
+created: 2023-08-21
 aliases: modern algebra
 tags: [math]
 ---

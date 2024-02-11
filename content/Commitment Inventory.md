@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - technique
@@ -19,6 +20,8 @@ Doing a commitment inventory serves to align the energy you spend with the relat
 5. Organize your to-dos around your categories .If you can’t really fit a “to-do” that’s come across your plate into a category, ask yourself if you really should do it at all
 6. Break down big tasks into small [[checklists]]
 7. Work in bursts, aligned with your categories. Do [[Pomodoro Technique 🍅 ]] -style work bursts, themed around a given Category. 
+
+See also the [[HBR "Life Strategy"#Step 4 - How Do I Assess My Life?]] - very related.
 
 ---
 

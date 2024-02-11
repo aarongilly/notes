@@ -1,4 +1,5 @@
 ---
+created: 2023-08-18
 aliases:
   - 2 Minute Rule
   - 5 Minute Rule

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -6,7 +7,6 @@ tags:
 **Organization is intentional allocation of spacetime**
 
 ### Source
-
 
 Organization is the intentional allocation of spacetime. Not just space. Not just time. Both, working together.
 

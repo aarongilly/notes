@@ -1,4 +1,5 @@
 ---
+created: 2023-11-01
 aliases: 
 tags:
   - psychology
@@ -10,7 +11,6 @@ The concept of "ego depletion" was coined during an initial study into people's 
 - fatigue - lack of sleep, or overexetion
 - pain - physical and emotional pain
 - **distraction** - being distracted makes you LESS LIKELY to have the willpower to do what needs doing
-
 
 ---
 ### Source

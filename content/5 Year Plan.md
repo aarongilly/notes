@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - technique
@@ -23,7 +24,7 @@ Often when you ask people to describe their lives to to this point, they tend to
 ### Source
 - [[Designing Your Life]]
 - [[Antifragile Planning (article)]]
-- [[Getting Things Done The Art of Stress-Free Product]]
+- [[Getting Things Done The Art of Stress-Free Productivity]]
 
 ### Related
 - [[Six Horizons of Focus]] 

@@ -1,9 +1,11 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - society
   - philosophy
   - learning
+  - leadership
 ---
 **Who we are & how we engage with the world are much stronger predictors of how our children will do than how much we know about parenting.**
 

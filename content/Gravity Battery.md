@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - sustainability
@@ -31,7 +32,6 @@ There are startup companies that want to make large-scale gravitational batterie
 ---
 
 ### Source
-
 
 ### Related
 - [[Average Energy Cost]] 

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-10
 aliases: 
 tags: [habits, data, technique]
 ---
@@ -11,7 +12,6 @@ Manual-only tracking - forgetfulness, laziness
 Examples:
 - Nightly review of automatically-tracked datapoints.
 - Logging 
-
 
 ---
 ### Source

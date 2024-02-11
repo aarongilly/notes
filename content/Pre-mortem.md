@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - technique
@@ -12,7 +13,6 @@ When undertaking a project, in particular a *group* project, it is a useful prac
 ---
 
 ### Source
-
 
 ### Related
 - [[Plan for Failure]] 

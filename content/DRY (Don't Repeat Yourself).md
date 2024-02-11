@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - coding
@@ -26,6 +27,5 @@ This is a best practice because it consolidates logic into a [[single source of 
 ---
 
 ### Source
-
 
 ### Related

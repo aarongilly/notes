@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - coding
@@ -39,8 +40,6 @@ Ultimately, it's dependent on language.
     - SQL
 
 ---
-
-
 
 # Source
 

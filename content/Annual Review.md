@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - clarity
@@ -24,7 +25,6 @@ There are a litany of people doing annual reviews. It's natural. It's also extre
 ---
 
 ### Source
-
 
 ### Related
 - [[Beginnings]]

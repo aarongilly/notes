@@ -1,4 +1,5 @@
 ---
+created: 2024-01-16
 tags:
   - sustainability
   - society

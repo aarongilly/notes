@@ -1,12 +1,14 @@
 ---
-author: 
-url: 
-type: 
+created: 2023-11-12
+author: Peter Attia
+url: https://peterattiamd.com
+type: book
 aliases: 
-tags: [source]
+tags:
+  - source
 ---
 ## Review
-subjectiveOpinionOnThing
+The book was good. Probably more technical than it needed to be. but whatever i"m glad I listened to it.
 
 ## Notes
 ```dataview

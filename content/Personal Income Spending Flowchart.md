@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - money
@@ -46,8 +47,6 @@ In non-flowchart form: (see [full source](https://www.reddit.com/r/personalfinan
 ![Untitled](Untitled%2017.png)
 
 ---
-
-### Source
 
 ### Source
 

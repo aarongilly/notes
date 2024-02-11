@@ -1,4 +1,5 @@
 ---
+created: 2023-07-10
 aliases: 
 tags: [philosophy, coding, language, clarity, modeling, systemdesign]
 ---

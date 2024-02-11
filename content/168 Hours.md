@@ -1,9 +1,10 @@
 ---
+created: 2024-01-26
 tags:
   - productivity
 aliases:
 ---
-There's only 168 hours in a week. What you do with them, consistently, is what defines your life. [[You Are Time]]. It's definitely worth thinking about (and, from time to time, tracking) how you spend your 168 hours.
+There's only 168 hours in a week. What you do with them, consistently, is what defines your life. [[You Are Time]]. It's definitely worth thinking about (and, from time to time, tracking) how you spend your 168 hours. 
 
 ## An Ideal(ish) Week
 Base 168
@@ -21,7 +22,7 @@ Remaining: 25
 Remaining: 18
 * **Everything Else**
 
-Even after spending "appropriate" amounts of time on all the things, you still have essentially *a full day per week* of extra time. Arnold Schwarzenegger said:
+Even after spending "appropriate" amounts of time on all the things, you still have essentially *a full day per week* of extra time. As Arnold Schwarzenegger said:
 
 > [!quote] Organize Your Day!
 

@@ -1,9 +1,11 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - technique
   - coding
   - modeling
+  - systemdesign
 ---
 **When designing a system, don’t use e.g. “lack of yes” as the “no” condition.**
 
@@ -16,7 +18,6 @@ Utilizing a Lack of Signal as a signal is an [[Error Trap]].
 ---
 
 ### Source
-
 
 ### Related
 - [[Error Trap]]

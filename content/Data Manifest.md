@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - notetaking
@@ -30,7 +31,6 @@ Oura Ring
 ---
 
 ### Source
-
 
 ### Related
 - [[Lifelogging]]

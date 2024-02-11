@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - data
@@ -11,7 +12,6 @@ A foreign key is just a [[Primary Key]] from a different table.
 ---
 
 ### Source
-
 
 ### Related
 - [[SQL]]

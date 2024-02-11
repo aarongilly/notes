@@ -1,4 +1,5 @@
 ---
+created: 2024-01-18
 tags:
   - psychology
   - language
@@ -11,7 +12,6 @@ I guess in the strictest sense of the word, we are all addicted to food and slee
 ## Examples
 - If you don't have your phone, you start to feel [[Anxiety]]. That's the textbook definition of addiction.
 - If you get irritable when you go without smoking, or eating snacks, or whatever. 
-
 
 ---
 ### Source

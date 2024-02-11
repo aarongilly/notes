@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - sustainability
@@ -14,7 +15,6 @@ Green methods, such as solar & wind energy, are *particularly* ‘bursty’ powe
 ---
 
 ### Source
-
 
 ### Related
 - [[Energy Storage]] 

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - happiness
@@ -13,7 +14,6 @@ Life has its ups and downs. That’s just how it is. It’s impossible to avoid 
 ---
 
 ### Source
-
 
 ### Related
 - [[Being Wrong]]

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - society
@@ -22,7 +23,6 @@ I believe confirmation bias plays a large part in prejudice and hate in our worl
 ---
 
 ### Source
-
 
 ### Related
 - [[Bias Index]] 

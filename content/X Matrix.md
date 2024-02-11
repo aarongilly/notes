@@ -1,4 +1,5 @@
 ---
+created: 2023-08-09
 aliases: 
 tags: [business, technique, clarity, manufacturing]
 ---

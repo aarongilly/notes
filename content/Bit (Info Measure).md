@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - math
@@ -19,7 +20,7 @@ When you have a sample population to make a random selection from, 1 bit of info
 The general formula for bits of information is:
 
 $$
-(1/2)^I=p
+(\frac{1}{2})^I=p
 $$
 
 Where “I” is information, measured in bits, and “p” is the probability of a random selection being identifiable.

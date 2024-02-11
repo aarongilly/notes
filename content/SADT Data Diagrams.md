@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - modeling
@@ -13,6 +14,8 @@ The semantics of arrows for data:
 - Inputs are activities that produce the data.
 - Outputs consume the data.
 - Controls influence the internal state of the data.
+
+> [!tldr] They are basically just IDEF0 diagrams where the arrows are data.
 
 ---
 

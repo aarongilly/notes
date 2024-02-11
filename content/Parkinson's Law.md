@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - business
@@ -16,7 +17,6 @@ A ten minute task will take an hour if that’s the amount of time that was give
 ---
 
 ### Source
-
 
 ### Related
 - [[Set Impossibly Short Deadlines]]

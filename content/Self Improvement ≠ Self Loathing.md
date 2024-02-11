@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - happiness
@@ -15,7 +16,6 @@ Enjoy [[Presence]]. Do not put off satisfaction until you've achieved a goal. [[
 ---
 
 ### Source
-
 
 ### Related
 - [[Love the Process]]

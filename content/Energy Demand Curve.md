@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - sustainability
@@ -13,7 +14,6 @@ Our ‘peak power’ timeframe from Evergy is considered to be 2 to 7pm on weekd
 ---
 
 ### Source
-
 
 ### Related
 - [[Energy Storage]]

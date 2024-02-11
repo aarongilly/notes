@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - clarity
@@ -39,7 +40,6 @@ Goals without an associated deadline do not inspire a sense of urgency. The purp
 ---
 
 ### Source
-
 
 ### Related
 - [[OKRs]]

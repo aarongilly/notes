@@ -1,4 +1,5 @@
 ---
+created: 2023-08-22
 aliases: 
 tags: [making]
 ---
@@ -74,7 +75,6 @@ Equal parts:
 > Garnish with orange slice
 #### Directions:
 > Add sugar water & bitters. Stir. Then add whiskey. Then ice. Then garnish.
-
 
 ## Vodka Drinks
 

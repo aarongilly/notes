@@ -1,4 +1,5 @@
 ---
+created: 2023-08-19
 aliases: 
 tags: [notetaking, technique]
 ---

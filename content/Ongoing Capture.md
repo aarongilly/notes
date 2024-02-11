@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - clarity
@@ -17,7 +18,6 @@ Mapping these processes to their tools and systems is a part of the [[Master Lis
 ---
 
 ### Source
-
 
 ### Related
 - [[Master List]]

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - fitness
@@ -34,7 +35,6 @@ These are all 3 day a week Barbell programs using basically the same exercises i
 ---
 
 ### Source
-
 
 ### Related
 - [[Big 6 Exercises]]

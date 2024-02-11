@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - technique
@@ -14,7 +15,6 @@ There are many competing methods for accomplishing MBSE, 3 which I have focused 
 ---
 
 ### Source
-
 
 ### Related
 - [[SysML]] 

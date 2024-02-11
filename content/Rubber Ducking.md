@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - technique
@@ -15,7 +16,6 @@ It's sort of like active listening for your own thought process.
 ---
 
 ### Source
-
 
 ### Related
 - - [ ]  active listening

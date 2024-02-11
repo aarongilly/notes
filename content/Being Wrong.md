@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - happiness
@@ -16,7 +17,6 @@ You can be confident and admit ignorance. You can be both wrong and smart at the
 ---
 
 ### Source
-
 
 ### Related
 - - [ ]  confidence

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - happiness
@@ -14,7 +15,6 @@ Great - “I’m grateful that I can call my mom who loves me and **not** have t
 ---
 
 ### Source
-
 
 ### Related
 - [[Mindfulness & Now]]

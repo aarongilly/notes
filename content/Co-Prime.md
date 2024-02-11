@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - math
@@ -16,7 +17,6 @@ Numbers can be co-primes even if neither number is prime. 14 & 15 are co-prime b
 ---
 
 ### Source
-
 
 ### Related
 - [[Prime Numbers]]

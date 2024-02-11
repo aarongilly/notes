@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - happiness
@@ -16,8 +17,10 @@ Regardless, open loops are sources of stress. They can be overwhelming when they
 ---
 
 ### Source
-- [[Getting Things Done The Art of Stress-Free Product]]
+- [[Getting Things Done The Art of Stress-Free Productivity]]
 
 ### Related
 - [[Mind Sweep]]
 - [[Master List]]
+- [[Project Lists]]
+- [[Structure Enables Improvement]]

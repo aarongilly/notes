@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - philosophy
@@ -14,7 +15,6 @@ In the end, if you’re rationalizing “The ends justify the means” - you bet
 ---
 
 ### Source
-
 
 ### Related
 - [[Dying Food Culture]] - we’re a ‘more productive society’ for having pre-cooked dinners & McDonalds.

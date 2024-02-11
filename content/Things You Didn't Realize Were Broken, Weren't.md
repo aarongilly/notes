@@ -1,4 +1,5 @@
 ---
+created: 2023-10-11
 tags: 
 summary: If you didn't realize something was broken until seeing "the better way", there's a good chance it wasn't broken to begin with.
 aliases: Don't fix what isn't broken

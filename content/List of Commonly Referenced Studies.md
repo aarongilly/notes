@@ -1,4 +1,5 @@
 ---
+created: 2024-01-12
 tags:
   - science
   - society
@@ -12,7 +13,6 @@ The dogs were moved to a new cage setup, where one half of the cage was electrif
 
 This showed up in (at a minimum):
 - [[Do Hard Things]]
-
 
 ## Shockingly Bored
 There were a series of students who were left in a room for 15 minutes with nothing other than a button that shocked them when they pressed it. 67% of the males and 25% of the females chose to shock themselves rather than just sit there being bored.

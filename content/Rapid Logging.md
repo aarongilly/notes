@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - notetaking
@@ -15,3 +16,4 @@ Rapid logging is a style of logging that is good for a quick running throughout 
 ### Related
 - [[Bullet Journaling]]
 - [[Inbox]]
+- [[Captain’s Log]]

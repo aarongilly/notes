@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - math
@@ -13,7 +14,6 @@ Note - for *dependent* events, such as drawing colored marbles from a bag one by
 ---
 
 ### Source
-
 
 ### Related
 - [[Bias Index]] 

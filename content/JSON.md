@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - coding
@@ -26,7 +27,6 @@ JavaScript Object Notation (JSON) is a lightweight, tree-structured data storage
 ---
 
 ### Source
-
 
 ### Related
 - [[CSV]] 

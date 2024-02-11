@@ -1,4 +1,5 @@
 ---
+created: 2022-07-12
 aliases: 
 tags:
   - technique

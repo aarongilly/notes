@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - philosophy
@@ -12,7 +13,6 @@ If you find yourself thinking "The Ends Justify the Means", take a long hard loo
 ---
 
 ### Source
-
 
 ### Related
 - [[Humanist Sects]]

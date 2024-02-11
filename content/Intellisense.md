@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - coding
@@ -14,7 +15,6 @@ Intellisense is part of what makes [[Interface Object-Oriented Definition]] usag
 ---
 
 ### Source
-
 
 ### Related
 - [[JSDoc]]

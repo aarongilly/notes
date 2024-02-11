@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - fitness
@@ -10,7 +11,6 @@ Although the [[Jerk]]'s description is similar to the [[Overhead Press]], it is 
 ---
 
 ### Source
-
 
 ### Related
 - [[Jerk]] 

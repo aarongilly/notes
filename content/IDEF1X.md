@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - modeling
@@ -35,4 +36,4 @@ IDEF1X is a lesser-used technology-independent Entity-Relationship diagramming m
 
 ### Related
 - [[IDEF]] 
-- [[Entity-Relationship Model]]
+- [[Entity-Relationship Diagrams]]

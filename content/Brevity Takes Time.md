@@ -1,4 +1,5 @@
 ---
+created: 2023-08-26
 aliases: 
 tags: [clarity, modeling, coding, notetaking, making]
 ---

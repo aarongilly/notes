@@ -1,9 +1,10 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - notetaking
 ---
-**A local, folder-based Personal Knowledge Management application using durable data structures - this application here.**
+**A local, folder-based Personal Knowledge Management application using durable data structures. This application here!**
 
 Obsidian is a note taking & personal knowledge management ([[PKM]]) application that utilizes a folder-based, plaintext backend that lives on your computer. It uses [[Durable File Types]] and allows for no cloud-dependencies, and is therefore (theoretically) your “final destination” for PKM.
 
@@ -11,9 +12,12 @@ It’s goal is to give you a **permanent, durable** home for your body of notes.
 
 It has built-in support for [[Mermaid]], and a great [[Excalidraw]] plug-in. 
 
+It has over 1000 plug-ins, including the incredible [[Dataview Plug-in]] (which should become a standard part of Obsidian, really). Although I decided to [[Only Use Obsidian Plug-ins That Retain Portability]]. 
+
 ---
 
 ### Source
+- 
 
 ### Related
 - [[Slip-Box Method]]

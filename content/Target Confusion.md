@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - psychology
@@ -12,7 +13,6 @@ It applies to much more than just hunting, though. Too many options can be daunt
 ---
 
 ### Source
-
 
 ### Related
 - - [ ]  Restrictions Can Help Creativity

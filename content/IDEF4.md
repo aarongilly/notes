@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - modeling
@@ -15,7 +16,7 @@ Notably many of the diagrams logically contained under ‘Class Submodel’ are 
 
 ![Untitled](Untitled%2062.png)
 
-Interestingly, [[Entity-Relationship Model]] in IDEF4 use a Crow’s Notation, rather than the notation specified in [[IDEF1X]].
+Interestingly, [[Entity-Relationship Diagrams]] in IDEF4 use a Crow’s Notation, rather than the notation specified in [[IDEF1X]].
 
 ![Untitled](Untitled%2063.png)
 

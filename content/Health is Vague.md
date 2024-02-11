@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - health
@@ -25,8 +26,6 @@ The definition of "health" is subject to an individuals interpretation (like all
 Healthy - *adjective* - able to enjoy the fruits of whatever aspects of life an individual finds valuable free from undue physical, mental, and emotional hardships.
 
 ---
-
-
 
 ### Related
 - [[Facets of Fitness]] 

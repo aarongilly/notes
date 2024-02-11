@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -13,7 +14,6 @@ Where possible, [[Help Future You]] by pre-loading the reminders with necessary 
 ---
 
 ### Source
-
 
 ### Related
 - [[GTD]]

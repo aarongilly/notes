@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -12,10 +13,10 @@ Keep track of what's in your book and where. Also keeps track of what your payin
 
 ## Collections
 
-- Day log - rapid logs kept throughout a day. Just the date at the top and a rapid log until tomorrow. Not indexed.
-- Future Log - grouping of many upcoming months in a box. Write stuff in the months that it has to happen.
-- Month Log - sequential listing of days, across from a task list for the month. Write down what you did *after* you've done it.
-- Special collections - food trackers, lists of various types, all sorts of things can be done.
+- **Day log** - [[Rapid Logging]] kept throughout a day. Just the date at the top and a rapid log until tomorrow. Not indexed.
+- **Future Log** - grouping of many upcoming months in a box. Write stuff in the months that it has to happen.
+- **Month Log** - sequential listing of days, across from a task list for the month. Write down what you did *after* you've done it.
+- *Special collections* - food trackers, lists of various types, all sorts of things can be done.
 
 ---
 

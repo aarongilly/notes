@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - math
@@ -15,7 +16,6 @@ There is an infinite number of prime numbers. They never stop.
 ---
 
 ### Source
-
 
 ### Related
 - [[Co-Prime]] 

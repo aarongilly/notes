@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -16,7 +17,6 @@ Then again, all work and no play makes jack a dull boy. The key is [[Balance]].
 ---
 
 ### Source
-
 
 ### Related
 - [[Balance]] 

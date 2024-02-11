@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - fitness
@@ -12,8 +13,6 @@ The Snatch is an explosive pull movement that involves the entire body.
 The Snatch, along with the [[Clean and Jerk]] are the two main lifts common to [[Olympic Weightlifting]]. 
 
 ---
-
-
 
 # Source
 

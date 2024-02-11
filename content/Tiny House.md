@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - sustainability
@@ -32,7 +33,6 @@ You can just order tiny houses from [Home Depot](https://www.homedepot.com/p/Wav
 ---
 
 ### Source
-
 
 ### Related
 - [[Essentialism]] - tiny house living is the epitome of [[Less, but Better]] 

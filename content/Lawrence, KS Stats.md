@@ -1,4 +1,5 @@
 ---
+created: 2023-07-11
 aliases: 
 tags: 
 ---
@@ -10,9 +11,6 @@ tags:
 - Alt: **271m** *(Lawrence High School)*
 
 - Population: **~96k**
-
-
-
 
 ---
 ### Source

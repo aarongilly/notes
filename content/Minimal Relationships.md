@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - society
@@ -11,7 +12,6 @@ Filling your life with surface level relationships is a good way to move house b
 ---
 
 ### Source
-
 
 ### Related
 - [[Minimalism]]

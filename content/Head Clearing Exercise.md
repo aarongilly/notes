@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - psychology
@@ -18,7 +19,6 @@ Distracting non-rabbit holes? Try some of the following - for ~1 to 2 minutes:
 ---
 
 ### Source
-
 
 ### Related
 - [[Presence]] 

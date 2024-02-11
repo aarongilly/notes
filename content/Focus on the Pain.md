@@ -1,4 +1,5 @@
 ---
+created: 2023-10-11
 aliases: 
 tags: 
 summary: A monk found the only way to endure ice water was to *focus on the pain* rather than try to think about something else.

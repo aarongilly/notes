@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - business
@@ -32,7 +33,6 @@ gantt
 ---
 
 ### Source
-
 
 ### Related
 - [[Mermaid]] 

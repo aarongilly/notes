@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - business
@@ -18,7 +19,6 @@ An Error Trap is an existing deficiency in a system, process, or product that ma
 ---
 
 ### Source
-
 
 ### Related
 - [[Lack of Signal is a Bad Signal]]

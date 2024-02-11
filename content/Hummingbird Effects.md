@@ -1,4 +1,5 @@
 ---
+created: 2023-07-10
 aliases: 
 tags: [philosophy, science]
 ---
@@ -21,5 +22,4 @@ graph TD
 
 ### Related
 - [[2nd Order Effects]]
- 
 

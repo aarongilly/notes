@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - technique
@@ -11,7 +12,6 @@ A good technique to make [[Minimalism]] easier is the concept of **One in, One o
 ---
 
 ### Source
-
 
 ### Related
 - [[Minimal Stuff]]

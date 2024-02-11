@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - modeling
@@ -17,7 +18,6 @@ A black box is a function or process where the inputs and outputs are known, but
 ---
 
 ### Source
-
 
 ### Related
 - [[Known Unknowns]] 

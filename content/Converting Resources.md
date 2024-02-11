@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - society
@@ -13,7 +14,6 @@ Most conversions come at a cost, though. Time and energy are lost on commutes, w
 ---
 
 ### Source
-
 
 ### Related
 - [[3 Personal Resources]] 

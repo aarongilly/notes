@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - business
@@ -26,7 +27,6 @@ The only way to reduce the chances of being bitten by the first type of Unknown 
 ---
 
 ### Source
-
 
 ### Related
 - [[Known Unknown Matrix]]

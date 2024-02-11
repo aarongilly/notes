@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: hedonic set point
 tags:
   - happiness
@@ -14,11 +15,13 @@ The term “treadmill” is used to refer to the fact that you are always runnin
 
 ## Implications
 
-If you win the lottery today, or if you lose a finger in a fight with a lawn mower , after ~1 year You’ll be more or less equally happy. 
+If you win the lottery today, or if you lose a finger in a fight with a lawn mower, after ~1 year You’ll be more or less equally happy. 
+
+If you buy something, or suddenly make more money, you'll maybe be happier for a bit, but quickly return to your baseline.
 
 ## Exceptions
 
-This, like most things, is not without exceptions. Major disabilities and other life events (marriage, divorce, parenthood, imprisonments) can adjust the set point.
+This, like most things, is not without exceptions. Major disabilities and other life events (marriage, divorce, parenthood, imprisonments) can *durably* adjust the set point.
 
 ---
 

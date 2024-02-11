@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - math
@@ -76,12 +77,10 @@ $$
     $log_2(x)=y$    →    $2^y=x$
     
     Useful in knowing the number of digits necessary to representing a given number in binary, or how many layers a head-to-head bracket will require.
-    
 
 ---
 
 ### Source
-
 
 ### Related
 - [[Logarithms & Exponents]]

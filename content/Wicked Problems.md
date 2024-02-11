@@ -1,4 +1,5 @@
 ---
+created: 2023-11-19
 aliases: 
 tags:
   - language
@@ -15,7 +16,6 @@ Wicked problems aren't evil, they are just wicked hard. There was originally 10 
 4. Novel and unique from all others
 5. Have to be solved using "one-shot" solutions, trial and error is difficult because the trials are so hard and expensive.
 6. Have no alternative solution.
-
 
 ---
 ### Source

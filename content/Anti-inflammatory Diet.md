@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - health
@@ -9,31 +10,23 @@ A lot of this reads like “good diet tips” in general. The Mediterranean Diet
 
 ## Mediterranean Diet
 
-High intake of fats (olive oil)
-
-High Omega-3 (especially compared to Omega-6)
-
-High fruit & vegetable consumption
-
-High fiber
-
-Low carb, especially simple cabs
+- High intake of fats (olive oil)
+- High Omega-3 (especially compared to Omega-6)
+- High fruit & vegetable consumption
+- High fiber
+- Low carb, especially simple cabs
 
 ## Anti-Inflammatory Foods
 
-Colorful, well-balanced diet with lots of veggies & fruit
-
-Coconut & olive oil
-
-Beeeaaaans
+- Colorful, well-balanced diet with lots of veggies & fruit
+- Coconut & olive oil
+- Beeeaaaans
 
 ## Reduce
 
-Diary
-
-Red meat
-
-Anything charred
+- Diary
+- Red meat
+- Anything charred
 
 ## Micronutrients
 
@@ -43,8 +36,6 @@ Anything charred
 
 ### Source
 
-### Source
-
-[](https://www.fammed.wisc.edu/files/webfm-uploads/documents/outreach/im/handout_ai_diet_patient.pdf)
+[Source!](https://www.fammed.wisc.edu/files/webfm-uploads/documents/outreach/im/handout_ai_diet_patient.pdf)
 
 ### Related

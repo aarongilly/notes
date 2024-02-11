@@ -1,10 +1,11 @@
 ---
+created: 2023-07-08
 aliases: MVP
 tags:
   - productivity
   - habits
 ---
-**Making small progress consistently towards a goal will result in long teen wives.**
+**Making small progress, consistently, towards a goal will result in long term success**
 
 You don’t need to take huge steps to make huge progress. Small steps **in a consistent direction** will take you anywhere. [[Prefer a Long-Term Philosophy]]. The smallest thing that pushes you toward your goals is called "**Minimum Viable Progress**".
 

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -16,7 +17,6 @@ Doing research upfront is often a [[Productive Distraction]]. Just do the thing.
 ---
 
 ### Source
-
 
 ### Related
 - [[ Business is Laziness]] 

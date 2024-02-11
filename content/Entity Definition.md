@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - data
@@ -18,5 +19,5 @@ Entities can relate to one another via any number of relationships, which themse
 [Entity-relationship model](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)
 
 ### Related
-- [[Entity-Relationship Model]] 
+- [[Entity-Relationship Diagrams]] 
 - [[Entity Relationship Categories]]

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - technique
@@ -16,7 +17,7 @@ WIth Pocket you can also tag and highlight sections from the articles.
 ---
 
 ### Source
-
-[Mark Koester](http://www.markwk.com/2013/05/on-reading.html)
+- [Mark Koester](http://www.markwk.com/2013/05/on-reading.html)
 
 ### Related
+- [[Know Your Immediate Task]]

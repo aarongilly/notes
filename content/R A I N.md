@@ -1,5 +1,7 @@
 ---
-aliases: 
+created: 2023-07-08
+aliases:
+  - R.A.I.N.
 tags:
   - technique
   - happiness

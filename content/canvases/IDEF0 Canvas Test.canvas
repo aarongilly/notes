@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"0e43ca5b293c2c00","x":-137,"y":-141,"width":250,"height":60,"type":"text","text":"Function"},
-		{"id":"9d076ba2f5398405","x":-137,"y":-300,"width":250,"height":60,"type":"text","text":"Control"},
-		{"id":"2abd14ebf541b65b","x":-360,"y":-141,"width":127,"height":60,"type":"text","text":"Input"},
-		{"id":"655a3e78cd858f56","x":220,"y":-40,"width":250,"height":60,"type":"text","text":"Function 2"},
-		{"id":"c011ecec9e0e562c","x":-137,"y":220,"width":250,"height":60,"type":"text","text":"Mechanism "},
-		{"id":"ae192c56b2a1b06f","x":584,"y":-40,"width":250,"height":60,"type":"text","text":"Main output"}
+		{"id":"0e43ca5b293c2c00","type":"text","text":"Function","x":-137,"y":-141,"width":250,"height":60},
+		{"id":"9d076ba2f5398405","type":"text","text":"Control","x":-137,"y":-300,"width":250,"height":60},
+		{"id":"2abd14ebf541b65b","type":"text","text":"Input","x":-360,"y":-141,"width":127,"height":60},
+		{"id":"655a3e78cd858f56","type":"text","text":"Function 2","x":220,"y":-40,"width":250,"height":60},
+		{"id":"c011ecec9e0e562c","type":"text","text":"Mechanism ","x":-137,"y":200,"width":250,"height":60},
+		{"id":"ae192c56b2a1b06f","type":"text","text":"Main output","x":560,"y":-40,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"2535c50d41db4201","fromNode":"c011ecec9e0e562c","fromSide":"top","toNode":"0e43ca5b293c2c00","toSide":"bottom"},

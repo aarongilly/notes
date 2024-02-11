@@ -1,4 +1,5 @@
 ---
+created: 2023-08-10
 author: Daniel Pink
 url: 
 type: book

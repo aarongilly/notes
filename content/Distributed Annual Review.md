@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -25,7 +26,6 @@ Another practice is that of the **Distributed Annual Review**. Where you schedul
 ---
 
 ### Source
-
 
 ### Related
 - [[Monthly Reviews]]

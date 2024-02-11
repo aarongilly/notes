@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - coding
@@ -27,7 +28,6 @@ function carDesc(color){
 ---
 
 ### Source
-
 
 ### Related
 - [[Functions]]

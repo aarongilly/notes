@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -27,7 +28,6 @@ To help build the habit - utilize the [[2 Minute Rule of Habits]]. Make the scop
 ---
 
 ### Source
-
 
 ### Related
 - [[Periodic Reviews]]

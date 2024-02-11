@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - technique
@@ -15,7 +16,6 @@ When you might want to make (or better yet, refer to a well-edited existing) [[C
 ---
 
 ### Source
-
 
 ### Related
 - [[Standard Processes]] 

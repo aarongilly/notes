@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - society
@@ -13,7 +14,6 @@ These people aggressively save and aggressively cut their cost of living so that
 ---
 
 ### Source
-
 
 ### Related
 - [[Age to Retire]] 

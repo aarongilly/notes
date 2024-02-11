@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - philosophy
@@ -13,7 +14,6 @@ The PARA Method of organization suggests that you do not have a per-tool system,
 ---
 
 ### Source
-
 
 ### Related
 - [[PARA Components]]

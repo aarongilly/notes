@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - coding
@@ -14,7 +15,6 @@ Not a *framework*, per say, but TypeScript is an entire *language* built around 
 ---
 
 ### Source
-
 
 ### Related
 - [[Tree Shaking]] 

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - modeling
@@ -40,7 +41,7 @@ Note: I just realized the IDEF3 split-out is wrong. It should be an "&" and it s
 - [[IDEF0]]
 
 ### Related
-- [[Entity-Relationship Model]] 
+- [[Entity-Relationship Diagrams]] 
 - [[UML]] 
 - [[SysML]] 
 - [[IDEF5]] 

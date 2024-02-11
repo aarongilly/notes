@@ -1,4 +1,5 @@
 ---
+created: 2024-01-19
 tags:
   - business
   - society

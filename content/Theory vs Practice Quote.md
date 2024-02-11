@@ -1,4 +1,5 @@
 ---
+created: 2023-08-15
 aliases: 
 tags: [quote]
 ---

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - money
@@ -19,7 +20,6 @@ How to:
 ---
 
 ### Source
-
 
 ### Related
 - [[7 Bank Accounts]] 

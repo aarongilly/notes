@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags: [philosophy, business, psychology, 1]
 ---

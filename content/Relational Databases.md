@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - coding
@@ -14,7 +15,6 @@ This is distinct from [[Non-Relational Databases]]  (e.g. MongoDB, Neo4j) where 
 ---
 
 ### Source
-
 
 ### Related
 - [[Primary Key]] 

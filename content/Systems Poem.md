@@ -1,4 +1,5 @@
 ---
+created: 2024-01-20
 tags:
   - quote
   - art

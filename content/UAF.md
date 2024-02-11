@@ -1,4 +1,5 @@
 ---
+created: 2023-12-18
 aliases: 
 tags:
   - modeling
@@ -33,3 +34,4 @@ In the UAF Guide they detail the different domains from the UAF Grid. This is a 
 
 ### Related
 - [[SysML]]
+- [[Archimate]]

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - money
@@ -33,7 +34,7 @@ Now, in actuality, there is **way more details** that go into all of this. The
 
 ### Source
 
-
 ### Related
 - [[Tax-Advantaged Accounts]] 
 - [[Tax Types]]
+- [[Tax Math Reduced]]

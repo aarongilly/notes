@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - philosophy
@@ -24,7 +25,7 @@ Getting Things Done (GTD) is a system of tools and practices written about and e
 ---
 
 ### Source
-- [[Getting Things Done The Art of Stress-Free Product]]
+- [[Getting Things Done The Art of Stress-Free Productivity]]
 
 ### Related
 - [[Action→Task→Project→Area Hierarchy]]

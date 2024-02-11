@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -47,7 +48,7 @@ The Weekly Review is **the** lynchpin of the Getting Things Done system. It is a
 ---
 
 ### Source
-- [[Getting Things Done The Art of Stress-Free Product]]
+- [[Getting Things Done The Art of Stress-Free Productivity]]
 - [Plan weekly, review daily - Weekdone](https://blog.weekdone.com/plan-weekly-review-daily/)
 
 ### Related

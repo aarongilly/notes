@@ -1,4 +1,5 @@
 ---
+created: 2023-12-08
 aliases: 
 tags:
   - society
@@ -14,7 +15,6 @@ BMI was originally developed by *dietitians*, aka people who make money when "ov
 - **Normal weight:** BMI is 18.5 to 24.9
 - **Overweight:** BMI is 25 to 29.9
 - **Obese:** BMI is 30 or more
-
 
 ![[IMG_1082.png]]
 

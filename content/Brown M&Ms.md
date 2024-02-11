@@ -1,4 +1,5 @@
 ---
+created: 2022-07-20
 aliases: 
 tags:
   - technique
@@ -12,7 +13,6 @@ What they were actually doing was giving themselves a signal to determine if the
 ---
 
 ### Source
-
 
 # Source
 

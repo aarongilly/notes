@@ -1,4 +1,5 @@
 ---
+created: 2024-01-05
 aliases: 
 tags:
   - notetaking

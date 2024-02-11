@@ -1,4 +1,5 @@
 ---
+created: 2023-10-11
 aliases: 
 tags: 
 summary: Embrace the choices you've made. Everyone's missing out on everything all the time.

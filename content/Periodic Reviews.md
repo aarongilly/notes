@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -21,7 +22,6 @@ More frequent reviews should be quick, even if they are shallow. More infrequent
 ---
 
 ### Source
-
 
 ### Related
 - [[Organization & Spacetime]]

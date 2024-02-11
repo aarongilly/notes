@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - philosophy
@@ -13,7 +14,7 @@ Tiago Forte refers to a practice of "Capture" as an on-going habit. This is very
 
 ### Source
 - [[Building a Second Brain Podcast]]
-- [[Getting Things Done The Art of Stress-Free Product]]
+- [[Getting Things Done The Art of Stress-Free Productivity]]
 
 ### Related
 - [[Contextual Reminders]]

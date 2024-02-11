@@ -1,4 +1,5 @@
 ---
+created: 2023-07-20
 aliases:
   - strategy
 tags: [productivity, language, business, manufacturing]
@@ -17,7 +18,7 @@ A strategy is:
 > **choosing to perform activities differently than rivals do.**
 > -*[HBR](https://hbr.org/1996/11/what-is-strategy)*
 
-Strategies are what makes your [[What is a Plan|plan]]s cohesive.
+Strategies are what makes your [[What is a Plan|plan]]s cohesive. [[Make the Decision that Informs all Subsequent Decisions]].
 
 See also: [[Strategy Document]]
 
@@ -30,4 +31,3 @@ See also: [[Strategy Document]]
 - [[What is a Plan]]
 - [[A Plan is Not a Strategy]]
 - [[Strategy Document]]
->)

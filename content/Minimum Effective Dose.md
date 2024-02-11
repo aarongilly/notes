@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -13,7 +14,6 @@ This same exact concept can be utilized to lead a more productive, more efficien
 ---
 
 ### Source
-
 
 ### Related
 - [[Law of Diminishing Returns]]

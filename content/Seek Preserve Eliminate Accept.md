@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - technique
@@ -9,16 +10,12 @@ tags:
 
 Marshall Goldsmith, CEO Coach, has a series of questions that can help a group (or individual) clarify the direction in which they need to go.
 
-What don't we have that should we seek?
-
-What do we have that we should preserve?
-
-What do we have that we should eliminate?
-
-What do we need to accept?
+1. What don't we have that should we seek?
+2. What do we have that we should preserve?
+3. What do we have that we should eliminate
+4. What do we need to accept?
 
 ---
-
 ### Source
 - [[Triggers]]
 

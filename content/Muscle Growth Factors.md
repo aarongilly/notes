@@ -1,4 +1,5 @@
 ---
+created: 2023-10-31
 aliases: 
 tags:
   - fitness

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - modeling
@@ -36,7 +37,6 @@ Activity Diagram (modified)
 ---
 
 ### Source
-
 
 ### Related
 - [[SysML]] 

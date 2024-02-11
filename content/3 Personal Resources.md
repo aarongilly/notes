@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - philosophy
@@ -17,7 +18,7 @@ You only get so much, and if you're lucky you don't know how much more you'll ge
 
 ## Energy
 
-Nobody has an infinite supply of energy. What you give your energy to is just as important as the other 3. 
+Nobody has an infinite supply of energy. What you give your energy to is just as important as the other 3.  Energy is sometimes couched as "*health*". 
 
 ## Money
 

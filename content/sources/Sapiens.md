@@ -1,4 +1,5 @@
 ---
+created: 2023-08-10
 author: Yuval Hoah Harari
 url: 
 type: book

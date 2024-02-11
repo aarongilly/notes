@@ -1,4 +1,5 @@
 ---
+created: 2023-07-17
 aliases: 
 tags: [health, fitness]
 ---
@@ -16,7 +17,6 @@ Most articles I find seem to suggest a minimum of 30 minutes, 3 days per week.
 
 [[Lagging Measures]] - Results take time:
 It can take **4 to 6 weeks** to notice changes in your aerobic ability and for the actual training effect being felt.
-
 
 ---
 ### Source

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -11,7 +12,7 @@ Keep a list of pointers (links) to the various pieces of your Productivity Stack
 
 ## Example
 - Tasks & Inbox → Todoist
-- Knowledge Management → Obsidian
+- Knowledge Management → [[Obsidian]]
 - Passwords → LastPass
 - [[Weekly Review]] Template → Notion
 - Medical Information → Google Drive "Medical" folder
@@ -22,7 +23,6 @@ By putting them all down and in one place, you are forced to clarify their usage
 ---
 
 ### Source
-
 
 ### Related
 - [[Organize by Context]]

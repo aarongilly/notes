@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -16,7 +17,6 @@ Projects fall in areas. Therefore Areas are associated with OKRs *through* proje
 ---
 
 ### Source
-
 
 ### Related
 - [[PARA Method]] 

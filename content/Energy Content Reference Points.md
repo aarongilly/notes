@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - science
@@ -26,7 +27,6 @@ Some random energy content reference points:
 ---
 
 ### Source
-
 
 ### Related
 - [[Average Energy Cost]]

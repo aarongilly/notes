@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - technique
@@ -25,3 +26,4 @@ High-Intensity Interval Training is great. it is the quickest way to raise your 
 ### Related
 - [[Ideal Exercise Regiment]] 
 - [[3 Types of Energy Supply in Mammals]]
+- [[Zone 2]]

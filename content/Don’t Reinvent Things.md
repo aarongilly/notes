@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags: [business, coding, habits, systemdesign]
 ---
@@ -31,7 +32,6 @@ Try Googling some keywords describing the problem you're having.
 ---
 
 ### Source
-
 
 ### Related
 - [[Unsexy Solutions]] 

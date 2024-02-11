@@ -1,4 +1,5 @@
 ---
+created: 2023-07-29
 aliases: 
 tags: [clarity, technique, philosophy, happiness]
 ---
@@ -8,19 +9,19 @@ So many productivity and happiness tips and techniques have to do with knowing w
 
 [[Monotasking]] requires you to know what your one task is, [[What's Important Now]].
 
-> [[Anxiety]] is thought without control. 
-> [[Flow]] is control without thought.
-> <cite>James Clear</cite>
+> [[Anxiety]] is thought without control.  
+> [[Flow]] is control without thought.  
+> - James Clear
 
 ## Helping Know Your Immediate Task
 - Write it down. Like the "next" portion of [[Captain’s Log|interstitial journaling]], or simply writing what you want to have done before switching tasks
 - [[Treat Work Sessions like the Cinema]]
 	- [[Tailor Your Environment]] to remove distractions
-- Follow the plan. If you have a plan for this time. Use it. 
+- Follow the plan. If you have a [[Time Blocking]] plan for this time. Use it. 
 - On a computer? [[Organize Focuses by Desktop]]
 	- Make a clean space for your current purpose.
 - Where is your [[Mindfulness & Now|mind]]? Try to notice when you're off-task and "gently" bring yourself back to the task at hand. 
-	- You can use a ~10 minute subtle timer to check in on yourself every 10 minutes
+	- You can use a ~10 minute timer to check in on yourself every 10 minutes
 
 ---
 ### Source

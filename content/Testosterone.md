@@ -1,4 +1,5 @@
 ---
+created: 2023-10-09
 aliases: 
 tags: 
 summary: The male sex hormone.
@@ -14,6 +15,7 @@ High levels of testosterone are associated with:
 ---
 ### Source
 - some googling
+- [[Huberman Labs]]
 
 ### Related
 - [[Pheromones and Hormones]]

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - notetaking
@@ -11,7 +12,6 @@ CommonMark is the spec for Markdown that actually makes it unambiguous. It was c
 ---
 
 ### Source
-
 
 ### Related
 - [[Markdown]] 

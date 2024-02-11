@@ -1,4 +1,5 @@
 ---
+created: 2023-07-29
 aliases: 
 tags: [psychology, science]
 ---

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - business
@@ -20,7 +21,6 @@ Among the class of 2x2-Grid-based ways of categorization (alongside the Punnet S
 ---
 
 ### Source
-
 
 ### Related
 - [[Planning Fallacy]]

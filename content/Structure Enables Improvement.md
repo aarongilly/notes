@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - philosophy
@@ -16,7 +17,6 @@ Structure allows for the repetition of marginal gains to happen often enough to 
 ---
 
 ### Source
-
 
 ### Related
 - [[Standardization Enables Creativity]] 

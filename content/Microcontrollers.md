@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - making
@@ -15,6 +16,5 @@ Microcontrollers are essentially tiny little, specific-use computers or also thi
 ---
 
 ### Source
-
 
 ### Related

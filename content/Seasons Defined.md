@@ -1,4 +1,5 @@
 ---
+created: 2023-09-08
 aliases: 
 tags: [society, language]
 ---

@@ -1,4 +1,5 @@
 ---
+created: 2023-10-11
 aliases: 
 tags: 
 summary: There's not really a better way to define living your life than by looking at what you do with your time.

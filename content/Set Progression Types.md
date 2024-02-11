@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - fitness
@@ -30,7 +31,6 @@ Good for strength development.
 ---
 
 ### Source
-
 
 ### Related
 - [[Ideal Exercise Regiment]] 

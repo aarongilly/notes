@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - coding
@@ -13,7 +14,6 @@ For now, I'm not going to cover anything more specific than that. It's a topic a
 ---
 
 ### Source
-
 
 ### Related
 - [[Data Serialization Methods]] 

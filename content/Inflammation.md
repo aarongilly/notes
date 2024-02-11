@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - health
@@ -32,7 +33,6 @@ Measuring general inflammation uses blood tests for:
 
 ### Source
 - [[Wikipedia]]
-
 
 # Sources
 

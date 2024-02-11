@@ -1,4 +1,5 @@
 ---
+created: 2023-10-12
 aliases: 
 tags: 
 summary: If every moment is spent in pursuit of growth or making some imagined future "better", you'll never live for now.

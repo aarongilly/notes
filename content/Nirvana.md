@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - happiness
@@ -11,10 +12,8 @@ We are influenced by cravings. Cravings toward pleasure, cravings to be away fro
 This is a core feature of Buddhism, which is a religion heavily based around happiness. 
 
 ---
-
 ### Source
 - [[Sapiens]]
-
 ### Related
 - [[Accepting the Negative is a Positive]]
 - [[All Motivation is the Desire to Escape Discomfort]]

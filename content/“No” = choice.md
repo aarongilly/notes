@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - philosophy
@@ -17,7 +18,7 @@ You are given opportunities every day. Evaluate these opportunities against your
 ---
 
 ### Source
-- [[Essentialism (book)]]
+- [[Essentialism]]
 - [James Clear's newsletter](https://jamesclear.com/newsletter)
 
 ### Related

@@ -1,4 +1,5 @@
 ---
+created: 2024-01-14
 tags:
   - systemdesign
   - society

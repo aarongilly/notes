@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - clarity
@@ -14,7 +15,6 @@ Keeping a project list current and tidy is a great way to achieve clarity. Thatâ
 ---
 
 ### Source
-
 
 ### Related
 - [[GTD]]

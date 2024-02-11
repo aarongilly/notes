@@ -1,4 +1,5 @@
 ---
+created: 2023-08-20
 aliases: 
 tags: [manufacturing, learning, science]
 ---

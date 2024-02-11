@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - clarity
@@ -18,7 +19,7 @@ The one exception to this guidance is [[Multichannel Multitasking]].
 
 ### Source
 - [[The 4-Hour Work Week]]
-- [[Getting Things Done The Art of Stress-Free Product]]
+- [[Getting Things Done The Art of Stress-Free Productivity]]
 - [[Indistractable]]
 
 ### Related

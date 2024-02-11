@@ -1,4 +1,5 @@
 ---
+created: 2023-07-10
 aliases: 
 tags: [productivity, technique, notetaking]
 ---
@@ -7,6 +8,8 @@ tags: [productivity, technique, notetaking]
 ![[Pasted image 20240107120121.png]]
 
 ## [[Obsidian]] workflows
+
+> [!warning] I decided to NOT use the Excalidraw plugin on Obsidian.
 #### Creation
 - HOTKEY `⌘ + e`
 	- (or): Command Palette => `Excalidraw: Create new drawing - IN HTE CURRENT ACTIVE WINDOW - and embed into active document`
@@ -20,6 +23,5 @@ tags: [productivity, technique, notetaking]
 ### Related
 - [[Mermaid]]
 - [[Obsidian]]
-- [[Excalidraw Obsidian Workflow]]
 - [[DrawIO]]
   

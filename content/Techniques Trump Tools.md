@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - philosophy
@@ -16,7 +17,6 @@ It is better to rely on well-founded, **tool-independent** **techniques** than t
 ---
 
 ### Source
-
 
 ### Related
 - [[Inbox]] 

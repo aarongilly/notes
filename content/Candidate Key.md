@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - data
@@ -10,8 +11,6 @@ In [[Relational Databases]], a "Candidate Key" is basically a (set of) field(s) 
 Candidate Keys reveal the possible ways in which a DBA could positively identify a single Tuple. One such way will be chosen & blessed as the "Primary Key". Other sets that would also function are all considered "Alternate Keys". Candidate Keys are just the Primary Key and all sets of possible Alternate Keys.
 
 ---
-
-
 
 ### Source
 

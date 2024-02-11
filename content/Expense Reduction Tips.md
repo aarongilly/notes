@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - money
@@ -7,7 +8,6 @@ tags:
 **An index of timeless techniques to save you a buck.**
 
 ### Source
-
 
 These tips are from various sources:
 

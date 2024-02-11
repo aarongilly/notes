@@ -1,4 +1,5 @@
 ---
+created: 2024-01-07
 tags:
   - coding
 aliases:
@@ -23,3 +24,4 @@ Also you can make more "full-fledged" frameworks work like SSGs NextJS, SvelteKi
 
 ### Related
 - [[Quartz Publishing]]
+- [[Astro]]

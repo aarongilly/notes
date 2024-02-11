@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - business
@@ -15,7 +16,6 @@ This doesn't feel distinct enough (to me) from the “3.0” revolution that was
 ---
 
 ### Source
-
 
 ### Source
 

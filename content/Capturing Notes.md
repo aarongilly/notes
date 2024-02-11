@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -11,7 +12,6 @@ This is the [[Slip-Box Method]] category of ongoing capture. As new thoughts com
 ---
 
 ### Source
-
 
 ### Related
 - [[Ongoing Capture]]

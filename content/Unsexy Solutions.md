@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - philosophy
@@ -16,7 +17,7 @@ Most common plights have obvious, albeit unsexy solutions. People don't want to 
 
 "I wish I were stronger" → lift heavy weights more often
 
-"I'm broke" → use a budget
+"I'm broke" → use a [[budget]]
 
 "I wish I had more time" → stop wasting the time you do have
 
@@ -27,7 +28,6 @@ Most common plights have obvious, albeit unsexy solutions. People don't want to 
 ---
 
 ### Source
-
 
 ### Related
 - [[Don’t Reinvent Things]]

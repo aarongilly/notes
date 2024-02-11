@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - data
@@ -10,8 +11,6 @@ tags:
 Aggregation and Composition are very similar. The difference is whether or not the children can possibly exist without the parent. Composition implies ****************************************************************************************when a parent is deleted, the children are also deleted****************************************************************************************. Aggregation has no such implication. 
 
 They still seem like they are used almost interchangeably in practice. From the source:
-
- 
 
 ![Untitled](Untitled%2037.png)
 

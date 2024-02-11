@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - sustainability
@@ -49,7 +50,6 @@ tags:
 ---
 
 ### Source
-
 
 ### Related
 - All the things above, yo.

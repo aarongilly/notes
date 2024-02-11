@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - coding
@@ -31,12 +32,10 @@ Created the Internet and the first browser.
     ---
     
     Linus Torvalds is also known for creating the version control system Git. This system is used for tracking changes in computer files and coordinating work between multiple people. It is now a standard tool for many software developers, allowing them to keep track of their work and collaborate with others on large projects. Git has revolutionized the way we collaborate on software development projects, making it easier to work together on complex projects.
-    
 
 ---
 
 ### Source
-
 
 # Source
 

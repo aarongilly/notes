@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - fitness
@@ -12,8 +13,6 @@ Eccentric - muscle lengthening
 ![[assetsUntitled]]
 
 ---
-
-
 
 ### Source
 

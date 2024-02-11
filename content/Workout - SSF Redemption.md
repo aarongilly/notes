@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - health
@@ -26,7 +27,6 @@ Simple beginner routine. 3 days a week. Very similar to Starting Strength. Weeks
 3. Chin-Up
     
     3 sets, 1-15 reps, 2 min rest
-    
 
 ## Day B
 
@@ -41,7 +41,6 @@ Simple beginner routine. 3 days a week. Very similar to Starting Strength. Weeks
 3. [[Bent-Over Row]] 
     
     3 sets, 5-8 reps, 2 min rest
-    
 
 ### Frequency
 

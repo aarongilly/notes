@@ -1,4 +1,5 @@
 ---
+created: 2023-12-07
 tags:
   - systemdesign
 summary: System behavior that "emerges" from interactions between components, not from any individual component.

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-11
 aliases: Global Positioning System
 tags: [science, math, society]
 ---
@@ -14,7 +15,6 @@ Each satellite has an on-board atomic clock. That's how GPS Receivers are able t
 ### Source
 - https://letstalkscience.ca/educational-resources/backgrounders/math-behind-gps
 - ![video](https://youtu.be/VMeKmh3zjzc)
-
 
 ### Related
 - [[Trilateration]]

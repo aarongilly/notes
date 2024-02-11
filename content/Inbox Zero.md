@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - clarity
@@ -12,6 +13,5 @@ Inbox Zero is a state in which your [[Inbox]] is free from [[Open Loops]]. Reach
 ---
 
 ### Source
-
 
 ### Related

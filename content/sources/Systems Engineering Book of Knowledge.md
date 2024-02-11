@@ -1,4 +1,5 @@
 ---
+created: 2023-12-07
 author: 
 url: 
 type: book
@@ -7,7 +8,7 @@ aliases:
 tags: [source]
 ---
 ## Review
-Long.
+Is long.
 
 Surprisingly mentions **both** [[SysML]] and [[OPM]]!
 

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - coding
@@ -13,12 +14,13 @@ Electron is an npm package.
 
 Electron Apps:
 - [[Obsidian]] 
+	- Vanilla JS
 - VSCode
-- [[Notion]] (or at least it was at one point)
+	- Vanilla JS
+- [[Notion]] 
+	- Uses [[React]]
 
 ---
-
-
 
 ### Related
 - [[NodeJS]]

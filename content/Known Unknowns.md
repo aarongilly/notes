@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - business
@@ -11,7 +12,6 @@ The bottom-left quadrant of the [[Known Unknown Matrix]] is the Known Unknowns s
 ---
 
 ### Source
-
 
 ### Related
 - [[Known Unknown Matrix]]

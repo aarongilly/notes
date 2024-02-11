@@ -1,11 +1,10 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - modeling
 ---
 **One is transitive, one is not.**
-
-
 
 If you’re being pedantic, there is a distinction between “Classification” type relationships and “Generalization” type relationships. They are heavily overlapping terms. Both kinds of relationships can be described with the phrase ‘is a’. But the difference (if one is enforced) comes down to whether or not the relationship is a [[Transitive Relationship]]**.**
 

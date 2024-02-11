@@ -1,9 +1,9 @@
 ---
+created: 2023-08-04
 aliases: 
 tags: [notetaking]
 ---
-[summary::**A very powerful [[Obsidian]] plug-in**.]
-
+summary::**A very powerful [[Obsidian]] plug-in**.
 
 Dataview makes Obsidian *way* more useful.
 
@@ -12,6 +12,13 @@ Dataview makes Obsidian *way* more useful.
 ```dataview 
 list 
 from "" where length(file.inlinks) =0 and length(file.outlinks) = 0 
+```
+#### Based On A Property
+```dataview
+TABLE created
+WHERE created
+SORT created DESC
+LIMIT 70
 ```
 
 #### Finding Pages Edited Recently

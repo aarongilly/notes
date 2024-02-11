@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - psychology
@@ -21,3 +22,5 @@ You can train yourself to understand the signals these algorithms are sending th
 ### Related
 - [[Emotional Decisions]]
 - [[Liberalism & Free Will]]
+- [[Limited View of the Conscious Self]]
+- [[Interoception]]

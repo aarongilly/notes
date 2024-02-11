@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - psychology
@@ -10,7 +11,6 @@ An organization will give disproportionate time and energy talking to low-import
 ---
 
 ### Source
-
 
 ### Related
 - [[Parkinson's Law]]

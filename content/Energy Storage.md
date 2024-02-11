@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - sustainability
@@ -19,7 +20,6 @@ Energy storage can be done in many ways. In descending order from most common to
 ---
 
 ### Source
-
 
 ### Related
 - [[Energy Content Reference Points]] 

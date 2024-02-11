@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags: [coding, learning, technique]
 ---
@@ -11,7 +12,6 @@ This gives you enough knowledge to start. And it lays the groundwork for when yo
 ---
 
 ### Source
-
 
 ### Related
 - [[Start Small]]

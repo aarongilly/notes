@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - notetaking
@@ -13,7 +14,6 @@ To support capturing the “right” amount of information, all toward the follo
 4. Is it surprising?
     
     if you already knew it, don't bother writing it down (unless it's particularly well said and you want to use that later)
-    
 
 In short: **capture what resonates**.
 

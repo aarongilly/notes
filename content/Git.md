@@ -1,4 +1,5 @@
 ---
+created: 2023-07-31
 aliases: 
 tags: [coding]
 ---
@@ -23,7 +24,6 @@ l-- push -->r
 r-- pull -->w
 r-- fetch -->l
 ```
-
 
 #### Branch management
 Branch, checkout, merge

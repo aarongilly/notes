@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - data
@@ -20,7 +21,7 @@ An [[ISO]] Standard (63555).
 [SQL](https://en.wikipedia.org/wiki/SQL?wprov=sfti1)
 
 ### Related
-- [[Entity-Relationship Model]] 
+- [[Entity-Relationship Diagrams]] 
 - [[Relational Databases]] 
 - [[Primary Key]] 
 - [[Foreign Key]]

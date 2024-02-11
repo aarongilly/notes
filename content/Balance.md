@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - happiness
@@ -28,7 +29,6 @@ See also: [[Dimensions of Balance]]
 ---
 
 ### Source
-
 
 ### Related
 - [[Law of Diminishing Returns]] 

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - productivity
@@ -23,7 +24,6 @@ You can utilize [[Minimum Viable Progress]] consistently to complete big project
 ---
 
 ### Source
-
 
 ### Related
 - [[Heavy Lifts vs Slow Burns]] 

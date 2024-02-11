@@ -1,4 +1,5 @@
 ---
+created: 2023-11-21
 aliases: 
 tags: 
 summary: An index for notes

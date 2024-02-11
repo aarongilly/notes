@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - money
@@ -13,7 +14,6 @@ Avoiding Lifestyle Creep is financial advice often heard from the [[FIRE]]  crow
 ---
 
 ### Source
-
 
 ### Related
 - [[Hedonic Treadmill]] 

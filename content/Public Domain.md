@@ -1,4 +1,5 @@
 ---
+created: 2023-07-25
 aliases: 
 tags: [society, coding, art]
 ---

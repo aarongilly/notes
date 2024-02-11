@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - fitness
@@ -14,7 +15,6 @@ It's related to, but different from the [[Power Lifting]] technique [[Overhead P
 ---
 
 ### Source
-
 
 ### Related
 - [[Overhead Press]] 

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - math
@@ -19,7 +20,6 @@ Note Arity is not the same term as "[[Cardinality]]", although they are very sim
 ---
 
 ### Source
-
 
 ### Related
 - [[Pareto Principle]] 

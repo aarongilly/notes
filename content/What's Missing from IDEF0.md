@@ -1,4 +1,5 @@
 ---
+created: 2023-12-08
 aliases: 
 tags:
   - modeling

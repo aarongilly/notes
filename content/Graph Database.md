@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - data
@@ -18,7 +19,6 @@ Graphs are employed by Social Networks (where friends of friends is a common sch
 ---
 
 ### Source
-
 
 ### Related
 - [[Ontology]]

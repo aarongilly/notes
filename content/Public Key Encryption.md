@@ -1,4 +1,5 @@
 ---
+created: 2023-07-23
 aliases: 
 tags: [technique, math, coding, society]
 ---
@@ -61,7 +62,7 @@ In reality this is done in conjunction with a pseudorandom generator to encrypt 
 ---
 ### Source
 - ![Stellar Key Exchange video](https://youtu.be/M-0qt6tdHzk)
-- (Kahn Academy)[[](https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-1)]
+- [Kahn Academy](https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-1)
 
 ### Related
 - [[One-Way Function]]

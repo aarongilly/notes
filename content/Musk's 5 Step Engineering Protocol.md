@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - technique
@@ -27,11 +28,8 @@ Elon Musk’s 5 Step Engineering Protocol - to be applied IN ORDER.
 5. Automate
     
     After getting a smooth, logical, non-error-prone process running, remove in-process testing and manipulation 
-    
 
 ---
-
-
 
 ### Source
 

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - quote
@@ -35,8 +36,6 @@ Better safe than sorry.
 > 
 
 ---
-
-
 
 ### Source
 

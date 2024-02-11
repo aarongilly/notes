@@ -1,9 +1,10 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - notetaking
 ---
-**An open-source competitor to Notion [[Notion]] and Obsidian [[Obsidian]]**
+**An [[Open Source]] competitor to Notion [[Notion]] and Obsidian [[Obsidian]]**
 
 Logseq is an Open-Source competitor to [[Obsidian]] and [[Notion]].
 
@@ -17,17 +18,18 @@ Like Obsidian, it supports proactive suggestions for *unlinked mentions* of note
 
 It would work very well as a [[Captain’s Log]] for [[Ongoing Capture]]. It could be made to work as a [[Zettelkasten Components]].
 
+## Drawbacks of Logseq
+- It's not as fast as Obsidian
+- The Markdown files it produces are less *clean* than Obsidian's
+- Its built-in [[Task Manager]] clutters up the product from a purely-[[Slip-Box Method]] approach, it's less modular than Obsidian.
+
 ---
 
 ### Source
-
-
-# Source
-
-Downloading the app
-
-[https://github.com/logseq/logseq](https://github.com/logseq/logseq)
-
-[A privacy-first, open-source knowledge base](https://logseq.com/)
+- Downloading the app
+- [https://github.com/logseq/logseq](https://github.com/logseq/logseq)
+- [A privacy-first, open-source knowledge base](https://logseq.com/)
 
 ### Related
+- [[Captain’s Log]]
+- [[Open Source]]

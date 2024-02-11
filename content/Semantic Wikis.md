@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - modeling
@@ -11,7 +12,6 @@ A semantic wiki is a wiki in which both the entries and the relationships betwee
 ---
 
 ### Source
-
 
 ### Related
 - [[Types of Non-relational Databases]] 

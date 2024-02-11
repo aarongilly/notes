@@ -1,4 +1,5 @@
 ---
+created: 2023-12-07
 tags:
   - systemdesign
 summary: A hard thing to define, has many parts - ironically
@@ -26,8 +27,6 @@ Some complexity is objective, where it is not possible (by anyone with any amoun
 More worth considering, though, is *subjective complexity*. That is, how quickly and easily can the layperson understand the system and predict what it's going to do next. An expert (e.g. the system designer) could perhaps perfectly predict what's going to happen, but it's non-obvious to a casual observer. This is subjective complexity, and it causes failures of adoption. This is a matter of perspective, and *must be considered* when design systems. 
 
 [[Affordances]] and piggybacking on [[Standard Processes]] lessen subjective complexity.
-
-
 
 ---
 ### Source

@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - business
@@ -20,7 +21,6 @@ If something is giving you trouble, you can ***almost always*** find a solution 
 ---
 
 ### Source
-
 
 ### Related
 - [[Continuously Solve Problems]]

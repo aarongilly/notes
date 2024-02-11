@@ -1,4 +1,5 @@
 ---
+created: 2023-11-06
 author: Chris Bailey
 url: hyperfocusbook.com
 type: book

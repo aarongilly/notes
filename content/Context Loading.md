@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - philosophy
@@ -19,7 +20,6 @@ It takes time and energy to get to a context-loaded state. The efforts spent to 
 ---
 
 ### Source
-
 
 ### Related
 - [[Monotasking]]

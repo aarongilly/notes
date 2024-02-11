@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - notetaking
@@ -11,7 +12,6 @@ GFM is GitHub-Flavored [[Markdown]]. It is arguably the most popular example of 
 ---
 
 ### Source
-
 
 ### Related
 - [[Extended Markdown Syntax]] 

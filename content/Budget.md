@@ -1,14 +1,14 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - money
 ---
 **The first step in mastering finances.**
 
-Having a budget is literally the first step in mastering your finances. Without a budget you're flying in the dark. Budgets tell you where your money is going (and the size of your [[Burn Rate]]), where your money will go*, and how big your [[Emergency Fund]] needs to be.
+Having a budget is literally the first step in mastering your finances. Without a budget you're flying in the dark. Budgets tell you where your money is going (and the size of your [[Burn Rate]]), where your money will go, and how big your [[Emergency Fund]] needs to be. 
 
 Your budget should include:
-
 - How much money are you making?
     - From where?
 - How much money are you spending?
@@ -16,6 +16,8 @@ Your budget should include:
     - On what?
 
 Typically budgeting practices utilize budget ‘Categories’. There’s no ‘one way’ to implement a budget or to build your categories. Apps like Mint have dozens (if not 100+) categories pre-built. On the opposite end of the spectrum is a budgeted method like what’s recommended in the [[Budget Boot Camp]] [[NYMO]] method, which uses 4 categories.
+
+Budgeting means that, because you'll always be a *little* worried about money, you'll never need to be **really** worried about money. It's a [[The Price of Security is Insecurity]] situation.
 
 ---
 ### Source
@@ -28,3 +30,4 @@ Typically budgeting practices utilize budget ‘Categories’. There’s no ‘o
 - [[Emergency Fund]] 
 - [[Personal Income Spending Flowchart]]
 - [[50-30-20 Rule]]
+- [[3 Personal Resources]]

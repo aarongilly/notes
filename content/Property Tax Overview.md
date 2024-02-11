@@ -1,4 +1,5 @@
 ---
+created: 2023-09-23
 aliases: 
 tags: 
 summary: Taxes on stuff you own.

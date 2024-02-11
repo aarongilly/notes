@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - clarity
@@ -67,7 +68,6 @@ console.log(classInstance.x); // prints 'goodbye', refers to x in the myClass na
 ---
 
 ### Source
-
 
 ### Related
 - [[URI]] 

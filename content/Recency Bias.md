@@ -1,4 +1,5 @@
 ---
+created: 2023-07-08
 aliases: 
 tags:
   - psychology
@@ -10,7 +11,6 @@ We have a tendency to think that things that happened in the recent past are mor
 ---
 
 ### Source
-
 
 ### Related
 - [[Bias Index]] 
