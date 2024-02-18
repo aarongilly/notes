@@ -13,7 +13,7 @@ Entity relationship models name independent entities and describe how they relat
 
 There are a number of competing [[Entity-Relationship Modeling Standards]]. I tend to like either Crow’s Feet Notation or the even simpler yet more descriptive Min-Max pairing.
 
-![Untitled](Untitled%2083.png)
+![[Untitled 29.png]]
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 created: 2023-07-23
 aliases: 
-tags: [math]
+tags:
+  - math
+  - language
 ---
 **A geometric term, meaning same shape & size, denoted with a `≡`**
 
@@ -12,6 +14,8 @@ When applied to **angles**, angles are congruent when they are the same. This in
 When applied to **sides** they are only congruent if they are the same length.
 
 When applied to a **shape**, shapes are congruent if they are the same shape and size, translations and rotations are okay, though.
+
+When applied to **general speaking**, it just means "in agreement or harmony".
 
 ---
 ### Source

@@ -16,3 +16,4 @@ Analysis Paralysis is when you're too busy thinking to act. It's when you've bee
 ### Related
 - [[Optimum Level of Information]] 
 - [[Satisficing]]
+- [[Just Do It]]

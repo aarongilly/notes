@@ -5,20 +5,25 @@ tags: [notetaking]
 ---
 summary::**A very powerful [[Obsidian]] plug-in**.
 
-Dataview makes Obsidian *way* more useful.
+Dataview makes [[Obsidian]] *way* more useful.
 
 ## Dataview Uses
+#### Note Count
+This uses the [[JavaScript]] inline syntax.
+`$=dv.pages().length`
+
 #### Finding Orphaned Pages
 ```dataview 
 list 
 from "" where length(file.inlinks) =0 and length(file.outlinks) = 0 
 ```
+
 #### Based On A Property
 ```dataview
 TABLE created
-WHERE created
+WHERE created.year = 2024
 SORT created DESC
-LIMIT 70
+LIMIT 80
 ```
 
 #### Finding Pages Edited Recently
@@ -35,6 +40,20 @@ TABLE summary
 WHERE summary 
 ```
 
+#### Test
+```dataview
+TABLE
+	length(rows.file.name) as notes
+WHERE 
+	file.tags 
+FLATTEN 
+	file.tags AS tag
+WHERE 
+	file.ctime.year = 2023
+GROUP BY 
+	tag 
+SORT notes DESC
+```
 ---
 ### Source
 - 

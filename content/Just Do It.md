@@ -14,7 +14,6 @@ tags:
 Nike's slogan is a great life motto.
 
 > Just Do It. - Nike
-> 
 
 Don't think about it. Don't worry about it. Don't feel the need to for certainty that it's right. Don't waste time and energy planning. Don't try to make it perfect. Don't wait. Just do it.
 
@@ -27,8 +26,9 @@ It's the best way to learn. It's the best way to produce big results in the long
 
 ### Related
 - [[Understanding isn't Doing]] 
+- [[Analysis Paralysis]]
 - [[Planning is Often Procrastinating]] 
-- [[ Daring Greatly  Quote]] 
-- [[ Can Do It → Want To → Do It  Cycle]] 
+- [[Daring Greatly Quote]]
+- [[Can Do It → Want To → Do It Cycle]]
 - [[Habits Have Compounding Returns]] 
 - [[Vulnerability is Necessary]]

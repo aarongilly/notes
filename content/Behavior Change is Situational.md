@@ -25,3 +25,4 @@ There is no panacea for behavior change. You have to look uniquely at your circu
 - [[Habit Change - Cues]] 
 - [[Habit Stacking]] 
 - [[Habit Loop]]
+- [[Environmental Personas]]

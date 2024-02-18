@@ -5,9 +5,7 @@ tags:
   - modeling
   - language
 ---
-**The 3 components to any language.**
-
-![[assets/12FBDFCF-4F02-4DE8-B002-59F56DB67992.png]]
+**The 3 components to any language.
 
 All languages have these three components in order to function as a language: Ontology, Semantics, and Syntax.
 

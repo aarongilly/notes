@@ -6,7 +6,7 @@ tags:
 ---
 **Sine, Cosine, Tangent, and the Secant versions are all parts of a triangle overlaying a Unit Circle.**
 
-![[Pasted image 20230821223041.png]]
+![[Pasted image 20230821223041.jpeg]]
 
 ---
 

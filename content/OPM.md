@@ -20,6 +20,8 @@ OPM is about Objects, which have States, which are created, modified, and consum
 
 OPM is bi-modal - **is it has two modes of existence** (one graphical, and one textual) that can directly translate to one another. These modes are called Object-Process Diagram (OPD) and Object-Process Language (OPL).
 
+![[Untitled 3.png]]
+
 The [Wikipedia Article](https://en.wikipedia.org/wiki/Object_Process_Methodology) is *incredibly* thorough. The rabbit hole for [[Ontology, Semantics, and Syntax]] for this language is too deep for here. Here are some of the natively supported concepts:
 
 - Things (objects and processes) have:

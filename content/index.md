@@ -33,9 +33,10 @@ tags:
   - systemdesign
   - technique
   - leadership
+  - article
 ---
-`Last Updated: 2024-02-10`  
-`Note Count: 1505` 
+`Last Updated: 2024-02-17`  
+`Note Count: 1538` 
 
 > [!success] Hello world!
 
@@ -52,6 +53,9 @@ These notes use a slightly modified [[Slip-Box Method]]. They are meant to be [[
 
 ### Tags
 Every note is associated with one or more tags (see the top of this page). They are a good entry point. In particular [the index tag](https://www.gillespedia.com/tags/index) is a good entry point to other entry points.
+
+### Articles
+I migrated most of the articles from [my *former* Gillespedia home on the web](https://aarongilly.com/gillespedia) to here under the `articles` folder, tagged with the `article` tag.
 
 ## About Me
 

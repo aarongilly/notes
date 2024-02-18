@@ -29,7 +29,7 @@ Example:
 	![[screenshot 2.png]]
 
 ## 3. Create an Event List
-Create a list of stimuli from the environment that the system must respond to. The source suggests labeling each as either a *flow-oriented event* (f), a *temporal event* (t), or a *control event* (c). 
+Create a list of stimuli from the environment that the system must respond to. The source suggests labeling each as either a *flow-oriented event* (f), a *temporal event* (t), or a *control event* (c). Two of those seem like good ideas to me.
 
 Example:
 

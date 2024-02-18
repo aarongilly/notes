@@ -8,11 +8,14 @@ tags:
 ---
 **Basic life advice that’s almost always been right**
 
-A lesson you’ve learned over and over again: do the simplest thing. 
+A lesson you’ve learned over and over again:  
+
+> [!tip] **Do the simplest thing.** 
 
 This has come in various forms:
 
 - When choosing between options, pick the one with fewer moving parts and dependencies.
+	- *Especially* when making plans involving coordination of multiple parties. Complexity causes confusion, confusion hurts execution.
 - Don’t start from scratch when it’s simpler to use an existing system. [[Don’t Reinvent Things]]
 - Don’t solve hypothetical problems. [[YAGNI]]
 - Set simple goals. Apply yourself to achieving them in the simplest possible way. [[SMART Goals]]

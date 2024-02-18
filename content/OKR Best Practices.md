@@ -15,7 +15,7 @@ Some tips for good [[OKRs]]:
 
 You should have *3-5 top-level Objectives*. These are your main focus. These are what's most important. If you're focusing on >5 things, you're focused on nothing.
 
-Each of these 3-5 Objectives should have underneath it a set of *3-5 Key Results*. These key results should be SMART, falsifiable goals.
+Each of these 3-5 Objectives should have underneath it a set of *3-5 Key Results*. These key results should be [[SMART Goals|SMART]], falsifiable goals.
 
 ## Key Results Achieve Objectives
 

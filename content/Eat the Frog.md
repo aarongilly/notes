@@ -11,6 +11,9 @@ tags:
 
 Make it a daily habit to prioritize working on what's hardest or most stressing you out, first thing in your day. Don't let the urgent, but unimportant ([[The Eisenhower Square]]) supplant that which should be done. If you knock out these stressors early, you have a less stressed day. 
 
+> If you want a simple formula for having a good day, then get a workout done and do your most important task before lunch. Knock out those two things by noon and you really feel like you're ahead of the day
+> *- James Clear*
+
 ## Eat the Frog Technique 🐸
 
 Because energy levels are highest in the morning and evening ([[Midday Slump]]) block out some time ([[Time Blocking]]) each morning to use your best energy and [[focus]] levels to work the most important work before anybody or anything else can distract you. For whatever reason, this technique is called "Eating the Frog". 
@@ -26,6 +29,7 @@ Eating the Frog can syngerize well with a number of other productivity technique
 - [[Essentialism]]
 - [[The 4-Hour Work Week]]
 - [[Todoist Productivity Articles]]
+- James Clear’s newsletters
 
 ### Related
 - [[The Eisenhower Square]]

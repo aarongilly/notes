@@ -16,7 +16,7 @@ Blogger from "the simple dollar.com" did a critique of the [[Financial Index Car
 4. Save in a 401k up to employer match, then max out Roth IRA
 5. When you invest, buy diverse index funds and hold onto them for the long haul
 6. Teach yourself about finance and you won't need an advisor
-7. But a home when it's more cost effective than renting
+7. Buy a home when it's more cost effective than renting
 8. If you're married and considering kids, get a 30 year term life insurance policy for 10x your salary
 9. Spend your spare time on skills and side gigs
 10. Spend less than you earn. Always.
