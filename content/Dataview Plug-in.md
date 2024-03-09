@@ -3,6 +3,7 @@ created: 2023-08-04
 aliases: 
 tags: [notetaking]
 ---
+
 summary::**A very powerful [[Obsidian]] plug-in**.
 
 Dataview makes [[Obsidian]] *way* more useful.
@@ -10,7 +11,8 @@ Dataview makes [[Obsidian]] *way* more useful.
 ## Dataview Uses
 #### Note Count
 This uses the [[JavaScript]] inline syntax.
-`$=dv.pages().length`
+
+> [!success] Currently there's **`$=dv.pages().length`** notes
 
 #### Finding Orphaned Pages
 ```dataview 
@@ -38,6 +40,7 @@ LIMIT 5
 ```dataview
 TABLE summary
 WHERE summary 
+LIMIT 10
 ```
 
 #### Test

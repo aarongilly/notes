@@ -11,10 +11,8 @@ In [[Relational Databases]],  Superkey (Super-key, Super Key) a set of attribute
 ![[assets/Untitled 84.png]]
 
 ---
-
 ### Source
-
-[Superkey - Wikipedia](https://en.wikipedia.org/wiki/Superkey)
+-[Superkey - Wikipedia](https://en.wikipedia.org/wiki/Superkey)
 
 ### Related
 - [[Relational Databases]] 

@@ -6,7 +6,6 @@ tags:
 ---
 
 > I'd rather be honest than impressive - anonymous
-> 
 
 ---
 

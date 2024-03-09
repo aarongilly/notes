@@ -8,7 +8,7 @@ aliases:
 ---
 This is a claim by "Stutz", Johan Hill's therapist. There are some (probably Dr. Peter Attia) who would probably argue that social relationships and something like an [[Ikigai]] are underrepresented here, but nobody would downplay the importance of getting these three health-producing life aspects right. 
 
-[[Huberman Labs|Huberman]] would probably talk about the lacy of representation of light exposure, heat & [[Cold Exposure]], and getting out in nature. 
+[[Huberman Labs|Huberman]] would probably talk about the lack of representation of light exposure, heat & [[Cold Exposure]], and getting out in nature. 
 
 [[10 Percent Happier|Dan Harris]] would suggest adding [[Meditation]] to the list.
 

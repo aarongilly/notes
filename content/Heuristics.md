@@ -26,3 +26,5 @@ The [[Systems Engineering Book of Knowledge|SEBoK]] defines heuristics as:
 - [[System 1]] 
 - [[Noise]] 
 - [[Bias Index]]
+- [[Satisficing]]
+- [[Rules of Thumb]]

@@ -52,7 +52,7 @@ Here **the size of the circles are proportional to the amount of time you spend 
 ## Step 5 - What Can I Learn from Benchmarks?
 A best practice is to look at others and cheat off their test, basically. Who do I look up to? What do they do differently than me? What would *they* do in this particular situation I'm in? What decision would they make?
 
-There was a life satisfaction survey done in Germany that HBR cites. This study may be worth looking at. There is an optimum amount of time to spend on leisure and sleep. There's a monotonically increasing return on life satisfaction for societal engagement, effort on nutrition, sports & church ([[Sync & Happiness]]), and number of close friends. 
+There was a life satisfaction survey done in Germany that HBR cites. This study may be worth looking at. There is an optimum amount of time to spend on leisure and sleep. There's a monotonically increasing return on life satisfaction for societal engagement, effort on nutrition, sports & church ([[Human Synchrony]]), and number of close friends. 
 
 HBR also referees to other studies that show the importance of [[Be Kind to You|kindness]], [[Mindfulness & Now|Mindfulness]], and [[Specific Gratitude|gratefulness]], cultivating more humor/laughter, dedicating time to learning, and working to grow yourself. 
 

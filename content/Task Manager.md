@@ -26,11 +26,11 @@ This list will inevitably go out of date. I’m used Todoist, lately it's been N
 - Wunderlist
 - Things 3 on iOS
 - [[Notion]] can work
+- [[Obsidian]] could, too
 - Google Tasks
 - Google Keep
 
 ---
-
 ### Source
 
 ### Related

@@ -16,7 +16,6 @@ Minimalism questions - if the answer to either of these is "not much" - then it'
 2. If I didn't already have this opportunity, what would I do to earn it?
 
 ---
-
 ### Source
 - [[Essentialism]]
 

@@ -5,7 +5,7 @@ tags:
   - coding
   - modeling
 ---
-**There are a number of methods, each with pros and cons. **
+**There are a number of methods, each with pros and cons.**
 
 ## [[CSV]]-like
 
@@ -24,6 +24,9 @@ tags:
 - [[XML]]
 - [[SVG]]
 - [[HTML]]
+- Zipped up XML office files:
+	- The OpenDocument file
+	- XLSX, DOCX, PPTX, etc
 
 ## Graph
 

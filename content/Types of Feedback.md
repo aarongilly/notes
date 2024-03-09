@@ -5,10 +5,10 @@ tags: [productivity, learning]
 ---
 **Outcome, Informational, and Correctional**
 
-Because [[Feedback is Key to Learning]] it's worth looking at how it can come.
+Because [[Feedback is Key to Learning]] it's worth looking at how it can come. [[Accurate Feedback Quote|Accuracy matters]].
 
 ## No Feedback
-The worst. You essentially cannot learn. The process is uncontrollable.
+The worst. You essentially cannot learn. The process is uncontrollable. If possible, create some [[Manufactured Feedback]].
 ### Example
 A doctor who prescribes a medication to a patient then never hears from that patient about its efficacy.
 ## Outcome Feedback

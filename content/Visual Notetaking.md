@@ -22,7 +22,7 @@ Writing a ton of words doesn't produce better learning than doing the work of [[
 
 ---
 ### Source
-- 
+- Self
 
 ### Related
 - [[Notes (index)]]

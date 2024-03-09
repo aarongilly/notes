@@ -13,9 +13,6 @@ What they were actually doing was giving themselves a signal to determine if the
 ---
 
 ### Source
-
-# Source
-
 I don’t remember where I first learned this.
 
 ### Related

@@ -14,8 +14,6 @@ The average US cost per kilowatt-hour is 14.92 cents. This average varies from s
 
 ### Source
 
-### Source
-
 [Electric Power Monthly - U.S. Energy Information Administration (EIA)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
 
 ### Related

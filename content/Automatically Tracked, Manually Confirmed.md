@@ -9,7 +9,7 @@ In my experience they best, most consistent way to get good quantified-self data
 Automated tracking, no confirmation - bad data, missing data
 Manual-only tracking - forgetfulness, laziness
 
-Examples:
+### Examples:
 - Nightly review of automatically-tracked datapoints.
 - Logging 
 

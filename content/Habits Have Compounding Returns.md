@@ -21,3 +21,4 @@ Due to the [[Habit↔Identity Feedback Loop]], **you are what you do repeatedly*
 - [[Trajectory Matters More Than Results]]
 - [[Prefer a Long-Term Philosophy]]
 - [[Valley of Disappointment]]
+- [[Small but Consistent beats Big but Sporadic]]

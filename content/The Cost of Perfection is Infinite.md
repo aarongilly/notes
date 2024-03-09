@@ -8,7 +8,6 @@ tags:
 **Quote from GCPGrey**
 
 > The cost of perfection is infinite - GCPGrey('s dad)
-> 
 
 ---
 ### Source

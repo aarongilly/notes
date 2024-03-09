@@ -25,7 +25,6 @@ tags:
 This last one seems weird.
 
 ---
-
 ### Source
 - [[SOLID OOP Principles]]
 

@@ -39,6 +39,7 @@ Diagrams are used all over the place in the things I'm interested in. So much th
 	- [[PlantUML]]
 - Homegrown stuff...
 	- [[What's Working , What Needs Attention, and What You're Doing About It Diagram]]
+	- [[Graphical Project Tracking]]
 
 ---
 ### Source

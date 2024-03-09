@@ -12,6 +12,10 @@ tags:
 SysML is a offshoot of [[UML]] 2.0 that aims to achieve Model-Based Systems Engineering ([[MBSE]] ). It supports specification analysis, design, verification and validation of a broad range of systems including hardware, software, information, processes, personnel, and facilities.
 
 SysML is codified into **ISO/IEC 19514:2017** - "Information Technology - Object Management group systems modeling language" by the Object Management Group and [[ISO]].
+
+### Quirks of SysML
+SysML model organization is up to the modeler, which frankly sucks. Folders are called *packages*. [[Package Diagrams]] are there to explain your organizational scheme, which means it's not self explanatory. To make matters more confusing, there's a difference *containment* and *ownership*. It's possible for packages to *contain* elements that are *owned* by other elements.
+
 ### V2
 SysML 2.0 is coming out SOON™️ and will represent a serious, massive improvement over the current standard (my opinion). It will include a further break from UML, but in doing so a more consistent and refined language. And, most importantly, a *textual* language and standard API to go along with the Graphical language. Although, unlike [[OPM]] that textual language does not read like regular english.
 

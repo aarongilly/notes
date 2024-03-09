@@ -7,7 +7,7 @@ tags:
   - modeling
   - data
 ---
-**1 bit = IDs 1/2 of all results **
+**1 bit = IDs 1/2 of all results**
 
 When you have a sample population to make a random selection from, 1 bit of information is enough to cut that population in half.
 

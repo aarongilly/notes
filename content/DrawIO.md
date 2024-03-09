@@ -18,7 +18,6 @@ Notion actually isn't *natively* supported. Just embeds work well. When exportin
 ---
 ### Source
 - [DrawIO](https://drawio.com)
-
 ### Related
 - [[Excalidraw]]
  

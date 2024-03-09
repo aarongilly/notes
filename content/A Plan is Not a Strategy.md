@@ -26,7 +26,7 @@ To avoid "playing just to play" and actually act according to a *strategy*:
 ---
 ### Source
 - ![video](https://youtu.be/iuYlGRnC7J8)
-
+- [[Essentialism]]
 ### Related
 - [[Plan for Failure]]
 - [[Planning is Often Procrastinating]]

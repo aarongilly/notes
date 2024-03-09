@@ -13,7 +13,7 @@ Trying to predict what the "right" thing to do before you do them is a fool's er
 
 > The mistake most people make is they try and use their intelligence or knowledge to figure out the “right” thing to do in advance. Instead, you should generate a lot of options (and opportunities) and simply exercise the profitable ones when the conclusion is obvious.
 
-Fail fast. Make a multitude of low-cost mistakes, which known maximum losses and a large potential payoffs. Rely on [[Empirical]] evidence to determine what should be further pursued.
+**Fail fast.** Make a multitude of low-cost mistakes, which known maximum losses and a large potential payoffs. Rely on [[Empirical]] evidence to determine what should be further pursued.
 
 Bail on okay options and leave yourself open for those that are truly great and worthwhile ([[Be Selective]]). If you commit to a project for five years and refuse to leave it when it goes south, you're making a mistake.
 
@@ -21,10 +21,9 @@ Bail on okay options and leave yourself open for those that are truly great and 
 > 
 
 ---
-
 ### Source
 - [[Antifragile Planning (article)]]
--  [James clear tweet](https://twitter.com/jamesclear/status/1171470981283450880)
+- [James clear tweet](https://twitter.com/jamesclear/status/1171470981283450880)
 
 ### Related
 - [[Decide and Move On]] 

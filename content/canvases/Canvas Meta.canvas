@@ -2,18 +2,19 @@
 	"nodes":[
 		{"id":"63316ede203c29a1","type":"group","x":-760,"y":800,"width":600,"height":220,"color":"4","label":"Good Things"},
 		{"id":"dba263eadc85a0fb","type":"group","x":-340,"y":1120,"width":570,"height":180,"color":"1","label":"Bad Things"},
+		{"id":"11702b87d1d5b1ab","type":"text","text":"No freehand support","x":-315,"y":1140,"width":250,"height":60},
+		{"id":"101b866700f46f7a","type":"text","text":"Seemingly no way to add semantic meaning behind drawing lines between notes.","x":-40,"y":1140,"width":240,"height":140},
+		{"id":"f80d533f95a883a8","type":"text","text":"No backlink support!","x":-315,"y":1220,"width":250,"height":60},
+		{"id":"6908e8fd431c8c40","type":"text","text":"# Canvases","x":-180,"y":540,"width":250,"height":60},
+		{"id":"a9b3130e422e6803","type":"text","text":"## Index Creation\n#index","x":120,"y":950,"width":340,"height":110},
+		{"id":"d44c4e239e33dfbf","type":"file","file":"Visual Notetaking.md","x":320,"y":720,"width":398,"height":176},
+		{"id":"1b612db327a54c7b","type":"file","file":"Obsidian.md","x":0,"y":120,"width":380,"height":180},
+		{"id":"74cea33f381734a8","type":"file","file":"Excalidraw.md","x":680,"y":360,"width":400,"height":180},
+		{"id":"274cc8847e1f5927","type":"file","file":"Obsidian Canvas.md","x":-760,"y":170,"width":400,"height":400},
 		{"id":"cd64a2f6007ed473","type":"text","text":"Simple Digraph Creation","x":-720,"y":840,"width":250,"height":60},
 		{"id":"45eba3fd82912cc9","type":"text","text":"Graphic Creation for Publish?","x":-440,"y":840,"width":250,"height":60},
 		{"id":"ceff3fad896f034a","type":"text","text":"Grouping things, like this.","x":-720,"y":920,"width":250,"height":60},
-		{"id":"296ccd7e30eae563","type":"text","text":"Storing Diagrams within [[Obsidian]] natively","x":-440,"y":920,"width":250,"height":60},
-		{"id":"11702b87d1d5b1ab","type":"text","text":"No freehand support","x":-315,"y":1140,"width":250,"height":60},
-		{"id":"101b866700f46f7a","type":"text","text":"Seemingly no way to add semantic meaning behind drawing lines between notes.","x":-40,"y":1140,"width":240,"height":140},
-		{"id":"a9b3130e422e6803","type":"text","text":"## Index Creation\n#index","x":120,"y":950,"width":340,"height":110},
-		{"id":"f80d533f95a883a8","type":"text","text":"No backlink support!","x":-315,"y":1220,"width":250,"height":60},
-		{"id":"d44c4e239e33dfbf","type":"file","file":"Visual Notetaking.md","x":320,"y":720,"width":398,"height":176},
-		{"id":"6908e8fd431c8c40","type":"text","text":"# Canvases","x":-180,"y":540,"width":250,"height":60},
-		{"id":"1b612db327a54c7b","type":"file","file":"Obsidian.md","x":0,"y":120,"width":380,"height":180},
-		{"id":"74cea33f381734a8","type":"file","file":"Excalidraw.md","x":680,"y":360,"width":400,"height":180}
+		{"id":"296ccd7e30eae563","type":"text","text":"Storing Diagrams within [[Obsidian]] natively","x":-440,"y":920,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"656e13ad6eeebc48","fromNode":"1b612db327a54c7b","fromSide":"bottom","toNode":"6908e8fd431c8c40","toSide":"top","label":"Capability"},
@@ -22,6 +23,7 @@
 		{"id":"b06948fcad520a65","fromNode":"74cea33f381734a8","fromSide":"bottom","toNode":"d44c4e239e33dfbf","toSide":"right","label":"For"},
 		{"id":"25de0ac529c40c04","fromNode":"6908e8fd431c8c40","fromSide":"bottom","toNode":"63316ede203c29a1","toSide":"top"},
 		{"id":"fc7a51e9e976c769","fromNode":"6908e8fd431c8c40","fromSide":"bottom","toNode":"dba263eadc85a0fb","toSide":"top"},
-		{"id":"855d1222db566ee7","fromNode":"6908e8fd431c8c40","fromSide":"bottom","toNode":"a9b3130e422e6803","toSide":"top","label":"Promising\nUse Case\n"}
+		{"id":"855d1222db566ee7","fromNode":"6908e8fd431c8c40","fromSide":"bottom","toNode":"a9b3130e422e6803","toSide":"top","label":"Promising\nUse Case\n"},
+		{"id":"e17c6b8f6b0125d8","fromNode":"6908e8fd431c8c40","fromSide":"left","toNode":"274cc8847e1f5927","toSide":"right","label":"Note"}
 	]
 }

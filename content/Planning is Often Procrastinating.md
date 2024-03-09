@@ -15,7 +15,7 @@ Action is writing a draft.
 
 Motion isn’t always bad, you should usually have some idea of your plan, but rethinking something before turning your previous plan into *action* is when you’re spinning your wheels.
 
-[[Learn by Doing]]. Run [[[Low-Cost Trials]] and see how it goes.
+[[Learn by Doing]]. Run [[Low-Cost Trials]] and see how it goes.
 
 > [!tldr] 🚫 Planning fools you into **thinking** you’re making progress, when really you’re just avoiding failure (and by doing so, failing to achieve anything real).
 

@@ -12,7 +12,7 @@ A technique to increase your chance at engaging with good articles - don't pit r
 1. Do a general browsing of things things that might be interesting. When something is interesting, save it to [Pocket](http://www.getpocket.com).
 2. Make undistracted time with Pocket to properly read the articles you've deemed worth of saving for later.
 
-WIth Pocket you can also tag and highlight sections from the articles.
+WIth Pocket you can also tag and highlight sections from the articles. This phase-based approach allows you to keep at front of mind [[What's Important Now]].
 
 ---
 

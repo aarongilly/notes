@@ -13,10 +13,8 @@ The Snatch is an explosive pull movement that involves the entire body.
 The Snatch, along with the [[Clean and Jerk]] are the two main lifts common to [[Olympic Weightlifting]]. 
 
 ---
-
 # Source
-
-[Snatch](https://exrx.net/WeightExercises/OlympicLifts/Snatch)
+- [Snatch](https://exrx.net/WeightExercises/OlympicLifts/Snatch)
 
 ### Related
 - [[Clean and Jerk]] 

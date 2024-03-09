@@ -10,7 +10,7 @@ aliases:
 
 The idea is that 12 weeks is long enough to do something significant, but short enough to maintain a sense of urgency. It also gives you a chance to start again relatively quickly if you end up crapping out on a set of goals. This particular methodology suggests forming weekly [[KPIs]] to keep yourself accountable and motivated. 
 
-This is basically a slice of the [[Antifragile Planning Method]]. 
+This is basically a slice of the [[Antifragile Planning Method]].
 
 ---
 ### Source
@@ -19,3 +19,4 @@ This is basically a slice of the [[Antifragile Planning Method]].
 
 ### Related
 - [[Seasons Defined]]
+- [[30 Day Challenge]]

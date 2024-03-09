@@ -24,6 +24,9 @@ Modeling tools used for systems ([[SysML]]), functions ([[IDEF0]]), processes ([
 - modeling languages’ [[Ontology, Semantics, and Syntax|syntax]] aren’t user friendly
 - modeling tools are not good for presentation, and require either mass installation or the utilization of reporting
 
+### Mitigations
+- **Reporting** - essentially every modeling tool has reporting mechanisms. Good ones have *good* reporting mechanisms. These are, however, still less easy than simply 
+
 ---
 ### Source
 - self

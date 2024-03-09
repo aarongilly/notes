@@ -1,13 +1,14 @@
 ---
 created: 2024-01-12
-tags: 
+tags:
+  - philosophy
 aliases:
 ---
 ## Ditch the facade, embrace reality.
 Know yourself. Embrace reality. 
 
 ## Your Body is Smart, Listen to It
-Your feelings are telling you things. Get better at identifying and engaging with your emotions. 
+Your feelings are telling you things. Get better at identifying and engaging with your emotions. Practice [[Interoception]].
 
 ## Respond, Don't React
 Be [[Presence]]. Pay attention to your surroundings and your body. Consider your actions. 

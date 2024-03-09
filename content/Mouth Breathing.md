@@ -9,7 +9,6 @@ tags:
 The entire book "Breath" is essentially about how mouth breathing is bad for you. It includes a story of a 20 day breathing experiment in which the author spent 10 days breathing only through his mouth and another 10 only breathing through his nose. He described the mouth breathing days as miserable and the nose breathing days as much better to endure & associated with better health & performance outcomes. 
 
 Mouth breathing:
-
 - Robs the body of moisture
 - Doesn't filter the air of pathogens
 - Doesn't produce nitris-oxide, which apparently we need
@@ -25,3 +24,5 @@ Mouth breathing:
 
 ### Related
 - [[Anxiety and Overbreathing]]
+- [[Ideal Breathing]]
+- [[Zone 2]]

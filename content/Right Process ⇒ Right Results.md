@@ -6,10 +6,6 @@ tags:
   - productivity
 ---
 **Paradoxically, you get better results by focusing more on process than result.**
-
-### Source
-- [[The Toyota Way]]
-
 # Toyota's Management Principles 2 - 8
 
 ### Create continuous process flow to bring problems to the surface
@@ -30,10 +26,9 @@ Quality is your main driver of value. **Building something slowly, but right the
 
 ### Standardized tasks are the foundation for continuous improvement and employee empowerment
 
-See [[Standard Processes]] 
+See [[Standard Processes]], [[Standardization Enables Creativity]], and [[Structure Enables Improvement]].
 
 > Today's standardization... is the necessary foundation on which tomorrow's improvement will be based. If you think of "standardization" as the best you know today, but which is to be improved tomorrow - you get somewhere. But if you think of standards as confining, then progress stops. - Henry Ford
-> 
 
 ### Use visual controls so no problems may remain hidden
 
@@ -43,6 +38,9 @@ Utilize simple visual indicators of standard conditions, built where the work is
 
 Don't automate bad processes. Work them manually until they are maximally lean - then add technology. New technologies that don't integrate into the overall system will inhibit flow. Perform test runs with prospective technologies before relying on them. 
 
+---
+### Source
+- [[The Toyota Way]]
 ### Related
 - [[Toyota's 14 Principles]]
 - [[Techniques Trump Tools]]

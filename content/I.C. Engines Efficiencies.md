@@ -13,12 +13,10 @@ Internal Combustion engines are well below 50% efficient, closer to 25% dependin
 From [here](https://en.wikipedia.org/wiki/Fuel_efficiency):
 
 > Passenger car diesel engines have [energy efficiency](https://en.wikipedia.org/wiki/Energy_conversion_efficiency) of up to 41% but more typically 30%, and petrol engines of up to 37.3%, but more typically 20%.
-> 
 
 The car the engine is powering is itself contributing to lower effective energy output. The gas may hold 33kWh of energy, the engine may output 10kWh of that, but the energy of transferred to the wheels may be more like 8.5kWh.
 
 ---
-
 ### Source
 
 [Internal combustion engine - Wikipedia](https://en.wikipedia.org/wiki/Internal_combustion_engine)

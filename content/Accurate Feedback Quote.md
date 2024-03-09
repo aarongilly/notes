@@ -11,7 +11,6 @@ tags:
 A mid-quote (probably) from “A Higher Loyalty” by James Comey:
 
 > There isn't “positive feedback” or “negative feedback”, there is only **accurate feedback**.
-> 
 
 …and that is what you should be giving to people. To only give positive feedback OR negative feedback is to serve your interests (either making a person like you or trying to argue your point about something) is selfish. 
 

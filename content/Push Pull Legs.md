@@ -24,7 +24,7 @@ I'm trialing a Push, Pull, Legs routine from 1/1/2024 to 4/1/2024. Results to fo
 	- glutes 
 	- hamstrings 
 	- calves 
-	- quads. 
+	- quads
 
 ---
 ### Source

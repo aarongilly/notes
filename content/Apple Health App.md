@@ -11,7 +11,7 @@ Apple's Health app is an absolute treasure trove of good, useful, insightful dat
 Its only limitation from a quantified-self enthusiast's perspective is its lack of (good) mechanisms to "correct" data. While you absolutely *can* manually add data, it's less easy to manually *correct* inaccurate data... and it's on you to find these inaccuracies. [[Automated Tracking, Manually Confirmed]] is my gold standard, and the app only really excels at one of the two. 
 
 It natively supports tracking:
-- [[Sleep Duration]] and some portions of your [[Sleep [[Sleep Hygiene]]Hygiene]]
+- [[Sleep Duration]] and some portions of your [[Sleep Hygiene]]
 - Duration & type of Exercise
 	- Running/biking/swimming speed, cadence, distance, etc
 - Steps, sedentary time, and the standard pedometer stuff

@@ -15,12 +15,9 @@ Being non/responsive to your morale means your better at breaking down your work
 Stallone wrote all of Rocky in a 3 day binge, so he's highly morale responsive. 
 
 ---
-
 ### Source
-
-### Source
-
-Ultraworking Podcast episode 1
+- Ultraworking Podcast episode 1
 
 ### Related
 - [[Morale Dependence is Worse]]
+- [[Small but Consistent beats Big but Sporadic]]

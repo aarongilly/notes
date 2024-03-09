@@ -14,6 +14,8 @@ Each layer might be made up of several sub-components, but spans the entirety of
 
 The [[MVC Pattern]] is an example of a Layered Architecture.
 
+From a wider perspective, see: [[Enterprise Architectural Layers]].
+
 ---
 ### Source
 - 

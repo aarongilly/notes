@@ -45,7 +45,8 @@ I've seen these categorized also as:
 - Tomato? No thanks
 ## Other Mixers
 - Bitters - old fashioned
-- Simple syrup - sugar and water
+- Simple syrup - 
+	- equal parts sugar and water, boil it until the sugar is dissolved, let cool.
 - Sour mix
 - Grenadine
 - Milk, Coffee

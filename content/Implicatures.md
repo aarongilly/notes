@@ -14,8 +14,8 @@ Implicatures are when you say something soft that implies the meaning of somethi
 - "It's sure hot in here" instead of "hey turn the fan on."
 
 ---
-
 ### Source
 - [[The Organized Mind]]
 
 ### Related
+- [[Affordances]]
