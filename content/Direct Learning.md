@@ -19,4 +19,6 @@ Your score in Duolingo might be high, but can you speak to someone? Does watchin
 ### Related
 - [[Just Do It]]
 - [[Learn by Doing]]
- 
+- [[Action is Better than Research]]
+- [[Planning is Often Procrastinating]]
+- [[Low-Cost Trials]]

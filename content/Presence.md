@@ -9,6 +9,8 @@ tags:
 
 While there is something to be said about learning from the past and planning for the future, **the most important thing is the now**. Dwelling in the past, and fretting about the future is not living in the present. The present is all that matters. It's where life exists.
 
+> Go home to the present - [[Essentialism]]
+
 Develop your powers of sight and sound. Notice those ordinary things you long stopped paying attention to. Be present in your space, in your moment. Stop tuning out the beautiful complexity of the world around you. Train yourself to [[focus]] on the little things. What can you touch, hear, and see? [[Meditation]] helps increase awareness of and appreciation for the present.
 
 > Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present. - Bill Keane

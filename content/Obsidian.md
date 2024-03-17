@@ -33,3 +33,4 @@ It has over 1000 plug-ins, including the incredible [[Dataview Plug-in]] (which 
 - [[Excalidraw]]
 - [[Obsidian Annoyances]]
 - [[Obsidian Niceties]]
+- [[Obsidian as a Semantic Wiki]]

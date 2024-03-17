@@ -1,6 +1,7 @@
 ---
 created: 2023-07-08
-aliases: 
+aliases:
+  - Simple vs Easy
 tags:
   - language
 ---
@@ -19,3 +20,4 @@ Complicated and complex are not synonyms. Complicated things can be easy  Simple
 - [[The Zen of Python]]
 - [[Simplicity]]
 - [[Do the Simplest Thing]]
+- [[Consistency is Simple]]

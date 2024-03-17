@@ -17,7 +17,7 @@ A metric should be obviously relevant to the thing ([[Defining Area|area]] or [[
 Where possible, hard quantifiable, indisputable measures should be used over subjective, or "soft" metrics.
 
 ### Pairing [[Leading Measures]] with [[Lagging Measures]]
-Leading measures are a good way to see if something is going off the rails before it happens... lagging measures are a good way to see if the thing you did about it was effective.
+Leading measures are a good way to see if something is going off the rails before it happens... lagging measures are a good way to see if the thing you did about it was effective. [[Leading indicators measure strategy adherence and lagging indicators measure strategy effectiveness]].
 
 ### Standardize
 Having a dashboard (something like a [[Work, Health, Love, Play Dashboard]]) or a common personal operating system (something like [[Periodic Reviews]]) will give you the needed structure to actually rely on your system of metrics.

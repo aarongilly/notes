@@ -17,15 +17,19 @@ There's a TED Talk that says **"if the answer isn't 'Hell Yes' the answer should
 
 > [!tldr] ➡️ Make decisions by design, rather than default.
 
-It can be more fulfilling, AND more financially lucrative to be the best at one thing, than to be good at everything. This is a specific case of Ron Swanson's quote:
+It can be more fulfilling, AND more financially lucrative to be the best at one thing, than to be good at everything.
+### Quotes
+A smattering form various sources
+> [!quote] Don't Half Ass Two Things. Whole-ass One Thing. - Nick Offerman
 
-> "Don't Half Ass Two Things. Whole-ass One Thing." - Nick Offerman
+> [!quote] There are always more ideas than can be successfully pursued - Brian Moran
 
 ---
 ### Source
 - [[Essentialism]]
 - [[The Life-Changing Magic of Tidying Up]]
-
+- [[The 12 Week Year]]
+- Parks and Recreation, NBC
 ### Related
 - [[Monotasking]]
 - [[Decision Fatigue]]

@@ -34,8 +34,8 @@ tags:
   - technique
   - leadership
 ---
-`Last Updated: 2024-03-09`  
-`Note Count: 1562` 
+`Last Updated: 2024-03-17`  
+`Note Count: 1570` 
 
 > [!success] Hello world!
 
@@ -46,13 +46,10 @@ What you're reading here are [[My Notes]]. They cover whatever topics I feel lik
 > They aren't *meant* to be perfect.  
 
 Every note here *other* than this one was written with **me** as the expected audience. 
-
 ## Approaching These Notes
 These notes use a slightly modified [[Slip-Box Method]]. They are meant to be [[Evergreen Notes]] and [[Atomic Notes]]. They are densely interconnected, and each relatively short. The best way to interact with them is to jump from link-to-link, use the graph view & backlinks (below), dive in on a particular tag, or the search bar. 
-
 ### Tags
 Every note is associated with one or more tags (see the top of this page). They are a good entry point. In particular [the index tag](https://www.gillespedia.com/tags/index) is a good entry point to other entry points.
-
 ## About Me
 
 I'm a guy trying to figure things out and live each day a little better than the last. I'm married with a couple of growing sons, living in a happy house here in Lawrence, KS.

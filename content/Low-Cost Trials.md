@@ -18,7 +18,6 @@ Trying to predict what the "right" thing to do before you do them is a fool's er
 Bail on okay options and leave yourself open for those that are truly great and worthwhile ([[Be Selective]]). If you commit to a project for five years and refuse to leave it when it goes south, you're making a mistake.
 
 > It is much easier to notice when something is working than to predict ahead of time if it will work. Take action, make many small bets, and run lots of quick (but thoughtful) experiments. Then, double-down on the winners. - James Clear
-> 
 
 ---
 ### Source
@@ -32,3 +31,4 @@ Bail on okay options and leave yourself open for those that are truly great and 
 - [[Empirical]]
 - [[Be Selective]]
 - [[Start Small]]
+- [[Direct Learning]]

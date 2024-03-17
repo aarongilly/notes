@@ -43,3 +43,4 @@ Notion’s AI… actually. Life is getting crazy.
 
 ### Related
 - [[SemVer Versioning]]
+- [[Git]]

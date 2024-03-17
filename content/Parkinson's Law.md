@@ -1,6 +1,7 @@
 ---
 created: 2023-07-08
-aliases: 
+aliases:
+  - work will expand
 tags:
   - business
   - productivity

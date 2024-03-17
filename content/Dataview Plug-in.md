@@ -25,7 +25,6 @@ from "" where length(file.inlinks) =0 and length(file.outlinks) = 0
 TABLE created
 WHERE created.year = 2024
 SORT created DESC
-LIMIT 80
 ```
 
 #### Finding Pages Edited Recently
@@ -40,7 +39,6 @@ LIMIT 5
 ```dataview
 TABLE summary
 WHERE summary 
-LIMIT 10
 ```
 
 #### Test
@@ -52,7 +50,7 @@ WHERE
 FLATTEN 
 	file.tags AS tag
 WHERE 
-	file.ctime.year = 2023
+	file.ctime.year = 2024
 GROUP BY 
 	tag 
 SORT notes DESC
