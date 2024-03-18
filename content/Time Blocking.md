@@ -19,13 +19,16 @@ Time Blocking, also known as "Block Scheduling", is a productivity and time-mana
 - [[Task Batching]]
 - [[Timeboxing]] (most strict)
 
+There can also be different [[Types of Time Blocks]]. All kinds can be enhanced when you [[Treat Work Sessions like the Cinema]]. 
+
 # Pros and Cons
 
 ## Benefits
 
 - Assuring that the landscape of your day aligns with your priorities (and not [[Majoring in Minor Work]])
 - Proper balance between P and PC work (see: [[P-PC Balance]])
-- Always having clarity on what you can (and should) be working towards (see [[Antifragile Planning Method]])
+- Helps you [[Know Your Immediate Task]]
+- Always having clarity on what your immediate task is in alignment with, long-term (see [[Antifragile Planning Method]])
 - Enables [[Deep Work]], avoiding the costs of using the [[Attentional Switch]] and [[Context Loading]]
 - Counteracting procrastination and perfectionism - if you assign tasks to dedicated timeframes, you are less likely to avoid work, and more likely to find “good enough” (see: [[Timeboxing]], and [[Fix Time, Flex Scope]])
 - Ensuring you don’t overload your plate - by forcing tasks and Projects to have their own allocation of time, you can see in a very literal sense whether you have “room” to take on something new (see: [[Less, but Better]])
@@ -37,7 +40,8 @@ Time Blocking, also known as "Block Scheduling", is a productivity and time-mana
 - It requires a lot of re-planning when something prevents you from sticking to your block schedule, or [[Planning Fallacy]] strikes and something takes longer than you expect
 - It will be uncomfortable when you don't "feel" like doing what you've blocked off time to do, and if you fail to make [[Traction]] you will have essentially not time blocked at all.
 
-# Source
+****
+### Source
 - [The Complete Guide to Time Blocking](https://doist.com/blog/time-blocking/)
 
 ### Related

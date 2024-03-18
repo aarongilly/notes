@@ -39,12 +39,11 @@ If you are designing a measure and a metric, consider not only what incentives y
 
 ### Measure the *real definition* of success
 
-It is not always possible to measure success directly. When using [[Proxy Measures]] , try to align them as closely as possible with what “success” would *really* mean. Throughout is one aspect of a process, but if what’s being throughput is garbage, than you have an assembly line whose very successful at making garbage.
+It is not always possible to measure success directly. When using [[Proxy Measures]] , try to align them as closely as possible with what “success” would *really* mean. Throughput is one aspect of a process, but if what’s being throughput is garbage, than you have an assembly line whose very successful at making garbage.
 
-The best KPIs are those that, when green, *positively* ensure that all is actually well - and not that someone is playing games.
+The best KPIs are those that, when green, *positively* ensure that all is actually well - and not that someone is playing games. These aren't always easy to come up with.
 
 ---
-
 ### Source
 - [[Measure What Matters]]
 

@@ -5,11 +5,18 @@ tags:
   - productivity
   - technique
 ---
-**Prepare for Deep Work the way you'd prepare to go into the theater.**
+**Prepare for [[Deep Work]] the way you'd prepare to go into the theater.**
 
-You need to prepare to do work the same way you'd prepare to watch a movie. Prepare to immerse yourself and sit For a couple hours. 
+You need to **prepare to do work** the same way you'd prepare to watch a movie. Prepare to immerse yourself and sit For a couple hours. 
 
-Pee. Stretch. Get a drink. Turn your phone off.
+### Do things like...
+- Pee. 
+- Stretch. 
+- Get a drink. 
+- Turn your phone off & [[Tailor Your Environment]]
+- Write down what you're about to accomplish ([[Know Your Immediate Task]]) 
+- Close everything else ([[Organize Focuses by Desktop]])
+- Start a timer if you like ([[Pomodoro Technique 🍅]])
 
 Do a pre-work prep ritual so you can actually do the work. 
 

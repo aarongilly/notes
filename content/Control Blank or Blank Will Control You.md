@@ -1,4 +1,6 @@
 ---
+created: 2024-02-29
+created:
 tags:
   - philosophy
 aliases:

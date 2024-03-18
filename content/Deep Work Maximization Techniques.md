@@ -14,13 +14,11 @@ How to work deeply more often:
 - Delay responses & realize [[Inaction is Okay]]
 - [[Set Impossibly Short Deadlines]]
 - Track hours worked deeply ([[Lifelogging]])
-- Sequester yourself to dedicated deep work spots
+- Sequester yourself to dedicated deep work spots - [[Tailor Your Environment]]
 - Ask yourself the [[Deep Work Questions]]
 
 ---
-
 ### Source
 - [[Deep Work]]
-
 ### Related
 - (see above)

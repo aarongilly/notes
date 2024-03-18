@@ -9,7 +9,7 @@ tags:
 ---
 **A take on personal OKRs & daily/weekly/monthly planning.**
 
-Taylor Pearson's system for connected goal-setting & moving toward who you want to be.
+Taylor Pearson's system for connected goal-setting & moving toward who you want to be. Cal Newport has a similar method he calls "Multi-scale Planning".
 
 [[Antifragile]] Planning is a series of selection, execution, and review cycles, broken out on an escalating timeline, to ensure the day-to-day activities are in alignment with your overall goals and continue to be the most effective things.
 

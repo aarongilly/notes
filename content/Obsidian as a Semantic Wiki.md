@@ -1,4 +1,6 @@
 ---
+created: 2024-02-29
+created:
 tags:
   - notetaking
   - data
@@ -14,7 +16,6 @@ A plug-in for managing **types** and their **properties** in Obsidian would be c
 You could use a folder to contain the meta-model with notes that describe each entity whose meta-data describe the schema of the properties associated with that entity Inheritance would be an important feature and would likely require some reserved property keywords. You would need a couple of base classes that all other classes would extend.
 
 **Thing** 
-
 
 ****
 ### Source

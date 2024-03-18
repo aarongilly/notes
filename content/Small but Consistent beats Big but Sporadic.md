@@ -16,7 +16,6 @@ When it comes to long-term progress, doing something small consistently will res
 > Low expectations, met consistently, lead to great things in the long run. 
 > - In Laura Vanderkam’s “[[Off The Clock]]
 
-
 ---
 ### Source
 - [[Off The Clock]]

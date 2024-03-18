@@ -1,4 +1,6 @@
 ---
+created: 2024-03-16
+created:
 tags:
   - business
 aliases:

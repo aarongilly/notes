@@ -1,4 +1,6 @@
 ---
+created: 2024-02-26
+created:
 tags:
   - science
   - society

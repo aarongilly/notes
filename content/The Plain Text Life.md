@@ -1,4 +1,6 @@
 ---
+created: 2024-03-14
+created:
 tags:
   - philosophy
   - notetaking

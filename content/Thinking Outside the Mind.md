@@ -1,4 +1,6 @@
 ---
+created: 2024-02-18
+created:
 tags:
   - philosophy
   - psychology
