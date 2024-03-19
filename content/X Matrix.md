@@ -28,7 +28,7 @@ Its purpose is NOT to :
 - communicate to workers what they should be doing. They shouldn't have to care about the mechanics of how the strategy works.
 - track progress on things, the [[KPIs]] should have their own dashboards & whatnot
 
----
+****
 ### Source
 - ![short video](https://youtu.be/dG_K-PFsj3o)
 

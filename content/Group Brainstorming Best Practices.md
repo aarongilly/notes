@@ -1,6 +1,5 @@
 ---
 created: 2024-02-18
-created:
 tags:
   - leadership
   - business
@@ -31,7 +30,7 @@ One shortcut to [[Psychological Safety]] and group bonding (which is both "nice"
 > - Print off multiple copies of the system diagram
 > - Let everyone work on their own computer
 
----
+****
 ### Source
 - [[Noise - A Flaw in Human Judgment]]
 - [[The Extended Mind]]

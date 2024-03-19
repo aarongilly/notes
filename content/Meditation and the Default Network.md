@@ -9,8 +9,7 @@ tags:
 
 Meditation serves the function of turning off (or toning down) the [[Default Network]]. 
 
----
-
+****
 ### Source
 - [[10% Happier]]
 

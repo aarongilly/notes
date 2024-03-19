@@ -31,7 +31,7 @@ For whatever reason [[Enterprise Architecture as a Strategy]] decided to add a 5
 ## Learning Objectives
 ![[IMG_1475 Medium.jpeg]]
 
----
+****
 ### Source
 - [[Enterprise Architecture as a Strategy]]
 

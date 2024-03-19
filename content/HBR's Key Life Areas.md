@@ -29,7 +29,7 @@ According to a Harvard Business Review Article, there are ~6 life areas, and ~16
 - Physiological needs (eating/sleeping)
 - Activities of daily living (housework, commutes)
 
----
+****
 ### Source
 - [Harvard Business Review](https://hbr.org/2023/12/use-strategic-thinking-to-create-the-life-you-want)
 

@@ -13,7 +13,7 @@ To use Obsidian for Projects would probably be best-served by making heavy use o
 
 It may be possible to patch some of the weak spots of an Obsidian as a [[Project Management App]] by adding the [[iOS Reminders App]] as a one-two punch. Get the contextual reminders and notifications there. Get Project notes and tasks here.
 
----
+****
 ### Source
 - Experiments
 

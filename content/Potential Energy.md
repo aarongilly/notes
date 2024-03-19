@@ -15,7 +15,7 @@ Energy can be stored in all sorts of forms.
 - **Nuclear potential energy** - energy stored in the nucleus of atoms, what's unleashed in Nuclear power
 - **Thermal potential energy** - a hot object in a vacuum
 
----
+****
 ### Source
 - [Wikipedia](https://en.wikipedia.org/wiki/Potential_energy)
 

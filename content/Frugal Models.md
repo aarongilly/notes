@@ -12,8 +12,7 @@ Even incredibly simplistic linear models, utilizing a tiny number of factors can
 
 Frugal models work best when the inputs are truly independent of one-another, and not slightly different perspectives of the same underlying facts or conditions.
 
----
-
+****
 ### Source
 - [[Noise - A Flaw in Human Judgment]]
 

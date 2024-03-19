@@ -15,8 +15,7 @@ The [[Systems Engineering Book of Knowledge|SEBoK]] defines heuristics as:
 > Principles learnt from practical experience that yet lack a scientific understanding as to the explanation of "why".
 > ([[Systems Engineering Book of Knowledge|SEBoK]] pg 92)
 
----
-
+****
 ### Source
 - [[Thinking Fast and Slow]]
 - [How Heuristics Help You Make Quick Decisions](https://www.verywellmind.com/what-is-a-heuristic-2795235)

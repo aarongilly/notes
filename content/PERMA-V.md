@@ -13,7 +13,7 @@ An acronym for the different aspects of "a good life", as denoted by the author 
 - Achievement (reaching goals/mastery)
 - Vitality (being healthy and energetic)
 
----
+****
 ### Source
 - [HBR Article](https://hbr.org/2023/12/use-strategic-thinking-to-create-the-life-you-want)
 

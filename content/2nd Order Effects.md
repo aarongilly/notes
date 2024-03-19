@@ -17,7 +17,7 @@ The second-order effects of the thing you're are often more impactful than the t
 ## Many-to-One
 A large part of the reason why second-order-effects can be impactful is because the thing you are doing has the propensity to effect MANY other things. Many opportunities for a large response to the stimulus. And all the 2nd order effects accumulate.
 
----
+****
 ### Source
 - [James Stuber Article](https://www.jamesstuber.com/second-order-effects/)
 

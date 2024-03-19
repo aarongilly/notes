@@ -7,7 +7,7 @@ The game "Stardew Valley" was created whole cloth entirely by one dude over the 
 
 He had the confidence, dedication, and determination to make it happen himself.
 
----
+****
 ### Source
 - [[Ultralearning]]
 

@@ -12,8 +12,7 @@ In the realm of Project Management, there exists a constrained relationship betw
 
 You can only have so much shaded area in that tringle. Moving up one axis will inevitably cost you on another axis.
 
----
-
+****
 ### Source
 
 ### Related

@@ -11,8 +11,7 @@ Much like how a car is inherently inefficient due to it’s own weight ([[Car In
 
 This is one of the benefits of [[Tiny House]]s. 
 
----
-
+****
 ### Source
 
 ### Related

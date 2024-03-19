@@ -12,8 +12,7 @@ See [[Expense Reduction Tips]], which are mostly from this book.
 
 Stop trying to impress other people. There is no good there to you as an indicator. Conspicuous consumption just seeks to inflate the ego, which isn’t a good type of pleasure.
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 

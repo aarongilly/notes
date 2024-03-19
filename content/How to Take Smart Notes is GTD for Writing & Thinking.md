@@ -11,7 +11,7 @@ How to Take Smart Notes is Sonke Ahrens book about the slip-box method of note t
 
 > [!tldr] 🤌 Smart notes involves breaking down notes into small chunks and push them through a standard workflow.
 
----
+****
 ### Source
 - [[How to Take Smart Notes]]
 

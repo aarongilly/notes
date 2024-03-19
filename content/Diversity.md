@@ -14,8 +14,7 @@ According to Steven Covey, author of [[The 7 Habits of Highly Effective People]]
 - Pete the Cat
 > 
 
----
-
+****
 ### Source
 - [[The 7 Habits of Highly Effective People]]
 - [Pete the Cat and the New Guy](https://www.youtube.com/watch?v=W42oHAqM9N8)

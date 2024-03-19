@@ -12,8 +12,7 @@ Green methods, such as solar & wind energy, are *particularly* ‘bursty’ powe
 
 ![Untitled](Untitled%2022.png)
 
----
-
+****
 ### Source
 
 ### Related

@@ -11,7 +11,7 @@ The 3-3-3 Method is developed by the dude who wrote [[4000 Weeks]], Oliver Burke
 2. 3 urgent, but less time-consuming tasks
 3. 3 maintenance activities
 
----
+****
 ### Source
 - Google's Bard, which I did not copy/paste
 

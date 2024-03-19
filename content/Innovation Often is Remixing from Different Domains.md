@@ -12,8 +12,7 @@ A consistent pattern emerges when you look across innovative populations. They t
 
 In Charles Duhigg's [Smarter, Faster, [[Smarter Faster Better]] he gave the example of **West Side Story.** It brought together elements from many different genres and applied them to a Shakespeare plot and became one of the most successful and influential plays of all time.
 
----
-
+****
 ### Source
 - [[Smarter Faster Better]]
 

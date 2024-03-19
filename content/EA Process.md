@@ -15,7 +15,7 @@ aliases:
 > 2. Identify key customer types, [[Core Business Processes]], shared data, and technologies
 > 3. Implement the technology in chunks, working through the [[4 Stages of Enterprise Architecture]], one at a time
 
----
+****
 ### Source
 - [[Enterprise Architecture as a Strategy]]
 

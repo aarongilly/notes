@@ -17,8 +17,7 @@ You can form strong mental models by thinking about what will happen, making pre
 
 One thing that probably exists mental model efficacy is having cast a wide net. Having a breadth of experience in spotting patterns of wildly different types from wildly different domains you've experienced. 
 
----
-
+****
 ### Source
 - [[Smarter, Faster, Better]]
 - [[Thinking Fast and Slow]]

@@ -19,7 +19,7 @@ Bail on okay options and leave yourself open for those that are truly great and 
 
 > It is much easier to notice when something is working than to predict ahead of time if it will work. Take action, make many small bets, and run lots of quick (but thoughtful) experiments. Then, double-down on the winners. - James Clear
 
----
+****
 ### Source
 - [[Antifragile Planning (article)]]
 - [James clear tweet](https://twitter.com/jamesclear/status/1171470981283450880)

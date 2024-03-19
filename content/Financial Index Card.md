@@ -19,8 +19,7 @@ tags:
 9. Do what you can to support the social safety net
 10. Remember this card
 
----
-
+****
 ### Source
 - [[The Personal Finance Index Card]]
 

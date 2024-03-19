@@ -13,8 +13,7 @@ Complex systems are more difficult to maintain over time.
 
 The perception of complexity often leads to avoidance.
 
----
-
+****
 ### Source
 
 [Complexity Bias: Why We Overcomplicate Our Lives [comic]](https://blog.doist.com/complexity-bias-comic/)

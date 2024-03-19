@@ -15,7 +15,7 @@ A concise Use Case articulation framework I saw that I liked:
 
 This is short, pithy, and contains enough for a use case *provider* to probably get across what they mean for the developer/project team to start working with.
 
----
+****
 ### Source
 - 
 

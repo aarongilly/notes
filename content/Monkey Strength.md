@@ -8,8 +8,7 @@ tags:
 
 Monkeys really are strong, but probably not as strong as we give them credit for. A great ape is probably only about 30% stronger than a human strongman.
 
----
-
+****
 ### Source
 - [[Exercised]]
 

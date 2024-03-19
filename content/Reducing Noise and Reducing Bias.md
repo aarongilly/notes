@@ -20,8 +20,7 @@ Reduction is either bias or noise will reduce overall error.
 
 This means, when optimizing for greater accuracy, you can focus on the noise in the results even before you know how they are biased. 
 
----
-
+****
 ### Source
 - [[Noise - A Flaw in Human Judgment]]
 

@@ -21,7 +21,7 @@ You make an entry when you **change tasks, take a break, or get distracted** and
 10:17 wrote Captain's Log note. Next: finish email triage
 ```
 
----
+****
 ### Source
 
 [Captain's Logs for Navigating Knowledge Work](https://www.jamesstuber.com/captains-log/)

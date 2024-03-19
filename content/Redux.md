@@ -13,8 +13,7 @@ Redux bills itself as "A Predictable State Container for JS Apps". It is a dedic
 - It enables better state testing
 - It enables you to build state-dependent features, like undo/redo and persistence
 
----
-
+****
 ### Source
 - [[freeCodeCamp]]
 

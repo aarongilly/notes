@@ -17,8 +17,7 @@ Energy storage can be done in many ways. In descending order from most common to
 
 ..and unfortunately nothing up there has anywhere near the storage efficiency ([[Energy Density]]) of a liquid fuel we could mine.
 
----
-
+****
 ### Source
 
 ### Related

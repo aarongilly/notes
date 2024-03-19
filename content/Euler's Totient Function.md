@@ -27,7 +27,7 @@ Weirdly, Phi is *multiplicative*, which means:
 $$\phi(A*B)=\phi(A)*\phi(B)$$
 THIS is (I think) what makes it useful in [[Public Key Encryption]]. 
 
----
+****
 ### Source
 - [Kahn Academy](https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/euler-s-totient-function-phi-function)
 

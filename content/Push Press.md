@@ -8,8 +8,7 @@ tags:
 
 The Push Press is an [[Olympic Weightlifting]] technique that involves lifting a loaded barbell from the shoulders to a position over the head. It falls in the middle of the [[Overhead Press]] (which involves no legs) and the [[Jerk]] (which heavily involves the legs).
 
----
-
+****
 ### Source
 
 # Source

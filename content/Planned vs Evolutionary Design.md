@@ -15,8 +15,7 @@ There’s a spectrum between planning everything out before you touch a keyboard
 
 The best place to be is somewhere in the middle. This is called by a few folks “Extreme Programming”.
 
----
-
+****
 ### Source
 
 ### Source

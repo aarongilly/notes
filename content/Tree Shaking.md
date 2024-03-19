@@ -8,8 +8,7 @@ tags:
 
 Tree Shaking is removing unused code from an application before distribution. It’s done by some bundlers.
 
----
-
+****
 ### Source
 - [[Fireship YouTube Channel]]
 

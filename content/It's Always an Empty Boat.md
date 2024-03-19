@@ -11,8 +11,7 @@ A Buddhist parable about a man on a large river taking his farmers hall to the m
 
 You are the only one responsible. You cannot expect an empty boat to behave any differently. You cannot expect a person to be anyone other than themselves no more than you can expect a boat not to be a boat.
 
----
-
+****
 ### Source
 - [[Triggers]]
 

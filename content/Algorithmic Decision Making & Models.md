@@ -17,8 +17,7 @@ This is actually probably a large part of the benefit of [[The Checklist Manifes
 
 You have to check that your algorithm isn’t ‘baking in’ prejudices (either directly or indirectly). See [[Math & Fairness]].
 
----
-
+****
 ### Source
 - [[Noise - A Flaw in Human Judgment]]
 

@@ -11,8 +11,7 @@ Continuous Partial Attention is a term coined in 1998 to refer to the state of b
 
 It makes it difficult to live in the moment ‣ and can increase stress.
 
----
-
+****
 ### Source
 
 [Continuous partial attention - Wikipedia](https://en.wikipedia.org/wiki/Continuous_partial_attention)

@@ -9,7 +9,7 @@ When designing a system or solving a huge problem, it's almost always better to 
 
 This motto can also be applied to breaking down [[Defining Project|project]]s, trying to [[GTD|Get Things Done]], or do a task you're avoiding [[2 Minute Rule of Habits]].
 
----
+****
 ### Source
 - 
 

@@ -23,8 +23,7 @@ It does, however, clearly delineate the different mindsets with which you should
         - Task - figure out how to get a flu shot
 	        - Action - Google "how to get a flu shot"
 
----
-
+****
 ### Source
 - [[PARA Method]]
 - [[Getting Things Done The Art of Stress-Free Productivity]]

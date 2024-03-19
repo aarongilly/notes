@@ -16,8 +16,7 @@ Aside from [[Anti-inflammatory Drugs]] and having an [[Anti-inflammatory Diet]],
 - Manage stress (physical, mental, and emotional)
     - [[Meditation]]
 
----
-
+****
 ### Source
 
 ### Source

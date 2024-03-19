@@ -21,8 +21,7 @@ Having a library of intermediate packets allows you to [[Build On Yourself]] and
 
 > [!tip] Create Intermediate Packets wherever possible!
 
----
-
+****
 ### Source
 - [[Building A Second Brain]]
 

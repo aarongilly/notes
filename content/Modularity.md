@@ -16,7 +16,7 @@ Modularity is not inherently a good thing, nor a bad thing.
 	- See how [[Obsidian]] notes are a bit less uniform than your [[Notion]] notes were
 - Modularity brings with it some level of overhead that may not be necessary.
 
----
+****
 ### Source
 - 
 

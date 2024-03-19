@@ -10,8 +10,7 @@ An Emergence Fund is a fairly liquid chunk of assets (e.g. Savings Account) that
 
 Most sources I’ve read peg a good emergency fund goal at between 3 and 6 months’ living expenses. That is - enough to cover your absolute necessities. This is not *necessarily* equal to your burn rate, or even your [[Budget]], but what those things could be reasonably brought down to without sacrificing too much. Basically you don’t need to include your monthly $200 donation to whatever charity in your emergency fund… just stop making that donation in the case of an emergency.
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 - [[Budget Boot Camp]]

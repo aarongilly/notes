@@ -13,8 +13,7 @@ Microcontrollers are essentially tiny little, specific-use computers or also thi
 | Raspberry Pi Zero | From $10 | Computer-like, also - basic uses only |
 | Raspberry Pi Pico | From $4 | No display out, but can still handle complex inputs & outputs via the GPIO pins. |
 
----
-
+****
 ### Source
 
 ### Related

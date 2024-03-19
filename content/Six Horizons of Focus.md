@@ -32,8 +32,7 @@ Who do you want to be in a few years, accounting for reasonable change from exte
 
 What do you want your life to be. [[Be Principle-Centered]]
 
----
-
+****
 ### Source
 - [[Getting Things Done The Art of Stress-Free Productivity]]
 

@@ -22,8 +22,7 @@ What would you do if you were only going to live another 10 years?
 
 What would you do if you were only going to live the rest of your life?
 
----
-
+****
 ### Source
 - [[The Achievement Habit]]
 

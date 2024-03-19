@@ -12,8 +12,7 @@ EVERYTHING WORTH SAYING ABOUT ANYTHING WORTH SAYING SOMETHING ABOUT CAN BE SAID 
 
 - Doug Ross - inventor of SADT & [[IDEF0]]  Working Group Member,
 
----
-
+****
 ### Source
 - [[The Practical Guide to Business Process Reengineering Using IDEF0]]
 

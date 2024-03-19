@@ -18,8 +18,7 @@ From [my own website](https://aarongilly.com/gillespedia/fundamental-dimensions/
 ![[Pasted image 20230801145004.png]]
 Source: [Gillespedia](https://aarongilly.com/gillespedia/fundamental-dimensions/) ← snake eating it's own tail... and it feels so good.
 
----
-
+****
 ### Source
 - [myself](https://aarongilly.com/gillespedia/fundamental-dimensions/)
 - [Wikipedia](https://en.wikipedia.org/wiki/International_System_of_Units)

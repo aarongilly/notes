@@ -14,8 +14,7 @@ The best, fastest, most productive way to learn something is to try to do it. **
 
 Doing research upfront is often a [[Productive Distraction]]. Just do the thing. Keep it [[Simplicity|simple]]. 
 
----
-
+****
 ### Source
 
 ### Related

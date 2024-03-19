@@ -14,8 +14,7 @@ This is ideally split out over two (to 4) workout sessions. So, 7 sets for shoul
 
 **Note**: this is for **ideal** growth. It's not *necessary* for muscle growth. I've seen recommendations that suggest this probably recommending a bit too much. It depends on how much you want to train. 
 
----
-
+****
 ### Source
 - [How To Train Like A Minimalist (More Gains In Less Time)](https://youtu.be/xc4OtzAnVMI)
 

@@ -78,8 +78,7 @@ $$
     
     Useful in knowing the number of digits necessary to representing a given number in binary, or how many layers a head-to-head bracket will require.
 
----
-
+****
 ### Source
 
 ### Related

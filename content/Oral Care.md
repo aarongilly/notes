@@ -31,7 +31,7 @@ Oral [[pH (Potential of Hydrogen)]] balance is important. In particular having t
 ### [[Mouth Breathing]]
 Don't. You don't want your mouth to dry out. Saliva helps maintain oral health. Certain kinds of gums are actually *helpful* due to their pro-salivation properties.
 
----
+****
 ### Source
 - [AskReddit](https://www.reddit.com/r/AskReddit/comments/eaqnzg/dentists_and_dental_care_professionals_of_reddit/)
 - My dentist

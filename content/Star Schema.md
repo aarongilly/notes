@@ -11,7 +11,7 @@ A star schema is a less-normalized iteration of the [[Snowflake Schema]]. It is 
 
 This is apparently the most common type of [[Data Warehouse]] schema used in industry.
 
----
+****
 ### Source
 - [Wikipedia](https://en.wikipedia.org/wiki/Star_schema)
 

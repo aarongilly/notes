@@ -11,8 +11,7 @@ If you put yourself in the mindset of who you were ~10 years ago, you realize ju
 
 > [!tldr] ➡️ You 10 years from now will be as different from you today, as you today are from the person you were 10 years ago.
 
----
-
+****
 ### Source
 - [[Building a Second Brain Podcast]]
 

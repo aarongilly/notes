@@ -17,7 +17,7 @@ Goals should be:
 - **Specific** - the more specific the easier it is to celebrate having done *that thing*
 - **Personal** - when possible, reframe your effort as being done in service of someone you like, someone *specific* 
 
----
+****
 ### Source
 - [[Burnout]]
 

@@ -31,7 +31,7 @@ Supports:
 - `overwrite`
 - `silent` - creates without opening
 
----
+****
 ### Source
 - [Obsidian Docs](https://help.obsidian.md/Concepts/Obsidian+URI)
 

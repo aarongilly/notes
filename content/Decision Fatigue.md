@@ -18,8 +18,7 @@ Repeated decision making drains our energy reserves more quickly. **We start to 
 - Judges are harsher around midday, just before their break (see also: [[5 Principles of Breaks]])
 - Bill Clinton is 'prone to making bad decisions when he's tired".
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 - [[When (book)]]

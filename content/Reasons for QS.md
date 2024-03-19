@@ -17,8 +17,7 @@ Motivations for doing a [[Lifelogging]] project:
 - Making progress in a skill by tracking practice and achievement
 - Aid in medical treatment tracking, eg physical therapy or medication adherence
 
----
-
+****
 ### Source
 - [[QuantifiedSelf com get-started]]
 

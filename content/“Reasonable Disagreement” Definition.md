@@ -11,8 +11,7 @@ When “reasonable” people disagree, they both are willing to diverge from the
 
 That's a good, pithy definition for “reasonable actors”.
 
----
-
+****
 ### Source
 
 ### Source

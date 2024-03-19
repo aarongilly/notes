@@ -17,8 +17,7 @@ Shame is not useful (not like how [[Vulnerability is Necessary]]). It's associat
 
 We all have shame. We are all afraid to talk about shame. 
 
----
-
+****
 ### Source
 - [[Daring Greatly]]
 

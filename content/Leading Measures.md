@@ -18,8 +18,7 @@ Leading measures are the opposite of [[Lagging Measures]], both are examples of 
 - Quantity and severity of fights in a relationship may be a leading measure of the end of the relationship.
 - Hours studied are a leading measure of exam grades.
 
----
-
+****
 ### Source
 - 
 

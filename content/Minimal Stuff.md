@@ -25,8 +25,7 @@ Mo money, mo problems. More stuff, less freedom. If you can reduce your needs to
 > The best car is not the one that turns the most heads, but the one you have to worry about least. - Ryan Holiday
 > 
 
----
-
+****
 ### Source
 - [[Stillness is the Key]]
 - [[Essentialism]]

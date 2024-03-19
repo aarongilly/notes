@@ -36,8 +36,7 @@ Third Normal Form (3NF)
 - All non-Prime fields are functionally depending on the whole primary key
 - All non-Prime fields are independent of each other
 
----
-
+****
 ### Source
 
 ### Source

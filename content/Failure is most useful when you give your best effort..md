@@ -9,7 +9,7 @@ tags: [philosophy, quote, productivity, learning]
 > But if your best effort fails, you have learned something valuable: this way doesn't work.
 > - James Clear
 
----
+****
 ### Source
 - James Clear 3-2-1 Email
 

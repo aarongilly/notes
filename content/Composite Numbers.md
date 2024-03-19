@@ -66,7 +66,7 @@ Highly Composite numbers are why we have 24 hours in a day, separated into 12 ho
 ### Superior Highly Composite Numbers
 An integer is considered *superior highly composite* if... actually the definition of this gets into the realm of weird number classifications that don't seem useful. It has to do with raising to partial exponents and comparing to all other numbers. Suffice to say: 1, 6, 12, 60, 120, 360, 2520, 5040, 55440, and 720720 are the first 10 *superior highly composite* numbers.
 
----
+****
 ### Source
 - Wikipedia & Wolfram|Alpha
 

@@ -70,8 +70,7 @@ Extended Markdown Specs/support:
 - Showdown
 - MultiMarkdown
 
----
-
+****
 ### Source
 
 [Extended Syntax | Markdown Guide](https://www.markdownguide.org/extended-syntax/#definition-lists)

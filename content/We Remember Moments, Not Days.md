@@ -9,8 +9,7 @@ tags:
 
 We don’t remember periods of time. We remember individual moments. This means **you have to be in the moment to make memories.** This is an argument for mindfulness.
 
----
-
+****
 ### Source
 - [[How To Do the Work]]
 

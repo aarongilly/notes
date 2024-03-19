@@ -13,8 +13,7 @@ tags:
 
 In order to have an HSA you must be enrolled in a High-Deductible Health Insurance Plan (HDHP) and *not* have medicare.
 
----
-
+****
 ### Source
 - [[Ultimate List of Tax Advantaged Accounts]]
 - /r/personalfinance

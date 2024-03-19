@@ -26,8 +26,7 @@ Checklists reduce errors of ineptitude. See [[Ineptitude and Ignorance ]].
 
 Checklists are the main topic of [[The Checklist Manifesto ]], essentially the main topic of [[Work the System]], and would fall into the ‘Resources’ part of the [[PARA Method]]. 
 
----
-
+****
 ### Source
 - [[Work the System]]
 - [[The Checklist Manifesto]]

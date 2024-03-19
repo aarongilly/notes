@@ -13,7 +13,7 @@ This has to do with "The Tragedy of the Commons".
 ## Examples
 - Farmer who gets more wool from additional sheep, procures as many sheep as they can. However too many sheep procured by all farmers leads to devastation of the land. 
 
----
+****
 ### Source
 - [[Thinking in Systems]]
 

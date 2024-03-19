@@ -31,7 +31,7 @@ Try doing these things more.
 - **Set internal goals** - aim for what cannot be blocked by external factors ([[External Goals vs Internal Goals]])
 - **[[Focus]] on the process** - use [[Checklists]], think about what you're doing as you're doing it ([[Right Process ⇒ Right Results]])
 
----
+****
 ### Source
 - My own thinking & linking
 

@@ -11,8 +11,7 @@ The brain, like the rest of your body, has the ability to fight off infections. 
 
 Thus many of the best things we can do to stave off dementia are also [[Anti-inflammatory Behavior]]s. 
 
----
-
+****
 ### Source
 - [[Keep Sharp]]
 

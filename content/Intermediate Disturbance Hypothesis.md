@@ -10,8 +10,7 @@ If you want a diversity of species in an area, you're best likely to find that i
 
 This same concept can be applied to creativity. You need *some* mixups to break up your train of thought and open up the solution space to more ideas, but not so many that you never gain [[Traction]] on any one solution.
 
----
-
+****
 ### Source
 - [[Smarter Faster Better]]
 

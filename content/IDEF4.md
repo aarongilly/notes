@@ -22,8 +22,7 @@ Interestingly, [[Entity-Relationship Diagrams]] in IDEF4 use a Crow’s Notation
 
 I don’t intend to ever learn much more about this method. I’ve scrolled through the IDEF4 spec. Good ‘nuff. 
 
----
-
+****
 ### Source
 
 ### Source

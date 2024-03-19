@@ -11,8 +11,7 @@ Hash Tables are data structures holding values in an array in a position accordi
 
 There is no such thing as a universal perfect hashing function. Hashing collisions occur when two separate values to store result in the same hashing function output. This causes the 2nd value to have to find a new location to live in accordance with some sort of collision handling strategy. 
 
----
-
+****
 ### Source
 - [[Wikipedia]]
 

@@ -10,7 +10,7 @@ If you've know you're a certain distance from a point, you may be anywhere on th
 ![[Pasted image 20230711233129.png]]
 This is how [[GPS]] works.
 
----
+****
 ### Source
 - https://letstalkscience.ca/educational-resources/backgrounders/math-behind-gps
 

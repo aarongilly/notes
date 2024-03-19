@@ -25,8 +25,7 @@ Do a [[Daily Review]] each night in which you look over your notes from the day 
 - Free-form & fun
 - Immediate [[Progressive Summarization]], [[Distillation|distilling]] fleeting thoughts and notes into a permanent system keeps cruft out. 
 
----
-
+****
 ### Source
 - [[Todoist Productivity Articles]]
 

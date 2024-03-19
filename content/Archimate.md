@@ -47,8 +47,7 @@ In the example viewpoint, the constructs are limited to application components, 
 
 There are multiple softwares that support Archimate. The ‘official’ version is the Open Source “[Archi](https://www.archimatetool.com)”, which is pretty good.
 
----
-
+****
 ### Source
 - [Visual Paradigm: What is ArchiMate?](https://www.visual-paradigm.com/guide/archimate/what-is-archimate/)
 - [The ArchiMate® Enterprise Architecture Modeling Language](https://www.opengroup.org/archimate-forum/archimate-overview)

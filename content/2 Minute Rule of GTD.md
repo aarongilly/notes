@@ -10,8 +10,7 @@ It will take more effort and mental energy to enter and track the task in your t
 
 This is one of the core pieces of advice in the GTD system.
 
----
-
+****
 ### Source
 - [[Getting Things Done The Art of Stress-Free Productivity]]
 

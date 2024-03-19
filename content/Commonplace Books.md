@@ -13,8 +13,7 @@ Read in Fits and starts and jump from book to book. They broke texts into fragme
 
 These [[Evergreen Notes]] you're reading right now are the modern iteration of commonplace Books.
 
----
-
+****
 ### Source
 - [[Stillness is the Key]]
 

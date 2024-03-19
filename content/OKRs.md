@@ -25,8 +25,7 @@ OKRs are set periodically, with the period being as appropriate to the scope of 
 - YouTube
 - Bono
 
----
-
+****
 ### Source
 - [[Measure What Matters]]
 

@@ -35,8 +35,7 @@ For more: see ‣
 
 They are akin to Block Definition Diagrams in [[SysML]].
 
----
-
+****
 ### Source
 
 [Class diagram - Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)

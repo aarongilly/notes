@@ -28,8 +28,7 @@ If a [[Defining Project|project]] or goal is supporting multiple areas, then it 
 
 If an area has no projects or goals, it's coasting - which may be fine, but again shouldn't go unrecognized as such.
 
----
-
+****
 ### Source
 - [[PARA Method]]
 

@@ -39,8 +39,7 @@ During your *next* evaluation period you can see whether it's still the right ch
 
 This is a [[Decide and Move On]] framework.
 
----
-
+****
 ### Source
 - [[Antifragile Planning (article)]]
 

@@ -18,8 +18,7 @@ Overly sugary diets cause the blood to be too saturated with blood sugar. This c
 
 An indigenous tribe in the rainforests of the Amazon river has no evidence of heart disease, diabetes, or dementia. They eat about 70% carbs (unprocessed) 15% fat, 15% protein. They walk about 17,000 steps a day (not run). They sleep and wake with the sun.
 
----
-
+****
 ### Source
 - [[Keep Sharp]]
 

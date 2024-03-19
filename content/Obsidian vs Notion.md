@@ -28,8 +28,7 @@ Obsidian PKM Wins:
 - More customizable
 - Can interact with code and regular file system operations
 
----
-
+****
 ### Source
 - first hand experience 
 

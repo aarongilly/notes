@@ -25,7 +25,7 @@ The replication business model grants autonomy, but within a standard approach. 
 - 🔥 Data Integration
 Tightly integrated organizations with little autonomy across business units. Supply chains, customers, products, and all sorts of things are shared across the business. Improvements to the status quo may be difficult at inception, but they may be more easily adopted and exploited throughout the business. Unification models are best for manufacturers of commodities.
 
----
+****
 ### Source
 - [[Enterprise Architecture as a Strategy]]
 

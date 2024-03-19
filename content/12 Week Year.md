@@ -38,7 +38,7 @@ The 12 Week Year dines out on the concept of Time Blocking. In particular they s
 - [[Types of Time Blocks#Buffer Block]] - to work only on admin stuff (e.g. email)
 - [[Types of Time Blocks#Breakout Block]] - to basically *not* work, sus.
 
----
+****
 ### Source
 - [GCPGrey's Seasonal "Themes"](https://youtu.be/NVGuFdX5guE?si=1SX_DHnkSGHxSq-8)
 - [This dude's review of a book by the same name](https://youtu.be/6wQhRRWPqFE?si=Xol3m-ZiBBAiG9xg)

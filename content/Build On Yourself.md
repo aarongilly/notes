@@ -23,8 +23,7 @@ If you aren't starting from scratch, but instead starting with the best assets y
 Quote from James Clear:
 > How can the work you're doing today accumulate and layer on top of what you did yesterday? Find ways to compound your efforts.
 
----
-
+****
 ### Source
 - [[Building a Second Brain Podcast]]
 - James Clear

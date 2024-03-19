@@ -14,8 +14,7 @@ You don't exercise because you *have* energy. You exercise because it *gives you
 
 > [!tldr] 👉 Motion *then* emotion.
 
----
-
+****
 ### Source
 - [[The Subtle Art of Not Giving a F*ck]]
 - [[Huberman Labs]]

@@ -22,7 +22,7 @@ You should [go read it](https://obsidian.md/about), it's the best example I can 
 - Adaptable, that the tool should be as modular as possible and not "force" features on users.
 - Obsidian is supported by users, not investors.
 
----
+****
 ### Source
 - 
 

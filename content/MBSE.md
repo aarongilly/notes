@@ -12,8 +12,7 @@ Model Based Systems Engineering is the practice of performing and delivering com
 
 There are many competing methods for accomplishing MBSE, 3 which I have focused on in some length are [[SysML]], [[OPM]], and the [[IDEF]] family of methods.
 
----
-
+****
 ### Source
 
 ### Related

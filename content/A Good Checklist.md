@@ -19,8 +19,7 @@ A good [[Checklists]] is more likely to be used than a bad checklist. Using a ch
 
 Remember: **Checklists are not meant to be comprehensive how-to guides.** They are quick and simple checks to help skilled people who already know what they are doing. 
 
----
-
+****
 ### Source
 - [[The Checklist Manifesto]]
 

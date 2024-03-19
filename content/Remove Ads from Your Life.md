@@ -21,8 +21,7 @@ Advertising causes need. Your stuff doesn't feel old nearly as quickly if you do
 - Remove labels from purchased goods
 - Toss out ads in the physical mail
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 

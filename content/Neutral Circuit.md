@@ -9,8 +9,7 @@ tags:
 
 Boredom puts the brain into a special mode. It activates the "neutral" circuit, which allows you to think autobiographically. It also opens the mind to wandering to new places and seeing things from new perspectives.
 
----
-
+****
 ### Source
 - [[Bored and Brilliant]]
 

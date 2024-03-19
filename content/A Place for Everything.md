@@ -10,8 +10,7 @@ tags:
 
 When possible, buy duplicates of things you utilize in multiple rooms. Then keep the copy in a designated location within each room.
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 

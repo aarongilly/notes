@@ -16,8 +16,7 @@ This is your [[Adaptive Unconscious]].
 
 You can train yourself to understand the signals these algorithms are sending through [[Interoception]] training, e.g. [[Meditation]].
 
----
-
+****
 ### Source
 - [[Homo Deus]]
 

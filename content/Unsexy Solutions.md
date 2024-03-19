@@ -25,8 +25,7 @@ Most common plights have obvious, albeit unsexy solutions. People don't want to 
 
 "I wish I could stop smoking" → stop buying cigarettes
 
----
-
+****
 ### Source
 
 ### Related

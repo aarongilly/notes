@@ -38,7 +38,7 @@ Utilize simple visual indicators of standard conditions, built where the work is
 
 Don't automate bad processes. Work them manually until they are maximally lean - then add technology. New technologies that don't integrate into the overall system will inhibit flow. Perform test runs with prospective technologies before relying on them. 
 
----
+****
 ### Source
 - [[The Toyota Way]]
 ### Related

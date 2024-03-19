@@ -20,7 +20,7 @@ In general, **low-coupling is good**.
 ### Examples of Low-Coupling
 - A source data table and a table for how a particular view should be formatted
 
----
+****
 ### Source
 - [[Udacity Software Architecture Course]]
 

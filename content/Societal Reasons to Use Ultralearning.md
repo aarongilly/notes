@@ -7,7 +7,7 @@ tags: [society, learning]
 
 The middle ground used to be easy to get in and stay in. Get a degree and you have a sure-thing job. Now the pace of improvements in technology is making lots of those jobs irrelevant, while also demanding the ability to master new skills quickly. 
 
----
+****
 ### Source
 - [[Ultralearning]]
 

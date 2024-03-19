@@ -23,8 +23,7 @@ Typically there are many fewer rows in dimensions than their would be facts.
     - Facts - number of calls made, data used
     - Dimensions - phone numbers called, dates, account number
 
----
-
+****
 ### Source 
 - [Wikipedia](https://en.wikipedia.org/wiki/Data_warehouse)
 

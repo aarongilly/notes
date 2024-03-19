@@ -26,7 +26,7 @@ You flip the coin and look at the result, and only then does it become clear wha
 #### Use [[Interoceptive Shuttling]]
 See that note.
 
----
+****
 ### Source
 - [[The Extended Mind]]
 - [[Blink]]

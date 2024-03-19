@@ -8,8 +8,7 @@ tags:
 
 System 1 is the snap judgement mode of thinking. It relies on [[Heuristics]].
 
----
-
+****
 ### Source
 - [[Thinking Fast and Slow]]
 

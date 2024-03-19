@@ -12,7 +12,7 @@ Elimination is the highest form of optimization." - James Clear**
 > Elimination is the highest form of optimization. 
 > *- James Clear*
 
----
+****
 ### Sources
 
 James Clear's newsletter 

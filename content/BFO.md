@@ -26,8 +26,7 @@ The BFO calls numeric measurements “Determinates” and their ancestors “Det
 ### Notes Note.
 There’s much more I could write about, but then I’d have to read it. This is not a universal truth, it’s an instance of how a group of folks decided to carve up describing the world.
 
----
-
+****
 ### Source
 - [[Basic Formal Ontology 2 0 Spec]]
 

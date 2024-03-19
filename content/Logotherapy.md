@@ -20,7 +20,7 @@ Live as if you are living already for the second time, and as if you acted the f
 
 Basically this has the effect of getting you out of ether whims and circumstance right now, and asks you what you will have wished you had done. 
 
----
+****
 ### Source
 - Man's Search for Meaning - book by Viktor Frankl
 

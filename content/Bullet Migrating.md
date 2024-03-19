@@ -11,8 +11,7 @@ As you move from period to period (month to month, year to year, etc) you have t
 
 It would be like moving everything in your [[Kanban]] from the "in progress" to your "to do" or your "cancelled" columns every week. 
 
----
-
+****
 ### Source
 - [[The Bullet Journal Method]]
 

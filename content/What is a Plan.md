@@ -14,7 +14,7 @@ A plan is:
 - an allocation of specific resources at a specific time
 - comfortable, because you control them and ultimately because **you are the customer** of a plan
 
----
+****
 ### Source
 - - ![video](https://youtu.be/iuYlGRnC7J8)
 

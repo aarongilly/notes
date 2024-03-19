@@ -16,8 +16,7 @@ There are a few ways to plan for failure.
 3. Utilize Open Source filetypes. They aren’t locked into any one application. [[Plain Text Durability]] 
 4. [[Have a Buffer]] have separate [[Deadlines and Due Dates]]
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 

@@ -9,7 +9,7 @@ The reason we have to accelerate atoms in particle accelerators is to super high
 
 In stars it's typically hydrogen fusing to helium. Gravity is forcing the atoms together, which causes them to heat up, which causes them to move faster and faster until they reach that critical threshold necessary to create fusion.
 
----
+****
 ### Source
 - Brainiac Kids TV - yes seriously.
 

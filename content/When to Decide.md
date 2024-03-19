@@ -13,8 +13,7 @@ When you stop getting new, **useful** information, make a call. It doesn’t nee
 
 Also bear in mind that the [[Optimum Level of Information]] is often lower than you’d think it is (or, even, what you *want* it to be). [[Action is Better than Research]].
 
----
-
+****
 ### Source
 - [[Extreme Ownership (book)]]
 - [[Blink]]

@@ -13,8 +13,7 @@ The best forecasters of our new ideas are our peers who are themselves working t
 
 Seinfeld was expected to be a massive flop based on testing and what the people in the sitcom business said. But it was given a chance by people who made other toes of TV shows, because they saw what the show was for itself, rather than what it wasn't.
 
----
-
+****
 ### Source
 - [[Originals]]
 

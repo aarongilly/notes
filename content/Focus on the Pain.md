@@ -8,7 +8,7 @@ A tenant of Buddhism is to not flee suffering or pain. You're free from sufferin
 
 A particular Buddhist, in training to be a monk, was subject to submission into icy baths. He found that "trying to think about something else" exacerbated his pain. Instead, when he really sat with it and focused his mind on the pain, he ceased to suffer from it. Paradoxically leaning into the pain provided the most relief.
 
----
+****
 ### Source
 - [[4000 Weeks]]
 

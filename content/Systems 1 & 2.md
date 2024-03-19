@@ -18,7 +18,7 @@ System two is calculating, but fundamentally lazy. Following [[Checklists]] or p
 
 Each mode has its purpose, its strengths, and its weaknesses. See their respective notes.
 
----
+****
 ### Source
 - [[Thinking Fast and Slow]]
 

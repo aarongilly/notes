@@ -16,8 +16,7 @@ The one true exception to the guidance “[[Never Multitask]]” is multichannel
 - Any task that involves waiting in a line + any other task which may be done from that line
 - Exercising while thinking about a problem you're trying to solve
 
----
-
+****
 ### Source
 - [[Indistractable]]
 

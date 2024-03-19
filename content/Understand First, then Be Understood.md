@@ -20,7 +20,7 @@ Realize when you're using **your** frame of reference while listening, then stop
 
 Don't listen only with the intent to reply. Also, when you do reply, be good at it. This is a bit of a "eat your cake and have it too" argument.
 
----
+****
 ### Source
 - [[The 7 Habits of Highly Effective People]]
 

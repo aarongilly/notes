@@ -10,8 +10,7 @@ There was an experiment in which a series of dozens of letters were given to ran
 
 We found though, that typically there are a few key people with extra wide social networks. These people are **connectors** that have broad networks that connect each other. These connectors enable broad "epidemics" look of social change. Paul Revere was a connector. These 20% of the people, do 80% of the connection (figuratively speaking).
 
----
-
+****
 ### Source
 - [[The Tipping Point]]
 

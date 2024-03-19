@@ -11,8 +11,7 @@ tags:
 
 Avoiding Lifestyle Creep is financial advice often heard from the [[FIRE]]  crowd
 
----
-
+****
 ### Source
 
 ### Related

@@ -17,8 +17,7 @@ Every day do something that moves you closer to your goals. This is also called 
 
 Minimum Viable Progress can be made via the [[Pomodoro Technique 🍅 ]] and/or [[Time Blocking]] and/or the [[Commit for a Bit|2 Minute Rule]]. 
 
----
-
+****
 ### Source
 - [[Essentialism]]
 - [[Atomic Habits]]

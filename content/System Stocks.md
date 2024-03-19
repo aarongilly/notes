@@ -14,7 +14,7 @@ A bathtub has a stock of water. You can increase the stock by turning on the fau
 - Employee headcount
 - Money in your account
 
----
+****
 ### Source
 - [[sources/Thinking in Systems]]
 

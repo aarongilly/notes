@@ -17,8 +17,7 @@ A Gazingus Pin is any item you buy over and over, despite not really needing or 
 - Kids toys
 - Techno gadgets
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 

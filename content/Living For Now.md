@@ -10,7 +10,7 @@ Pursuit of goals and betterness is not inherently good or bad. It is important, 
 
 **You have to love some moments for what they are, not for the sake of some future imagined moments**. In fact most of your moments should probably be this way. It doesn't mean you shouldn't plan for and work for a better tomorrow, but you **should enjoy the work today - because you won't enjoy tomorrow if tomorrow you're too busy worrying about the next day**.
 
----
+****
 ### Source
 - [[4000 Weeks]]
 

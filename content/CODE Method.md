@@ -16,8 +16,7 @@ When creating a digital brain, you follow a four step process.
 3. **Distill** - find the essence
 4. **Express** - show your work
 
----
-
+****
 ### Source
 - [[Building A Second Brain]]
 

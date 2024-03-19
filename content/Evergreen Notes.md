@@ -11,7 +11,7 @@ The term "Evergreen Notes" is used by [[Andy Matuschak]] to refer to a similar b
 
 Andy's style is to title most notes with a complete thought, as opposed to a simple subject. I like this approach. Mine here are more like Wikipedia article titles. I may start to  [[[[Use Full Sentence Note Titles to Crystalize Thought]].
 
----
+****
 ### Source
 - [Andy's Note](https://notes.andymatuschak.org/Evergreen_notes)
 

@@ -37,8 +37,7 @@ See the [[2 Minute Rule of Habits]].
 
 Goals without an associated deadline do not inspire a sense of urgency. The purpose of goal setting is to push you out of your normal way of behavior to achieve a result, and if you don't set a time limit, you'll not have need to leave that comfort zone.   
 
----
-
+****
 ### Source
 
 ### Related

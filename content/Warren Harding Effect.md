@@ -16,8 +16,7 @@ This same effect is why average CEO height is at least a Standard Deviation abov
 
 Timothy Judge, an author of a study that shows this. We see someone tall and we swoon.
 
----
-
+****
 ### Source
 - [[Blink]]
 

@@ -24,8 +24,7 @@ Kanban boards keep you focused on a manageable number of active tasks, while kee
 
 Visualization. Management & prioritization of work.
 
----
-
+****
 ### Source
 - [[Todoist Productivity Articles]]
 

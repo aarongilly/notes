@@ -13,8 +13,7 @@ All languages have these three components in order to function as a language: On
 2. **Semantics** ascribe meaning to the members of the ontology. It is the bridge between a wavy line in a circuit diagram and the resistor it represents.
 3. **Syntax** is the set of rules, principles, conventions, and processes that govern how you can construct member signifiers of the ontology to form higher-level semantic meaning.
 
----
-
+****
 ### Source
 
 ### Related

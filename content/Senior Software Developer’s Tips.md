@@ -16,8 +16,7 @@ tags:
 5. **Never expose refactoring to customers.** That’s the developer’s job to handle. If the Customer is aware of it, they’ll try to control it. They’ll force you into bad situations.
 6. Give yourself extra time for uncertainty. Give yourself extra time for documentation. Don’t fall prey to [[Unknown Unknowns]] and the [[Planning Fallacy]]. 
 
----
-
+****
 ### Source
 - [[How Senior Programers ACTUALLY write code]]
 

@@ -12,8 +12,7 @@ Block Definition Diagrams (BDDs) are essentially exactly the same as [[Class Dia
 
 Block Definition diagrams can also include things like **constraints**, which may impose rules about valid configurations of block instances; and **ports** which are places/interfaces wherein interactions may occur. 
 
----
-
+****
 ### Source
 - [[SysML Distilled]]
 - https://youtu.be/FXBlwmw5dEQ?si=r9OIdMNxpiZqO_WH

@@ -20,8 +20,7 @@ No matter what discipline or domain is being described, most ontologies use the 
 
 The internet is a partial ontology, through the use of semantic links and things like [[JSON-LD]] the "turtle" syntax for [[Resource Description Framework|RDF]].
 
----
-
+****
 ### Source
 - [[Wikipedia]]
 - [Ontology (information science) - Wikipedia](https://en.wikipedia.org/wiki/Ontology_(information_science))

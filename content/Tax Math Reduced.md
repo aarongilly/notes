@@ -13,7 +13,7 @@ Taxes Paid = Federal Withholdings + Tax Credits
 
 Taxes Owed = (Taxable Income - deductions) input to the tax rate function
 
----
+****
 ### Source
 - Experience
 

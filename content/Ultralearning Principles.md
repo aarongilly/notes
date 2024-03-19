@@ -14,7 +14,7 @@ There is no recipe for how to learn, but there are some general principles that 
 8. Intuition - dig deep, then build up
 9. Experimentation - explore beyond your comfort zone
 
----
+****
 ### Source
 - [[Ultralearning]]
 

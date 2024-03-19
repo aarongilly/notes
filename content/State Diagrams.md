@@ -31,8 +31,7 @@ state In_Cone {
 
 ```
 
----
-
+****
 ### Source
 - [[SysML Distilled]]
 - [[MIT 16 842 Fundamentals of Systems Engineering MIT Course]]

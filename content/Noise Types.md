@@ -20,8 +20,7 @@ System noise is a combination of pattern noise and level noise. Pattern noise is
 
 ![Untitled](Untitled%2080.png)
 
----
-
+****
 ### Source
 - [[Noise - A Flaw in Human Judgment]]
 

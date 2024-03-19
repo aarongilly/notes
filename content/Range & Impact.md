@@ -14,8 +14,7 @@ You're more likely to be impactful in one area or field by applying knowledge an
 
 Charles Duhigg called this phenomenon the greatest spur of [[Innovation Often is Remixing from Different Domains|Innovation]] 
 
----
-
+****
 ### Source
 - [[Range - Why Generalists Triumph in a Specialized World]]
 

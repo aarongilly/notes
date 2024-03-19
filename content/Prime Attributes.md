@@ -45,8 +45,7 @@ Thus, the Prime and non-Prime attributes are as follows:
 - NON-PRIME - age
 - NON-PRIME - gender
 
----
-
+****
 ### Source
 
 [https://en.wikipedia.org/wiki/Candidate_key](https://en.wikipedia.org/wiki/Candidate_key)

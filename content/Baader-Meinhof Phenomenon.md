@@ -7,7 +7,7 @@ summary: The effect where you learn about a thing suddenly seems to be everywher
 ---
 The effect where you learn about a thing suddenly seems to be everywhere. It's a specific form of [[Recency Bias]] and the result of priming.
 
----
+****
 ### Source
 - 
 

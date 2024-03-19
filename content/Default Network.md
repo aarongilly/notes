@@ -12,8 +12,7 @@ Your brain slips into the default mode when you’re bored or day dreaming. It s
 
 It’s one of the four components of the [[Human Attentional System]] - opposed to the [[Central Executive]] 
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 - [[Bored and Brilliant]]

@@ -10,8 +10,7 @@ There are two categories of knowledge: Explicit and Tacit. Explicit Knowledge is
 
 Put differently: Explicit Knowledge = knowing *what* to do. Tacit knowledge = knowing *how* to do it.
 
----
-
+****
 ### Source
 - [[Improvements in Existing Knowledge Management Practices in the Consumer Electronics Industry]]
 

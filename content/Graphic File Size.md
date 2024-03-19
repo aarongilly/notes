@@ -23,7 +23,7 @@ Obviously this depends on the image, but it seems like for this type of graphic 
 - DrawIO better than Excalidraw
 - SVG better than PNG
 
----
+****
 ### Source
 - Experimentation
 

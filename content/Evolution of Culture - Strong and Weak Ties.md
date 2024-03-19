@@ -13,8 +13,7 @@ If a society is only made of strong ties, culture becomes stagnant. Everyone doe
 
 If a society is made of only weak ties, they influence each other, but only slightly. WIthout the presence of strong ties to reinforce certain behaviors, your little behaviors and turns of phrase aren't picked up by others. 
 
----
-
+****
 ### Source
 - [[Because Internet]]
 

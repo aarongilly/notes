@@ -19,8 +19,7 @@ Tools like the Notetaking platform "Obsidian" were built around plain text files
 - Graphics can be stored using [[ASCII Art]], or (with minimal risk) the source code for open-source [[Diagrams as Code]] platforms, such as [[Mermaid]].
 - Similarly, other [[Open Source]] formats that allow for [[UTF-8]] formatting exports would have a decent chance of survival - such as [[Excalidraw]] and [[DrawIO]].
 
----
-
+****
 ### Source
 - [[The Plain Text Life]]
 

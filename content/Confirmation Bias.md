@@ -20,8 +20,7 @@ I believe confirmation bias plays a large part in prejudice and hate in our worl
 
 > "Everywhere I look it's like I'm seeing confirmation bias" - a joke I think is funny
 
----
-
+****
 ### Source
 
 ### Related

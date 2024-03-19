@@ -23,7 +23,7 @@ summary: Some thoughts on democratizing knowledge wrapped up in models.
 
 It looks like Capella is also an intentional simplification of SysML.
 
----
+****
 ### Source
 - 
 

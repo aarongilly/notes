@@ -19,8 +19,7 @@ A staple of the Budget Boot Camp course. A simple budgeting technique in which b
 
 These tie into the [[7 Bank Accounts]] approach.
 
----
-
+****
 ### Source
 - [[Budget Boot Camp]]
 

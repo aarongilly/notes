@@ -18,8 +18,7 @@ There are 8 commonly reported elements when people talk about something they enj
 7. When the concern for the self disappears during the task, and the definition of the self expands after
 8. When our perception of time expands and contracts
 
----
-
+****
 ### Source
 - [[Flow]]
 

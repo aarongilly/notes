@@ -18,8 +18,7 @@ Lagging Measures are the opposite of [[Leading Measures]], both of which often a
 - Test results as a lagging measure of a student's effort.
 - Subscribers lost as a lagging measure of content quality.
 
----
-
+****
 ### Source
 - 
 

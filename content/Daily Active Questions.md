@@ -26,8 +26,7 @@ Marshall Goldsmith has 32 (this number changes over time) questions he answers e
 - build positive relationships today
 - be fully engaged today
 
----
-
+****
 ### Source
 - [[Triggers]]
 

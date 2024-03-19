@@ -9,8 +9,7 @@ tags:
 
 They make for more effective advertising. They make for more effective education. What makes things "sticky" isn't always obvious or reproducible. Almost by a rule, humans adapt to whatever techniques are used to make messages "stick" with us and make those techniques less effective over time.
 
----
-
+****
 ### Source
 - [[The Tipping Point]]
 

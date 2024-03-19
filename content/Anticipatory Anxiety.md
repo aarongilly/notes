@@ -21,7 +21,7 @@ Three techniques I've come across to break this chain:
 - **reframe** fear as excitement. The body signals for both are essentially the same, and you can often trick yourself into being excited to (give a big presentation/make the phone call/whatever)
 - **go first** - minimize the amount of time spent agonizing. Jump directly into the pool without dipping in a toe. Volunteer to be the first one on the group presentation. Get it over with.  => [[Action Relieves Anxiety]]
 
----
+****
 ### Source
 - [[Man's Search for Meaning]]
 

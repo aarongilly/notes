@@ -27,7 +27,7 @@ $$\text{BMI} = \frac{101.6 kg}{2.045 m^2} = 24.3$$
 
 I'm "healthy" now. According to their logic, if I gain 5 more pounds I'll be "at risk", but if I lost **50 pounds** I'd still be "healthy".
 
----
+****
 ### Source
 - [[Burnout]]
 - ChatGPT for the LaTeX code, nice.

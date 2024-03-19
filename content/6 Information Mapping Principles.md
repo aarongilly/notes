@@ -18,8 +18,7 @@ These 6 principles are best practices for research-based information mapping:
 5. Accessible Detail - organize information in such a way that detail can be drilled into if desired, but that drilling isn't required
 6. Integrated graphics - use graphics as well as text to clarify and emphasize things. Like the above.
 
----
-
+****
 ### Source
 - [[Wikipedia]]
 

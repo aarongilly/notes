@@ -12,8 +12,7 @@ In order for new dendrites to form and for you to learn, you have to actually be
 
 There are forgetting neurons. They were discovered in 2019. They help us prune what's not important. Keeping what's essential.
 
----
-
+****
 ### Source
 - [[Keep Sharp]]
 

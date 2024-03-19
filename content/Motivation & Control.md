@@ -16,7 +16,7 @@ The biological seat of motivation is the striatum, a part of your lizard brain. 
 
 There are medical cases of a complete and utter loss of motivation. People would become suddenly passive. Not sad. Not dealing with memory loss or change in intelligence. This comes from damage to the striatum. Very small damage can result in total apathy. They don't care to move on their own, but CAN move.
 
----
+****
 ### Source
 - [[Smarter, Faster, Better]]
 

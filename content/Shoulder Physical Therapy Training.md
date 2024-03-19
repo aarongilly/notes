@@ -29,7 +29,7 @@ Same move as dumbbell rotation, but with bands and done while standing.
 Shoulder retraction/extension while in an incline push-up position. Keep arms stuff, elbows locked, but raise and lower your body with just your shoulders.
 	- Alternative, do a push-up, but add in a "cat"-like yoga stretch
 
----
+****
 ### Source
 - Direct experience with a few PTs 
 

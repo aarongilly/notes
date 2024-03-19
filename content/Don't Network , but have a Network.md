@@ -10,8 +10,7 @@ tags:
 
 On the other hand, *having* a network is a great thing. Networks of genuine connections can be both personally fulfilling and incredibly useful from a work perspective. The best way to "network" is to be genuine and true to who you are, to do good work, to get to know the people who relate to the things you do.
 
----
-
+****
 ### Source
 - [[The Achievement Habit]]
 

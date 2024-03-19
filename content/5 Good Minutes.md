@@ -16,8 +16,7 @@ tags:
 > 	meditation can reset your mood
 > 		- James Clear
 
----
-
+****
 ### Source
 - [James Clear’s newsletter](https://el2.convertkit-mail4.com/c/xmux0o23d6t6h9gnl5a6/30tphkhnzpno4m/aHR0cHM6Ly9qYW1lc2NsZWFyLmNvbS8zLTItMS9yZWZlcnJhbC1odWI_cmhfc3Vic2NyaWJlcj1zdWJfYzE1NDRkMDIwZQ==)
 

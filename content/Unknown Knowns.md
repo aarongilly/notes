@@ -24,8 +24,7 @@ Obviously, examples from the second list are self-removing.
 
 The only way to reduce the chances of being bitten by the first type of Unknown Knowns is to have a well-established checklist or procedure for a given task, that serves as a queue for you to realize you're hosed *before* it really happens.
 
----
-
+****
 ### Source
 
 ### Related

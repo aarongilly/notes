@@ -16,7 +16,7 @@ When it comes to long-term progress, doing something small consistently will res
 > Low expectations, met consistently, lead to great things in the long run. 
 > - In Laura Vanderkam’s “[[Off The Clock]]
 
----
+****
 ### Source
 - [[Off The Clock]]
 - [3-2-1: On the paradox of focus, criticism, and the value of reading | James Clear](https://jamesclear.com/3-2-1/april-22-2021?rh_ref=07a27e6a)

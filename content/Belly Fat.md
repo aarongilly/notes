@@ -9,8 +9,7 @@ tags:
 
 Fat around the waist is much worse for health outcomes than fat beneath the skin (subcutaneous). 
 
----
-
+****
 ### Source
 - [[The Body]]
 

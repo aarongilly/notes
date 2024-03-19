@@ -11,7 +11,7 @@ Looks like Noradrenaline and [[Adrenaline]] are almost the same. Chemically they
 
 One thing that Noradrenaline can do that regular adrenaline does not do is constrict your blood vessels and increase your blood pressure.
 
----
+****
 ### Source
 - [[Huberman Labs]]
 - Wikipedia

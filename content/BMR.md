@@ -12,8 +12,7 @@ Your liver takes up the highest amount of energy in your BMR, followed by your b
 
 BMR can shift over time in response to environmental factors or changes in health.
 
----
-
+****
 ### Source
 - [[Exercised]]
 

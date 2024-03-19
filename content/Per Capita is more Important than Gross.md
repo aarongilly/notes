@@ -18,8 +18,7 @@ If you're making a salary of $100k a year, but you're working 70 hours a week, y
 Other applications:
 - Modeling the heck out of an [[Enterprise Architecture]] may yield and incredibly robust multidimensional network of interlinking views... but may take 100s to 1000s of person-hours, whereas simple [[Core EA Diagrams]] may yield 80% of the effective value using way less than 20% of the work.
 
----
-
+****
 ### Source
 - [[The 4-Hour Work Week]]
 - [[The Happiness Equation]]

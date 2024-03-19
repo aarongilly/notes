@@ -16,8 +16,7 @@ The view of Proxy measures is that they are a trap that causes businesses to man
 
 Embrace trends you see in others. Being too stuck in your ways is a sure fire way to use momentum. If everyone else is doing it, your probably should be too.
 
----
-
+****
 ### Source
 - [[The Space Barons]]
 - [SEC](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm)

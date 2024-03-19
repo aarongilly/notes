@@ -44,8 +44,7 @@ Some notes (like this one) have **Footnotes**[^2]. This text is here for pseudo-
 
 I've been interested in notetaking since before I knew "knowledge management" was a thing. I wrote about my disappointment with the notetaking application landscape in [Column #166 back in 2014](https://aarongilly.com/166/). I stumbled across the concept of the Zettelkasten and plaintext notes shortly after discovering [[Notion]]. My first notes were about [[Zettelkasten Components]], appropriately enough, and they were dated March 15th, 2020. Interestingly, as of January, 2024 I've made on average almost exactly 1 new note per day. Neat.
 
----
-
+****
 ### Source
 - themselves!
 

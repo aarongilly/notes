@@ -17,7 +17,7 @@ This is something you cannot do until you can commit for a bit. Trying to jump s
 ### Step 4 - [[Time Blocking]]
 This is where you're reaching the pinnacle of productivity and focus. **This requires a well-honed ability to focus**. Trying to jump straight into time blocking does not work. But, if you're finding yourself *not* being too avoidant of the tasks you're on, if you've mastered the ability to commit for a decent chunk of time, then you can move into the realm of scheduling focus sessions in advance.
 
----
+****
 ### Source
 - [[Ultralearning]]
 

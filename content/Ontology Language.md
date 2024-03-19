@@ -21,8 +21,7 @@ There are a multitude of ontology languages. Each of them seeks to remove ambigu
 - Object-Process Methodology (see: [[OPM]])
 - Attempto Controlled English
 
----
-
+****
 ### Source
 
 [Ontology language - Wikipedia](https://en.wikipedia.org/wiki/Ontology_language)

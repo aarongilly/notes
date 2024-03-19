@@ -16,8 +16,7 @@ The Diderot Effect is an example of [[Lifestyle Creep]] and leads to no real ove
 - You buy a new phone - which needs a new case & charging stand, and suddenly your computer seems a bit out of date, and your watch starts to feel old
 - You get a new couch - which makes your living room feel weird, so you get a new rug & end tables, then new chairs
 
----
-
+****
 ### Source
 - [[Mastering the Diderot Effect]]
 

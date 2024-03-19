@@ -17,8 +17,7 @@ Context loading is why context switching is so harmful to productivity.
 
 It takes time and energy to get to a context-loaded state. The efforts spent to get there are only as useful as the result you produce while you're there. This is the benefit of [[Monotasking]] and is the bread and butter of [[Deep Work]].
 
----
-
+****
 ### Source
 
 ### Related

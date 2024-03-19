@@ -13,8 +13,7 @@ Not having your entire livelihood and future wrapped up in a single bet allows y
 
 Warby-Parker is an example of a very successful business that was designed from the ground up to be as risk-free as possible. The founders all had other jobs for years. They made smart and small investments. They were able to weather early storms.
 
----
-
+****
 ### Source
 - [[Originals]]
 

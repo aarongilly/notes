@@ -13,8 +13,7 @@ Luhmann's notes were written on one side of a single notecard. These are [[Atomi
 
 With this centralized repository of knowledge, you can read with a new sense of clarity. Notes you take on things you're reading have a destined home. Because there's already a rich collection of notes in that home, you can be more selective about the new notes you take. Only take notes if the add the conversation between you and your second brain.
 
----
-
+****
 ### Source
 - [[Secondary Summary How to Take Smart Notes]]
 

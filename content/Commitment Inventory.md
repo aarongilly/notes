@@ -23,8 +23,7 @@ Doing a commitment inventory serves to align the energy you spend with the relat
 
 See also the [[HBR "Life Strategy"#Step 4 - How Do I Assess My Life?]] - very related.
 
----
-
+****
 ### Source
 - [[Todoist Productivity Articles]]
 

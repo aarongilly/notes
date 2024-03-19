@@ -12,8 +12,7 @@ In order to be eligible to receive social security you need to achieve a certain
 
 There’s nothing saying you couldn’t retire earlier, which is what all the [[FIRE]] guys are all about. You simply have to float yourself. See “[[Money to Retire]]”.
 
----
-
+****
 ### Source
 - [Benefits Planner: Retirement | Born in 1960 | SSA](https://www.ssa.gov/benefits/retirement/planner/1960.html)
 

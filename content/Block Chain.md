@@ -12,8 +12,7 @@ Block Chain, the enabling technology behind Bitcoin and the other crypto currenc
 
 The same concept that federates the trust we have in the transactions logged in Bitcoin can be utilized to federate trust in artificial intelligence.
 
----
-
+****
 ### Source
 - [[The Sentiment Machine]]
 

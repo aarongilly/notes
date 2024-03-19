@@ -10,8 +10,7 @@ Begin *right*, begin *again*, or begin *together*. Utilize "temporal landmarks" 
 
 If you start your career during a down economy, your salary is likely to still be lagging behind someone who started in a bull economy even after 20 years.
 
----
-
+****
 ### Source
 - [[When (book)]]
 

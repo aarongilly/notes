@@ -11,7 +11,7 @@ This note isn't really going to explain the language I've been using for the pas
 - a JavaScript implementation of 
 [JavaScrypt]([](https://www.fourmilab.ch/javascrypt/)) PGP
 - [[Mermaid]] was built with it
----
+****
 ### Source
 - 
 

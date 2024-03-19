@@ -18,8 +18,7 @@ Learn which is which, and focus more on your **circle of influence**. In doing s
 
 You'll never have full overlap. The goal is to minimize that disconnect, and to make peace with what you care about, but cannot influence.
 
----
-
+****
 ### Source
 - [[The 7 Habits of Highly Effective People]]
 

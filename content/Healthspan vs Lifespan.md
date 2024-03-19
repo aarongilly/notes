@@ -20,8 +20,7 @@ People in hunter-gatherer societies tended to have a lifespan that was approxima
 - Avoiding [[Chronic Inactivity]]
 - For individuals approaching old age - visiting [[Geriatricians]]
 
----
-
+****
 ### Source
 - [[Exercised]]
 - [[Being Mortal]]

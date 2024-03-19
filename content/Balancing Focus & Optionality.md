@@ -12,8 +12,7 @@ Jumping from Project to Project is a sure-fire way to achieve long-term failure.
 
 If you're doing it right, you've properly set aside time to make get [[Traction]], and some time to do [[Periodic Reviews]] of the progress you've made. This allows you to make progress, and to ensure that the progress you've made is in alignment with who you want to be. 
 
----
-
+****
 ### Source
 - [[Antifragile Planning (article)]]
 

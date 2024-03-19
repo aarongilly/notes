@@ -19,8 +19,7 @@ The book "[[Indistractable]]" recommends a ton of options. There are options fro
 - [[A Firm & Polite “No”]]
 - [[Decide and Move On]]
 
----
-
+****
 ### Source
 - [[Indistractable]]
 

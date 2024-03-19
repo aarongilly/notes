@@ -10,8 +10,7 @@ tags:
 
 If you find yourself thinking "The Ends Justify the Means", take a long hard look at your situation and reassess what a neutral 3rd party five years from now would think.
 
----
-
+****
 ### Source
 
 ### Related

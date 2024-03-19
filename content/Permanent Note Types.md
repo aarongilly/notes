@@ -15,7 +15,7 @@ From [[Andy Matuschak]]'s public notes - he breaks down what I call 'Permanent N
 - Abstractions of many other notes ([[Inductive vs Deductive|Inductive Reasoning]])
 - Outlines - preparing to convert [[Intermediate Packets]] into content
 
----
+****
 ### Source
 - [[Andy Matuschak]]
 - [Long titles](https://notes.andymatuschak.org/zLhoRUyjKU665EY16u4XXJy)

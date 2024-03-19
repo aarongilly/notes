@@ -15,7 +15,7 @@ In reality [[Nobody Starts from Scratch]]. [[Don’t Reinvent Things]]. Do what 
 ### In Business 
 **First to market is often a disadvantage**. You bear all the cost of research. You spend resources figuring out what didn’t work. Once you have it, it’s typically easier to imitate whatever it is, tweaking or expanding on it, and making an immediate splash. This disadvantage harms innovation, which is (on the whole) a very good thing. That’s why we have intellectual property laws… but realistically the vast majority of endeavors and efforts undertaken have **ample prior art to draw from**. This is the advantage of using **benchmarks**, industry **standards**, and fully just copying what you see others do. It’s the quickest way to learn how something works, and gives you the chance to start putting your own spin on things sooner.
 
----
+****
 ### Source
 - [[The Extended Mind]]
 

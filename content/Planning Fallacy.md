@@ -20,7 +20,7 @@ This fallacy, though, is not all bad. If we realized how hard everything actuall
 - Look honestly at what happened the last time someone attempted something similar - you won’t do better (probably)
 - [[Iteration is the Only Effective Method of Controlling Emergence]]
 
----
+****
 ### Source
 - [[Triggers]]
 - [[Thinking Fast and Slow]]

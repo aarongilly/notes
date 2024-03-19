@@ -26,8 +26,7 @@ See also: [[Dimensions of Balance]]
 - The amount of effort vs the reward [[Law of Diminishing Returns]]
 - Creation & consumption
 
----
-
+****
 ### Source
 
 ### Related

@@ -7,8 +7,7 @@ tags:
 
 ****According "The Tipping Point" - epidemics of change are caused a Few Highly Impactful Types of People, a [[Stickiness Factor]] , and the Power of Context.
 
----
-
+****
 ### Source
 - [[The Tipping Point]]
 

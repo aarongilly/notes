@@ -13,8 +13,7 @@ There is an infinitely detailed world around each and every one of us, yet we on
 
 When you buy a car, suddenly you see other instances of the same make and model as your car everywhere. They were there all along, but you weren't primed to see them, therefore you didn't. It's like they didn't exist. The same concept applies to things like inequality. Outright racist or sexist remarks may be noticed by all, but subtler expressions of racist or sexist behaviors may not be noticed those not in the minority class.
 
----
-
+****
 ### Source
 - [[How to Do Nothing]]
 

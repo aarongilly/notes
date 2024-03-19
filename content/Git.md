@@ -47,7 +47,7 @@ git merge new-feature
 git branch -d new-feature
 ```
 
----
+****
 ### Source
 - using it, and...
 - [Atlassian's guide](https://www.atlassian.com/git/tutorials/using-branches)

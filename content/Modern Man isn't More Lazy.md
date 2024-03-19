@@ -12,8 +12,7 @@ Humans evolved from hunter gatherers, which didn't routinely expend energy they 
 
 The great apes are lazier than humans. The modern human is lazier than our hunter gathering ancestors, but not by a ton (see: [[Sitting]]), and most other animals are less lazy. This is defining laziness as the proportion of calories burned from typical daily activity ([[TDEE]]) to those burned at a state of rest ([[BMR]]).
 
----
-
+****
 ### Source
 - [[Exercised]]
 

@@ -13,8 +13,7 @@ JAMstacks are easier to scale and easier to secure, at the cost of being slightl
 
 The use of JAMstack technology may result in **over-reliance on third-party services.** You don't own your own fate. If a cloud service is down or changes it's API you and your work may be screwed. 
 
----
-
+****
 ### Source
 - [[Fireship YouTube Channel]]
 - [Jamstack: Are Static Sites a New Revolution for the Web?](https://www.codemotion.com/magazine/frontend/web-developer/jamstack-are-static-sites-a-new-revolution-for-the-web/)

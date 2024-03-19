@@ -14,8 +14,7 @@ We put off personal satisfaction partially because society demands we do so. We 
 
 - Analyze what you want and why - is it truly something that would bring value to your life? Or is it just something you "feel" like you should have.
 
----
-
+****
 ### Source
 - [[Flow (book)]]
 

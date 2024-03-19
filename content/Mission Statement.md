@@ -12,7 +12,7 @@ Develop a **Personal Mission Statement.** Really clarify. Develop a statement of
 
 The more specific, the better. Don’t say “I will be courageous and fair”, say “I will not avoid bold options and I will always seek to understand both sides“. Also, when possible, the more plainly stated they can be made the better.
 
----
+****
 ### Source
 - [[Essentialism]]
 

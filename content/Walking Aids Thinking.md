@@ -11,7 +11,7 @@ If you're stuck on an idea, and perhaps even if you're *not* stuck - go for a wa
 
 Note: for benefits in *thinking* - only walk at a comfortable pace. Once you start to enter into [[Zone 2]] you'll have have **worse** results. 
 
----
+****
 ### Source
 - [[The Extended Mind]]
 

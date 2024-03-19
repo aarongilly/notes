@@ -12,8 +12,7 @@ tags:
 3. Resources - a topic or theme of ongoing interest, in my case it's this second brain (and per project notes stored with the Projects themselves)
 4. Archive - non-current activities and information from any of the 3 previous areas
 
----
-
+****
 ### Source
 - [[PARA Method]]
 

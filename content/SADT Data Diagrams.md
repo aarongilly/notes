@@ -17,8 +17,7 @@ The semantics of arrows for data:
 
 > [!tldr] They are basically just IDEF0 diagrams where the arrows are data.
 
----
-
+****
 ### Source
 - [Structured analysis and design technique](https://en.wikipedia.org/wiki/Structured_analysis_and_design_technique)
 - [Toronto](http://www.cs.toronto.edu/~jm/2507S/Notes04/SADT.pdf)

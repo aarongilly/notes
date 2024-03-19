@@ -18,8 +18,7 @@ Components are represented by the same symbol in [[UML]] and [[Archimate]] - the
 
 ![Untitled](Untitled%2047.png)
 
----
-
+****
 ### Source
 
 ### Source

@@ -18,8 +18,7 @@ One of the core themes of Daniel Levitin's "[[The Organized Mind]]" was to extol
 - Utilizing [[Contextual Reminders]]
 - Building in [[Affordances]] to tools to make their usage obvious, or pre-loading a bag with objects you'll need well in advance of a trip, or by putting your car keys on the item you need to return to the store.
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 

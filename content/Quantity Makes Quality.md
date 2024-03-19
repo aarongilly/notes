@@ -19,8 +19,7 @@ A professor broke his class in half. One half was graded only on the QUANTITY of
 
 They were doing the work and learning. The other half was just theorizing. 
 
----
-
+****
 ### Source
 - [[Atomic Habits]]
 

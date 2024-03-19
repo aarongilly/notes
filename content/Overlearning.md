@@ -18,7 +18,7 @@ Overlearning can be applied to any realm of education or technique to further bu
 
 A physical analog to over learning is to train your muscles to lift 300lbs now, so that they will be able to lift 200lbs in the future.
 
----
+****
 ### Source
 - [[Ultralearning]]
 

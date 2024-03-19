@@ -22,8 +22,7 @@ The Pomodoro Technique reduces distraction & ensures we're not working past the 
 
 The zealots of this method encourage you to think of your tasks in terms of the number of Pomodoros you'll need to accomplish them. Rather than schedule your day around hours, or projects, or tasks, you schedule them into chunked Pomodoros with certain scope. An implementation of [[Timeboxing]].
 
----
-
+****
 ### Source
 - [[Todoist Productivity Articles]]
 

@@ -19,8 +19,7 @@ Knowing these help you make decisions. Reflecting on them regularly (say, as par
 - I do it NOW. I seize inspiration. I don't delay action if it can be done immediately. I touch it once. I implement immediately. I ship. (source: [[GTD]])
 - I focus all my energy in my circle of influence. I do not concern myself with or worry about things over which I have no control. (source: [[7 Habits of Highly Effective People]])
 
----
-
+****
 ### Source
 - [The Value Of General Operating Principles](https://taylorpearson.me/principles/)
 - [[Antifragile Planning (article)]]

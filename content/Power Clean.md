@@ -10,8 +10,7 @@ The **Power Clean** is a weightlifting exercise in the [[Olympic Weightlifting]]
 
 It involves raising an olympic barbell off the floor up to a point where it rests upon the shoulders. Like all Olympic lifts, it is a highly dynamic movement and requires great strength and coordination.
 
----
-
+****
 ### Source
 
 ### Related

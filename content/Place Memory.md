@@ -11,8 +11,7 @@ The hippocampus is our brain’s place memory structure. It is the structure tha
 
 Place memory works great for things that don't move. It's not great at keeping track of things that do move. This is why organization is so helpful. Why you lose things that don't have "a place they go".
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 

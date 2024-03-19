@@ -62,8 +62,7 @@ You may add accessory exercises such as the [stiff-legged deadlift](http://www.
 
 Following proper diet, rest, and sleep, while applying progressive overload, you will expect to see strength and muscle increases on a bulk, or preservation of muscle mass while shedding fat on a cut.
 
----
-
+****
 ### Source
 - [[Simple Science Fitness]]
 

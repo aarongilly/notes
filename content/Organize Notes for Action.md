@@ -15,8 +15,7 @@ How can I make this as useful as possible to my future self?
 When you focus on taking action the vast amount of information out there is radically streamlined and simplified. It also gives you a sense of tremendous clarity because **you know everything you've kept has a purpose**
 .
 
----
-
+****
 ### Source
 - [[Building A Second Brain]]
 

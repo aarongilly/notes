@@ -23,8 +23,7 @@ Flow charts are everywhere. Flow charts are in several [[Six Sigma]] tools,  Bus
 
 They are useful for explaining how processes work. They’re typically fairly intuitive - easy to create and easy to understand. You can even create them using code with tools like [[Mermaid]] or [[PlantUML]].
 
----
-
+****
 ### Source
 - [The ANSI Flowchart publication](https://nvlpubs.nist.gov/nistpubs/Legacy/FIPS/fipspub24.pdf)
 

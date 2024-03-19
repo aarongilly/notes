@@ -72,7 +72,7 @@ Example:
 Solution:
 	Again, avoid [[Proxy Measures]] where possible. Couple the feedback mechanisms as closely as possible to the true system purpose.
 
----
+****
 ### Source
 - [[Thinking in Systems]]
 

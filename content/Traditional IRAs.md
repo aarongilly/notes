@@ -12,8 +12,7 @@ Traditional IRAs (and [[Roth IRAs]]) are have contribution limits separate from 
 
 There are some income limits that may affect your ability to even contribute to a traditional IRA. Traditional IRAs and the other accounts listed above can be stacked, raising your overall ability to save in a tax-deferred way.
 
----
-
+****
 ### Source
 - [[Ultimate List of Tax-Advantaged Accounts]]
 

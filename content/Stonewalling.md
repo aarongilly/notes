@@ -17,8 +17,7 @@ Stonewalling is essentially shutting down and refusing to engage, this mode of b
 
 Stonewalling (referred to by Brene Brown as "disengagement") is a defense mechanism for [[Vulnerability ]]. It is a betray of disengagement. It's the first sign of troubles in a trusted relationship. It triggers [[Shame]] and the deepest fears of being unworthy of love or trust.
 
----
-
+****
 ### Source
 - [[Blink]]
 - [[Daring Greatly]]

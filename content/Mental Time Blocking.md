@@ -18,8 +18,7 @@ When entering and exiting a time block, pause and refresh the mind. Take a break
 - Write down or say out loud what you're about to [[Focus]] on, and how you'll know when it's time to stop.
 - Do a [[Head Clearing Exercise]]
 
----
-
+****
 ### Source
 - [[Essentialism]]
 

@@ -20,8 +20,7 @@ Hormones are only similar by definition. It's a functional definition, not a ref
 - [[Noradrenaline]] and [[Adrenaline]] are hormones that do basically the same thing as each other
 - [[Dopamine]] is a hormone that causes motivation
 
----
-
+****
 ### Source
 - [[The Body]]
 

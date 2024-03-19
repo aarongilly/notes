@@ -19,8 +19,7 @@ Asking Why 5 times is what gets you from *"I was late because I lost track of ti
 
 5 Why analysis isn't limited to applications in the world of manufacturing systems and business - the practice has great potential for helping you understand yourself.
 
----
-
+****
 ### Source
 - [[The Toyota Way]]
 - [[Grit (book)]]

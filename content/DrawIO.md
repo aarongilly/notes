@@ -15,7 +15,7 @@ There are free integrations for DrawIO in both [[Notion]] and [[Obsidian]].
 
 Notion actually isn't *natively* supported. Just embeds work well. When exporting as URL. Also I guess DrawIO offers a Chrome Extension for working with Notion.
 
----
+****
 ### Source
 - [DrawIO](https://drawio.com)
 ### Related

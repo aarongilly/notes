@@ -17,8 +17,7 @@ In [Your Money or Your [[Your Money or Your Life]] this is referred to as the Mo
 
 ![[assetsUntitled.gif]]
 
----
-
+****
 ### Source
 - [[Thinking Fast and Slow]]
 - [[Your Money or Your Life]]

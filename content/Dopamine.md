@@ -13,8 +13,7 @@ Novelty causes a dopamine hit. Which motivates us to seek new novelty. This was 
 
 Constant novelty leads to constant dopamine which leads to a lack of motivation to do hard things.
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 - [[Huberman Labs]]

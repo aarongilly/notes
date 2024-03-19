@@ -15,8 +15,7 @@ Intrinsic Motivation is something that comes from *within*. You do a thing becau
 
 What do you want to do? ← Do that more often.
 
----
-
+****
 ### Source
 - [[Flow (book)]]
 - [[The Happiness Equation]]

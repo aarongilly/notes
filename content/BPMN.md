@@ -11,8 +11,7 @@ Business Process Modeling Notation is a standard for graphically representing be
 
 BPMN is functionally similar to IDEF0 and [[IDEF3]] from the IDEF family ([[IDEF]]), or [[Activity Diagrams]] from the world of UML/SysML.
 
----
-
+****
 ### Source
 
 [BPMN Specification - Business Process Model and Notation](https://www.bpmn.org/)

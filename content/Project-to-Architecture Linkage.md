@@ -11,7 +11,7 @@ There are 3 classes of "linkage":
 2. **Business Linkage** - aligning projects to *business goals* by involving business sponsors, aligning [[incentives]] to business goal outcomes, holding project reviews with leadership
 3. **Alignment Linkage** - aligning architecture & business goals by keeping IT and business managers communicating, utilizing a PMO
 
----
+****
 ### Source
 - [[Enterprise Architecture as a Strategy]]
 

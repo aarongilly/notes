@@ -8,8 +8,7 @@ tags:
 
 Bullet Journals are physical notebooks, usually dot-grid style, that function as a combination task list, planner, journal, sketchbook, and log.
 
----
-
+****
 ### Source
 - [[The Bullet Journal Method]]
 

@@ -25,8 +25,7 @@ Making your OKRs SMART and public is a show of commitment. Continually reviewing
 
 OKRs are to be checked in with frequently. Key results are number-based, and in being so, measurable. The timeline of the goal provides a clear domain of measure.
 
----
-
+****
 ### Source
 - [[Measure What Matters]]
 

@@ -12,8 +12,7 @@ Thanks in no small part to the [[Hedonic Treadmill]] we humans are incapable of 
 
 Don't pray for your problem to go away, pray for the strength to deal with it - or the wisdom to realize it isn't really a problem you should be concerned with at all.
 
----
-
+****
 ### Source
 - [[The Subtle Art of Not Giving a F*ck]]
 

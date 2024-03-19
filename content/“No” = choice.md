@@ -15,8 +15,7 @@ You are given opportunities every day. Evaluate these opportunities against your
 > When you say 'no', you are only saying no to one option. When you say 'yes', you are saying no to every other option. No is a choice, yes is a responsibility.
 	*- James Clear*
 
----
-
+****
 ### Source
 - [[Essentialism]]
 - [James Clear's newsletter](https://jamesclear.com/newsletter)

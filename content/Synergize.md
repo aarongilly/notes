@@ -15,8 +15,7 @@ So far as I know, Stephen Covey came up with the concept of synergy. It's not we
 
 **This takes trust between group members**. People have to feel safe. This is called [[Psychological Safety]]. (see: [[Vulnerability ]])  For a group of individuals to truly synergize they need a diverse set of experiences, skills, and background ([[Diversity]])
 
----
-
+****
 ### Source
 - [[The 7 Habits of Highly Effective People]]
 

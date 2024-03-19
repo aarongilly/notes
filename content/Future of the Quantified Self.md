@@ -12,8 +12,7 @@ It might make more sense to trust whatever replaces [Cupid.com](http://cupid.com
 
 Anyone who goes against the algorithm will be taking a risk that they know themselves and the world better than this all-knowing computer. They will, on the whole, be less successful than those who trust in the best guesses of the best guessers - the computers.
 
----
-
+****
 ### Source
 - [[Homo Deus]]
 

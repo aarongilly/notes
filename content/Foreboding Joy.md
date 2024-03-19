@@ -13,8 +13,7 @@ Foreboding joy is one of the [[Vulnerability Shields]]. People who say they do t
 
 If you're foreboding joy brings you stress and prevents you from enjoying what you have, you shouldn't be doing it. If, however, you're doing it to heighten your appreciation for what you have, go for it. 
 
----
-
+****
 ### Source
 - [[Daring Greatly]]
 

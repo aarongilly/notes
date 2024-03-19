@@ -12,7 +12,7 @@ By taking smart notes, you will literally build up a collection of reusable bloc
 
 If you don’t have any work of your own to build off of, [[Imitation]] is a pretty good way to start. 
 
----
+****
 ### Source
 - [[Secondary Summary How to Take Smart Notes]]
 - [[How to Take Smart Notes]]

@@ -25,8 +25,7 @@ The entire message of the book [[Work the System]] boils down to 3 basic documen
 
 ![[assets/Untitled 66.png]]
 
----
-
+****
 ### Source
 - [[Work the System]]
 

@@ -26,8 +26,7 @@ Top Down.
 
 > [!tldr] ➡️ Deductive: generalized statements used to "deduce" specific facts.
 
----
-
+****
 ### Source
 - [[Homo Deus]]
 

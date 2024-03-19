@@ -11,8 +11,7 @@ One common manifestation of [[Shame]] is the concept of "Personal Scarcity". The
 
 The opposite of personal scarcity is **not** "having a surplus of _____", it's just having [[Enough]].
 
----
-
+****
 ### Source
 - [[Daring Greatly]]
 

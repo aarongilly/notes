@@ -13,8 +13,7 @@ Most people spend their time at work bouncing back and forth between managing th
 
 > [!tldr] ⛔ Nobody wants “he answered email” written in their obituary.
 
----
-
+****
 ### Source
 - [[Essentialism]]
 

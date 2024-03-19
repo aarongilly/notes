@@ -8,8 +8,7 @@ tags:
 
 To avoid the nasty side-effects of [[Parkinson's Law]], and to make the greatest benefit of the [[Law of Diminishing Returns]], set impossibly short deadlines. You won't achieve everything you will have wanted, but you'll achieve more with less than and energy than you would have otherwise.  
 
----
-
+****
 ### Source
 - [[The 4 Hour Work Week]]
 

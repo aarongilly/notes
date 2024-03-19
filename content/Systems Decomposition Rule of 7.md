@@ -11,8 +11,7 @@ Humans aren't good at handling over 7 pieces of information at once. Thus, the n
 
 Basically, how many times can you divide the number of components by 7? That's the number of system levels you probably should look at using.
 
----
-
+****
 ### Source
 - [[MIT 16 842 - Fundamentals of Systems Engineering M]]
 

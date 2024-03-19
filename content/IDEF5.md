@@ -10,8 +10,7 @@ IDEF5 is an [[Ontology Language]] that’s half graphical and half textual. The 
 
 ![Untitled](Untitled%2020.png)
 
----
-
+****
 ### Source
 
 ### Source

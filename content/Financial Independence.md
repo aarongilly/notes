@@ -13,8 +13,7 @@ Put simply, Financial Independence is the state where your standard living expen
 
 Financial Independence is a subculture that aims to empower its members to live better, more meaning-filled lives through a more intelligent relationship with money. 
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 

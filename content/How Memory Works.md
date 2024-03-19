@@ -18,8 +18,7 @@ The connections between neurons are made each time you encounter something new, 
 
 Neurotransmitters are released when synapses fire.
 
----
-
+****
 ### Source
 - [[Keep Sharp]]
 

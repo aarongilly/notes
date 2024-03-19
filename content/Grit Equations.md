@@ -14,8 +14,7 @@ tags:
 
 Effort counts twice.
 
----
-
+****
 ### Source
 - [[Grit (book)]]
 

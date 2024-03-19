@@ -35,8 +35,7 @@ Teaching to a child forces you to break down complexity. You cannot hide behind 
 
 I realized today that [http://www.aarongilly.com/gillespedia](http://www.aarongilly.com/gillespedia) is just an implementation of the Feynman technique.
 
----
-
+****
 ### Source
 - [[Learning from the Feynman Technique]]
 - [[Ultralearning]]

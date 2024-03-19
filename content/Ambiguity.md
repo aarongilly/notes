@@ -16,8 +16,7 @@ Ambiguity is the enemy of the engineer. It is the antithesis of certainty. It ma
 
 It is difficult to erase ambiguity. Bool did it. 
 
----
-
+****
 ### Source
 
 ### Related

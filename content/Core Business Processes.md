@@ -24,7 +24,7 @@ These are the little things. The [[Pareto Analysis|vital few instead of the triv
 - Integrating new knowledge into [[My Notes]]
 - Managing my [[Personal MOS]]
 
----
+****
 ### Source
 - [[Enterprise Architecture as a Strategy]]
 

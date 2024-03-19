@@ -19,7 +19,7 @@ V02 Max is next in line behind grip strength.
 ### Insulin Resistance
 If your body isn't capable of utilizing insulin, that's bad. It's a pre-symptom of Diabetes.
 
----
+****
 ### Source
 - [[Outlive]]
 

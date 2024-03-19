@@ -13,8 +13,7 @@ Components are responsible for one clear thing and interact with each other on a
 
 ![Untitled](Untitled%205.png)
 
----
-
+****
 ### Source
 - [[Wikipedia]]
 

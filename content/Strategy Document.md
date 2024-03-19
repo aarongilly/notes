@@ -30,7 +30,7 @@ This is all per [the Harvard Business Review video](https://youtu.be/iuYlGRnC7J8
 	* Guiding policy for dealing with the challenge
 	* Coherent actions for carrying out the policy
 
----
+****
 ### Source
 - [Harvard Business Review Video](https://youtu.be/iuYlGRnC7J8)
 - Googling [Strategy Document Example](https://www.google.com/search?q=strategy+document+example) and scanning results

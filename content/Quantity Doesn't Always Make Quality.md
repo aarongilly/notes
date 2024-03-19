@@ -14,7 +14,7 @@ The answer here **isn't** "[[Less, but Better]]" either. The key is that the *qu
 
 Linear, long-form notetaking is probably less effective as a learning tool than something like [[Visual Notetaking]]. If you go to a lecture and perfectly transcribe everything the professor says, you've been diligently taking notes. You've captured *everything*. However you've probably learned *nothing* and produced something much less valuable than if you'd [[Distillation|Distilled]] the content into something more pithy, or transformed it into something else. 
 
----
+****
 ### Source
 - [Random YouTube Video](https://youtu.be/ntaO3-n-isc?si=9Blj-jfSU8h5fDb8)
 

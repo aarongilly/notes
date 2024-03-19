@@ -54,8 +54,7 @@ A relationship from a requirement to a test case (which is a behavior modeled us
 
 ![[9B6CDD59-425B-45AE-BFB9-AB0E6C1786A8.jpeg.jpeg]]
 
----
-
+****
 ### Source
 - [[SysML Distilled]]
 

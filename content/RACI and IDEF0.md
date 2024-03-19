@@ -12,7 +12,7 @@ tags: [business, modeling]
 
 ![[Pasted image 20240107120546.png]]
 
----
+****
 ### Source
 - 
 

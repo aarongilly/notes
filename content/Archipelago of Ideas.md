@@ -8,8 +8,7 @@ tags:
 
 Tiago Forte’s term for when you [[Stitch Existing Materials into Something New]] 
 
----
-
+****
 ### Source
 - [[Building A Second Brain]]
 

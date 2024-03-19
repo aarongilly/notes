@@ -53,8 +53,7 @@ It’s there, so I’m including it. Don’t worry about it, though. I cannot im
 (supports ?sit (in-queue ?x Q (start-of ?sit) +))))))
 ```
 
----
-
+****
 ### Source
 
 [IDEF3 - Process Description Capture Method - IDEF](https://www.idef.com/idef3-process-description-capture-method/)

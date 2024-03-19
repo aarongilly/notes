@@ -25,8 +25,7 @@ Minor chords have a flatted 3.
 
 1, 3**♭**, 5
 
----
-
+****
 ### Source
 - [[Melissa]]
 

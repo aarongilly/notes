@@ -25,8 +25,7 @@ Recently they introduced a [[Whiteboarding App]] feature. It's better than [[Obs
 - The Markdown files it produces are less *clean* than Obsidian's
 - Its built-in [[Task Manager]] clutters up the product from a purely-[[Slip-Box Method]] approach, it's less modular than Obsidian.
 
----
-
+****
 ### Source
 - Downloading the app
 - [https://github.com/logseq/logseq](https://github.com/logseq/logseq)

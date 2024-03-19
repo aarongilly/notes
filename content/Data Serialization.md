@@ -18,8 +18,7 @@ There are a number of [[Data Serialization Methods]], [[JSON]], [[CSV]], [[XML]]
     - Common example: `\`
 - **Structure** - [[data serialization methods]] follow some form of underlying structure
 
----
-
+****
 ### Source
 [- Serialization](https://en.wikipedia.org/wiki/Serialization)
 

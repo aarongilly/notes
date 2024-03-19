@@ -20,7 +20,7 @@ Blocks may be defined set up to work toward something general (e.g. â€œdo emailâ
 - Minimize the negative effects of [[Context Loading]]
 - Staves off [[Decision Fatigue]]
 
----
+****
 ### Source
 - [[Deep Work]]
 - [[The 4-Hour Work Week]]

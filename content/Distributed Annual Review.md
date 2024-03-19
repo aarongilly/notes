@@ -23,8 +23,7 @@ Another practice is that of the **Distributed Annual Review**. Where you schedul
 - Clean out your PC
 - Schedule appointments with doctor's, dentist's, and whoever else you see
 
----
-
+****
 ### Source
 
 ### Related

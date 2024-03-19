@@ -17,7 +17,7 @@ It's all the rage right now. It's also possible that it's *always* been importan
 
 It's also important to do [[HIIT]] or other types of high heart rate training, too. You shouldn't ***just*** do zone 2. 
 
----
+****
 ### Source
 - [[Huberman Labs]]
 - [This video](https://youtu.be/i9AjG5hV1Fw?si=85QtJQ4zpB-SIHxW), re: mitochondrial density

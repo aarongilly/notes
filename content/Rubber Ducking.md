@@ -13,8 +13,7 @@ tags:
 
 It's sort of like active listening for your own thought process. Or an excuse to employ the [[Feynman Technique]].
 
----
-
+****
 ### Source
 
 ### Related

@@ -28,8 +28,7 @@ Because [[Shame]] is not a necessary part of life and brings about pain - it's b
     
     Are you talking about how you feel and asking for what you need?
 
----
-
+****
 ### Source
 - [[Daring Greatly]]
 

@@ -12,8 +12,7 @@ The most often repeated phrase in [[Your Money or Your Life]] is "Track every pe
 
 There are no "*best set of [[Budget]] categories*", there are what works for you and what doesn't work for you. For categories, see [[YMOYL 3 Monthly Tabulation]] 
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 

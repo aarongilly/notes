@@ -12,7 +12,7 @@ When you think, you’re hearing words in your head. Those words are coming from
 
 [[Meditation]] is about learning how to silence the internal narrator to help live in the [[Mindfulness & Now]] [[Presence]].
 
----
+****
 ### Source
 
 ### Related

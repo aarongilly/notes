@@ -13,8 +13,7 @@ It is easy to become blind to parts of your environment that are bad habit cues 
 
 Avoid mixing contexts between habits. If, you have two competing habits that are triggered by the same context, you'll more often default to the *easier* habit, letting the other one fall aside. 
 
----
-
+****
 ### Source
 - [[Atomic Habits]]
 

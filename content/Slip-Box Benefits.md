@@ -14,8 +14,7 @@ Because of the lack of hierarchy, there are no natural gaps between disparate no
 
 The method also encourages constant trolling through your entire repository to find connections between your collections. This means **you're less likely to forget concepts you've researched**.
 
----
-
+****
 ### Source
 - [[Secondary Summary How to Take Smart Notes]]
 

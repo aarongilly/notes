@@ -13,8 +13,7 @@ The way the brain works, sometimes you have to leave a Project for a while and l
 
 This works best if you have Projects that are sufficiently different. This also gives you opportunities to make serendipitous connections and bring information from one domain into another. See: [[Innovation Often is Remixing from Different Domains]] 
 
----
-
+****
 ### Source
 - [[Building a Second Brain Podcast]]
 

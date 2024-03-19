@@ -15,8 +15,7 @@ YAML’s [official website](https://yaml.org) is written in YAML
 
 Frontmatter in titling [[Mermaid]] diagrams, as of recently!
 
----
-
+****
 ### Source
 
 ### Related

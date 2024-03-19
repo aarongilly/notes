@@ -17,7 +17,7 @@ Note: while calendars *can* be used to hold tasks and [[Note Types|Meeting Notes
 
 [^1]: Except those few companies or endeavors that can truly be done asynchronously.
 
----
+****
 ### Source
 - Self
 

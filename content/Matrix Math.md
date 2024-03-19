@@ -37,7 +37,7 @@ a & b \\ c & d
 $$
 Geometrically, the determinant tells you **the area of the parallelogram whose sides are defined by the matrix**. So, the parallelogram for the example above would have points (0,0), (a,b), (a+c,b+d),and (c,d) would have an area of `ad-bc`.
 
----
+****
 ### Source
 - Various websites, none of which were super helpful and thus aren't getting linked
 

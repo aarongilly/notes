@@ -21,8 +21,7 @@ Blogger from "the simple dollar.com" did a critique of the [[Financial Index Car
 9. Spend your spare time on skills and side gigs
 10. Spend less than you earn. Always.
 
----
-
+****
 ### Source
 - [[The Personal Finance Index Card]]
 

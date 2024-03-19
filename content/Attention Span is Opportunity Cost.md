@@ -10,8 +10,7 @@ You may not be limited by physiology when it comes to the duration you can [[foc
 
 If you're focusing only on A, you might miss B or C that could save your life or allow you to have more children. Thus we evolved to slowly lose interest in things. 
 
----
-
+****
 ### Source
 - [[Freakonomics Radio]]
 

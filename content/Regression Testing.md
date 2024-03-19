@@ -11,8 +11,7 @@ Multiple regression testing is a method to derived which **weights** for a weigh
 
 Regression testing is a technique in which a scatter plot of data can be reduced to a single function approximating the scatter. This is done using the Mean Squared Error ([[Mean Squared Error]]) technique. Whatever function produces the minimal MSE is the best function... and the size of the minimum MSE is an indicator of system variability (aka [[Noise]]).
 
----
-
+****
 ### Source
 - [[Noise - A Flaw in Human Judgment]]
 - [[Wikipedia]]

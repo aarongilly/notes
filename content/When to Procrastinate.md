@@ -11,8 +11,7 @@ Because your [[First Idea ≠ Best Idea]], sometimes it's useful to procrastinat
 
 You definitely want to leave enough time to complete the work and edit it... but don't commit to a direction too early. 
 
----
-
+****
 ### Source
 - [[Originals]]
 

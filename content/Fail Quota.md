@@ -12,8 +12,7 @@ You could give yourself a “failure quota” of 2 or 4 (or whatever) major fail
 > If you only stick with what you're good at, you'll never learn anything - Elbow Grease by John Cena
 > 
 
----
-
+****
 ### Source
 - [[Freakonomics Radio]]
 

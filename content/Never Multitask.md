@@ -15,8 +15,7 @@ Worse, constantly using the [[Attentional Switch]] leads to quicker [[Decision F
 
 The one exception to this guidance is [[Multichannel Multitasking]].
 
----
-
+****
 ### Source
 - [[The 4-Hour Work Week]]
 - [[Getting Things Done The Art of Stress-Free Productivity]]

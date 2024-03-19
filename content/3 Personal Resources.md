@@ -26,8 +26,7 @@ Most people have a limited supply of money. Having it doesn't solve all of life'
 
 The management of these resources is what I call [[Personal Economics]].
 
----
-
+****
 ### Source
 
 ### Related

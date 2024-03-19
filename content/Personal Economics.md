@@ -10,8 +10,7 @@ Personal Economics is a term I use to refer to the management of your personal r
 
 You can make trades between the resources. Exchange money for time by paying someone to cook/shop/fix something for you. Exchange time for money by going to work. Exchange energy for money by doing vigorous work. It's hard to turn energy into time, I suppose. 
 
----
-
+****
 ### Source
 
 ### Related

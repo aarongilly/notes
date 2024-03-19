@@ -15,8 +15,7 @@ The kill chain is a term used by members of the militia and Department of Defens
 
 Note: this is the definition used in the book, but not perfectly aligned with what I find elsewhere. Elsewhere it has more steps, or is more cyber-attack focused. Loosely they fit the concept.
 
----
-
+****
 ### Source
 - [[The Kill Chain (book)]]
 

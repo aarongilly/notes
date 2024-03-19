@@ -22,7 +22,7 @@ Visual Controls make it obvious if something is trending south. They're a part o
 - [[Daily Post It]] & displaying the [[3 Goals a Day]]
 - Quality standards - a "good example" to reference
 
----
+****
 ### Source
 - [[The Toyota Way]]
 - Experience

@@ -11,8 +11,7 @@ Hypertext Markup Language (HTML) is an [[XML]]-like [[data serialization]] marku
 
 For now, I'm not going to cover anything more specific than that. It's a topic about which I could dive *very* deeply.
 
----
-
+****
 ### Source
 
 ### Related

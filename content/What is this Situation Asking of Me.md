@@ -17,7 +17,7 @@ Life doesn't allow for you to do whatever you want, whenever you want. You can t
 
 You can set yourself up to ask "[[What is this Situation Asking of Me]]?" more often through good [[Life Design]]. This is what David Allen was referring to with his "Mind like Water" stuff.
 
----
+****
 ### Source
 - Amalgamation of notes
 

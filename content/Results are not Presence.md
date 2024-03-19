@@ -13,8 +13,7 @@ Doing something because you enjoy it ([[Intrinsic Motivation]]) is a great way t
 
 As James Clear says: [[Love the Process]] 
 
----
-
+****
 ### Source
 - [[The Little Book of Hygge]]
 - [[How to Do Nothing]]

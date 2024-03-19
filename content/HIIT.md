@@ -18,8 +18,7 @@ High-Intensity Interval Training is great. it is the quickest way to raise your 
 - HIIT burns more calories per unit of time worked out than other exercises
 - HIIT is very effective at raising [[VO2 Max]]
 
----
-
+****
 ### Source
 - [[Exercised]]
 

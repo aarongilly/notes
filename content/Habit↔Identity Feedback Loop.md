@@ -16,7 +16,7 @@ Goals set up a pattern of deferred happiness, meanwhile a focus on a system can 
 
 [^1]: Or the person you look up to, your hero, etc
 
----
+****
 ### Source
 - [[Atomic Habits]]
 

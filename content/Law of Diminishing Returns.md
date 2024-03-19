@@ -30,8 +30,7 @@ It should be said that this “law” has exceptions. The ROI curve is a conside
 
 [[Valley of Disappointment]]
 
----
-
+****
 ### Source
 
 ### Related

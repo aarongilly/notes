@@ -9,8 +9,7 @@ tags:
 
 Breathing too fast is associated with anxiety. It's actually a bi-directional street. Anxiety causes you to breath faster and breathing too fast causes anxiety.
 
----
-
+****
 ### Source
 - [[Breath]]
 

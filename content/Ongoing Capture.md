@@ -15,8 +15,7 @@ I see 3 categories of ongoing capture.  As you go about your day, you run into t
 
 Mapping these processes to their tools and systems is a part of the [[Master List]].
 
----
-
+****
 ### Source
 
 ### Related

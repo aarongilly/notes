@@ -11,7 +11,7 @@ Open Source products remove some of the risk inherent in putting things that are
 
 Some of my favorite products are open-source. Some, like [[Obsidian]] here, are not. ☹️
 
----
+****
 ### Source
 - 
 

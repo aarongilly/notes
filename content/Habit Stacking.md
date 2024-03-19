@@ -19,8 +19,7 @@ You can chain habits via recursive stacking. Use one habit as a cue for another,
 - Fill your water bottle every time you go pee.
 - Do 3 pushups every time you fill your water bottle.
 
----
-
+****
 ### Source
 - [[Atomic Habits]]
 

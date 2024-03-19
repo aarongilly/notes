@@ -58,7 +58,7 @@ Because [[Goals Alone Don't Get Results]], I am working a personal [[Management 
 	- Code-based solutions and novelties
 	- Building things with my hands
 
----
+****
 ### Source
 - Meeeee
 

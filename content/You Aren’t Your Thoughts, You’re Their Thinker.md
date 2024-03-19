@@ -9,8 +9,7 @@ tags:
 
 Humans are often inclined to say that the little narrative going on in their head **IS** who they are.. but you are not your thoughts - you are the whole person thinking them. Don't give every thought the same weight. You are not a sad person, you are a full person who is feeling sadness right now. This is very meditative.
 
----
-
+****
 ### Source
 - [[How To Do the Work]]
 

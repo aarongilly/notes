@@ -14,8 +14,7 @@ The partaking of activities for fun, with no end in mind. Play is essential. It 
 
 Play opens up the mind to new ideas. It relieves stress, and stress causes unclear thinking.
 
----
-
+****
 ### Source
 - [[Essentialism]]
 

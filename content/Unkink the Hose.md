@@ -15,8 +15,7 @@ When it comes to achieving results - spend more effort FIRST by removing existin
 
 This goes not only for personal development, but also for performance in business systems, teams, and anything else. A group of hikers is only as fast as the slowest hiker. Making that persons load lighter can speed the entire group. 
 
----
-
+****
 ### Source
 - [[Atomic Habits]]
 - [[Essentialism]]

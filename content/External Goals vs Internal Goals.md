@@ -26,7 +26,7 @@ Goals wholly within your control.
 	- You can achieve this, regardless of technical roadblocks
 	- [[Don't Force It]]
 
----
+****
 ### Source
 ![Learning How To Focus and Achieve My Goals](https://youtu.be/eLUDauIxudM)
 

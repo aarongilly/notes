@@ -25,7 +25,7 @@ Rituals can be crafted to "bake in" best practices and the principles upon which
 - Making coffee while preparing breakfast
 - Watching YouTube while folding laundry
 
----
+****
 ### Source
 - Self
 

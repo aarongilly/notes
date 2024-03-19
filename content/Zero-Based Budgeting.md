@@ -17,8 +17,7 @@ This can (and should) also be done with goals and planned usage of time. Just be
 
 This is also one of the claimed benefits of [[Bullet Migrating]] of tasks in the [[Bullet Journaling]]
 
----
-
+****
 ### Source
 - [[Essentialism]]
 

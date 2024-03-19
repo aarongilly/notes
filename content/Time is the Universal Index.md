@@ -10,7 +10,7 @@ When you're looking to index things, *when* they took place is a **pretty good**
 
 Note: Time *zones* can make software messy. If you're going to treat time as an index (e.g. as a [[Primary Key]] or part of a [[Composite Key]]), you need to figure out a timezone handling strategy.
 
----
+****
 ### Source
 - Experience
 

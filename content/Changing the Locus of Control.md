@@ -13,8 +13,7 @@ According to [[The Organized Mind]] - you're pretty much born with either an int
 
 According to [[Smarter, Faster, Better]] - we **do** have the ability to influence the locus of control in others. The Marines have changed their focus to getting people to become better decision makers. Drill instructors don't praise behaviors that people naturally excel at, instead they focus on those things that come through effort. Moreover the guide for parents is to praise your children's *efforts* as opposed to how *good they are intrinsically* at something. (e.g. "you should be happy with how hard you tried" as opposed to "you should be happy you're so smart")
 
----
-
+****
 ### Source
 - [[Smarter, Faster, Better]]
 - [[The Organized Mind]]

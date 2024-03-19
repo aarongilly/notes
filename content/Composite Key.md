@@ -26,8 +26,7 @@ Since the Candidate Key `student_id` is comprised of only one attribute, it is N
 
 Since the Candidate Key `first_name`, `last_name` is comprised of more than one attribute, it is a Composite Key.
 
----
-
+****
 ### Source
 
 [Database normalization - Wikipedia](https://en.wikipedia.org/wiki/Database_normalization)

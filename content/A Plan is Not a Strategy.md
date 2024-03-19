@@ -23,7 +23,7 @@ To avoid "playing just to play" and actually act according to a *strategy*:
 	- How we're choosing to win: minimize costs to consumer
 	- The capabilities we need: rapid plane turnover, direct-to-consumer ticketing
 
----
+****
 ### Source
 - ![video](https://youtu.be/iuYlGRnC7J8)
 - [[Essentialism]]

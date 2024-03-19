@@ -10,8 +10,7 @@ Your ‘Burn Rate’ is the amount of money you’re spending each month, on ave
 
 Your [[Budget]] should be set after closely analyzing your burn rate.
 
----
-
+****
 ### Source
 
 ### Related

@@ -28,7 +28,7 @@ Recognize that [[Feeling "On Top" of Life]] is not a realistic goal. There is su
 - [[Compare Yourself to Your Average]], because [[Trajectory Matters More Than Results]]
 - Do your very best to [[Elements of Enjoyment|enjoy]] and [[Love the Process]]
 
----
+****
 ### Source
 - self
 

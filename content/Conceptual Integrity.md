@@ -16,7 +16,7 @@ The [[PDW]] concept would be something like:
 
 This is what's behind the argument that says "a hammer is the [[More is Unnecessary, Less is Impossible.|Perfect Tool]]". It executes on its concept perfectly. It cannot be reduced. It cannot be meaningfully improved on.
 
----
+****
 ### Source
 - [[Udacity Software Architecture Course]]
 

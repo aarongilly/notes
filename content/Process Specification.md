@@ -23,8 +23,7 @@ Process Specs describe what must be done to transform inputs into outputs. There
 
 Both [[IDEF0]] and [[Data Flow Diagram|DFD Diagrams]] call for the use of some form of Process Spec to expand on their limitations.
 
----
-
+****
 ### Source
 - Self, then vetted via [Wikipedia](https://en.wikipedia.org/wiki/Process_specification)
 

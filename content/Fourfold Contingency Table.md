@@ -24,8 +24,7 @@ REGION 4 - Absence of A is correlated with absence of B
 
 This is related to the Chi-squared test.
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 

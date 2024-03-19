@@ -12,8 +12,7 @@ The Six Sigma methodology is a set of tools and techniques meant to assist in im
 
 Core to the philosophy of Six Sigma is [[DMAIC]]. Each of the DMAIC steps is associated with a series of tools and techniques meant to assist in that step.
 
----
-
+****
 ### Source
 
 [Six Sigma](https://en.m.wikipedia.org/wiki/Six_Sigma)

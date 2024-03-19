@@ -21,8 +21,7 @@ While sitting or standing, with barbell grasped at slightly-greater-than-shoulde
 - Triceps
 - Abs (indirect)
 
----
-
+****
 ### Source
 - [[Simple Science Fitness]]
 

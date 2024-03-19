@@ -12,8 +12,7 @@ The likelihood of people being a victim of a mass shooting is way smaller than t
 
 This applies more to System 1 thank system 2.
 
----
-
+****
 ### Source
 - [[Thinking Fast and Slow]]
 

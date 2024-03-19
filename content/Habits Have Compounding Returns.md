@@ -13,7 +13,7 @@ This goes in both directions. Good habits accumulate to great results, bad habit
 
 Due to the [[Habit↔Identity Feedback Loop]], **you are what you do repeatedly**.
 
----
+****
 ### Source
 - [[Atomic Habits]]
 

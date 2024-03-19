@@ -9,7 +9,7 @@ Noise is random variation in the result of a system's output. Unlike [[Bias]], n
 
 ![Untitled](Untitled%2049.png)
 
----
+****
 ### Source
 - [[Noise - A Flaw in Human Judgment]]
 

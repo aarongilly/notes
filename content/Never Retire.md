@@ -13,8 +13,7 @@ This is why [[The Happiness Equation]] suggests finding your [[Ikigai]], and rec
 
 > [!tldr] 👉 Once you finish changing. You're finished.
 
----
-
+****
 ### Source
 - [[The Happiness Equation]]
 

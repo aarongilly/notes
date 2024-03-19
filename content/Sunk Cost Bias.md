@@ -13,8 +13,7 @@ This could be out of self-preservation, not wanting to admit that we were wrong.
 
 While there is something to be said at not immediately throwing in the towel and maintaining [[focus]] even when new options become available, it should be a conscious, calculated choice to stay the course. 
 
----
-
+****
 ### Source
 
 ### Related

@@ -29,8 +29,7 @@ flowchart LR
 a(cold storage) --allocate--> b(2.5in HDD Drive)
 ```
 
----
-
+****
 ### Source
 - [[SysML Distilled]]
 

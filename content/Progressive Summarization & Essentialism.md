@@ -14,8 +14,7 @@ Quote from the book connects progressive summarization with the “[[Less, but B
 
 Distillation is meant to make it easy to find and work with our notes in the future, to make ideas small and compact, so we can load them into our mind with minimal effort.
 
----
-
+****
 ### Source
 - [[Building A Second Brain]]
 

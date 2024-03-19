@@ -11,7 +11,7 @@ Your number 1 goal when doing a negotiation should be to get to “**That’s ri
 
 This does not mean you have to agree with their position, but you have to *understand* their position, and their **feelings**. [[Negotiation is Tactical Empathy]].
 
----
+****
 ### Source
 - [[Never Split the Difference]]
 

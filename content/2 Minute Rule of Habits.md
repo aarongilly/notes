@@ -21,8 +21,7 @@ It’s easy to do anything for 2 minutes. Even if you’re tired. Or stressed.
 - Put on your running shoes each morning. Even if you take them back off.
 - Write one sentence in your journal in your [[Daily Review]]
 
----
-
+****
 ### Source
 - [[Atomic Habits]]
 

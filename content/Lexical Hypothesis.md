@@ -15,8 +15,7 @@ Family information allows you to know who you can and cannot marry. All cultures
 
 Languages tend to have certain orders in which they develop words for animals. Plants. Color. (Light and dark, then red, then green or yellow).
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 

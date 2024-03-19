@@ -14,8 +14,7 @@ Minimalism is **addition through subtraction**. By cutting out the stuff that yo
 
 See [[Minimal Stuff]] , [[Minimal Activities]] , [[Minimal Tech]] , and [[Minimal Relationships]] .
 
----
-
+****
 ### Source
 - [[Essentialism]]
 - [[Digital Minimalism]]

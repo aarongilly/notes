@@ -22,7 +22,7 @@ When it comes to affecting the performance of a system, these are the places to 
 2. **Paradigms** - change the mindset in which the system operates, its goals, structure, rewrite the rules 
 1. **Transcending Paradigms** - dunno. The source didn't explain this enough
 
----
+****
 ### Source
 - [[Thinking in Systems]]
 

@@ -79,8 +79,7 @@ JSON Schema is used in the [[OpenAPI]] standard, as well.
 }
 ```
 
----
-
+****
 ### Source
 - [JSON Schema Examples Tutorial](https://www.mongodb.com/basics/json-schema-examples)
 - [JSON Schema](https://json-schema.org/)

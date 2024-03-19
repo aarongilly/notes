@@ -21,7 +21,7 @@ As Neil Pasricha said: ==Be Happy First==.
 
 Anything beyond "enough" is [[Clutter]]. 
 
----
+****
 ### Source
 - [[Stillness is the Key]]
 - [[Your Money or Your Life]]

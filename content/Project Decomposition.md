@@ -21,8 +21,7 @@ It's a best practice to utilize a [[Project Management App]] to organize and int
 
 You can utilize [[Minimum Viable Progress]] consistently to complete big projects over time without burnout. ([[Small but Consistent beats Big but Sporadic ]], [[Heavy Lifts vs Slow Burns]]).
 
----
-
+****
 ### Source
 
 ### Related

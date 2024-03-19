@@ -12,8 +12,7 @@ The desire for “more” is not only a [[Hedonic Treadmill]] of unhappiness, it
 
 **Earth Overshoot Day** is the the annual day in which we have used up the “sustainable” amount of Earth for that year. It happens earlier and earlier each year. If everyone could settle for "[[Enough]]" we'd have a much brighter future AND we'd be better off now, too.
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 

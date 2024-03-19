@@ -31,7 +31,7 @@ Systems exhibit [[System Complexity]] and [[Emergent Behavior]]. Patterns of beh
 
 ![[screenshot 1.png]]
 
----
+****
 ### Source
 - [[Systems Engineering Book of Knowledge]]
 - [[Thinking in Systems]]

@@ -45,8 +45,7 @@ The number of arguments the function depends on to produce its result.
 
 The result of a function. Its output.
 
----
-
+****
 ### Source
 
 ### Related

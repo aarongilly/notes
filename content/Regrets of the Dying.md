@@ -11,7 +11,7 @@ tags: [happiness]
 4. I wish I had stayed in touch with my friends
 5. I wish I had let myself be happier
 
----
+****
 ### Source
 - [The Guardian](https://www.theguardian.com/lifeandstyle/2012/feb/01/top-five-regrets-of-the-dying)
 

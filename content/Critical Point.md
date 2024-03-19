@@ -13,7 +13,7 @@ Can be found by taking the [[Derivative]] of the function, then finding where th
 $$\frac{d}{dx} x^2 + 1 = 2x$$
 2x = 0 @ x=0... so x=0 is a Critical Point. In this case, it's also a local and global minima.
 
----
+****
 ### Source
 - School.
 

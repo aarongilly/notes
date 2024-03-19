@@ -22,8 +22,7 @@ There are a litany of people doing annual reviews. It's natural. It's also extre
     - Review & renew Identity Statement
 - Plan next year's goals by quarter or month
 
----
-
+****
 ### Source
 
 ### Related

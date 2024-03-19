@@ -17,7 +17,7 @@ Those are the "main" methods, but Jeff Nippard suggests a few other methods, too
 - changing [[Lifting Tempo]]
 - focus on a full range of motion
 - increasing mind-muscle connection
----
+****
 ### Source
 - [Jeff Nippard video](https://youtu.be/71op1DQ2gyo?si=a5o7uCaQSqX6taM1)
 - [[Simple Science Fitness]]

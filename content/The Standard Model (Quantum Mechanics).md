@@ -33,8 +33,7 @@ Alongside the 12 Fermions are 5 **Bosons**, which give rise to the 3 forces (str
 | Weak Force       | W Boson & Z Boson | Fusion          | It's actually about **decay**. And its the **only** one that affects neutrinos |
 |                  | Higgs Boson       | Mass            | Dunno why this doesn't mean *gravity* is in the Standard Model.                |
 
----
-
+****
 ### Source
 - [https://en.wikipedia.org/wiki/Standard_Model](https://en.wikipedia.org/wiki/Standard_Model)
 - [Excellent Quanta Magazine Video](https://youtu.be/Unl1jXFnzgo?si=PozYnshaYD2sOx5I)

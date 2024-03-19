@@ -11,7 +11,7 @@ Each satellite has an on-board atomic clock. That's how GPS Receivers are able t
 
 ![[Untitled-2023-12-30-2219.png]]
 
----
+****
 ### Source
 - https://letstalkscience.ca/educational-resources/backgrounders/math-behind-gps
 - ![video](https://youtu.be/VMeKmh3zjzc)

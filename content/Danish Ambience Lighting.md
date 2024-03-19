@@ -14,8 +14,7 @@ The danish winter is long. It rains more days than it doesn't. Hence lamps and c
 
 Small distributed zones of light are usually better than one big central light. 
 
----
-
+****
 ### Source
 - [[The Little Book of Hygge]]
 

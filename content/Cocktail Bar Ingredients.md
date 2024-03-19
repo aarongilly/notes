@@ -65,7 +65,7 @@ I've seen these categorized also as:
 - Cinnamon
 - Nutmeg
 
----
+****
 ### Source
 - [This site](https://www.thespruceeats.com/essential-distilled-spirits-and-mixers-760741)
 

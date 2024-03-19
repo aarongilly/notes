@@ -15,7 +15,7 @@ This all mostly seems to apply to strength training, specifically.
 A - Heavier weights, 3-4 sets of 4-8 reps, longer rests (2-4 min)
 B - Lower weights, 2-3 sets of 8-12 reps, shorter rests (60-90 secs)
 
----
+****
 ### Source
 - [[Huberman Labs]]
 

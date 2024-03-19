@@ -16,7 +16,7 @@ $$
 
 represents a vector from the origin to position 1,1. You can use the Matrix operators to do things to that vector.
 
----
+****
 ### Source
 - 
 

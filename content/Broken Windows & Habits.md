@@ -14,8 +14,7 @@ tags:
 1. You may need to make your bed, because an unmade bed seeds an unkempt room. 
 2. The first dish in the sink is like a nucleus that pulls additional dishes inward.
 
----
-
+****
 ### Source
 - [[Better Than Before]]
 

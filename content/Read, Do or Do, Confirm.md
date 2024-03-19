@@ -19,8 +19,7 @@ Do the things, then check *afterwards* to ensure they are done. This is what’s
 
 On a long enough timeline with any given “Read, Do” checklist, it becomes a “Do, Confirm” checklist.
 
----
-
+****
 ### Source
 - [[The Checklist Manifesto]]
 

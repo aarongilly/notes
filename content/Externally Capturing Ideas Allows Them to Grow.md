@@ -11,8 +11,7 @@ Writing down thoughts or new things you've come across means you don't necessari
 
 If you’re not capturing the idea, you’re more prone to simply repeat it. Writing it down means you’re more likely to [[build on yourself]].
 
----
-
+****
 ### Source
 - [[Building A Second Brain]]
 

@@ -14,8 +14,7 @@ Bees work in large numbers, but are inflexible.
 
 Humanity rallies around the great [[Intersubjective Reality]], and that allows us to cooperate en masse. Gods. Corporations. Countries. Money. 
 
----
-
+****
 ### Source
 - [[Homo Deus]]
 

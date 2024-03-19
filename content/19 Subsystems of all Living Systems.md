@@ -28,7 +28,7 @@ From the cell, to the organ, to the organ system, to the body, to the society, a
 
 All of these "living" system features can also be applied to a *business*, when viewed as a system.
 
----
+****
 ### Source
 - [[Just Enough Structured Analysis]]
 

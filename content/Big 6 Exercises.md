@@ -39,8 +39,7 @@ There are big 6 compound movements. Doing JUST these would give you a pretty dec
 - [[Workout - Starting Strength]]
 - [[Workout - Stronglifts 5x5]]
 
----
-
+****
 ### Source
 - [[Simple Science Fitness]]
 

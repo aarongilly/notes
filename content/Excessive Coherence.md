@@ -11,8 +11,7 @@ As we start learning about a subject (person, event, etc) we begin formalizing o
 
 Looks like [[Confirmation Bias]] and contributes to the [[Noise of Crowds]] (i.e. not wisdom of crowds). 
 
----
-
+****
 ### Source
 - [[Noise - A Flaw in Human Judgment]]
 

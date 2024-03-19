@@ -29,8 +29,7 @@ Measuring general inflammation uses blood tests for:
 - [[Anti-inflammatory Behavior]]
 - [[Anti-inflammatory Diet]]
 
----
-
+****
 ### Source
 - [[Wikipedia]]
 

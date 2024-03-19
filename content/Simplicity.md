@@ -14,7 +14,7 @@ tags:
 
 Things go sideways. It's a fact of life. Every [[What is a Plan|plan]] will have unanticipated things that try to bring it down. Simple plans allow you more flexibility and allow teams to adjust without needing to scrap the entire plan. If a plan is too [[System Complexity|complex]] it becomes too difficult to adjust when the stuff hits the fan. [[Simple is Maintainable]]. [[Do the Simplest Thing]].
 
----
+****
 ### Source
 - [[Extreme Ownership (book)]]
 ### Related

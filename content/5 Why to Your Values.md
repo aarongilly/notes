@@ -11,8 +11,7 @@ Seek to understand your reactions and emotions. Ask "why" until you get down to 
 
 Those core values may also help you identify subjects about which you may hold the capacity for the greatest levels of grit.
 
----
-
+****
 ### Source
 - [[The Subtle Art of Not Giving a F*ck]]
 - [[Grit (book)]]

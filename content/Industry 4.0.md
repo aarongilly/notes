@@ -13,8 +13,7 @@ The cynical nature of this note is from me.
 
 This doesn't feel distinct enough (to me) from the “3.0” revolution that was simply “computers start to automate physical and logical processes”.
 
----
-
+****
 ### Source
 
 ### Source

@@ -19,8 +19,7 @@ IDEF0 was derived from another approach called “Structured Analysis & Design T
 
 SADT turns IDEF0 into a form of lightweight Pseudo [[SysML]]. However SADT (like IDEF0, unfortunately) seems to be almost completely abandoned.
 
----
-
+****
 ### Source
 - [[The Practical Guide to Business Process Reengineer]]
 

@@ -11,8 +11,7 @@ RPE, or “Rate of Perceived Exertion” is a subjective measure of how hard you
 Objective [[Proxy Measures]]:
 - timing the concentric part of the rep
 
----
-
+****
 ### Source
 - The Strong App
 - [https://youtu.be/deDlhPmT2SY](https://youtu.be/deDlhPmT2SY)

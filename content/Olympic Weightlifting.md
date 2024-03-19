@@ -21,8 +21,7 @@ While the [[Clean and Jerk]] and the [[Snatch]] are the two most common forms of
 - [[Push Press]]
 - [[High Pulls]]
 
----
-
+****
 ### Source
 - [[Olympic Weightlifting Versus Powerlifting]]
 - [Olympic-style Weightlifts](https://exrx.net/Lists/OlympicWeightlifting)

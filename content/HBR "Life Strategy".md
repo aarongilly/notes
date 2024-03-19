@@ -69,7 +69,7 @@ A [[Strategy Document]] fits on one page. This can be done for your *life strate
 
 They also have a template in the linked source. It's fine. The worksheet itself isn't the value. It's doing the worksheet. I like my diagram thing better.
 
----
+****
 ### Source
 - [HBR Article]([](https://hbr.org/2023/12/use-strategic-thinking-to-create-the-life-you-want))
 

@@ -13,8 +13,7 @@ tags:
 
 It is for both reasons that satisficing is a bad call in most interpersonal arenas. People can tell when you're not giving them your best. Not helping them isn't helping them, but it's also not helping your relationship. It would be often times better to give a [[A Firm & Polite “No”]] than to transparently half-heart your effort.
 
----
-
+****
 ### Source
 - [[Triggers]]
 

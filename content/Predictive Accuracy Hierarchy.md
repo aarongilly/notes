@@ -11,8 +11,7 @@ Layperson judgment < Expert judgment < [[Frugal Models]]  < equal weight models 
 
 The differences between the successive levels may not be all that much, due to [[Objective Ignorance]] .
 
----
-
+****
 ### Source
 - [[Noise - A Flaw in Human Judgment]]
 

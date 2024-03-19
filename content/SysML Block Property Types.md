@@ -20,8 +20,7 @@ Part properties are typically displayed in the  parts compartment of a block wit
 <part name> : <type> [<multiplicity>]
 ```
 
----
-
+****
 ### Source
 - [[SysML Distilled]]
 

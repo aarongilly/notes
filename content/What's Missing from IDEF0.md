@@ -38,7 +38,7 @@ Small example I whipped up to illustrate some deficiencies.
 2. What does "Food choice" entail? Is that a digital dataset? 
 3. Are the Sous Chef and Chef *necessarily* different people?
 4. The output of "Get ingredients" is split by whether or not the ingredients for the recipe chosen are available, but that important and simple distinction is hidden due to a lack of a mechanism for conditionals
----
+****
 ### Source
 - Personal usage & analysis of others
 - [This dude's IDEF0 tool](https://github.com/jimmyjazz/IDEF0-SVG/tree/master/lib/idef0)

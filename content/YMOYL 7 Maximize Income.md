@@ -16,8 +16,7 @@ And when it comes to the thing you do for money, we should aim to make as much p
 
 > [!tldr] 👉 [[Financial Independence]] is about lifestyle design.
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 

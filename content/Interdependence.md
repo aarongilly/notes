@@ -26,8 +26,7 @@ High-tier effectiveness. Interdependence moves beyond the individual, to groups 
 
 *You catch fish for the whole team, I'll build the fire, and she'll set up our shelter.* 
 
----
-
+****
 ### Source
 - [[The 7 Habits of Highly Effective People]]
 

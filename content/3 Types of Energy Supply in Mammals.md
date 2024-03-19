@@ -23,7 +23,7 @@ Glycolysis breaks sugar down to give us back our ATP. This creates lactic acid, 
 
 Using oxygen to burn ATP (aerobic metabolism) creates more energy, but happens slower. **This is what** [[VO2 Max]]  **measures**. VO2 max you can increase by training, and it's the mechanism behind 80% of the energy supply if you run in a mile.
 
----
+****
 ### Source
 - [[Exercised]]
 - [January.ai](https://january.ai/blog/what-is-zone-2-cardio)

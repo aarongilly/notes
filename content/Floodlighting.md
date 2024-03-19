@@ -11,8 +11,7 @@ One response to [[Vulnerability ]]  is to just, immediately bare all our shames.
 
 The coin "Floodlighting" was coined by Brene Brown. She also referred to it as simply "oversharing". I like floodlighting better.
 
----
-
+****
 ### Source
 - [[Daring Greatly]]
 

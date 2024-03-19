@@ -17,8 +17,7 @@ Most people's approach to note-taking is similar to the approach that used to be
 
 A common format, approach, and location for your notes enables the system to grow indefinitely. The standard note can then become subject to a standard approach and process. The whole of the body of work can be indexed, retrieved, reviewed, and expanded upon. Thoughts are no longer lost to time and space. Connections can be drawn between nodes to strengthen the web, because they have a certain similarity. When everything looks and feels mostly the same in terms of presentation, the only thing left to take center stage is the content. The ideas. 
 
----
-
+****
 ### Source
 - [[Secondary Summary How to Take Smart Notes]]
 

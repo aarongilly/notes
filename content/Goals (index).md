@@ -15,7 +15,7 @@ summary: An index for goal-related topics
 ## Goal Philosophy
 - [[Goals Alone Don't Get Results]]
 
----
+****
 ### Source
 - 
 

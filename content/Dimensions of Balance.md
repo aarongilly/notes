@@ -22,8 +22,7 @@ When seeking [[Balance]] - there are (practically) infinitely many dimensions yo
 - Within exercise: the [[Facets of Fitness]]
 - Consumption and creation
 
----
-
+****
 ### Source
 
 ### Related

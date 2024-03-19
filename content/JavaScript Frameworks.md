@@ -12,8 +12,7 @@ There is another breed of tools that do their work before the code is shipped, a
 
 Not a *framework*, per say, but TypeScript is an entire *language* built around this concept. TypeScript is just JavaScript, with some added syntax to prevent errors, enhance tooling (enabling things like [[Code Auto-Documentation]]), and make it easier to scale JavaScript projects. What ultimately comes out the other side is just JavaScript.
 
----
-
+****
 ### Source
 
 ### Related

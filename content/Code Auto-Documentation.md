@@ -14,8 +14,7 @@ TypeDoc - [GoJS Documentation](https://gojs.net/latest/api/)
 
 ReDoc - [Oura API Documentation](https://api.ouraring.com/v2/docs#tag/Daily-Activity)
 
----
-
+****
 ### Source
 
 ### Related

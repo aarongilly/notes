@@ -17,7 +17,7 @@ The extent to which a component has a single purpose or function. High [[cohesio
 
 The best system is one that is “loosely-coupled and highly-cohesive”.
 
----
+****
 ### Source
 - [[Udacity Software Architecture Course]]
 

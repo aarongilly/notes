@@ -12,8 +12,7 @@ Pefectionism is the self-destructive and addictive belief system that fuels this
 
 Perfectionism is one of the [[Vulnerability Shields]] we carry around. We think it helps us be protected from damage, when in reality all it's really doing is weighing us down and making us paranoid.
 
----
-
+****
 ### Source
 - [[Daring Greatly]]
 

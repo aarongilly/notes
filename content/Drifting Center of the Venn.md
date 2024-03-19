@@ -14,8 +14,7 @@ The intersection of what we do well, what we want to do, and what we can be paid
 
 This practice can be a good addition to a [[Periodic Reviews]]. 
 
----
-
+****
 ### Source
 - [[Antifragile Planning (article)]]
 

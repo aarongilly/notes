@@ -16,8 +16,7 @@ tags:
 
 There is no panacea for behavior change. You have to look uniquely at your circumstances. What’s standing in your way? What’s stopping you? What might be an effective mitigation given the particulars of the situation? An example was used involving tennis legend who only truly got good once he started tailoring his game to his particular opponents weaknesses rather than continuing to focus on his own strengths.
 
----
-
+****
 ### Source
 - [[How To Change]]
 

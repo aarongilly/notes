@@ -12,8 +12,7 @@ In split brain patients, the speaking half of people’s brains would come up wi
 
 Your consciousness is a flashlight trying to find the dark in a dark room. 
 
----
-
+****
 ### Source
 - [[Stuff You Should Know]]
 

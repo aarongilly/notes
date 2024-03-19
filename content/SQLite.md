@@ -13,7 +13,7 @@ SQLite is [[Public Domain]], but the code is marked as "Open-Source, not Open-Co
 
 SQLite is used *everywhere*, according to Simon Willison, the guy behind Datasette.
 
----
+****
 ### Source
 - https://SQLite.org
 - ![datasette](https://youtu.be/l1EFThsAFgs)

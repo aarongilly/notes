@@ -12,8 +12,7 @@ It is the second half of the [[Clean and Jerk]] technique.
 
 It's related to, but different from the [[Power Lifting]] technique [[Overhead Press]]. See [[Jerk vs Press]] for that.
 
----
-
+****
 ### Source
 
 ### Related

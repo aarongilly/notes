@@ -9,7 +9,7 @@ Muscle growth probably happens more on the "down" (eccentric) portion of the mot
 
 In practice this has seemed to yield noticeable results. Or maybe it’s wishful thinking. 
 
----
+****
 ### Source
 - [Jeff Nippard video](https://youtu.be/71op1DQ2gyo?si=a5o7uCaQSqX6taM1)
 

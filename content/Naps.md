@@ -17,8 +17,7 @@ The trick a nap to get in and out before sleep inertia can kick in. Sleep inerti
 > [!tip] **An ideal nap:**
 Go to a designated napping spot. Set a timer for 25 minutes. Aim to sleep for 10-20 of those minutes. If possible, chug coffee RIGHT before and have a "Nappuccino".
 
----
-
+****
 ### Source
 - [[When (book)]]
 

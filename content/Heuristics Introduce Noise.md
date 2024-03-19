@@ -20,8 +20,7 @@ Failure to Regress to the Mean ([[Base Rates]])
 
 [[Excessive Coherence]] 
 
----
-
+****
 ### Source
 - [[Noise - A Flaw in Human Judgment]]
 

@@ -19,8 +19,7 @@ Habit 2 of the [[7 Effective Habits]]: Begin with the end in mind. Also about *h
 2. [[5 Why to Your Values]] 
 3. Come up with a [[Mission Statement]]. 
 
----
-
+****
 ### Source
 - [[The 7 Habits of Highly Effective People]]
 - [[Start with Why (source)]]

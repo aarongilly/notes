@@ -11,8 +11,7 @@ AI is going to be everywhere. It will only expand as technologies make it faster
 
 Deep mind pointed there AI at the game breakout and it tied itself to play with him within 1000 games perfectly. They had figured out how to break the game and win faster and more consistently than any human ever could.
 
----
-
+****
 ### Source
 - [[The Inevitable]]
 

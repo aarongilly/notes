@@ -8,8 +8,7 @@ tags:
 
 We have actual sense memory. The body holds into sensory input for some time, allowing the sensory input then to transition into short term memory.
 
----
-
+****
 ### Source
 - [[Keep Sharp]]
 

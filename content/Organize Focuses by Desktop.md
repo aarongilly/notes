@@ -12,7 +12,7 @@ Mac, Windows, and most Linux distos use a "virtual desktop" system. This allows 
 
 When you *do* switch, it is more intentional. It's more like a full context switch. 
 
----
+****
 ### Source
 ![https://youtu.be/R5i8alK5hPo](https://youtu.be/R5i8alK5hPo)
 

@@ -10,8 +10,7 @@ Your environment changes you. It changes who you are, how you think, how you act
 
 Small situational factors can change outcomes much more than any in-built traits of a person. The "Good Samaratin" experiment showed that whether or not a student in a study would stop to help someone who was showing signs of serious medical distress was whether or not that student had been told they were going to be late or early for a fake appointment they were walking to.
 
----
-
+****
 ### Source
 - [[Triggers]]
 - [[The Tipping Point]]

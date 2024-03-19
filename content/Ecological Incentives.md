@@ -12,8 +12,7 @@ We are not inclined to stop and be satisfied with anything. We need to push the 
 
 This is a case of the tragedy of the commons. 
 
----
-
+****
 ### Source
 - [[Homo Deus]]
 

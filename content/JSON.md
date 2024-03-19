@@ -24,8 +24,7 @@ JavaScript Object Notation (JSON) is a lightweight, tree-structured data storage
 
 - You cannot have an object that contains a reference to itself
 
----
-
+****
 ### Source
 
 ### Related

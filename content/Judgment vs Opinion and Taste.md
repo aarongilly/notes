@@ -11,8 +11,7 @@ Judgment, by definition, is something that we would aspire to have multiple peop
 
 Opinion and taste, as opposed to judgement, is where we expect and accept large variances in conclusions to endure.
 
----
-
+****
 ### Source
 - [[Noise - A Flaw in Human Judgment]]
 

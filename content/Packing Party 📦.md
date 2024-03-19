@@ -17,8 +17,7 @@ tags:
 
 A less radical minimalist technique is [[One In, One Out]].
 
----
-
+****
 ### Source
 - [The Minimalists](https://www.theminimalists.com/)
 

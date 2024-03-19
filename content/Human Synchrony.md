@@ -17,7 +17,7 @@ Military companies marching in formation, going through the same types of physic
 
 [[Rituals]] are a good means to manufacture synchrony among teams. This could be part of the benefit of the [[Scrum]] "ceremonies". 
 
----
+****
 ### Source
 - [[When (book)]]
 - [[The Extended Mind]]

@@ -14,8 +14,7 @@ Any prime number is co-prime with any other prime number, obviously. But any pri
 
 Numbers can be co-primes even if neither number is prime. 14 & 15 are co-prime because 14 has 1, 2, 7, and 14, which shares no factors (aside from 1) with 15’s 1, 3, 5 and 15. This is why 14/15ths is an irreducible fraction.
 
----
-
+****
 ### Source
 
 ### Related

@@ -13,8 +13,7 @@ Every problem in your life you are responsible for. **Even things that can't pos
 
 This gives you an internal [[Locus of Control]].
 
----
-
+****
 ### Source
 - [[The Subtle Art of Not Giving a F*ck]]
 

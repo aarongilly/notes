@@ -26,8 +26,7 @@ Deadlift is a barbell exercise in which the lifter, lifts a barbell from the gro
 
 It’s one of three exercises common to Power Lifting.
 
----
-
+****
 ### Source
 - [[Simple Science Fitness]]
 

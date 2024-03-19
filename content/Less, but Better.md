@@ -12,8 +12,7 @@ tags:
 
 This message is very similar to the core message of “Digital Minimalism” by Cal Newport, which is closer to “less *is* better”.
 
----
-
+****
 ### Source
 - [[Essentialism]]
 - [[Digital Minimalism]]

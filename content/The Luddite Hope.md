@@ -10,7 +10,7 @@ tags:
 
 The Luddite Hope is that it's possible to enjoy the benefits of non-zero-sum innovation without giving up predictability. Basically, they want to be able to plan for what future advances are reliably. It's not really true. [[AI Proliferation]] is happening. Deal with it.
 
----
+****
 ### Source
 - [[Antifragile Planning (article)]]
 

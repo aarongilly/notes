@@ -19,8 +19,7 @@ It's being copied by Microsoft.
 
 The closest thing to a Local version of Notion is probably [[Obsidian]].
 
----
-
+****
 ### Source
 
 ### Related

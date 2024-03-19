@@ -20,8 +20,7 @@ Forms of incentives:
 - Sales
 - Subsidies (like Tax Breaks)
 
----
-
+****
 ### Source
 
 [incentives - Google Search](https://www.google.com/search?q=incentives&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari)

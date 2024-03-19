@@ -13,7 +13,7 @@ Manual-only tracking - forgetfulness, laziness
 - Nightly review of automatically-tracked datapoints.
 - Logging 
 
----
+****
 ### Source
 - experience 
 ### Related

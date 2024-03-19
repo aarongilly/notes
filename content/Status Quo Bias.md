@@ -17,8 +17,7 @@ I've heard a story several times about a group of monkeys that illustrates the S
 
 The Status Quo Bias applied to hopes & plans for the future is related to the [[Sunk Cost Bias]]. 
 
----
-
+****
 ### Source
 
 ### Related

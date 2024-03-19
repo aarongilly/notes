@@ -14,8 +14,7 @@ A technique to increase your chance at engaging with good articles - don't pit r
 
 WIth Pocket you can also tag and highlight sections from the articles. This phase-based approach allows you to keep at front of mind [[What's Important Now]].
 
----
-
+****
 ### Source
 - [Mark Koester](http://www.markwk.com/2013/05/on-reading.html)
 

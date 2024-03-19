@@ -17,8 +17,7 @@ tags:
 9. Have a non-attachment to results
 10. Ask "What matters most?"
 
----
-
+****
 ### Source
 - [[10 Percent Happier|10% Happier]]
 

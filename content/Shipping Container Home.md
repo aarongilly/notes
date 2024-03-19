@@ -23,7 +23,7 @@ Every single advantage above has a massive caveat.
 
 **Recycling** - most shipping container homes are built using "one-way" containers. An easier way to recycle them would simply be to use them as shipping containers *again* to send stuff back the other way. Once a container isn't viable for use to ship stuff, people aren't really building houses out of it anyways. 
 
----
+****
 ### Source
 - [NPR](https://www.npr.org/2024/01/15/1223259540/shipping-container-building-environment)
 

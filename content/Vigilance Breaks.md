@@ -15,8 +15,7 @@ There's a standard break, in which you stop focusing on the task and hand and ta
 
 Then there's the Vigilance Break, in which you force yourself to stop and refer to a Standard Operating Procedure or checklist on a frequent and regular basis. These types of breaks are especially important in situations where the stakes are high for failure.   
 
----
-
+****
 ### Source
 - [[When (book)]]
 

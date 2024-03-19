@@ -14,8 +14,7 @@ Automation without review leads to incorrect data confounding your tracking.
 
 Manual-only tracking is more likely to result in missed data.
 
----
-
+****
 ### Source
 
 ### Related

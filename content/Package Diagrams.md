@@ -12,8 +12,7 @@ Package diagrams are high-level [[Namespace]] containers. They section off parts
 
 They’re also *boring*.
 
----
-
+****
 ### Source
 - [[SysML Distilled]]
 

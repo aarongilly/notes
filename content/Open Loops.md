@@ -14,8 +14,7 @@ Open loops are sometimes Projects in flight, sometimes areas laying in languish,
 
 Regardless, open loops are sources of stress. They can be overwhelming when they are not wrangled. Open Loop discovery is the point of a [[Mind Sweep]].
 
----
-
+****
 ### Source
 - [[Getting Things Done The Art of Stress-Free Productivity]]
 

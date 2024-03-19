@@ -10,8 +10,7 @@ TDEE is Total Daily Energy Expenditure - it is how many calories you expend on a
 
 Your TDEE is the number you should compare your caloric intake to for the purposes of controlling your weight.
 
----
-
+****
 ### Source
 - [[Exercised]]
 

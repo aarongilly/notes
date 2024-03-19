@@ -19,8 +19,7 @@ James Stuber suggests the existence of [[Type 2 Fun]] to describe feeling happy 
 
 Once you achieve your goals, you'll probably have new goals. You have to spend much of your days [[Living For Now]].
 
----
-
+****
 ### Source
 - [[Atomic Habits]]
 - [[Stillness is the Key]]

@@ -17,8 +17,7 @@ Typically the result of a Pareto Analysis is presented in a chart like this:
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Pareto_analysis)
 
----
-
+****
 ### Source
 
 [Pareto analysis](https://en.wikipedia.org/wiki/Pareto_analysis)

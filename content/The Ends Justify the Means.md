@@ -12,8 +12,7 @@ It’s caused tremendous suffering and loss for all of humanity. It’s also cer
 
 In the end, if you’re rationalizing “The ends justify the means” - you better ask yourself if you’re deluding yourself. Could you convince whoever is being wronged by ‘the means’?
 
----
-
+****
 ### Source
 
 ### Related

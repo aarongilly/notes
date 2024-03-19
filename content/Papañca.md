@@ -14,8 +14,7 @@ Papañca is the casting forward of the mind to the imagined worst-case scenario.
 
 - If I don't get this assignment in on time, I'll get fired. Since I'm fired then I'll lose all my money, lose the house. My wife will leave me.
 
----
-
+****
 ### Source
 - [[10% Happier]]
 

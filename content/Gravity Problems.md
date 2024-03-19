@@ -11,7 +11,7 @@ Some problems are like gravity. They are there. They aren't solvable. You are mu
 
 The music industry trying to fight against copying mp3 tracks lead to a massive downfall, before their embracement of copying (streams are streams of copied bits, after all) lead to a massive *********increase********* of revenue in the industry.
 
----
+****
 ### Source
 - [[Designing Your Life]]
 

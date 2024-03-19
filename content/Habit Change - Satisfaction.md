@@ -12,8 +12,7 @@ One common issue with good habits you can't seem to keep is that, while they set
 
 The inverse rule, to be used for bad habits is to make them unsatisfying (or downright painful). One good way to do this is to write up a Habit Contract with an accountability partner. It could be something like *“if I fail to track my macros any day in December, I will give my personal trainer $200 to use as he sees fit.”* There are applications and websites that can help you do this sort of thing.
 
----
-
+****
 ### Source
 - [[Atomic Habits]]
 

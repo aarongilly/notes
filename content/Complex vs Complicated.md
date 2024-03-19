@@ -11,8 +11,7 @@ Complicated and complex are not synonyms. Complicated things can be easy  Simple
 
 ![Untitled](Untitled%2081.png)
 
----
-
+****
 ### Source
 - 
 

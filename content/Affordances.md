@@ -12,8 +12,7 @@ Affordances are a way to [[Externalizing the Brain]].
 
 If you do a bit of pre-work you can use a series of affordances as a sort of [[Other Forms of Checklist]] 
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 

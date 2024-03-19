@@ -28,7 +28,7 @@ The idea is like the [[Jar of Rocks Issue]], there are too many rocks to fit int
 ## Counter-Argument
 This philosophy assumes you know yourself and what the world has to offer. You may not (and, in all likelihood, definitely won't) have *any* experience with those things that would turn out to be your new favorites. **Don't knock it till you've tried it.** 
 
----
+****
 ### Source
 - 
 

@@ -18,8 +18,7 @@ A pure bitmap (not compressed into any sort of compression format, like "jpeg" o
 
 Vector images are stored as lines of code. This is fundamentally different from the bitmap approach. A simple "[[SVG]]" file, when opened in a text-editor, can be pretty easily parsed by a human with some graph paper. Since mathematical formulas can describe continuous curves, you can infinitely zoom in or out on a Vector image and not lose fidelity. 
 
----
-
+****
 ### Source
 - [Vector art: What is vector art? | Adobe](https://www.adobe.com/creativecloud/illustration/discover/vector-art.html)
 

@@ -14,8 +14,7 @@ More than the “mirror someone’s body language” technique, a simple act of 
 - Repeat the key part of the message you heard, a couple words
 - SLOW DOWN
 
----
-
+****
 ### Source
 - [[Never Split the Difference]]
 

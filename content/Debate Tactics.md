@@ -13,7 +13,7 @@ Debating is [[Task Oriented, not Personal]]. Expert debaters make fewer better p
 
 Also don't use a straw man for an opponent's arguments. Use address their strongest argument, [[Finding Middle Ground]], and use [[Calibrated Questions]] to find where the debate can go. A good question is "what evidence would you need to see to change your opinion"?
 
----
+****
 ### Source
 - [[Think Again]]
 

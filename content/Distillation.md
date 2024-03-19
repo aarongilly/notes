@@ -11,7 +11,7 @@ summary: Cut the crap. Communicate well.
 
 [[IDEF0]] works well because it *forces* distillation. [[Use Visual Controls So No Issues Remain Hidden|Visual control]]s say what needs said in pictures.
 
----
+****
 ### Source
 - 
 

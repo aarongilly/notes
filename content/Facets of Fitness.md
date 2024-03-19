@@ -69,8 +69,7 @@ Per cited source spps.org
 
 **Stability** - how prone are you to injury, stability is about your stabilizers somewhat, but more so about ideal functional movement patterns. 
 
----
-
+****
 ### Source
 
 # Sources

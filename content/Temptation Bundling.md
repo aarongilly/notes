@@ -16,8 +16,7 @@ tags:
 - Watch a movie while getting your oil changed
 - Take your kid out to their favorite food place when you're going to the doctor
 
----
-
+****
 ### Source
 - [[Atomic Habits]]
 

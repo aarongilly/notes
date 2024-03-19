@@ -21,8 +21,7 @@ There is no "exactly right" way to do Atomic Notetaking. Keep thoughts small eno
 - Notes can be built like Lego into something bigger.
 - See [[Standardization Enables Creativity]]
 
----
-
+****
 ### Source
 - [Mark Koester](http://www.markwk.com/smart-notes.html)
 - [Zettelkasten: It's Like GTD for Writing and Here's Why You Should Consider It](https://writingcooperative.com/zettelkasten-its-like-gtd-for-writing-and-here-s-why-you-should-consider-it-7dddf02be394)

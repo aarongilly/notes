@@ -14,8 +14,7 @@ He built his shack. He farmed the land. He made due with few possessions.
 
 I read [[Walden]] It is tough. Honestly I didn’t pull much of interest out of it that i I didn’t hear distilled from other authors who referenced the work. He wrote about what we would call “keeping up with the Joneses”, about self reliance, and frankly also too much about the pond and surrounding forest.
 
----
-
+****
 ### Source
 - [[Walden]]
 

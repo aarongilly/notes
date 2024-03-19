@@ -12,8 +12,7 @@ The Sweet Spot is a reference to hitting a tennis ball in just the right spot of
 
 It’s an apt metaphor. 
 
----
-
+****
 ### Source
 - [[The Sweet Spot]]
 

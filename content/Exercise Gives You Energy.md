@@ -13,7 +13,7 @@ Exercise takes energy to do, but **it returns a higher baseline of energy**. You
 
 Exercise also helps regulate your mental and emotional well-being as well. You can complete the [[Stress Response Cycle]]. You can feel secure in knowing you're doing what you can to increase your [[Healthspan vs Lifespan|healthspan]].
 
----
+****
 ### Source
 - self
 

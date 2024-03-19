@@ -10,8 +10,7 @@ tags:
 
 It is not enough to understand the path to achieve your goals, you must actively and consistently walk that path. 
 
----
-
+****
 ### Source
 - [[Triggers]]
 

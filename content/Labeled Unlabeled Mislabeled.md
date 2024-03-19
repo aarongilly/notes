@@ -13,8 +13,7 @@ Unlabeled things are okay. Mislabeled things are not. They are truly lost. Worse
 
 If you find something that's mislabeled, and you don't know how it should be labeled, it's better to remove the label.
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 

@@ -11,8 +11,7 @@ tags:
 
 In both types of accounts, you can can take withdrawals of any contributions at any point without paying penalties. In order to *also* withdrawal the growth portion of the balance you must meet the requirements.
 
----
-
+****
 ### Source
 - [[Ultimate List of Tax-Advantaged Accounts]]
 

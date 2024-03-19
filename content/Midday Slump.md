@@ -27,8 +27,7 @@ There are significant effects of the mid-afternoon slump in hospitals everywhere
 - Schedule doctor's appointments, interviews, and collaborative meetings early, too.
 - Take breaks.
 
----
-
+****
 ### Source
 - [[When (book)]]
 

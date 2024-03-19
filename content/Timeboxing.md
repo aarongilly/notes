@@ -15,8 +15,7 @@ A Timeboxed schedule is what Cal Newport (author of [[Deep Work]]) credits for h
 
 The purpose of this is to combat perfectionism. It is a form of applying the [[Pareto Principle]] to achieve the vast majority of what needs to get done in the minimum amount of time. 
 
----
-
+****
 ### Source
 - [[Todoist Productivity Articles]]
 - [[The 4-Hour Work Week]]

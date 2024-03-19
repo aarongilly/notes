@@ -17,7 +17,7 @@ Stephen assigns numbers to the 4 quadrants of [[The Eisenhower Square]].
 
 Most of *"The 7 Habits of Highly Effective People"* is centered on quadrant two. That's where a lot of PC work lives ([[P-PC Balance]]). 
 
----
+****
 ### Source
 - [[The 7 Habits of Highly Effective People]]
 

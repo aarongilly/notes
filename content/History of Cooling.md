@@ -10,7 +10,7 @@ Ice blocks were literally cut out of lakes in the north and shipped to the south
 
 Ice blocks were being used to break the fever of malaria patients in a hospital in the south. When hurricanes destroyed the ice shipments, a doctor lost a lot of his patients. He sat out to make his own ice, and wound up eventually discovering and inventing the process of refrigeration. Unfortunately, he never really marketed his machine-made ice very effectively and died without having seen the success of his invention.
 
----
+****
 ### Source
 - [[How We Got to Now]]
 

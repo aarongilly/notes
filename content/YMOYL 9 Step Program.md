@@ -18,8 +18,7 @@ tags:
 8. [[YMOYL 8 Watch for FI]] 
 9. [[YMOYL 9 Invest Wisely]] 
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 

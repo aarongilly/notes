@@ -21,8 +21,7 @@ Abridged.
     - "D" - Detectability - how easy is it to tell if the failure mode is occurring?
 3. Consider the overall risk of each failure mode by taking "P"x"S", and consider "D". 
 
----
-
+****
 ### Source
 - [[Wikipedia]] 
 - [Failure mode and effects analysis - Wikipedia](https://en.wikipedia.org/wiki/Failure_mode_and_effects_analysis)

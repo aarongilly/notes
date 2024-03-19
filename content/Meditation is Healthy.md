@@ -17,8 +17,7 @@ Science has begun to take seriously the study of meditation. Early results (as r
 - Expanding (literally) the areas of your brain associated with compassion & self-awareness
 - Shutting up the voice in your head
 
----
-
+****
 ### Source
 - [[10% Happier]]
 

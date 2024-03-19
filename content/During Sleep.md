@@ -14,7 +14,7 @@ tags:
 - The brain is flushed of its waste.
 - The body heals
 
----
+****
 ### Source
 - [[The Organized Mind]]
 

@@ -12,8 +12,7 @@ The Japanese of Okinawa are the oldest living people in the world. This book att
 
 Work, volunteering, a passion project, and nurturing relationships are all good reasons to get out of bed in the morning.
 
----
-
+****
 ### Source
 - [[The Happiness Equation]]
 

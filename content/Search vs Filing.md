@@ -8,8 +8,7 @@ tags:
 
 Don’t spend more time filing and classifying than you’ll spend on searching for things.
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 

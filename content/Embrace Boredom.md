@@ -16,8 +16,7 @@ Many creative artists and scientists come after periods of idea drought and bore
 
 Boredom isn’t easy, but it is necessary. **Do not allow yourself to be constantly entertained and busy.** 
 
----
-
+****
 ### Source
 - [[Bored and Brilliant]]
 

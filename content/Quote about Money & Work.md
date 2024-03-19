@@ -15,8 +15,7 @@ The quote, though, was popularized by Chuck Palahniuk via his character Tyler Du
 
 > [!tldr] 🗣️ We buy things we don't need, to impress people we don't like. - Tyler Durden
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 - [Fight Club - Movie Quotes - Rotten Tomatoes](https://www.rottentomatoes.com/m/fight_club/quotes/)

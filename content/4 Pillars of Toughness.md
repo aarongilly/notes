@@ -16,7 +16,7 @@ Be [[Presence]]. Pay attention to your surroundings and your body. Consider your
 ## Transcend Discomfort 
 Don't judge feelings, don't ignore feelings. Recognize them. Accept them. Don't judge or try to change them. 
 
----
+****
 ### Source
 - [[Do Hard Things]]
 

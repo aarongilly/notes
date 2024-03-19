@@ -33,8 +33,7 @@ Habit Tracking is simply recording to some external resource the extent to which
 
 Note: this note was created to satisfy a Streak of "Engage with your notes" on my habit-tracking app. See. Results.
 
----
-
+****
 ### Source
 - [[Atomic Habits]]
 

@@ -9,7 +9,7 @@ People who talk with their hands are better at getting their points across to ot
 
 This has been incorporated into the training of various professors for subjects ranging from language to geology.
 
----
+****
 ### Source
 - [[The Extended Mind]]
 

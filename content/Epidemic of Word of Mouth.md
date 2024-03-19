@@ -21,8 +21,7 @@ Mavens are people who watch a given domain very carefully, and know how to sprea
 
 Some people are just more impactful at imprinting their desires onto those people around them. They do a better job of livening up a room when they're happy. The also do a better job of brining down the fun when they aren't. They are good salesmen.
 
----
-
+****
 ### Source
 - [[The Tipping Point]]
 

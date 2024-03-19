@@ -15,8 +15,7 @@ This can be manifest in writing an API or a sufficiently complicated function re
 
 Utilizing a Lack of Signal as a signal is an [[Error Trap]].
 
----
-
+****
 ### Source
 
 ### Related

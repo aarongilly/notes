@@ -19,7 +19,7 @@ Typically budgeting practices utilize budget ‘Categories’. There’s no ‘o
 
 Budgeting means that, because you'll always be a *little* worried about money, you'll never need to be **really** worried about money. It's a [[The Price of Security is Insecurity]] situation.
 
----
+****
 ### Source
 - [[Your Money or Your Life]]
 - [[Budget Boot Camp]]

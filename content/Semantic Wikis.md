@@ -38,8 +38,7 @@ To_Types: [Living Person, Dead Person]
 Subtypes: [Family]
 ```
 	
----
-
+****
 ### Source
 
 ### Related

@@ -42,8 +42,7 @@ After this 30 day period, your mind it should be free and clear to then begin re
 6. One small observation, try to notice something you would't have before
 7. Use intentional boredom as a method to help you brainstorm toward solving a problem
 
----
-
+****
 ### Source
 - [[Digital Minimalism]]
 - [[Bored and Brilliant]]

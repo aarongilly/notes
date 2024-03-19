@@ -22,8 +22,7 @@ Barbell put upon the shoulders, steadied by the hands. The body is lowered by th
 - Abs (indirect)
 - Spinal erectors
 
----
-
+****
 ### Source
 - [[Simple Science Fitness]]
 

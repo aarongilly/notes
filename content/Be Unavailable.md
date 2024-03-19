@@ -15,8 +15,7 @@ Create space for yourself to have focused time to think/work/be bored. If you ar
 - Leave your phone in the bottom of your bag
 - Have a dedicated block of time on your calendar ([[Time Blocking]])
 
----
-
+****
 ### Source
 - [[Essentialism]]
 - [[Deep Work]]

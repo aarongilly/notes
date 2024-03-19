@@ -12,7 +12,7 @@ tags:
 
 He actually goes on to say this is not a good enough way to think about SE, and describe [[Elegant Systems in SE]].
 
----
+****
 ### Source
 - [NASA Article](https://www.nasa.gov/sites/default/files/atoms/files/3_griffin_how_do_we_fix_systems_engineering.pdf)
 

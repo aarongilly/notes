@@ -12,7 +12,7 @@ tags:
 
 A fleet of 1000 drones, each costing $1M could probably consistently outfight a battleship costing multiple billions. Small numbers of large, expensive platforms will lose against large numbers of more modestly priced intelligent, mostly autonomous machines.
 
----
+****
 ### Source
 - [[The Kill Chain (book)]]
 

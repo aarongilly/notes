@@ -9,7 +9,7 @@ An evocative way to [[Simplicity]] is good - the phrase "**worse is better**" ca
 
 In reality, it's usually better to do one thing, and do it well. ***That doesn't mean do one thing, and include all possible hypothetical features of that thing.*** It's okay, and perhaps *better*, to let it "feel" worse. 
 
----
+****
 ### Source
 - Wikipedia article "worse is better"
 

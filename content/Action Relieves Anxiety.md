@@ -14,7 +14,7 @@ tags:
 > Action relieves [[anxiety]].
 > - James Clear
 
----
+****
 ### Source
 
 - [3-2-1: On compliments, inversion, and the importance of high standards | James Clear](https://jamesclear.com/3-2-1/september-24-2020)

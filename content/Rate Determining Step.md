@@ -15,7 +15,7 @@ Rate Determining Steps have the property that increasing their efficacy similarl
 - Your arithmetic when learning higher math concepts
 - The one toaster that is used for all the sandwiches
 
----
+****
 ### Source
 - [[Ultralearning]]
 

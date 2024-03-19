@@ -8,7 +8,7 @@ aliases:
 
 The system & governance of deciding which IT and business projects should be pursued, do to their alignment with local and company-wide objectives. This allows long-term project planning, short term project selection to be guided by the [[Enterprise Architecture]].
 
----
+****
 ### Source
 - [[Enterprise Architecture as a Strategy]]
 

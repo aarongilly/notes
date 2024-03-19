@@ -25,8 +25,7 @@ tags:
 
 IMB does not exist anywhere. If you burned down all their buildings and murdered their entire body of workers, IBM could hire new people, build new buildings. Likewise, IBM could be absolved as a company and stop existing in the present, without a single physical thing happening (aside from someone in a position of authority deeming it so).
 
----
-
+****
 ### Source
 - [[Sapiens]]
 

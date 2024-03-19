@@ -11,8 +11,7 @@ The "broken windows" theory of policing says that obvious signs that rules are o
 
 This can be applied at the personal level for upholding your values. Fight at the margins and you'll never have to fight at the core. 
 
----
-
+****
 ### Source
 - [[The Tipping Point]]
 

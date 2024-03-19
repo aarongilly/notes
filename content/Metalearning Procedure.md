@@ -20,7 +20,7 @@ Ask yourself (in order) why, what, and how.
 
 You should spend about 10% of the total time you have to learn a thing doing metalearning, establishing the roadmap for how you'll learn it. Heavily front-loaded, but also return to it periodically, especially when progress is slow.
 
----
+****
 ### Source
 - [[Ultralearning]]
 

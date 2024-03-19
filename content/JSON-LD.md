@@ -15,8 +15,7 @@ This is how things like Google’s Knowledge Graph works. How Alexa and Siri get
 
 It is a JSON-based serialization for [[Resource Description Framework|RDF]].
 
----
-
+****
 ### Source
 
 [JSON-LD - Wikipedia](https://en.wikipedia.org/wiki/JSON-LD)

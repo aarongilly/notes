@@ -16,8 +16,7 @@ An Error Trap is an existing deficiency in a system, process, or product that ma
 - Using [[Lack of Signal is a Bad Signal]]as a signal
 - Having disconnected dependencies of any time, really
 
----
-
+****
 ### Source
 
 ### Related

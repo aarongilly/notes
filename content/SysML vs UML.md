@@ -34,8 +34,7 @@ Use Case Diagram (same)
 
 Activity Diagram (modified)
 
----
-
+****
 ### Source
 
 ### Related

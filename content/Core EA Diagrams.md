@@ -45,7 +45,7 @@ Delta Airline's Core Business Processes are:
 > - The graphic is vague
 > - The graphic doesn't spur action, context is still needed
 
----
+****
 ### Source
 - [[Enterprise Architecture as a Strategy]]
 

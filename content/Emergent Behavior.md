@@ -20,7 +20,7 @@ Emergence is a **macro-level** property of systems, in particular [[System Compl
 
 Emergence is ultimately what we're going for when we create systems. The types of emergence we "expect" and design the system to accomplish are called *simple emergence*. There are, however, often (or always) *unexpected* emergences, called **strong emergence**. These can be difficult-to-impossible to predict and can be catastrophic. [[Iteration is the Only Effective Method of Controlling Emergence]].
 
----
+****
 ### Source
 - [[Systems Engineering Book of Knowledge]]
 

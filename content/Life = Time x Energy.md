@@ -16,8 +16,7 @@ The things I remember (which, I guess, is me using a heuristic already) are the 
 
 This equation only represents 2 of the fundamental [[3 Personal Resources]].
 
----
-
+****
 ### Source
 
 ### Related

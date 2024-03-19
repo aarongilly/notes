@@ -18,8 +18,7 @@ State Taxes are also independent of that.
 
 You should expect to see varying withholdings from your pay stubs for each.
 
----
-
+****
 ### Source
 
 ### Related

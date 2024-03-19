@@ -11,8 +11,7 @@ Budgeting is like dieting. Subject to the same failure mechanisms. It’s imposi
 
 It's better to make a lifestyle-change than to insert any sort of "sprint". You're more successful with less strict budgets/diets that can be sustained over great time periods, rather than strict ones that are due to fail. Consider [[Minimum Viable Progress]] and [[Prefer a Long-Term Philosophy]].
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 

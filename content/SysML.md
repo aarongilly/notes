@@ -86,8 +86,7 @@ SysML is not software-specific, but it's well-supported by multiple software pac
 - Visual Paradigm - available for free
 - [[Mermaid]] & [[PlantUML]] - neither are truly SysML, but capable of drawing many graphs from SysML
 
----
-
+****
 ### Source
 - [[SysML Distilled]]
 - [[MIT 16 842 Fundamentals of Systems Engineering MIT Course]]

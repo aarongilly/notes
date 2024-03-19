@@ -11,8 +11,7 @@ Socrates, Seneca, and many more famous thinkers thought the proliferation of boo
 
 Imagine how they’d think today. 
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 

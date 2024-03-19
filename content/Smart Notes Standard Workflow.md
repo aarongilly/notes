@@ -29,8 +29,7 @@ The recommended workflow, plus my specific implementation
 8. Edit, proofread, and publish.
 		Turn into a Column or a Gillespedia article
 
----
-
+****
 ### Source
 - [[How to Take Smart Notes]]
 

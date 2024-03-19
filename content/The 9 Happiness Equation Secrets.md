@@ -16,8 +16,7 @@ tags:
 8. Be you
 9. Don't take advice
 
----
-
+****
 ### Source
 - [[The Happiness Equation]]
 

@@ -18,8 +18,7 @@ The four tendencies fall into a punnet square pattern about their tendency to up
 
 These are basically in-born and unchanging tendencies.
 
----
-
+****
 ### Source
 - [[Better Than Before]]
 

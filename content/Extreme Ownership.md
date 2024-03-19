@@ -14,8 +14,7 @@ Extreme Ownership means taking every possible action to ensure the success of th
 
 That means holding a high level of performance standard. It means getting tough on underachievers. It means enabling those who seek to do their part to do it as effectively as possible. It means hearing feedback and taking problems into consideration. It means running the failures down and implementing change such that those failures never repeat. It means ensuring your team feels the same way about their portion of the mission.
 
----
-
+****
 ### Source
 - [[Extreme Ownership (book)]]
 

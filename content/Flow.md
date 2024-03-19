@@ -13,8 +13,7 @@ In her book "*Grit*" Angela Duckworth says people with high levels of [[Grit]] w
 
 In his book "*[[Atomic Habits]]*" James Clear says you find flow by working at the [[Edge of Capability]].  
 
----
-
+****
 ### Source
 - [[Grit (book)]]
 - [[Atomic Habits]]

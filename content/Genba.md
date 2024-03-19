@@ -12,8 +12,7 @@ One of the facets of [[The Toyota Way]], a “Genba” (or sometimes “Gemba”
 
 > [!tldr] 👉🏻 Go see for yourself.
 
----
-
+****
 ### Source
 
 ### Related

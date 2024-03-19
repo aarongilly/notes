@@ -9,8 +9,7 @@ tags:
 
 Nobody knows what causes asthma. It’s mostly prevalent in the West, in cities, and in children. Most people who have it spontaneously grow out of it.
 
----
-
+****
 ### Source
 - [[The Body]]
 

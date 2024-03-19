@@ -10,8 +10,7 @@ We love naturals. Intuitively, we tend to prefer the person for whom achievement
 
 Be aware of this bias, and that it might lead to suboptimal choices when picking out partners, teammates, or other such things.
 
----
-
+****
 ### Source
 - [[Grit (book)]]
 

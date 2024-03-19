@@ -28,8 +28,7 @@ Start with high-weight, low-rep. Move toward low-weight, high-rep.
 
 Good for strength development.
 
----
-
+****
 ### Source
 
 ### Related

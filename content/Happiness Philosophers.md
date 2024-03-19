@@ -18,8 +18,7 @@ The Buddhists say pleasure and pain are both fleeting and therefore meaningless 
 
 [[Jeremy Bentham & Happiness]]
 
----
-
+****
 ### Source
 - [[Homo Deus]]
 

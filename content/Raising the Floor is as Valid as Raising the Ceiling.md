@@ -10,7 +10,7 @@ When we train, we are often most focused on raising the ceiling of our abilities
 
 This is also what happens when you [[Compare Yourself to Your Average]].
 
----
+****
 ### Source
 - [[Do Hard Things]]
 

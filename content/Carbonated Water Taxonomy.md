@@ -12,7 +12,7 @@ Basically boils down to how the water is carbonated and what minerals are put in
 **Sparkling mineral water** - is naturally carbonated
 **Tonic** - contains a chemical called quinine that is bitter
 
----
+****
 ### Source
 - [Healthline](https://www.healthline.com/nutrition/club-soda-vs-seltzer#similarities)
 

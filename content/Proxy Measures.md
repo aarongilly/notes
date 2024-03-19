@@ -26,8 +26,7 @@ Proxy measures can be either [[Leading Measures]] or [[Lagging Measures]].
     - Proxy gap: assumes a relatively even distribution of wealth. If the entire GDP is earned by one person and everyone else in the country makes nothing.
 - Dates or arguments as proxy measures for how well a relationship is going
 
----
-
+****
 ### Source
 - 
 

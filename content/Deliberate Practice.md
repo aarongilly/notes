@@ -13,8 +13,7 @@ Angela Duckworth's "*Grit"* endorses Deliberate Practice. This it has in common 
 
 Making Deliberate Practice into a Habit is a good way to ensure steady and long-term progress toward whatever skill you hone. 
 
----
-
+****
 ### Source
 - [[Grit (book)]]
 

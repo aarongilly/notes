@@ -10,8 +10,7 @@ Cognitive Closure is the desire for sure things & unambiguous results. This *can
 
 If you're overly focused on being productive, you can push through and do things that don't actually help you in the long run in the name of cognitive closure. Making a mistake just to get something done is still making a mistake. This is [[Majoring in Minor Work]]. You can avoid the big but important tasks to instead [[focus]] on the menial but easy ones. (See: [[Parkinson's Law of Triviality]]).
 
----
-
+****
 ### Source
 - [[Smarter, Faster, Better]]
 - [https://www.midss.org/sites/default/files/need_for_closure_scale.pdf](https://www.midss.org/sites/default/files/need_for_closure_scale.pdf)

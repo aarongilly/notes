@@ -15,8 +15,7 @@ This a colorization of Google Maps from the area around Dillions near my house:
 
 ![Untitled](Untitled%2016.png)
 
----
-
+****
 ### Source
 
 [The Automobile Shapes The City: The"Footprint"of the Automobile on the American City](http://autolife.umd.umich.edu/Environment/E_Casestudy/E_casestudy2.htm)

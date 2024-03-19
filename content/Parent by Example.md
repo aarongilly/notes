@@ -17,8 +17,7 @@ Who we are and how we engage with the world are much stronger predictors of how 
 
 You shouldn't try to take pain away from your child's life. It's a full part of living. You should be there empathetically to help them learn to feel it and know that failure and pain and sadness are temporary.
 
----
-
+****
 ### Source
 - [[Daring Greatly]]
 

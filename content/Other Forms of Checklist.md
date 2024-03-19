@@ -21,8 +21,7 @@ A template is essentially a checklist that includes structure and some starting 
 
 Gantt Charts (and, more generally, schedules) are checklists of tasks to be completed in a certain order. Their graphical depiction may be very different from a simple checklist, but that’s essentially how they function.
 
----
-
+****
 ### Source
 
 ### Related

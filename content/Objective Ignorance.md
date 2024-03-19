@@ -11,8 +11,7 @@ We often under appreciate how low the ceiling is in terms of our ability to pred
 
 Expert predictors are often grossly wrong about the level of objective ignorance that exists in their domain of expertise.
 
----
-
+****
 ### Source
 - [[Noise - A Flaw in Human Judgment]]
 

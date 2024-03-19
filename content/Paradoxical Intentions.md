@@ -11,7 +11,7 @@ A man who had chronic perspiration was told to try to perspire as much as he pos
 
 This too is why you cannot expect good results when you try to "force" certain things. If you FORCE trying to relax, it's impossible. You cannot will yourself to sleep. You're actually more likely to fall asleep faster if you lie there trying to stay awake (minus your phone).
 
----
+****
 ### Source
 - [[Man's Search for Meaning]]
 

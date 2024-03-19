@@ -30,8 +30,7 @@ If it’s a subject, teach it.
 
 If it’s an idea, write about it.
 
----
-
+****
 ### Source
 - [[How to Take Smart Notes]]
 

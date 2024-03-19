@@ -9,8 +9,7 @@ tags:
 
 A foreign key is just a [[Primary Key]] from a different table.
 
----
-
+****
 ### Source
 
 ### Related

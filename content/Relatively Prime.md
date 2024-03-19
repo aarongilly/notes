@@ -12,7 +12,7 @@ No number other than "1" is shared. Therefore they are, by definition, *relative
 
 9 and 27 are **not** relatively prime, because their [[Greatest Common Factor]] is > 1 (it's 3).
 
----
+****
 ### Source
 - [This page](https://www.splashlearn.com/math-vocabulary/relatively-prime)
 

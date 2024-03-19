@@ -10,8 +10,7 @@ The experience of losing $10 is more painful than the joy of finding $10. This i
 
 > [!tldr] ➡️ **Curve of Indifference**: losing $10 you already have hurts about the same as a missed opportunity for a free $20.
 
----
-
+****
 ### Source
 - [[Thinking Fast and Slow]]
 

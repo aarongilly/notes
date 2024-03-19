@@ -39,8 +39,7 @@ An example of this would be facts about your pool kept in a personal inventory d
 
 Procedure notes describe how to perform a procedure. They are templates for behavior. They do not contain any Logs or Project Notes for individual Activations of a activity, instead they describe the activity itself, how it’s performed, and should contain links to appropriate resources to aid in carrying out the activity. [[Checklists]] are distilled procedure notes.
 
----
-
+****
 ### Sources
 - Myself, firstly
 - [[The Plain Text Life]]

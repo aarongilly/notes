@@ -21,8 +21,7 @@ You need people to feel safe, but also feel like they can speak up and disagree.
 
 Lorne Michaels didn't want "no I in team"... he wanted a team full of "I"s, where nobody's particular quirks are lost to the group. Lorne Michaels treats everyone differently. He wants to preserve the individual. Get different people with different styles bumping into each other. This is what Steven Covey called [[Diversity]] 
 
----
-
+****
 ### Source
 - [[Smarter, Faster, Better]]
 

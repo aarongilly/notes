@@ -9,8 +9,7 @@ tags:
 
 Even if artificially intelligent machines might be a looming existential threat... How can you not develop artificially intelligent weapons? If you don't, your adversaries will - and then they'll have all the power. It's the [[The Prisoner's Dilemma]]. Technology cannot be banned, it can only be explored.
 
----
-
+****
 ### Source
 - [[The Sentiment Machine]]
 

@@ -11,7 +11,7 @@ Feedback is key to learning. Experiments are basically just an artificial constr
 
 For conceptual learning or memorization, feedback should be immediate, but not *so* immediate that it takes away some of the [[Desired Difficulty]] in trying to struggle through the problem or perform [[Retrieval]]. Looking at the answer too quickly will rob you of the chance to struggle through it, and give you the [[Cognitive Closure]] of having "felt" like you knew what it was simply due to the [[Mere Exposure Effect]].
 
----
+****
 ### Source
 - [[Think Like a Freak]]
 - [[Ultralearning]]

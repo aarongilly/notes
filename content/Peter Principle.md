@@ -8,7 +8,7 @@ The Peter Principle states that people who are high performers will be promoted 
 
 This feels like one of the [[System Traps]]... although it's not listed.
 
----
+****
 ### Source
 - Google
 

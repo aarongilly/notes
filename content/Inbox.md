@@ -19,8 +19,7 @@ Inboxes can be of multiple forms, and you may have many. If you have multiple, y
 - Your task managers "inbox" or top-level
 - A physical box on your desk
 
----
-
+****
 ### Source
 - [[Getting Things Done The Art of Stress-Free Productivity]]
 

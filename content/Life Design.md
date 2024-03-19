@@ -16,7 +16,7 @@ A good [[Personal MOS]] will enable consistent progress on [[Prefer a Long-Term 
 It's good to establish **macro-level** situations where you can respond to **micro-level** needs and wants. This allows you to ask yourself [[What is this Situation Asking of Me]]?
 	*Example:* 
 	[[Intermittent Collaboration]] is the best way to innovate and be productive. It relies on being in situations that facilitate collaboration AND situations that enable solitary thought/experimentation.
----
+****
 ### Source
 - self
 

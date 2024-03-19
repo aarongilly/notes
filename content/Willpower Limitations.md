@@ -12,7 +12,7 @@ The concept of "ego depletion" was coined during an initial study into people's 
 - pain - physical and emotional pain
 - **distraction** - being distracted makes you LESS LIKELY to have the willpower to do what needs doing
 
----
+****
 ### Source
 - [[Huberman Labs]]
 

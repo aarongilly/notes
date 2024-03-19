@@ -16,8 +16,7 @@ The remembering self is **influenced by peak intensity and final intensity** wit
 
 Studies showed that students would prefer subjecting themselves to the longer, more painful experience of having their hand in ice for a minute, then having warm water mixed in with the ice (unknown to them), rather than having their hand in ice for 45 seconds and being able to pull it out immediately.
 
----
-
+****
 ### Source
 - [[Thinking Fast and Slow]]
 

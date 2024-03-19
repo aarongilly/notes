@@ -34,7 +34,7 @@ Callouts don't need a body, but they can have them... and they are toggle-able!
 
 >[!cite] quote, cite
 
----
+****
 ### Source
 - [Obsidian Docs](https://help.obsidian.md/Editing+and+formatting/Callouts#Supported+types)
 ### Related

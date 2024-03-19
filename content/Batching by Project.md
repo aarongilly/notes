@@ -12,8 +12,7 @@ When [[Task Batching]], you don't have to limit it to doing emails all at one ch
 - enables [[Increased Focus, Decreased Anxiety]]
 - allows you to see progress much more clearly.
 
----
-
+****
 ### Source
 
 [https://youtu.be/R5i8alK5hPo](https://youtu.be/R5i8alK5hPo)

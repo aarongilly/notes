@@ -25,7 +25,7 @@ Glass is silicon dioxide. It formed naturally out in a desert somehow long ago. 
 1. Glass strands are found to be incredibly strong → fiberglass is created
 2. Ultra-clear glass + glass strands → Fiber-optic cables are possible & transcontinental internet is possible
 
----
+****
 ### Source
 - [[How We Got to Now]]
 

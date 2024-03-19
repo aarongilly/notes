@@ -21,8 +21,7 @@ Writing is the best way to think, read, learn, understand, and generate ideas. N
 
 **Writing provides the external scaffolding on which the mind can build over time.**
 
----
-
+****
 ### Source
 - [[Secondary Summary How to Take Smart Notes]]
 - [[How to Take Smart Notes]]

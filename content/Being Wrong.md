@@ -14,8 +14,7 @@ There's nothing wrong being *wrong*. There **is** something wrong with not being
 
 You can be confident and admit ignorance. You can be both wrong and smart at the same time. 
 
----
-
+****
 ### Source
 
 ### Related

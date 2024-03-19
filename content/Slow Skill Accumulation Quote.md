@@ -12,8 +12,7 @@ Talking to somebody two or levels above you is a different story. They're barely
 Somebody three levels above is actually speaking a different language. They probably seem less impressive to you than the person two levels above, because most of what they're thinking about is completely invisible to you. From where you are, it is not possible to imagine what they think about, or why. You might think you can, but this is only because they know how to tell entertaining stories. Any one of these stories probably contains enough wisdom to get you halfway to your next level if you put in enough time thinking about it. - man_after_midnight on Reddit
 > 
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 

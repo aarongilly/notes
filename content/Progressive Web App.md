@@ -7,7 +7,7 @@ tags: [coding]
 
 Progressive Web Apps are an internet standard. I haven't used them yet, but know they involve a manifest file and a tiny bit more overhead to work within their framework.
 
----
+****
 ### Source
 - 
 

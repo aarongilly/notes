@@ -8,8 +8,7 @@ tags:
 
 Buddha says you don't have to accept your criticism. Their criticism lay with them. You need not accept it.
 
----
-
+****
 ### Source
 - [[The Happiness Equation]]
 

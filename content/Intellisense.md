@@ -12,8 +12,7 @@ Use [[JSDoc]] and/or [[TypeScript]] to super-power your intellisense.
 
 Intellisense is part of what makes [[Interface Object-Oriented Definition]] usage so handy.
 
----
-
+****
 ### Source
 
 ### Related

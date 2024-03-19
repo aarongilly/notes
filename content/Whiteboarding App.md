@@ -1,6 +1,5 @@
 ---
 created: 2024-02-24
-created:
 tags:
   - notetaking
   - systemdesign

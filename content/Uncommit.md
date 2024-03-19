@@ -15,8 +15,7 @@ Admit failure to begin success.
 
 Beware the [[Status Quo Bias]]. Example: When looking at budgets, apply [[  Zero-Based Budgeting  ]]. You don't carry over debts and commitments from previous periods. Start from zero. You have to choose to recommit. You are free to choose the best option, not the best option *left*.
 
----
-
+****
 ### Source
 - [[Essentialism]]
 

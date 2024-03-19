@@ -16,8 +16,7 @@ Distracting non-rabbit holes? Try some of the following - for ~1 to 2 minutes:
 - Can you smell anything? Can you still taste the last thing you ate/drank?
 - Get moving: go for a walk. Do some pushups.
 
----
-
+****
 ### Source
 
 ### Related

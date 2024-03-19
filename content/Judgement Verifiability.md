@@ -23,8 +23,7 @@ Some judgments are verifiable like a prediction of how much rain will fall. Othe
 - Which solution to a problem should we use?
 - What punishment should be selected for a crime?
 
----
-
+****
 ### Source
 - [[Noise - A Flaw in Human Judgment]]
 

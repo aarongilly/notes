@@ -14,7 +14,7 @@ It has built-in support for [[Mermaid]], and a great [[Excalidraw]] plug-in.
 
 It has over 1000 plug-ins, including the incredible [[Dataview Plug-in]] (which should become a standard part of Obsidian, really). Although I decided to [[Only Use Obsidian Plug-ins That Retain Portability]]. 
 
----
+****
 ### Source
 - 
 

@@ -13,8 +13,7 @@ While some physical barriers are genuine, many of the things that hold us back f
 
 > [!tldr] If you set out to do 10 pushups, you feel tired after 8 or 9. If you set out to do 20 pushups, you blow right by 8 or 9 without thinking about it or feeling the fatigue.
 
----
-
+****
 ### Source
 - [[Think Like a Freak]]
 

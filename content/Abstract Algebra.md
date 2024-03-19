@@ -19,7 +19,7 @@ Adding complex numbers slides the complex plane up or down (up for i, down for -
 
 Multiplying complex numbers rotates the complex plane about the origin. Clockwise for i, counterclockwise for -i. "how much" it's rotated, I don't fully grasp, but its in radians as you might expect.
 
----
+****
 ### Source
 - [[3Blue1Brown YouTube Channel]]
 

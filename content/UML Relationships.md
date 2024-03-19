@@ -9,7 +9,7 @@ tags: [modeling]
 3 Main Kinds - Dependency, Associations, and Generalizations.
 ![[Pasted image 20230710173849.png]]
 
----
+****
 ### Source
 - 
 

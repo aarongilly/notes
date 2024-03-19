@@ -15,8 +15,7 @@ They carry some semantic meaning, but not much. They, however, can provide great
 
 The smiley face :-) was invented as a suggestion to prevent sarcastic messages from being taken seriously. 
 
----
-
+****
 ### Source
 - [[Because Internet]]
 

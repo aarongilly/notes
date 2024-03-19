@@ -11,7 +11,7 @@ The [[PARA Method]] of organization is like a kitchen. Archives are like your fr
 
 > [!note] Notetaking is like time travel - you are sending packets of knowledge through time to your future self.
 
----
+****
 ### Source
 - [[Building A Second Brain]]
 ### Related

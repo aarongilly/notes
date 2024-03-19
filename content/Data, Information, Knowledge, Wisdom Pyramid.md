@@ -41,7 +41,7 @@ I sleep in an hour and a half later on the weekends than I do the weekdays.
 Perhaps this should say "I shouldn't stay up so late on Fri & Sat"
 ![[Pasted image 20240128203730.png]]
 
----
+****
 ### Source
 - [Wikipedia](https://en.wikipedia.org/wiki/DIKW_pyramid)
 

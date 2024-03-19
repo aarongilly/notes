@@ -48,7 +48,7 @@ Control events, which seem like an arbitrary distinction from my perspective
 ## 4. Do the Rest
 Go on from there to decompose the Context Diagram, model out the responses to the event list. There's several directions to go, depending on the language (or potentially [[Enterprise Architecture Frameworks]]) selected.
 
----
+****
 ### Source
 - [[Just Enough Structured Analysis]]
 

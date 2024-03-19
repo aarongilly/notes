@@ -25,7 +25,7 @@ It natively supports tracking:
 	- O2 level
 	- [[VO2 Max]] & Cardiovascular fitness
 
----
+****
 ### Source
 - Self
 

@@ -23,8 +23,7 @@ The default versioning method in npm. Version numbers mean something!
 - **PATCH** - Increment this when you're doing bugfixes (and bugfixes shall be backwards-compatible)
     - Prefixing dependencies with "~" allows npm to use the most recent PATCH release
 
----
-
+****
 ### Source
 - [[freeCodeCamp]]
 

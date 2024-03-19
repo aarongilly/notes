@@ -13,7 +13,7 @@ Put another way: **predicting future Emergence requires hindsight.**
 
 > [!caution] If you don't expect to fail, then you will.
 
----
+****
 ### Source
 - [[Systems Engineering Book of Knowledge|SEBoK]]
 - Life.

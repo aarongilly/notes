@@ -11,8 +11,7 @@ The easiest way to say nothing interesting is to put on your horse blinders and 
 
 You shouldn't choose what to include in your research and your body of notes based off how well it fits into a pretty picture painted by your own [[confirmation bias]]. You should pick out what makes the cut solely on the basis of "does this add to the discussion?"
 
----
-
+****
 ### Source
 - [[Secondary Summary How to Take Smart Notes]]
 

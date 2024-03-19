@@ -9,8 +9,7 @@ tags:
 
 Make an income vs expenses chart. By month. Hang it someplace prominent. This chart became the subject of much focus later.
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 

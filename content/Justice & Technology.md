@@ -12,8 +12,7 @@ One of the core principles of the criminal justice system in America is that we'
 
 Models and big data have shifted the focus of the judicial system and the justice system from one that places a high priority on *fairness*, the one that place is a high priority on *efficacy*. The shift an attitude is equivalent to saying we would be okay with hassling a bunch of innocent people if it meant catching a couple of more guilty ones, whereas the theory of our justice system historically have been letting a couple of guilty people get away to ensure that we never wrongfully punish an innocent one. I like this perspective, highlighting how metrics (like arrest numbers) can lead to unintended (and sometimes unnoticed) consequences.
 
----
-
+****
 ### Source
 - [[Weapons of Math Destruction]]
 

@@ -10,8 +10,7 @@ To be organized, you need a place to put the things you need to do. Open Actions
 
 Your [[Inbox]] is just one type of open action list. Task managers are specially designed to be useful for dealing with Open Action Lists.
 
----
-
+****
 ### Source
 - [[Getting Things Done The Art of Stress Free Productivity]]
 

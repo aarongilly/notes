@@ -15,8 +15,7 @@ tags:
 
 A ten minute task will take an hour if that’s the amount of time that was given. I think the reverse implication is also true. Due to the [[Law of Diminishing Returns]] , a task that truly takes an hour may be more than 10% done if you’re only given 6 minutes to complete it. 
 
----
-
+****
 ### Source
 
 ### Related

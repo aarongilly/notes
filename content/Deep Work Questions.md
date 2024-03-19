@@ -13,8 +13,7 @@ tags:
 
 Per Cal Newport - If the answer to any of these questions is no, deprioritize or delegate as much as possible
 
----
-
+****
 ### Source
 - [[Deep Work]]
 

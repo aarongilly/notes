@@ -9,8 +9,7 @@ tags:
 
 Goal setting is good, but systems should be the real focus. **Setting goals is not the determining factor for whether you achieve them.** People who succeed and people who fail to win a race all set the same goal (to win it). Setting goals doesn't not cause them to be achieved nearly as much as setting the systems in place to achieve them.
 
----
-
+****
 ### Source
 - [[Atomic Habits]]
 

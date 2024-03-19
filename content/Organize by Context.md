@@ -16,8 +16,7 @@ Categorizing everything into a hierarchical set of ever-more-finely-grained topi
 - Don't keep a single repository of all the m[[Checklists]] you may use - create a distributed network of checklists that lay near the starting point of each. You can keep a single repository of pointers to these starting points (this is my [[Master List]])
 - Utilization of context-based reminders in notetaking or to-do apps. Have your shopping list automatically pop up when you're at the store is better than having to go get it. Time-based reminders work better than your memory.
 
----
-
+****
 ### Source
 - [[Secondary Summary How to Take Smart Notes]]
 

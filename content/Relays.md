@@ -10,8 +10,7 @@ Relays allow a small digital circuit from something like a microprocessor to eff
 
 They are necessary when driving actuators, motors, etc from things like an Arduino. 
 
----
-
+****
 ### Source
 - [[Playful Technology]]
 

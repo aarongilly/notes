@@ -13,8 +13,7 @@ Some task applications natively support this approach. Things 3, for example, ha
 
 Due dates I care to see on the day. Deadlines I care to see in advance, probably up to a week.
 
----
-
+****
 ### Source
 
 ### Related

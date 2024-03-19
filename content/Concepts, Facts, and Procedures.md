@@ -16,7 +16,7 @@ You can learn conceptual things, simple facts, or the procedure of how it feels 
 - **Facts** - memorization and [[Spaced Repetition]] 
 - **Procedures** - drills, [[Deliberate Practice]]
 
----
+****
 ### Source
 - [[Ultralearning]]
 

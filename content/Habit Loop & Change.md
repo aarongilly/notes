@@ -32,8 +32,7 @@ Make it immediately satisfying to perform a good habit by using rewards. Habit t
 
 *Example: After finishing my workout, I will make myself a healthy smoothie and put an X on the calendar next to the blender. If I fail to put 3 Xes in any week this month, I have to do the whole family's laundry by myself next month.* 
 
----
-
+****
 ### Source
 - [[Atomic Habits]]
 

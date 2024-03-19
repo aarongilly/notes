@@ -21,8 +21,7 @@ Motion isn’t always bad, you should usually have some idea of your plan, but r
 
 The correct approach is a balanced one. Trust your [[Periodic Reviews]] and dedicated project planning sessions. Now: do more. Think less. 
 
----
-
+****
 ### Source
 - [[Atomic Habits]]
 

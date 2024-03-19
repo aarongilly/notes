@@ -13,7 +13,7 @@ Following the process, without regard for the result, will inevitably, almost pa
 
 See [[Right Process ⇒ Right Results]] from [[The Toyota Way]] 
 
----
+****
 ### Source
 - [[Stillness is the Key]]
 

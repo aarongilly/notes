@@ -18,8 +18,7 @@ Robert Pirsig, who wrote the “Zen Art of Motorcycle Maintenance” used Index 
 
 Externalizing thoughts and placing them into categories is a way to extend your brain. It allows you to balance the Yin of the [[Central Executive]] with the Yang of the [[Default Network]].
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 - [[Secondary Summary How to Take Smart Notes]]

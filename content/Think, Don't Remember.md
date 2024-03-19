@@ -10,8 +10,7 @@ The best state of the brain is one where it's not holding "gotta do this" in you
 
 Tiago Forte refers to a practice of "Capture" as an on-going habit. This is very similar to the concept of the [[Inbox]] in [[GTD]]. 
 
----
-
+****
 ### Source
 - [[Building a Second Brain Podcast]]
 - [[Getting Things Done The Art of Stress-Free Productivity]]

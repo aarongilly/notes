@@ -29,8 +29,7 @@ There are startup companies that want to make large-scale gravitational batterie
     - A 55 gallon barrel on your roof is approximately the same as a AA battery
 - Making concrete isn’t great for the environment.
 
----
-
+****
 ### Source
 
 ### Related

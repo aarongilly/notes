@@ -26,8 +26,7 @@ IDEF1X is a lesser-used technology-independent Entity-Relationship diagramming m
 
 ![[assetsE879180A-7957-424E-A825-60830FB8CEE5.jpeg]]
 
----
-
+****
 ### Source
 
 ### Source

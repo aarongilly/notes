@@ -15,8 +15,7 @@ There are a number of competing [[Entity-Relationship Modeling Standards]]. I te
 
 ![[Untitled 29.png]]
 
----
-
+****
 ### Source
 
 [Entity-relationship model](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)

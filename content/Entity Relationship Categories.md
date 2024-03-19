@@ -127,8 +127,7 @@ IDEF
 An agent of some kind executes the activity B.
 
 | In | Validity | Related Properties |
-| --- | --- | ---
-
+| --- | --- | ****
 ### Source
 - [[SysML Distilled]]
 - [[Wikipedia]] |

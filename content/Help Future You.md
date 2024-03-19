@@ -21,8 +21,7 @@ Have a habit of pre-processing ideas, tasks, and making those things easier for 
 - Exercise to maintain your future energy
 - Go to bed and [[Protect Sleep]]
 
----
-
+****
 ### Source
 - [[Building a Second Brain Podcast]]
 

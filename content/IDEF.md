@@ -35,8 +35,7 @@ Pretty well spelled out below.
 
 Note: I just realized the IDEF3 split-out is wrong. It should be an "&" and it should also include the IDEF3 version of [[State Diagrams]].
 
----
-
+****
 ### Source
 - [[IDEF0]]
 

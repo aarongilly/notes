@@ -16,8 +16,7 @@ tags:
 - Simply, clear, clean, organize
 - Engage more deeply in relationships
 
----
-
+****
 ### Source
 - [[Better Than Before]]
 

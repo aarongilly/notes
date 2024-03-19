@@ -20,7 +20,7 @@ There are a variety of 'RACI'-like mappings, each with their own acronym and des
 I've also seen, RASIC, and RASIX and tons of others. Generally it seems like they all have the above 4. Additions include:
 - S - Supporter - person who provides resources to assist in the activity
 
----
+****
 ### Source
 - [Wikipedia](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 

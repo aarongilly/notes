@@ -20,8 +20,7 @@ It's all about inserting a delay to think between stimulus (environment) and res
 Better: Trigger > Impulse > AIWATT > Considered Behavior
 </aside>
 
----
-
+****
 ### Source
 - [[Triggers]]
 

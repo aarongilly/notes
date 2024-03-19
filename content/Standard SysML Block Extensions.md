@@ -38,8 +38,7 @@ Represents a bound set of values that a can be used to type properties. Similar 
 
 Contains the enumeration `Literals`.
 
----
-
+****
 ### Source
 - [[SysML Distilled]]
 

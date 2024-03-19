@@ -28,8 +28,7 @@ Triplestores store triples. These store semantic triples, which are datasets of 
 
 Named graphs are extended Triplestores, with a fourth dimension specifying their context. They are of the basic form "Subject-Predicate-Object-Context". 
 
----
-
+****
 ### Source
 
 [NoSQL - Wikipedia](https://en.wikipedia.org/wiki/NoSQL)

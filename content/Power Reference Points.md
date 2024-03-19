@@ -22,7 +22,7 @@ iPhone 13 Assumptions/research:
 
 3.7 V battery with 3.2Ah capacity & lasting 24 hours. Why not. 
 
----
+****
 ### Source
 - Googling things
 

@@ -13,8 +13,7 @@ A Japanese railway company was experiencing more workplace accidents and mistake
 
 The company credits this innovation with reducing accidents by 85%.
 
----
-
+****
 ### Source
 - [[The Toyota Way]]
 

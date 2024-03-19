@@ -15,8 +15,7 @@ If you or loved one is approaching an end of life struggle, these are four go-to
 3. What trade-offs are you willing to make and not willing to make?
 4. What course of action best serves this understanding?
 
----
-
+****
 ### Source
 - [[Being Mortal]]
 

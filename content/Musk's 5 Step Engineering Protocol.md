@@ -29,8 +29,7 @@ Elon Musk’s 5 Step Engineering Protocol - to be applied IN ORDER.
     
     After getting a smooth, logical, non-error-prone process running, remove in-process testing and manipulation 
 
----
-
+****
 ### Source
 
 [Elon Musk Reveals His 5-Step Engineering Protocol](https://cleantechnica.com/2021/08/16/elon-musk-reveals-his-5-step-engineering-protocol/)

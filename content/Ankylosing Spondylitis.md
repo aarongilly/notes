@@ -24,8 +24,7 @@ inflammatory bowel disease
 
 inflammation of the knees, ankles, and feet
 
----
-
+****
 ### Source
 - Personal experience, unfortunately.
 - [Ankylosing spondylitis - Wikipedia](https://en.wikipedia.org/wiki/Ankylosing_spondylitis)

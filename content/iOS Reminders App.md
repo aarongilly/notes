@@ -19,7 +19,7 @@ You used Reminders as your to-do app pretty successfully for over a year, o my g
 - The native widget is bad.
 - "Lists" in reminders are treated both like [[Defining Area|area]]s and [[Project Lists]], and it's too many taps to move things from the inbox to a list from the phone
 
----
+****
 ### Source
 - me
 

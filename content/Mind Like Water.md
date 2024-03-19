@@ -14,8 +14,7 @@ Mind Like Water is a state where you are able to react without issue to the situ
 —David Allen
 > 
 
----
-
+****
 ### Source
 - [[Getting Things Done The Art of Stress Free Productivity]]
 

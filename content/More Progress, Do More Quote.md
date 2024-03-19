@@ -8,7 +8,7 @@ tags:
 ---
 >  "The most reliable way to make progress is to do more." -- Greg Nuckols
 
----
+****
 ### Source
 - [Recommended Articles and Links](https://www.jamesstuber.com/recommendations/)
 

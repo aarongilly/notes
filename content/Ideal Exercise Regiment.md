@@ -29,8 +29,7 @@ Based on [[Heart Rate Zones]] of a ~33 year old.
 
 [^1]: For the terms "moderate" and "vigorous" it would seem logical to use the appropriate translation in [[Heart Rate Zones]]
 
----
-
+****
 ### Source
 - [[Exercised]]
 

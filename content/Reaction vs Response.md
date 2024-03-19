@@ -13,7 +13,7 @@ This is also what Steven Covery was talking about when he talked about [[Be Proa
 
 This was also identified as one of the [[4 Pillars of Toughness]].
 
----
+****
 ### Source
 - [[10% Happier]]
 - [[The 7 Habits of Highly Effective People]]

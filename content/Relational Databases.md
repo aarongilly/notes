@@ -12,8 +12,7 @@ A relational database is a set of tables that contain rows and columns according
 
 This is distinct from [[Non-Relational Databases]]  (e.g. MongoDB, Neo4j) where each record may contain a different set of fields. 
 
----
-
+****
 ### Source
 
 ### Related

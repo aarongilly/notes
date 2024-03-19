@@ -25,8 +25,7 @@ function carDesc(color){
 
  Often, impure functions are class methods dependent on the state of some class instance properties.
 
----
-
+****
 ### Source
 
 ### Related

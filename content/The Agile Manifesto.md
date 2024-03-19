@@ -30,7 +30,7 @@ My slight rewording of the official ones (from the source).
 11. The best designs, architectures, and requirements come from self-organizing teams
 12. Hold [[Periodic Reviews]] to reflect, tune and adjust behaviors for success
 
----
+****
 ### Source
 - [Website](https://agilemanifesto.org/principles.html)
 - ChatGPT

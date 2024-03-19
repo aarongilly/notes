@@ -17,8 +17,7 @@ To support capturing the “right” amount of information, all toward the follo
 
 In short: **capture what resonates**.
 
----
-
+****
 ### Source
 - [[Building A Second Brain]]
 

@@ -26,8 +26,7 @@ These are what the function exists to do.
 
 These are those things which the function needs to operate, but aren’t modified by it. 
 
----
-
+****
 ### Sources
 - The IDEF0 Spec (I read the whole thing)
 - [IDEF0 Functional Modeling](https://aarongilly.com/gillespedia/idef0/)

@@ -28,8 +28,7 @@ Rather than a bagel or cereal, try one of these:
 - Greek Yogurt, plain, with berries and blueberries, and tablespoon of real maple syrup
 - No juices. Water or black coffee. Smoothies and juices pass through the small intestine too soon and you don’t absorb them well enough.
 
----
-
+****
 ### Source
 - [[Keep Sharp]]
 

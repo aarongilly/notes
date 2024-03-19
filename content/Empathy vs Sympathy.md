@@ -10,8 +10,7 @@ Sympathy is a stronger version of empathy. But sympathy can also have BS called 
 
 > [!tldr] 👉 If you feel the same, that's sympathy. Otherwise it's empathy.
 
----
-
+****
 ### Source
 
 [What's the difference between 'sympathy' and 'empathy'?](https://www.merriam-webster.com/words-at-play/sympathy-empathy-difference)

@@ -16,8 +16,7 @@ They still seem like they are used almost interchangeably in practice. From the 
 
 Interestingly - the UML 2.5 Specification doesn’t even define ‘Aggregation’. Like it’s not in there at all when you Ctrl+f ‘aggregation’.
 
----
-
+****
 ### Source
 
 ### Source

@@ -21,8 +21,7 @@ Long-lasting motivation depends on making forward progress consistently. This is
 > As in martial arts, if you encounter resistance or an opposing force, you should not push against it but instead redirect it towards another productive goal. -Tiago Forte
 > 
 
----
-
+****
 ### Source
 - [[Secondary Summary How to Take Smart Notes]]
 

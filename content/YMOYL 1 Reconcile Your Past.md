@@ -17,8 +17,7 @@ The goal is to see what you've had available to you and what you've managed to t
 
 Find out your net worth. This includes doing a comprehensive inventory of everything you own, assigning a current value (what you'd expect to sell it for at a garage sale or online), and all outstanding debts.
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 

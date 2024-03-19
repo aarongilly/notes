@@ -12,7 +12,7 @@ Personal growth almost requires the conscious *choice* to do the hard things. [[
 
 Having things simply "happen to you" is less satisfying than it is to decide you want them to happen, then act, then receive them. 
 
----
+****
 ### Source
 - [[Do Hard Things]]
 

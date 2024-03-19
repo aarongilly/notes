@@ -12,8 +12,7 @@ You can't call something a distraction unless you know what it's distracting you
 
 Avoiding productive distraction is one of the key benefits of [[Mental Time Blocking]]. You may also just be satisfying your need for [[Cognitive Closure]] rather than actually making progress on what's most important. See also: [[ Business is Laziness]].
 
----
-
+****
 ### Source
 - [[Indistractable]]
 

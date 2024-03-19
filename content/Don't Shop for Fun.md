@@ -10,8 +10,7 @@ If you find ourself browsing for something to buy just for fun... stop. Find som
 
 Shopping for fun also leads to [[Lifestyle Creep]].
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 

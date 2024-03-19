@@ -11,8 +11,7 @@ Technology has enabled/doomed us by expanding our range of comparisons to those 
 
 You're not as rich as Elon Musk, or as handsome as Brad Pitt, or pretty as Jennifer Aniston, or as funny as the guy from that movie. You will never be. That's normal. 
 
----
-
+****
 ### Source
 
 "[The Minimalists: Less is Now](https://www.imdb.com/title/tt13583144/)" documentary

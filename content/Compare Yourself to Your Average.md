@@ -15,7 +15,7 @@ It's natural to want to do your best. We all want to do our best all the time...
 > [!success] Do
 > Alright my past 5 Squats have been at about 215, today I'm improving that.
 
----
+****
 ### Source
 - [[Do Hard Things]]
 

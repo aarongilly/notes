@@ -22,7 +22,7 @@ When you're considering new [[Metrics]], ensure you know where your data come fr
 ## Counter-Example
 Really the only example I can think of where this isn't true is the News. You should get your news from several places from several perspectives.
 
----
+****
 ### Source
 - Self
 

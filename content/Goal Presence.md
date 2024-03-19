@@ -13,7 +13,7 @@ If you're not aware of your goals, how are you supposed to achieve them?
 
 This is probably one of the benefits of [[Time Blocking]], [[Periodic Reviews]], and the [[3 Goals a Day]] idea.
 
----
+****
 ### Source
 - ultraworking podcast
 

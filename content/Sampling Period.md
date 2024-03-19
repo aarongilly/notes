@@ -10,8 +10,7 @@ tags:
 
 A common pattern that pops up in highly successful, influential individuals on their pathway to success is the "sampling period". When approaching a general area, you take time to do shallow samples of many different specific topics within that area. You explore that topic in brief, enjoy the rapid return on investment that comes with just beginning something, then move on to the next thing before the [[Law of Diminishing Returns]] kicks in. Once you've found something that suits you, that's when you go big and go deep. Develop [[Grit]] for what you're naturally inclined to do and fits well.
 
----
-
+****
 ### Source
 - [[Range - Why Generalists Triumph in a Specialized World]]
 

@@ -37,8 +37,7 @@ In the **immediate recall** test, the groups success of the groups was as expect
 
 However - all three groups were *also* asked to recall the words ~30 minutes later. In this **delayed recall** test, the groups performed exactly the opposite. **Group 3 was better than Group 2, which was better than Group 1**.
 
----
-
+****
 ### Source
 - [[Range - Why Generalists Triumph in a Specialized World]]
 - [[The Organized Mind]]

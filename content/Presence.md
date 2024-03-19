@@ -19,7 +19,7 @@ The desire for more, the desire for progress, can be the enemy of enjoying the p
 
 You may ask yourself, which of your [[Three Selves]] have you been listening to lately?
 
----
+****
 ### Source
 - [[Stillness is the Key]]
 - [[Flow]]

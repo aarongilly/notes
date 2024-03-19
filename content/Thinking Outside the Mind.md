@@ -1,6 +1,5 @@
 ---
 created: 2024-02-18
-created:
 tags:
   - philosophy
   - psychology
@@ -49,7 +48,7 @@ You can learn better through *teaching* the material to others.
 
 You can offload responsibilities for certain strains of knowledge to others with whom you have a relationship. This is the "I'll do the money, you do the school communication" split.
 
----
+****
 ### Source
 - [[The Extended Mind]]
 

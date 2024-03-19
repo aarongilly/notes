@@ -23,8 +23,7 @@ A good feedback loop is as ***short*** as is feasibly possible while maintaining
 
 Delays in system design can cause unexpected [[Emergent Behavior]].
 
----
-
+****
 ### Source
 
 ### Related

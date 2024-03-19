@@ -19,8 +19,7 @@ This doesn’t take into account expenses incurred in the name of your job (comm
 > [!tldr] 👉🏻 Real Hourly Wage: 
 (Annual Wage - Work Expenses) / (hours worked + hours spent in the service of work)
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 

@@ -26,8 +26,7 @@ This has come in various forms:
 
 Source: [https://todoist.com/inspiration/complexity-bias-comic](https://todoist.com/inspiration/complexity-bias-comic)
 
----
-
+****
 ### Source
 - https://todoist.com/inspiration/complexity-bias-comic
 

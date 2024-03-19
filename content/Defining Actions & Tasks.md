@@ -29,8 +29,7 @@ Practically speaking, the delineation between "Action" and "Task" is somewhat ar
     - Action - go to gym
     - Action - refer to workout plan
 
----
-
+****
 ### Source
 - [[Getting Things Done The Art of Stress-Free Productivity]]
 

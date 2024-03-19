@@ -10,8 +10,7 @@ AI is the result of Machine Learning, which is the often done through deep learn
 
 ![Untitled](Untitled%2067.png)
 
----
-
+****
 ### Source
 - [[Wikipedia]]
 

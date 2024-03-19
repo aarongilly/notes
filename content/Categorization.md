@@ -12,8 +12,7 @@ How about this - there is a very fuzzy category we call “Game”. The concept 
 
 Categories map to brain tissues. Brain damage has literally caused people to forget what “fruits” are, while retaining the access to “vegetables”.
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 

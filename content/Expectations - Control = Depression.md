@@ -12,8 +12,7 @@ The same principle applies to raising children. Expectations are okay, but they 
 
 This was done in a study, talked about in Indistractable. The same section made the comparison to child rearing.
 
----
-
+****
 ### Source
 - [[Indistractable]]
 

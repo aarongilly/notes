@@ -10,8 +10,7 @@ tags:
 > Attention, as the Stoics call it, is a prerequisite to practice stoicism - Jonas Salzgeber
 > 
 
----
-
+****
 ### Source
 
 ### Related

@@ -10,7 +10,7 @@ Although I'm trying to [[Only Use Obsidian Plug-ins That Retain Portability]], o
 - Populate the `created` key with an [[ISO 8601]]-compliant date
 - Enforce other consistency standards I don't need to enumerate here
 
----
+****
 ### Source
 - 
 

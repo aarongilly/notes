@@ -16,8 +16,7 @@ Result - No.
 Goal - Maximize the number of paperclips.
 Result - Sorry I destroyed the world & conquered the universe to make more paperclips
 
----
-
+****
 ### Source
 - [[The Sentiment Machine]]
 

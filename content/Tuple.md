@@ -26,8 +26,7 @@ The term "Tuple" refers to a bound set of values, in a given order. This has imp
 - A distinct set of (x, y, z) as an input to a given function: f(x, y, z)
 - In relational databases, the contents of a row are a Tuple
 
----
-
+****
 ### Source
 
 ### Source

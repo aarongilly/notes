@@ -11,7 +11,7 @@ When people are asked to consider the other side of a topic about which they are
 
 > If we don't understand someone we cannot have a eureka moment while imagining their perspective.
 
----
+****
 ### Source
 - [[Think Again]]
 

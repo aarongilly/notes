@@ -98,8 +98,7 @@ console.log(human.think());
 
 “Design Patterns” book. Reference by Fireship. 
 
----
-
+****
 ### Source
 - [[YouTube]]
 - [[Fireship YouTube Channel]]

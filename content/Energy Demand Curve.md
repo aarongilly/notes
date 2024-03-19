@@ -11,8 +11,7 @@ Power consumption demand raises and falls dramatically throughout the day. Power
 
 Our ‘peak power’ timeframe from Evergy is considered to be 2 to 7pm on weekdays.
 
----
-
+****
 ### Source
 
 ### Related

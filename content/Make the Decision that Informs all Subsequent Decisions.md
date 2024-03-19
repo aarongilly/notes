@@ -41,7 +41,7 @@ The decisions needs to be generic enough to apply to significant portions of the
 - For my notes & blog - I will write for myself and not in pursuit of money/notoriety
 - 
 
----
+****
 ### Source
 - Stringing together related notes
 

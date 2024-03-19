@@ -17,7 +17,7 @@ In general, **high-cohesion is good**.
 ### Example of Low-cohesion
 - Microsoft Word dumping a ton of features in about mail merge
 
----
+****
 ### Source
 - 
 

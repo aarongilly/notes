@@ -13,8 +13,7 @@ Know how much money you’d be willing to lose to gain an hour if time. Use that
 
 This also comes in handy when looking at new purchases. Henry David Thoreau's "Walden" talks about trading your life for purchases and opportunities. Having a known conversion function to translate between time & money is helpful to apply as a rule for governing how to spend your [[3 Personal Resources]]. Making decisions easier or unnecessary. 
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 

@@ -14,8 +14,7 @@ Infinity is almost more about how it is expressed than it is a number itself. Di
 
 $n!\lim_{n\to\infty}$ is "more infinite" than just $n\lim_{n\to\infty}$.
 
----
-
+****
 ### Source
 - [[Beyond Infinity]]
 

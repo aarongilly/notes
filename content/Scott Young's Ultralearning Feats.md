@@ -10,7 +10,7 @@ Before writing [[Ultralearning]], Scott Young...
 - Learned 4 languages in a year through total immersion
 - Taught himself to draw realistic portraits in a month
 
----
+****
 ### Source
 - [[Ultralearning]]
 

@@ -12,7 +12,7 @@ Perfection doesn’t exist in reality. Perfection of self, perfection in any per
 > **Things that exist have flaws.** 
 *- Joseph Fink and Jeffrey Cranor on their "Start With This" podcast*
 
----
+****
 ### Source
 - [[The Bullet Journal Method]]
 

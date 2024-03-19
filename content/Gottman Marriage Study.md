@@ -12,8 +12,7 @@ Doctor John Gottman Did a study that had married couples come in sit and be reco
 
 Using the [[Pareto Principle]] - the study found the [[4 Horsemen of Divorce]].
 
----
-
+****
 ### Source
 - [[Blink]]
 

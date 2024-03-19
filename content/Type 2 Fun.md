@@ -21,7 +21,7 @@ You could almost marry these up to [[Systems 1 & 2]]. Type 1 fun goes with [[Sys
 
 If you waste your entire day having [[Effortless vs Effortful Fun|Low-Effort Fun]], you may wind up **not** being able to enjoy yourself at *all*. Like all things, the key is [[Balance]].
 
----
+****
 ### Source
 - [James Stuber](https://www.jamesstuber.com/boring-is-fun/?ref=jamesstuber.com)
 

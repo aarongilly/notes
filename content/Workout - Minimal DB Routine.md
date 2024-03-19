@@ -17,8 +17,7 @@ tags:
 
 *— Brad Stulberg (@BStulberg)*
 
----
-
+****
 ### Source
 - [The Minimalist's Strength Workout](https://getpocket.com/explore/item/the-minimalist-s-strength-workout)
 

@@ -25,8 +25,7 @@ The Pareto Principle applies both to a set of concurrent inputs to some activity
 - Tim Ferris’s “[[The 4-Hour Work Week]]” is the Pareto Principle turned up to 11
 - Napoleon only wanted woken up by his generals if the matter was truly urgent and bad. He would punish those generals who woke him up for trivial matters, and praise those who woke him appropriately. In doing so, this weeded out the trivial matters before they got to him.
 
----
-
+****
 ### Source
 - [[Essentialism]]
 - [[The 4-Hour Work Week]]

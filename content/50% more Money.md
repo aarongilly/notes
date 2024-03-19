@@ -11,8 +11,7 @@ In seminars held by Vicki Robin and her late co-author Joe Dominguez, audience m
 
 > [!tldr] 🔑 You will never achieve "more", but you can achieve [[Enough Money]].
 
----
-
+****
 ### Source
 - [[Thinking Fast and Slow]]
 - [[Your Money or Your Life]]

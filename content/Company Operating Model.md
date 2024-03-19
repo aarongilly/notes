@@ -31,7 +31,7 @@ Tons of Standardization:
 - 👎 Limits localized efficiencies that could be had
 - 👎 Reduces the capability to innovate at the edges
 
----
+****
 ### Source
 - [[Enterprise Architecture as a Strategy]]
 

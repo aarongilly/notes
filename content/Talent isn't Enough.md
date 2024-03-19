@@ -10,8 +10,7 @@ Talent also needs practice if you wish to be good. Talent is a good, but it is n
 
 Regularly produce things if you want to be a better producer of things.
 
----
-
+****
 ### Source
 
 # Source

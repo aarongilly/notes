@@ -28,8 +28,7 @@ Balance is key.
 
 ![https://i.imgflip.com/2ns394.jpg](https://i.imgflip.com/2ns394.jpg)
 
----
-
+****
 ### Source
 - [[The 7 Habits of Highly Effective People]]
 

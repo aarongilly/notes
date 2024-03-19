@@ -7,7 +7,7 @@ tags: [society, coding, science]
 
 OASIS has their hands on a number of standards I've come across, including [[DITA]], some general [[XML]] stuff, [[OData]], and OpenDocument, amongst a dozen or so others.
 
----
+****
 ### Source
 - Wikipedia
 

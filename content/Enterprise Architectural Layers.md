@@ -21,7 +21,7 @@ Most (if not all) [[Enterprise Architecture Frameworks]] I've found pitch [[Ente
 | Physical | | ✅ | | ✅ |
 | Implementation | | ✅ | "Projects" | | 
 
----
+****
 ### Source
 - [[Enterprise Architecture as a Strategy]]
 

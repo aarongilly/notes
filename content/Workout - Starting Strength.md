@@ -34,7 +34,7 @@ Same as Beginners routine, except Day B will end with [[Power Clean]] 5x3 instea
 
 Same as Beginners routine, except Day A will end with either Deadlift or Power Clean (alternate between "Day A" workouts). And Day B will end with Chin-ups.
 
----
+****
 ### Source
 - [Starting Strength's official website](https://startingstrength.com/get-started/programs)
 

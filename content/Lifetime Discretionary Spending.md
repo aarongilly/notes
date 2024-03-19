@@ -10,8 +10,7 @@ The main metric I perceived that was focused on in the book “Money Magic”. W
 
 The book itself, though, did this to a hilarious level and made the entire concept almost seem silly.
 
----
-
+****
 ### Source
 - [[Money Magic]]
 

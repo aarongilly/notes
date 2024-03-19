@@ -38,8 +38,7 @@ In order to have perfect knowledge, you need a closed system. Closed systems are
 
 **Reality:** Dihydrogen Monoxide is the chemical name for water. It's not bad for you. True thousands of people drown each year, but that doesn't mean water is bad for you. This is an example of allowing simply allowing ignorance to persist to misrepresent the truth.
 
----
-
+****
 ### Source
 - [Trump's claims about US election security in the first debate were as wildly false as they were incoherent](https://www.businessinsider.com/point-by-point-fact-check-trump-debate-answers-voting-elections-2020-9)
 - [Is Dihydrogen Monoxide Dangerous?](https://www.snopes.com/fact-check/dangers-dihydrogen-monoxide/)

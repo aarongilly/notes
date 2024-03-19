@@ -23,8 +23,7 @@ If you buy something, or suddenly make more money, you'll maybe be happier for a
 
 This, like most things, is not without exceptions. Major disabilities and other life events (marriage, divorce, parenthood, imprisonments) can *durably* adjust the set point.
 
----
-
+****
 ### Source
 - [[Sapiens]]
 - [[The Subtle Art of Not Giving a F*ck]]

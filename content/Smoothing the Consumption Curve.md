@@ -10,8 +10,7 @@ Your ‘Consumption Curve” is basically the amount of money you need for your 
 
 Smooth your consumption curve - don't have a wildly varying income and standard of living between different years. After taxes you keep **less** if you make $1M in one year than you would if you made $100k over 10 years 
 
----
-
+****
 ### Source
 - [[Money Magic]]
 

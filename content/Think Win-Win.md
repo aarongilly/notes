@@ -16,8 +16,7 @@ This is basically what it sounds like. If you want [[Interdependence]] (which th
 
 The recommended approach is always, when possible, go into a transaction with a "win-win or no deal" agreement. Remember, because it's worth pointing out even though it's obvious - **you losing does not mean a win-win transaction has occurred**.
 
----
-
+****
 ### Source
 - [[The 7 Habits of Highly Effective People]]
 

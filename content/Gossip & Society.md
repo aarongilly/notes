@@ -12,8 +12,7 @@ What separates man from animal is our ability to cooperate en masse. We have the
 
 Above that, the ties get too diluted and weak. So we have to rely on less direct information about who is and who is not trustworthy. Credit scores, social scores, and general gossip allow for individuals to gain some benefits of being “in” a group, without really having to be part of it.
 
----
-
+****
 ### Source
 - [[Sapiens]]
 

@@ -13,8 +13,7 @@ That’s okay.
 
 When your problems get overwhelming, remember how little they matter in the grand scheme of things. When you’re reaching the end of your life, recognize that the world will go on - and the best thing you can do is try to make it better for those who’s time hasn’t yet come. 
 
----
-
+****
 ### Source
 - [[Stillness is the Key]]
 

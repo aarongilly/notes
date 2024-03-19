@@ -14,8 +14,7 @@ tags:
 
 ![Untitled](Untitled%2050.png)
 
----
-
+****
 ### Source
 - [[Basic Formal Ontology 2 0 Spec]]
 

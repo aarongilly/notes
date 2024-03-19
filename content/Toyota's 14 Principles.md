@@ -44,8 +44,7 @@ In 4 Categories: Philosophy, Process, People, & Problem Solving
 - Make decisions slowly, and by consensus, then act upon them rapidly
 - Become a learning organization through relentless reflection and continuous improvement
 
----
-
+****
 ### Source
 - [[The Toyota Way]]
 

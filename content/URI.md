@@ -11,8 +11,7 @@ URI is short for Uniform Resource Identifier. It’s a generalization of the con
 
 URIs function like [[UUID]]s, but typically have a more hierarchical structure. They also must exist within a given [[Namespace]].
 
----
-
+****
 ### Source
 
 ### Related

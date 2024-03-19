@@ -45,8 +45,7 @@ The Weekly Review is **the** lynchpin of the Getting Things Done system. It is a
 
 [Demetri Martin's "If I..." stand up special](https://www.youtube.com/watch?v=NzsEtafv-FA&t=371s) contained an inspiring example of a weekly review as a sort of game.
 
----
-
+****
 ### Source
 - [[Getting Things Done The Art of Stress-Free Productivity]]
 - [Plan weekly, review daily - Weekdone](https://blog.weekdone.com/plan-weekly-review-daily/)

@@ -11,8 +11,7 @@ Stephen Covey**
 > The main thing is to keep the main thing the main thing. - Stephen Covey
 > 
 
----
-
+****
 ### Source
 - [[Essentialism]]
 

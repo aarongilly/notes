@@ -12,8 +12,7 @@ If you’re looking for Waldo, it’s good at spotting red and white stripes. Re
 
 It is prone to missing obvious things, though. Such as the Gorilla who walks through the basketball drill.
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 

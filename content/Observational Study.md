@@ -19,7 +19,7 @@ These studies are **good at finding correlations, but bad at determining causati
 
 **Reality:** Perhaps people who like diet sodas are also the kinds of people who tend to eat *other* things that are worse for their health. You can't really separate the independent variable from its gigantic litany of possible confounding factors.
 
----
+****
 ### Source
 - [[Outlive]]
 

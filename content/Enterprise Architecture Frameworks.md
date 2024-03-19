@@ -15,7 +15,7 @@ The three biggest ones as of 2024 are:
 	- Includes the Architecture Development Method (represented in the TOGAF circles graphic)
 - Zachman, which answers "who/what/when/why/where/how" from the perspectives of the Planner, Owner, Designer, Builder, Subcontractor, and User
 
----
+****
 ### Source
 - [This Comparison Paper][https://scholar.google.com/scholar_url?url=https://iacis.org/iis/2006/Urbaczewki_Mrdalj.pdf&hl=en&sa=X&ei=6B3DZduHIdLFy9YPoL6q0AE&scisig=AFWwaebz3iQ7_i4_5EL3AOLGWXl0&oi=scholarr]
 

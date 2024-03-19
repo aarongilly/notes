@@ -8,7 +8,7 @@ tags: [quote]
 
 (first known instance of that of the quote)
 
----
+****
 ### Source
 - [Here](https://quoteinvestigator.com/2018/04/14/theory/)
 

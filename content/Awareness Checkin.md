@@ -18,7 +18,7 @@ Periodically throughout the day[^1], stop and ask yourself some of the following
 
 [^1]: You can use a timer on your phone, [[Pomodoro Technique 🍅]]-like [[Time Blocking]] endpoints, [[Scheduled Breaks]] in your calendar, or possibly biological queues like needing to pee. 
 
----
+****
 ### Source
 - [[sources/Hyperfocus]]
 

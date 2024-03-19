@@ -11,8 +11,7 @@ tags:
 Per Steven Levitt and Stephen Dubner - don’t set out to solve big problems. Big problems are well known about and nobody has solved them yet. It’s not for lack of trying. It’s that they aren’t easy to solve. What is easy to solve is little problems. Little problems sometimes turn out to be the lynchpin to solving **bigger**
  problems. But hey, even if they aren’t a lynchpin, at least you solved the little problem.
 
----
-
+****
 ### Source
 - [[Think Like a Freak]]
 

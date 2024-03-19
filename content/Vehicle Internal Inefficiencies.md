@@ -16,8 +16,7 @@ Electric vehicles are much less complicate. Less going on ⇒ less losses in all
 
 ![[assetsUntitled]]
 
----
-
+****
 ### Source
 
 ### Source

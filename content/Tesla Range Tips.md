@@ -12,8 +12,7 @@ tags:
 4. Keep the car clean
 5. Less weight
 
----
-
+****
 ### Source
 
 [Range Tips](https://www.tesla.com/support/range)

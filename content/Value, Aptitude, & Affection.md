@@ -17,8 +17,7 @@ Find the intersection between the activities...
 
 This is the recipe for a happy and successful work life. 
 
----
-
+****
 ### Source
 - [[Essentialism]]
 - One of my professors in college said this **exact** same thing. Professor Petr.

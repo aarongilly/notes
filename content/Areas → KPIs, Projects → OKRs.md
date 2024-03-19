@@ -14,8 +14,7 @@ Both of which should be reviewed periodically on a consistent, recurring basis.
 
 Projects fall in areas. Therefore Areas are associated with OKRs *through* projects. 
 
----
-
+****
 ### Source
 
 ### Related

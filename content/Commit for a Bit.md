@@ -13,7 +13,7 @@ This technique only works if you trust yourself that you *can* stop in 2 minutes
 
 This phrase could also be used to describe pilot programs and exploratory projects. You need to star at down a path to evaluate it, because [[Low-Cost Trials|optionality]] is good.
 
----
+****
 ### Source
 - 
 

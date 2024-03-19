@@ -10,8 +10,7 @@ You need a place to incubate ideas you're not sure about, projects you're not su
 
 The Someday, Maybe list should be reviewed like any other list, but perhaps less frequently. They are good candidates for a monthly review.
 
----
-
+****
 ### Source
 - [[Getting Things Done The Art of Stress-Free Productivity]]
 

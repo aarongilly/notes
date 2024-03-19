@@ -20,8 +20,7 @@ Better by strangers in your room: (via [[Thin Slicing]])
 - Emotional security (neuroticism)
 - Openness to new experiences
 
----
-
+****
 ### Source
 - [[Blink]]
 

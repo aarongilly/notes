@@ -12,7 +12,7 @@ There are some folks (including the makers of Endel, which as it turns out is ba
 
 I've seen sources that define it very loosely, saying things like "blinking" are also Ultradian Rhythms. 
 
----
+****
 ### Source
 - [[Huberman Labs]] episode 1
 - Some googling

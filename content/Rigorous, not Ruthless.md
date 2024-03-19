@@ -12,7 +12,7 @@ Best people on the biggest opportunities, not the biggest problems. If you manag
 
 You want vigorous debate that leads to a unanimous backing of the eventual decision, even if it wasn’t their pitch or first choice.
 
----
+****
 ### Source
 - [[Good to Great]]
 

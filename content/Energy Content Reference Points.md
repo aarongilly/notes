@@ -24,8 +24,7 @@ Some random energy content reference points:
 | Potential of 1 Ton 50 ft high | 0.038 |
 | 1 AA Battery | 0.0039 |
 
----
-
+****
 ### Source
 
 ### Related

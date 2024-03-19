@@ -8,8 +8,7 @@ tags:
 
 Easy communication has lead to lower-quality communication. Hand-written snail mail was very deliberate. Each letter was much more important and more well-thought-out than email. Easy communication leads to frivolous communication.
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 

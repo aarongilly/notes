@@ -54,8 +54,7 @@ export interface DataStore {
 }
 ```
 
----
-
+****
 ### Source
 
 Mostly myself, but also I liked this:

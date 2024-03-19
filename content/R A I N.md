@@ -18,8 +18,7 @@ A simple acronym for how to practice mindfulness. It stands for:
 
 **Non-identification** - realize that feelings and sensations are fleeting. They don't have any more importance than that which you give them. They, like everything you experience, will cease to be.
 
----
-
+****
 ### Source
 - [[10% Happier]]
 

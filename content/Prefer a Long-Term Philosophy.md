@@ -18,7 +18,7 @@ This is very much in line also with James Clear's philosophies (doing small thin
 
 Blue Origin's motto is *“Gradatim Ferociter”,* which is Latin for “Step by Step, Ferociously.”
 
----
+****
 ### Source
 - [[The Toyota Way]]
 - [[Atomic Habits]]

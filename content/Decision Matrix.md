@@ -1,6 +1,5 @@
 ---
 created: 2024-03-09
-created:
 tags:
   - clarity
   - technique

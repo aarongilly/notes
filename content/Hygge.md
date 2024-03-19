@@ -14,8 +14,7 @@ Hygge has to do with having and enjoying a great atmosphere, perhaps with a few 
 
 Atmosphere, presence, pleasure, equality, gratitude, harmony, comfort, truce, togetherness, & shelter.
 
----
-
+****
 ### Source
 - [[The Little Book of Hygge]]
 

@@ -35,8 +35,7 @@ A modern from of [[Envelope Budgeting]] utilizing separate accounts for holding 
 
 ### Optional “Beyond” Accounts
 1. Kids checking/savings
----
-
+****
 ### Source
 - [[Budget Boot Camp]]
 - [https://www.youtube.com/watch?v=auzLhKvsxnQ](https://www.youtube.com/watch?v=auzLhKvsxnQ)

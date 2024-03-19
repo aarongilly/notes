@@ -21,8 +21,7 @@ You can boost this effect by doing the following:
 5. Make a new estimate.
 6. Average your two estimates.
 
----
-
+****
 ### Source
 - [[Noise - A Flaw in Human Judgment]]
 

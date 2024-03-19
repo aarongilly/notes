@@ -15,8 +15,7 @@ In [[Homo Deus]] these sorts of behaviors were referred to as [[Emotional Algori
 
 In [[The Extended Mind]] it was stated that people with higher capabilities of [[Interoception]] were able to start *choosing the right thing **earlier***, even though they still may not be able to articulate why. 
 
----
-
+****
 ### Source
 - [[Blink]]
 - [[The Extended Mind]]

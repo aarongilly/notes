@@ -10,7 +10,7 @@ The day is not long enough to do everything you might *want* to do. You should n
 
 > [!tldr] You're not "one simple trick" away from total life mastery. You must accept this.
 
----
+****
 ### Source
 - [[sources/4000 Weeks]]
 

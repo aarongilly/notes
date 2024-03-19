@@ -30,7 +30,7 @@ To manipulate global CSS (non-element CSS) using [[JavaScript]], you can create 
     //STYLESHEET MANIPULATION Option 2
     ```
 
----
+****
 ### Source
 
 [CSSStyleSheet - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleSheet)

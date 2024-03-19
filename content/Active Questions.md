@@ -14,8 +14,7 @@ Passive questions are questions hat describe a static situation. They have the a
 - Passive - Do you have clear goals?
 - Active - Did you do your best to set clear goals for yourself?
 
----
-
+****
 ### Source
 - [[Triggers]]
 

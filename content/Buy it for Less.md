@@ -6,8 +6,7 @@ tags:
 ---
 **Never pay sticker price.**
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 - [[Budget Boot Camp]]

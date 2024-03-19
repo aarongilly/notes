@@ -14,7 +14,7 @@ The link up there to Wikipedia suggests "there's a note having to do with Wikipe
 
 **Side benefit:** this is the ultimate form of [[Distillation]]. You don't have to express the idea perfectly right out the gate, they can be added to/refined as a part of [[Progressive Summarization]]. 
 
----
+****
 ### Source
 - [[Andy Matuschak]]
 

@@ -18,8 +18,7 @@ Gaming KPIs is when employees of a company do what is within their power to make
 
 KPI gaming can be prevented by using best practices for [[Good Metrics]].
 
----
-
+****
 ### Source
 
 ### Related

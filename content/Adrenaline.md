@@ -15,7 +15,7 @@ You can get hits of adrenaline by:
 - Watching a scary movie
 - Deliberate cold exposure
 
----
+****
 ### Source
 - [[Huberman Labs]]
 - Wikipedia

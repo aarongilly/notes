@@ -28,7 +28,7 @@ The idea is that you plot out the different value-generating endeavors of your b
 
 Helpfully [[Mermaid]] now supports Quadrant Charts!
 
----
+****
 ### Source
 - [BCG](https://www.bcg.com/about/overview/our-history/growth-share-matrix)
 

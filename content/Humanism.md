@@ -11,8 +11,7 @@ The sole driving factor for what is good and bad, right and wrong, and what we a
 
 > [!tldr] 🔑 Human feelings have become The arbiter of good and evil, right and wrong, and what is beautiful.
 
----
-
+****
 ### Source
 - [[Homo Deus]]
 

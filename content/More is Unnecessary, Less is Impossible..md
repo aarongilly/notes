@@ -15,8 +15,7 @@ Same can be said for art, stories, presentations.
 > More is Unnecessary. Less is Impossible. 
 > - Sonke Ahrens
 
----
-
+****
 ### Source
 - [[How to Take Smart Notes]]
 

@@ -14,8 +14,7 @@ The [[Gottman Marriage Study]] assigned one of 20 different emotional states to 
 3. [[Critcism]]  - more often done by women
 4. [[Defensiveness]] - I WASN'T BEING DEFENSIVE
 
----
-
+****
 ### Source
 - [[Blink]]
 

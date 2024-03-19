@@ -11,7 +11,7 @@ Our ability to make finer-grain measurements (or new kinds of technology-enabled
 - Once we could see through microscopes, we discovered cells. Then the bacteria that confirmed germ theory. 
 - Once we could REALLY accurately measure time, we were able to verify the theory of relativity's suggestion that time is relative to the observer, and set up our GPS system, which depends on nanosecond-levels of precision, and build integrated circuits that perform billions of opera
 
----
+****
 ### Source
 - [[How We Got to Now]]
 

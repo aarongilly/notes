@@ -12,8 +12,7 @@ Don’t always buy the cheapest thing, and don’t always buy the most expensive
 
 Buying things that already align with your life systems avoids the [[Diderot Effect]].
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 

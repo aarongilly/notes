@@ -16,7 +16,7 @@ Steps in the adoption/implementation of the framework outlined in the [[Data Man
 
 Having written those, they feel like a general guide to make any sort of business change. Change out step one with "process modeling" and you'd have an implementation plan for enhancing that. Or reporting. Or automation. Or, or, or... Maybe this article was written by AI.
 
----
+****
 ### Source
 - [This summary, in lieu of the actual book](atlan.com/dama-dmbok-framework/)
 

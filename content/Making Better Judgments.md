@@ -17,8 +17,7 @@ Decide on how to decide. If there will be repeated decisions, make sure the judg
 
 Keep the dimensions separately rated and as orthogonal as possible.
 
----
-
+****
 ### Source
 - [[Noise - A Flaw in Human Judgment]]
 

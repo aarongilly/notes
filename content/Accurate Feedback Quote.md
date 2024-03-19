@@ -16,7 +16,7 @@ A mid-quote (probably) from “A Higher Loyalty” by James Comey:
 
 This has a bit of the “radical candor” sound to it. If you love someone you want them to be the best them, thus you don't just share what they're great at, but also what they could improve on. 
 
----
+****
 ### Source
 - “A Higher Loyalty” by James Comey
 

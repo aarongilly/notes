@@ -46,8 +46,7 @@ In non-flowchart form: (see [full source](https://www.reddit.com/r/personalfinan
 
 ![Untitled](Untitled%2017.png)
 
----
-
+****
 ### Source
 
 [How to prioritize spending your money - a flowchart (redesigned)](https://www.reddit.com/r/personalfinance/comments/4gdlu9/how_to_prioritize_spending_your_money_a_flowchart/)

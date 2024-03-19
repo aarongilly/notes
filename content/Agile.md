@@ -20,8 +20,7 @@ Agile programming focuses on short timeframes and smaller deliverables. It’s a
 - Giving autonomy to those closest to the problem
 - Small improvements, consistently delivered [[Small but Consistent beats Big but Sporadic]]
 
----
-
+****
 ### Source
 - [[Smarter, Faster, Better]]
 

@@ -21,8 +21,7 @@ Lay on a bench. Barbell is grasped slightly wider than shoulder-width. The bar i
 - Triceps
 - Biceps
 
----
-
+****
 ### Source
 - [[Simple Science Fitness]]
 

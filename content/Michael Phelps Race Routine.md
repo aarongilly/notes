@@ -8,8 +8,7 @@ tags:
 
 Michael Phelps had a rigorous and long pre-race routine. He starts the race hours before the race. By the time the race starts, he’s already been racing for hours. The swim is just the next step. 
 
----
-
+****
 ### Source
 - [[Essentialism]]
 

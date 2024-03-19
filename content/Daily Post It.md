@@ -19,8 +19,7 @@ Also it's a nice visual reminder of what you need to [[focus]] on that day.
 ### The Ivy Lee Post-it
 You could end the day by creating tomorrow's post-it. A sort of [[Ivy Lee Method]].
 
----
-
+****
 ### Source
 - [[Todoist Productivity Articles]]
 

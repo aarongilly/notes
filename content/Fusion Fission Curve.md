@@ -12,7 +12,7 @@ Apparently Fe (iron) is the [[Critical Point]] in the fusion/fission curve, wher
 
 ![](https://i.stack.imgur.com/eqtOG.png)
 
----
+****
 ### Source
 - [Stack Exchange](https://physics.stackexchange.com/questions/457686/why-do-fusion-and-fission-both-release-energy)
 

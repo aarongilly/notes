@@ -18,8 +18,7 @@ When compared to [[Olympic Weightlifting]], Power Lifting places more of an emph
 
 These lifts are the lifts that contribute to the "1000 Pound Club". If the sum of your one-rep max in these three lifts is >1000 pounds, you're a member. Congrats, hoss.
 
----
-
+****
 ### Source
 - [[Olympic Weightlifting Versus Powerlifting]]
 

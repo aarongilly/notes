@@ -11,8 +11,7 @@ Life has its ups and downs. That’s just how it is. It’s impossible to avoid 
 
 “[[Being Wrong]]” is an exact mirror of "being sad" or "having low-energy". It all could be generalized as "bad things exist, so don't freak out when you're in them".
 
----
-
+****
 ### Source
 
 ### Related

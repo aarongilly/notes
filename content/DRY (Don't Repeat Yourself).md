@@ -24,8 +24,7 @@ This is a best practice because it consolidates logic into a [[single source of 
 - Lists of references & pointers that don't actually pull the content (or at least a summary thereof) are effectively useless by themselves and put the work on the reader (in the case of documentation)
 - It requires foresight or early-on refactoring
 
----
-
+****
 ### Source
 
 ### Related

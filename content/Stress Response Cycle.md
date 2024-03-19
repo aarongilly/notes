@@ -20,7 +20,7 @@ Here are some means to de-stress:
 5. **Connect** with , especially those we love 
 6. ....and others. There's a bunch. 
 
----
+****
 ### Source
 - [[Burnout]]
 

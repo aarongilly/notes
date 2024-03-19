@@ -31,8 +31,7 @@ Establish spending categories that reflect the uniqueness of your life. You don'
     - Cost of Ownership
     - Cost of Use
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 

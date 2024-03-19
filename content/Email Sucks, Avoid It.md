@@ -13,8 +13,7 @@ Email sucks. Modern office & knowledge workers spend nearly half their day manag
 
 Check your email one or two times a day. If you have someone whom you *always* need to be available for, make a special rule in your email client to signal you they've messaged. But even then recognize that emergencies don't take place over email. Your work is in front of you. Not in Outlook.
 
----
-
+****
 ### Source
 - [[The Happiness Equation]]
 - [[Indistractable]]

@@ -10,8 +10,7 @@ tags:
 
 If $x^y=z$ then $\log_x(z)=y$. 
 
----
-
+****
 ### Source
 
 ### Related

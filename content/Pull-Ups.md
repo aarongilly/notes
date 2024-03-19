@@ -26,8 +26,7 @@ Pull-ups (or "Pull Ups" or "pullups") are an exercise in which an individual han
 - "Pull Up" - the hands face forward, "up and over" the bar, works the lats more directly
 - "Chin Up" - the hands face backward, "down and under" the bar, works the biceps more directly
 
----
-
+****
 ### Source
 - [[Simple Science Fitness]]
 

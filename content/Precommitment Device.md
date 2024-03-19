@@ -24,8 +24,7 @@ A precommitment device is any sort of one-time action that ensures you will perf
 - Purchase tickets to a conference
 - Using IFTTT to enable record-keeping
 
----
-
+****
 ### Source
 - [[Indistractable]]
 - [[Atomic Habits]]

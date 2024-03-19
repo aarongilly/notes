@@ -27,7 +27,7 @@ Where “I” is information, measured in bits, and “p” is the probability o
 
 ![[assets/D2B4C7A6-F158-494B-A835-14FB567452B8.jpeg]]
 
----
+****
 ### Source
 
 - ![Solving Wordle using information theory](https://youtu.be/v68zYyaEmEA)

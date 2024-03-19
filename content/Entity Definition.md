@@ -10,8 +10,7 @@ An "Entity" is a thing that is capable of an independent existence that can be u
 
 Entities can relate to one another via any number of relationships, which themselves could be entities. An entity fulfills a *role* within the relationship. There may be constraints on the cardinality of the relationship between two entities. Commonly: mix-max.
 
----
-
+****
 ### Source
 
 ### Source

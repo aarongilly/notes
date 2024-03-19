@@ -11,8 +11,7 @@ This is the [[GTD]] category of ongoing capture. As the need for new tasks come 
 
 Where possible, [[Help Future You]] by pre-loading the reminders with necessary metadata, links, references, or by accomplishing some of the work in advance.
 
----
-
+****
 ### Source
 
 ### Related

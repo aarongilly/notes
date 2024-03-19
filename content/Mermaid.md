@@ -54,8 +54,7 @@ xychart-beta
     bar [38, 47, 69, 80]
 ```
 
----
-
+****
 ### Source
 - https://mermaid.js.org
 

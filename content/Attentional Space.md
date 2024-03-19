@@ -11,7 +11,7 @@ Apparently your attentional space shrinks and grows in response to your circumst
 
 You are most productive when the task at hand fills your attentional space, and your attentional space is large enough to accommodate the task.
 
----
+****
 ### Source
 - [[Hyperfocus]]
 

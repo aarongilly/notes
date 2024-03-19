@@ -25,8 +25,7 @@ To help build the habit - utilize the [[2 Minute Rule of Habits]]. Make the scop
 - Look at your calendar or task list for today and tomorrow
 - Look at your GTD Inbox
 
----
-
+****
 ### Source
 
 ### Related

@@ -27,8 +27,7 @@ The Context Diagram has only one block. Also some explanatory text.
 
 ![Untitled](Untitled%202.png)
 
----
-
+****
 ### Source
 - The IDEF0 Spec 
 - [My own article!](https://aarongilly.com/gillespedia/idef0/)

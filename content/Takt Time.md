@@ -18,7 +18,7 @@ $$ T = \frac{T_a}{D} $$
 `T_a` = net time available to work
 `D` = customer demand
 
----
+****
 ### Source
 - Google Knowledge Graph
 

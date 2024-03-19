@@ -30,7 +30,7 @@ The main focus of [[LEAN Manufacturing]] is the elimination of waste.
 - Working on something whose purpose isn't well-aligned with the [[Mission Statement|Mission]] or [[What's Important Now]]
 	- see: [[Productive Distraction]]
 
----
+****
 ### Source
 - [Wikipedia](https://en.wikipedia.org/wiki/Value-stream_mapping)
 

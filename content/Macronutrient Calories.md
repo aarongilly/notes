@@ -16,8 +16,7 @@ There are 3 main macronutrients (and alcohol). Each gives a consistent number of
 
 1 gram alcohol = 5.7 or so calories
 
----
-
+****
 ### Source
 - [[Simple Science Fitness]]
 

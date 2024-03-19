@@ -10,7 +10,7 @@ Self-esteem is important. This fact was widely recognized (perhaps even *over*-r
 
 [[Reward Don't Make for Good Work]]. Good work makes for good self esteem. 
 
----
+****
 ### Source
 - [[Do Hard Things]]
 

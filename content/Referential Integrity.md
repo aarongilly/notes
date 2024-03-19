@@ -11,7 +11,7 @@ Referential Integrity refers to the consistency in associations between componen
 
 Referential Integrity is **always** a good thing. [[What is a System|System]]s that enforce RI are more durable, more adaptable, and allow for better agility in response to needed changes.
 
----
+****
 ### Source
 - 
 

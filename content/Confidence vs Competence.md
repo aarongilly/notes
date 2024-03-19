@@ -14,8 +14,7 @@ A lack of competence due to a lack of exposure (or simply the [[Mere Exposure Ef
 
 Confidence can be earned through exposure, perhaps through the use of [[Drilling Cycles|drilling]] and [[Deliberate Practice]]. These things work because [[Raising the Floor is as Valid as Raising the Ceiling]].
 
----
-
+****
 ### Source
 - [[Think Again]]
 

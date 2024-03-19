@@ -24,8 +24,7 @@ When performing mental or physical tasks, the optimal spot to aim for is just ba
 
 James Clear called this "The Goldilocks Rule".
 
----
-
+****
 ### Source
 - [[Atomic Habits]]
 

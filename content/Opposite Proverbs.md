@@ -35,8 +35,7 @@ The pen is mightier than the sword.
 Better safe than sorry.
 > 
 
----
-
+****
 ### Source
 
 [Opposite Proverbs: How Leaders Mislead Themselves | CO2 Partners](https://co2partners.com/opposite-proverbs-and-how-how-metaphors-mislead/)

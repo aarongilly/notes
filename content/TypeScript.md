@@ -8,8 +8,7 @@ tags:
 
 TypeScript is better than JavaScript. Although apparently Svelte is moving away from TypeScript and just using [[JSDoc]] + the IDE to get the same effect.
 
----
-
+****
 ### Source
 
 ### Related

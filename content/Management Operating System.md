@@ -23,7 +23,7 @@ An MOS is a framework around which an organization (N>1) can define/express thei
 2. Be intentional
 3. [[Work the System]] - update your [[Standard Processes]] as you learn.
 
----
+****
 ### Source
 - Work
 - [Indeed.com](https://www.indeed.com/career-advice/career-development/management-operating-system#:~:text=A%20management%20operating%20system%20(MOS,and%20capitalizing%20on%20improvement%20opportunities.)

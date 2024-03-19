@@ -13,8 +13,7 @@ tags:
 
 Epicures said the relentless pursuit of pleasure will only bring pain. 
 
----
-
+****
 ### Source
 - [[Homo Deus]]
 

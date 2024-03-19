@@ -22,7 +22,7 @@ Strategies are what makes your [[What is a Plan|plan]]s cohesive. [[Make the Dec
 
 See also: [[Strategy Document]]
 
----
+****
 ### Source
 - - ![video](https://youtu.be/iuYlGRnC7J8)
 - https://hbr.org/1996/11/what-is-strategy

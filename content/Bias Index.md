@@ -17,8 +17,7 @@ tags:
 - [[Status Quo Bias]]
 - [[Confirmation Bias]]
 
----
-
+****
 ### Source
 
 ### Related

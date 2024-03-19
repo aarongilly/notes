@@ -89,7 +89,7 @@ body{
 }
 ```
 
----
+****
 ### Source
 - self
 - https://docs.obsidian.md/Reference/CSS+variables/CSS+variables

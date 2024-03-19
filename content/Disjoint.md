@@ -1,6 +1,5 @@
 ---
 created: 2024-03-17
-created:
 tags:
   - modeling
   - language

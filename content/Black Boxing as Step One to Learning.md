@@ -9,8 +9,7 @@ When approaching a new code base, basically just start playing around with it. D
 
 This gives you enough knowledge to start. And it lays the groundwork for when you DO decide you want to see how it works. 
 
----
-
+****
 ### Source
 
 ### Related

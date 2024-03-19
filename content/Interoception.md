@@ -26,7 +26,7 @@ There are a couple of ways, they both deal with your heart.
 1. Count your heartbeat, not using your hand. 
 2. Estimate your heart *rate*, then check it.
 
----
+****
 ### Source
 - [[Huberman Labs]]
 - [[Do Hard Things]]

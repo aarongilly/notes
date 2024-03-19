@@ -12,8 +12,7 @@ Operating the switch (changing your focus) takes literal cellular energy. This i
 
 The switch apparently is localized to a certain spot within the brain. 
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 

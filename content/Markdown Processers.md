@@ -13,8 +13,7 @@ There are others. Looks like the one called ‘Remark’ is probably the best on
 
 It’s what Astro uses “Remark”, which has extensions for all sorts of [[Extended Markdown Syntax]].
 
----
-
+****
 ### Source
 - [https://github.com/remarkjs/remark](https://github.com/remarkjs/remark)
 

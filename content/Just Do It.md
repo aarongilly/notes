@@ -19,8 +19,7 @@ Don't think about it. Don't worry about it. Don't feel the need to for certainty
 
 It's the best way to learn. It's the best way to produce big results in the long run. It's the fastest and best way to be.
 
----
-
+****
 ### Source
 - [[The Happiness Equation]]
 

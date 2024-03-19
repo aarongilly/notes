@@ -23,7 +23,7 @@ In the service of deriving [[Goals (index)|goals]] for 2024 and formalizing (or 
  
 Basically, anything in green is something you should celebrate & keep around. Anything in red needs some form of attention. After thinking about the red labels, try to come up with some concrete things you'll use to try to improve them. Those are the blue labels.
 
----
+****
 ### Source
 - Me
 

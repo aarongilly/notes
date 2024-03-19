@@ -12,8 +12,7 @@ The term “Block” is hard to define, but also fundamental to [[SysML]]. Block
 
 Relationships between blocks are represented via [[Block Definition Diagram ]], whereas the internal workings of a single block are represented via [[Internal Block Diagram]]. 
 
----
-
+****
 ### Source
 - [[SysML Distilled]]
 

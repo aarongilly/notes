@@ -6,8 +6,7 @@ tags:
 ---
 **The slower, more deliberate mode of thinking.**
 
----
-
+****
 ### Source
 - [[Thinking Fast and Slow]]
 

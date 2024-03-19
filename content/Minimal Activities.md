@@ -15,8 +15,7 @@ See [[Choice & progress]]
 > Put more wood behind fewer arrows - Scott McNealy
 > 
 
----
-
+****
 ### Source
 - [[Stillness is the Key]]
 - [[Essentialism]]

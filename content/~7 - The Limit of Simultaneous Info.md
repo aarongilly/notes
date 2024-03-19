@@ -15,8 +15,7 @@ It's also why, in the realm of Systems Engineering, we usually decompose systems
 
 According to [[The Organized Mind]], more recent studies suggest the number should be more like "4". 
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 - [[The Tipping Point]]

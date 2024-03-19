@@ -12,8 +12,7 @@ tags:
 
 > [!tldr] 🔑 Deep Work is focused, intentional, work, utilizing a high level of knowledge and skill, that cannot be quickly routinized by automations or scripts.
 
----
-
+****
 ### Source
 - [[Deep Work (book)]]
 

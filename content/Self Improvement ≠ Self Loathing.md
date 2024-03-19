@@ -13,8 +13,7 @@ Enjoy [[Presence]]. Do not put off satisfaction until you've achieved a goal. [[
 
 > [!tldr] 👌 You can love yourself for who you are and want to be better too.
 
----
-
+****
 ### Source
 
 ### Related

@@ -10,8 +10,7 @@ It’s almost inevitable that we’ll be super humans. The same technologies tha
 
 The status quo for medicine and sociology has been to ensure freedom from famine, plague, and war. This is slowly changing to a status quo which is aimed at more than just [[Ending War, Famine, & Plague]] - but a world of immortal beings who are ceaselessly in bliss. These superhuman, super intelligent, super feeling beings may rightfully be considered more valuable. At which point, there won't be as much importance placed on protection Homo Sapiens ([[The Future of Human Importance]])... and those best qualified to do the protection will be those who don't need it.
 
----
-
+****
 ### Source
 - [[Homo Deus]]
 

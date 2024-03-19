@@ -18,8 +18,7 @@ James Clear offers these tips for mastering the Diderot Effect and avoiding a sp
 5. Go a month without buying something new
 6. Let go of the want. They are wants, not needs.
 
----
-
+****
 ### Source
 - [[Mastering the Diderot Effect]]
 

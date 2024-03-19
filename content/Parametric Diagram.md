@@ -14,8 +14,7 @@ Parametric diagrams are exploded views of Blocks, and sometimes more specificall
 
 ![[FBD6B2CA-6A72-46A1-83B0-C1B43440CB33.jpeg.jpeg]]
 
----
-
+****
 ### Source
 - [[SysML Distilled]]
 

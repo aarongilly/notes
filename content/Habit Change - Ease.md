@@ -29,8 +29,7 @@ Make good habits easier
 
 There are some pretty sure fire ways to make good habits inevitable and bad ones impossible. Watch too much TV? Throw out your TV. Have your spouse change your social media password on Monday, and not give it to you until Friday night. Set up an account to automatically round-up all purchases to the nearest dollar and invest the change. 
 
----
-
+****
 ### Source
 - [[Atomic Habits]]
 

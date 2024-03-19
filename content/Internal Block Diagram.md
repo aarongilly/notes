@@ -21,8 +21,7 @@ See how BDDs contextualize IBDs.
 
 Examples borrowed from ‘A Practical Guide to SysML’
 
----
-
+****
 ### Source
 - [[SysML Distilled]]
 - A Practical Guide to SysML - book

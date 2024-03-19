@@ -16,8 +16,7 @@ Graph Databases don't use [[SQL]], but instead query languages like GraphQL, SPA
 
 Graphs are employed by Social Networks (where friends of friends is a common scheme) and Recommendation Engines (where “if you like X you might like Y” is based on how those things are related).
 
----
-
+****
 ### Source
 
 ### Related

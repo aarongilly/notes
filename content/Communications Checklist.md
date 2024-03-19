@@ -16,8 +16,7 @@ Most failures in endeavors of more than one person are from poor communication. 
 
 Communications checklists are Do, Confirm checklists ([[Read, Do or Do, Confirm]])
 
----
-
+****
 ### Source
 - [[The Checklist Manifesto]]
 

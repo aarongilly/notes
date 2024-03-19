@@ -23,7 +23,7 @@ Data Management areas of practice:
 10. Data quality management
 	Marrying to business requirements
 
----
+****
 ### Source
 - [This summary, in lieu of the actual book](atlan.com/dama-dmbok-framework/)
 

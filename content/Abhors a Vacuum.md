@@ -10,7 +10,7 @@ In business, gaps in the marketplace will not *remain* gaps once they are notice
 
 **Your schedule and your inbox also abhor a vacuum**. If you increase your productivity and finish 40 hours of work in 8 hours, that does NOT mean you will suddenly have 32 hours of leisure. People will notice you're available and put more on your plate. YOU will tend to find new things that will fill in these empty spaces. Left to your own devices, you will replace any "solved" obligation with some brand-new obligation. This is partly due to [[The Luxury Trap]] or the [[Diderot Effect]], but also part of human biology. We self-seek a homeostasis, and that homeostasic set point CANNOT be "fully satisfied", it's just not how we evolved to exist.
 
----
+****
 ### Source
 - myself
 

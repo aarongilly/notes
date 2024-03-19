@@ -11,7 +11,7 @@ Humans are biased. Systems can be biased. Bias is a clinical, technical, and soc
 
 ![Untitled](Untitled%2049.png)
 
----
+****
 ### Source
 - [[Noise - A Flaw in Human Judgment]]
 

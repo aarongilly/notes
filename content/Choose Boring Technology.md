@@ -1,6 +1,5 @@
 ---
 created: 2024-02-27
-created:
 tags:
   - business
   - productivity

@@ -44,7 +44,7 @@ There are apparently 2-to-4 main competing syntaxes.
 
 [^2]: Apparently "Process Specification" here can be anything from flowcharts to pseudo code to structured English. 
 
----
+****
 ### Source
 - [Wikipedia](https://en.wikipedia.org/wiki/Data-flow_diagram)
 - [This article](https://blog.hubspot.com/marketing/data-flow-diagram/)

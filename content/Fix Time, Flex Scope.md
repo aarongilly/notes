@@ -9,7 +9,7 @@ This is essentially just [[Timeboxing]], but it's a new way to think about it th
 
 So, set out when you'll be doing what. When that time comes, set a realistic goal for what you'll get done in your block of time (be it measured in [[Pomodoro Technique 🍅|tomatoes]] or not). Apparently if you stick with this long enough you'll hone the ability to marry up the *time allotted* and the *scope to accomplish*. 
 
----
+****
 ### Source
 - [Amazon book preview of "Getting Results the Agile Way"](https://www.amazon.com/Getting-Results-Agile-Way-Personal/dp/0984548203/ref=as_li_ss_tl?ie=UTF8&qid=1510672839&sr=8-1&keywords=the+agile+way&linkCode=sl1&tag=james0f8-20&linkId=e438d446cf2a81bec7acc52b0770e6b2&asin=0984548203&revisionId=&format=4&depth=1)
 

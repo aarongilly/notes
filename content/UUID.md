@@ -20,8 +20,7 @@ There are 5 Versions of UUIDs. Some are random. Some are time-indexed. They gene
 
 What each of those hyphen-delimited groups *means* depends on the version of the UUID. 
 
----
-
+****
 ### Source
 - [Universally unique identifier - Wikipedia](https://en.wikipedia.org/wiki/Universally_unique_identifier)
 

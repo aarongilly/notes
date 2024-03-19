@@ -9,7 +9,7 @@ If you're leading a team (or children) to being tougher, the best method doesn't
 
 It's the act of being given the choice to **control** the extent of their pain that they grow the mental muscle to willingly endure it later. 
 
----
+****
 ### Source
 - [[Do Hard Things]]
 

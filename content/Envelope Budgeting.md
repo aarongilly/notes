@@ -17,8 +17,7 @@ How to:
 4. When spending money on a thing, pull it from the envelope associated with that thing
 5. If your envelope runs out of money, don’t spend any more
 
----
-
+****
 ### Source
 
 ### Related

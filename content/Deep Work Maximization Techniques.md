@@ -17,7 +17,7 @@ How to work deeply more often:
 - Sequester yourself to dedicated deep work spots - [[Tailor Your Environment]]
 - Ask yourself the [[Deep Work Questions]]
 
----
+****
 ### Source
 - [[Deep Work]]
 ### Related

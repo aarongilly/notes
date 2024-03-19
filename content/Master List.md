@@ -20,8 +20,7 @@ Keep a list of pointers (links) to the various pieces of your Productivity Stack
 
 By putting them all down and in one place, you are forced to clarify their usage and purpose. If you've got tools installed that don't make it into your list, they're probably [[Clutter]].
 
----
-
+****
 ### Source
 
 ### Related

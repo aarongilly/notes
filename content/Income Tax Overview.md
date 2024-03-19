@@ -30,8 +30,7 @@ Now, in actuality, there is **way more details** that go into all of this. The
 
 ⬆️⬆️⬆️⬆️⬆️ this is all for Federal Income [[Tax Index|Tax]] - there are other [[Tax Types]] (most (/all?) of which behave the same)
 
----
-
+****
 ### Source
 
 ### Related

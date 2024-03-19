@@ -12,7 +12,7 @@ Making piles makes a space for things to get lost. More importantly, storing thi
 
 Marie Kondo has some very Japanese thoughts about how the stuff on the bottom of the pile get a "negative energy" from having to support the stuff on top of them. 
 
----
+****
 ### Source
 - [[The Life-Changing Magic of Tidying Up]]
 

@@ -11,8 +11,7 @@ Minimum Effective Dose is a concept from the world of medicine. To treat illness
 
 This same exact concept can be utilized to lead a more productive, more efficient lifestyle. When applied to working on Projects, minimum effective dose becomes [[Minimum Viable Progress]].
 
----
-
+****
 ### Source
 
 ### Related

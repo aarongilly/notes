@@ -18,8 +18,7 @@ Hinged at the waist with legs relatively straight, pull a barbell off the floor 
 
 - Back
 
----
-
+****
 ### Source
 - [[Simple Science Fitness]]
 

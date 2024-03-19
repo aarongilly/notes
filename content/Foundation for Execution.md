@@ -29,7 +29,7 @@ If you've got a bad foundation for execution you might tick these boxes:
 - What processes are digitized end-to-end? Are they mission-critical?
 - What data are easily accessible to your employees & customers? Is this the data they need to make decisions?
 - What strengths and weaknesses do you see in your foundation?
----
+****
 ### Source
 - [[Enterprise Architecture as a Strategy]]
 

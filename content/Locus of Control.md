@@ -19,8 +19,7 @@ The **Locus of Control** is a concept around where you feel the control for your
 - More likely to succeed (in almost any measure)
 - Less likely to be content in an overly simple or constrained job function
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 - [[Smarter, Faster, Better]]

@@ -18,8 +18,7 @@ Everyone in a group should have equitable conversational attention. Teams should
 
 Good teams are full of people who are attuned to each other's body language and expressions. These subtle cues should not be ignored between teammates. 
 
----
-
+****
 ### Source
 - [[Smarter, Faster, Better]]
 

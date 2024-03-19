@@ -16,7 +16,7 @@ There's a recurring pattern which pops up when aiming to achieve some goals. You
 
 You're in a frigid room with an ice cube on the table. You work really hard to heat the room from 10 degrees to 11 degrees. Nothing happens. You work really hard to heat the room from 11 degrees to 12 degrees. Nothing happens. This process repeats itself over and over until you work really hard and go from 31 degrees to 32 degrees. Suddenly the ice cube melts overnight. It wasn't *that day's work* that melted the ice cube, it was the cumulative effects of all the work that unlocked the potential to make the change. It was overcoming the plateau. From an outsider's perspective, it looks like an overnight success.
 
----
+****
 ### Source
 - [[Atomic Habits]]
 

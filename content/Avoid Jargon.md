@@ -13,7 +13,7 @@ Jargon can be a defense mechanism. You throw it up when you're presenting to som
 
 > [!tip] You come across sounding smarter when you use simpler words. 
 
----
+****
 ### Source
 - Mark Cuban 
 

@@ -22,8 +22,7 @@ Getting Things Done (GTD) is a system of tools and practices written about and e
 - [[Weekly Review]]
 - [[2 Minute Rule of GTD]]
 
----
-
+****
 ### Source
 - [[Getting Things Done The Art of Stress-Free Productivity]]
 

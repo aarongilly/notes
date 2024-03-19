@@ -18,8 +18,7 @@ Marshall Goldsmith's book [[Triggers]] talks a lot about this concept with his i
 
 Dan Harris's book [[10% Happier]] also talks about how [[Meditation]] helps you separate reaction from response.
 
----
-
+****
 ### Source
 - [[The 7 Habits of Highly Effective People]]
 

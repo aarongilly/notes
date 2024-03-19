@@ -57,8 +57,7 @@ The [Wikipedia Article](https://en.wikipedia.org/wiki/Object_Process_Methodology
         - Processes can invoke themselves
 - Relationship Cardinalities
 
----
-
+****
 ### Source
 - [Object Process Methodology - Wikipedia](https://en.wikipedia.org/wiki/Object_Process_Methodology)
 

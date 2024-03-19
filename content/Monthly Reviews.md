@@ -17,8 +17,7 @@ The [[Weekly Review]] is an idea cadence for creating a short term action plan, 
 - Aligning Projects to Values
 - Something from a scheduled Distributed Annual Review
 
----
-
+****
 ### Source
 
 ### Related

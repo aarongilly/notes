@@ -17,7 +17,7 @@ Warren Buffet’s advice on how to beat accomplish your big, truly big goals.
 
 This is the key component. Do fewer things with greater [[focus]] and you will achieve more. [[Less, but Better]].
 
----
+****
 ### Source
 - [[Grit (book)]]
 

@@ -21,7 +21,7 @@ The application of the scientific method to test and refine hypothesized benefit
 Medicine 3.0 cares about how you [[Protect Sleep]], and hone your own personal [[Ideal Exercise Regiment]], and what you eat & drink, and your emotional health. 
 Medicine 3.0 cares about outcomes beyond 10 years from the point of intervention.
 
----
+****
 ### Source
 - [[Outlive]]
 

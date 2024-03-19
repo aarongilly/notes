@@ -23,7 +23,7 @@ So many productivity and happiness tips and techniques have to do with knowing w
 - Where is your [[Mindfulness & Now|mind]]? Try to notice when you're off-task and "gently" bring yourself back to the task at hand. 
 	- You can use a ~10 minute timer to check in on yourself every 10 minutes
 
----
+****
 ### Source
 - self
 

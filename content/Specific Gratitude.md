@@ -12,8 +12,7 @@ Nice - “I'm grateful for family and health”
 
 Great - “I’m grateful that I can call my mom who loves me and **not** have to tell her I'm going to the ER”
 
----
-
+****
 ### Source
 
 ### Related

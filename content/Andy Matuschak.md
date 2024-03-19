@@ -9,7 +9,7 @@ Andy Matuschak seems like a dude who's found a way to make his job into doing wh
 
 He seems to really be into the idea of [[Spaced Repetition]].
 
----
+****
 ### Source
 - [Andy's site](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zKKB5ENRahwftH96H7mijiu&stackedNotes=z7EQ2nVGus5B1rS9CqT18g6&stackedNotes=zB7bdhotesiTDgSjHwGr9i4)
 

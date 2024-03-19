@@ -17,8 +17,7 @@ If you think you might have a disease that has a 0.005% prevalence in the popula
 
 Prostate cancer - you’re more likely to die with it, than die of it. Removing the Prostate is a serious surgery that will rob you of time now (Getting the procedure & recovering) and the quality of life you’ll give up (due to side effects). Roll the dice, 12 means you die sooner, but 2 through 11 mean you’re not hassled with any of these things.
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 - [[Thinking Fast and Slow]]

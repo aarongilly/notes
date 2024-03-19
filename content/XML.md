@@ -36,8 +36,7 @@ XML documents begin with a declaration that describe how they are formatted (wha
 <greeting>Hello there, <lie>friend</lie>.</greeting>
 ```
 
----
-
+****
 ### Source
 
 [XML - Wikipedia](https://en.wikipedia.org/wiki/XML)

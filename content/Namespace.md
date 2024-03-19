@@ -65,8 +65,7 @@ console.log(x); // prints 'hello', refers to x the script's global namespace
 console.log(classInstance.x); // prints 'goodbye', refers to x in the myClass namespace
 ```
 
----
-
+****
 ### Source
 
 ### Related

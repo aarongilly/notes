@@ -11,8 +11,7 @@ A string is "random" if there exists no way to describe it in an abbreviated for
 
 Random events or data cannot be systematically shrunk through compression schemes.
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 

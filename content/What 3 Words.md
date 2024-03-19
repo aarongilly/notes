@@ -11,7 +11,7 @@ aliases:
 
 This is possible because using words is like having a base-40,000 numbering system. You only need 3 numbers in a base-40,000 system to uniquely specify any 3m square on the surface of the earth.
 
----
+****
 ### Source
 - https://w3w.co/save.grants.tower
 

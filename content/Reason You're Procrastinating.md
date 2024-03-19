@@ -11,7 +11,7 @@ If you're avoiding discomfort, a good strategy to get started is to [[Commit for
 
 If you think your distraction is more important than the [[Know Your Immediate Task|Immediate Task]], then ask yourself if what you're doing achieves your goals, if the thing you're *not* doing really shouldn't be done at all, and if you need to come back later with a different energy.
 
----
+****
 ### Source
 - [[Ultralearning]]
 

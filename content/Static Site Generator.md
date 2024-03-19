@@ -18,7 +18,7 @@ There are plenty of others I've no real experience with. Hugo. Gatsby. Eleventy.
 
 Also you can make more "full-fledged" frameworks work like SSGs NextJS, SvelteKit, & Nuxt.
 
----
+****
 ### Source
 - 
 

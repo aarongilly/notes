@@ -14,8 +14,7 @@ Earnest Hemingway did this when he was writing.
 
 This is also a playoff of Stephen Covey's advice to “[[Begin with the End in Mind]] ”.
 
----
-
+****
 ### Source
 - [[Building A Second Brain]]
 

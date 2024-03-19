@@ -16,8 +16,7 @@ Our natural stress response only actually helps us to a point. There is an assoc
 
 - Police officers are more likely to behave against their own training in situations where tensions are high. They fail to de-escalate or use excessive force when there is no pause inserted after a high-speed pursuit, for example.
 
----
-
+****
 ### Source
 - [[Blink]]
 

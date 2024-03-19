@@ -16,8 +16,7 @@ People will often spend way too many resources trying to make their first idea w
 
 If you are stuck on trying to force an answer to a problem that just doesn't want to work for you, you're lugging around an anchor, holding you down from reframing the problem and finding alternative solutions. 
 
----
-
+****
 ### Source
 - [[Designing Your Life]]
 - [[Range - Why Generalists Triumph in a Specialized World]]

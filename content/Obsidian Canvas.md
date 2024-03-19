@@ -1,11 +1,11 @@
 ---
 created: 2024-02-26
-created:
 tags:
   - notetaking
 aliases:
+  - JSON Canvas
 ---
-[[Obsidian]] put out their own barebones [[Whiteboarding App]]-like feature called "Canvas" a while back. I've only ever used it once: see [[Exercise Canvas.canvas|Exercise Canvas]]. 
+[[Obsidian]] put out their own barebones [[Whiteboarding App]]-like feature called "Canvas" a while back. In March 2024 they rebranded to "[JSON Canvas](https://jsoncanvas.org/)". 
 
 Canvas files are stored using a custom-build (but [[Open Source]]) file format "`.canvas`". It's simple [[JSON]], with a [[Graph Database]]-like structure. It's a map of `nodes` and `edges`.
 ### Example .`.canvas` File

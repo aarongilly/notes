@@ -10,8 +10,7 @@ Sometimes we can trick ourselves into thinking we are god at a thing because we 
 
 This can be counteracted if you [[Learn by Doing]] .
 
----
-
+****
 ### Source
 - [[How to Take Smart Notes]]
 

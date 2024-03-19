@@ -11,8 +11,7 @@ With a Second Brain, you are enabled to constantly consume new ideas through a l
 
 Ask yourself - "How can I use this?""
 
----
-
+****
 ### Source
 - [[Building a Second Brain Podcast]]
 

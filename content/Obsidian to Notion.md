@@ -14,8 +14,7 @@ https://github.com/connertennery/Notion-to-Obsidian-Converter
 ## I DID IT
 On 2023-07-08! I wrote a custom script to clean up stuff and was pretty successful!
 
----
-
+****
 ### Source
 
 ### Related

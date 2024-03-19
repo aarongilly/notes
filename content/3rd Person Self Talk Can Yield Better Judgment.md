@@ -15,7 +15,7 @@ This was extended even further when a group of children were told to think of th
 
 In the book [[Do Hard Things]] this was posited as adding some distance between your current state and the message in your head. 
 
----
+****
 ### Source
 - [[Do Hard Things]]
 

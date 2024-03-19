@@ -12,8 +12,7 @@ Once you’re smart ‘enough’, there isn’t really a good correlation to add
 
 It's not enough to just work hard, but also you have to be lucky enough for your hard work to coincide with a societal and temporal situation that favors you're hard work.
 
----
-
+****
 ### Source
 - [[Outliers]]
 

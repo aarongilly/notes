@@ -15,8 +15,7 @@ Utilize repeatable, standard methods to perform all regular actions. Allow for i
 - Template forms or folders - [[Intermediate Packets]]
 - Standard modules (e.g. these notes)
 
----
-
+****
 ### Source
 - [[Work the System]]
 - [[The Checklist Manifesto]]

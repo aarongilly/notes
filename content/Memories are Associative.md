@@ -12,8 +12,7 @@ This is one of the negative aspects of multitasking and why you should [[Never M
 
 Memories of special events stick out mostly because they aren’t competing against any (or many) other memories. Memories of routines become genericized. This is why you can't remember what you had for breakfast yesterday - unless it was something weird. 
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 

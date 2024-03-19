@@ -14,8 +14,7 @@ Women were given the right to vote after WW2 in large part because of the recogn
 
 Automation has struck down the workforce of entire industries in the past. It used to be assumed that you were safe if you were in white collar work. But, already stock traders are largely usurped by algorithmic trading. We are facing the death of career truckers, taxi cabs, and other professional drivers. Soon it is quite likely that lawyers will be outmoded by machines which can find every law, precedent, and loophole in existence. Artificial Intelligence is already better at diagnosing lung cancer than doctors. Even art which was created by algorithm and machine learning has been shown to be indistinguishable from art created by human professionals by artistic experts.
 
----
-
+****
 ### Source
 - [[Homo Deus]]
 

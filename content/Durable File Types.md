@@ -33,8 +33,7 @@ Not all file types are created equal. In terms of resistance to going out-of-sup
     - .flac - lossless, large
     - .mp3
 
----
-
+****
 ### Source
 - [LibGuides: Getting your data organised: Durable file formats](https://latrobe.libguides.com/dataorganisation/fileformats)
 - [Guides: Data Management Recommended Practices: Sustainable File Types](https://guides.library.upenn.edu/datamgmt/fileformats)

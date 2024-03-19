@@ -14,8 +14,7 @@ Noticing cues is more difficult over time. **Awareness** is key, and difficult. 
 
 Implementation intentions are good for follow through. "I will exercise at 6am in the home gym on Weekdays" is better than "I will exercise more". Time and location are necessary details. [[Habit Stacking]]  is using a current habit as a cue for the habit you want. "I will exercise after I make coffee" (not a great example). You can write down a list of all the habits you want, then write down a list of things that you do every day, or things that happen to you every day... then map between them.
 
----
-
+****
 ### Source
 - [[Atomic Habits]]
 

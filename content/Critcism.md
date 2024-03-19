@@ -11,8 +11,7 @@ The expression of disapproval of someone or something based on perceived faults 
 
 Pegged by Dr. John Gottman as one of the [[4 Horsemen of Divorce]].
 
----
-
+****
 ### Source
 - Google's Definition, verbatim
 - [[Blink]]

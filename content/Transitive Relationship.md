@@ -11,8 +11,7 @@ tags:
 
 For instance, if A is larger than B, and B is larger than C, then A is larger than C.
 
----
-
+****
 ### Source
 
 ### Source

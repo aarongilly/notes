@@ -12,8 +12,7 @@ The project list serves as a manifest of the things you want to do. It is a cont
 
 Keeping a project list current and tidy is a great way to achieve clarity. That’s why reviewing open projects is a main component of the [[Weekly Review]].
 
----
-
+****
 ### Source
 
 ### Related

@@ -28,7 +28,7 @@ The higher levels of hierarchy form to make the lower levels of the system funct
 - States to a nation
 - Nations to a global economy 
 
----
+****
 ### Source
 - [[Thinking in Systems]]
 

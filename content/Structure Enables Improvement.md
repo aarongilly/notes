@@ -14,8 +14,7 @@ If you want to [[Build On Yourself]] you have to pick up where you left off last
 
 Structure allows for the repetition and accumulation of marginal gains to happen often enough to get [[Traction]] to make a real difference (see:  [[Habits Have Compounding Returns]]). 
 
----
-
+****
 ### Source
 Me
 

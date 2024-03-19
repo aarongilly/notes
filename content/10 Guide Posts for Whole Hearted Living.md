@@ -20,8 +20,7 @@ tags:
 9. Cultivating meaningful work; letting go of self-doubt and "supposed to"
 10. Cultivating laughter, song, and dance; letting go of "being cool" and "in control"
 
----
-
+****
 ### Source
 - [[Daring Greatly]]
 

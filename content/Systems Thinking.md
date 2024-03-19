@@ -15,7 +15,7 @@ Example of a common pattern across domains:
 - From **biology** - the more highly specialized a species is, the less likely it will adapt to a new environment
 - From **computing** - the more well-optimized a software is to a certain kind of database, the less easy it will be to adapt to a new one
 
----
+****
 ### Source
 - [[Systems Engineering Book of Knowledge|SEBoK]]
 - [[Thinking in Systems]]

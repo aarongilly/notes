@@ -11,8 +11,7 @@ In his book "*Range*", David Epstein starts with a comparison of two well-known 
 
 Chess players have focused heavily on being great at chess, but are nowhere near as good as modern machines. Meanwhile more dynamic tasks are still beat performed by humans, who are adaptive to problems, employing knowledge gained from every aspect of life. 
 
----
-
+****
 ### Source
 - [[Range - Why Generalists Triumph in a Specialized World]]
 

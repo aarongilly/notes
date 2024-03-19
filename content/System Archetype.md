@@ -21,7 +21,7 @@ System archetypes are common patterns that [[Emergent Behavior|emerge]] out of s
 - [[Error Trap]]
 - [[Rate Determining Step]]
 
----
+****
 ### Source
 - [[Thinking in Systems]]
 

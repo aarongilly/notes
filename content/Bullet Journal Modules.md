@@ -18,8 +18,7 @@ Keep track of what's in your book and where. Also keeps track of what your payin
 - **Month Log** - sequential listing of days, across from a task list for the month. Write down what you did *after* you've done it.
 - *Special collections* - food trackers, lists of various types, all sorts of things can be done.
 
----
-
+****
 ### Source
 - [[The Bullet Journal Method]]
 

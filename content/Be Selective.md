@@ -24,7 +24,7 @@ A smattering form various sources
 
 > [!quote] There are always more ideas than can be successfully pursued - Brian Moran
 
----
+****
 ### Source
 - [[Essentialism]]
 - [[The Life-Changing Magic of Tidying Up]]

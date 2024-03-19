@@ -12,8 +12,7 @@ Basically, keep in mind that you might hit [[Financial Independence]] at some po
 
 Monthly income = capital * current long-term interest rate/12 months
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 

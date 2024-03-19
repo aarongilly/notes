@@ -10,8 +10,7 @@ When you are free to do anything, you can sometimes fall into a state of [[Targe
 
 If you're wanting to flex your creative muscle, you may not have to try something entirely new. You may just do something you've done before, but with a new limitation. 
 
----
-
+****
 ### Source
 - [[Start With This]]
 

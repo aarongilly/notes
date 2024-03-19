@@ -16,8 +16,7 @@ This is unless, of course, we discover something like "**the Soul**". However th
 ### Split Brain
 In split brain patients we've observed results that suggest that the two halves of the brain have gone on independently developing, sometimes in slightly different directions. The one person has become two. Interestingly, the person with the half of the brain that controls speech has been seen to create narratives that explain in rational terms the behaviors of their other half based solely on the speaking portion of the brain's observations of the outside world. It's possible this tendency to weave narratives out of facts is innate, and also what causes us to dream.
 
----
-
+****
 ### Source
 - [[Homo Deus]]
 

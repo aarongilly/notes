@@ -18,7 +18,7 @@ The Sugarcane [[HIIT]] workout is a highly efficient way to work on your [[VO2 M
 
 Whole thing can be done in ~10 minutes, plus warm-up/cool-down. ****
 
----
+****
 ### Source
 - [[Huberman Labs]]
 

@@ -13,8 +13,7 @@ A sigil is a context-identifying character out in front of a symbol, in programm
 - In RUBY, globally-scoped variables start with $
 - In YAML, a double exclamation mark denotes data that's explicitly typed
 
----
-
+****
 ### Source
 
 ### Source

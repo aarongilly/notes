@@ -13,8 +13,7 @@ Front load work. They say an ounce of prevention is worth a pound of cure - well
 
 Don’t fall victim to the [[Planning Fallacy]]. Prepare prepare prepare. Add 50% to your time estimates. You won’t be any better than anyone else at predicting the future. So allow resources for it. 
 
----
-
+****
 ### Source
 - [[Essentialism]]
 

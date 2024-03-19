@@ -13,8 +13,7 @@ If your predictions are consistently accurate, you MIGHT be right.
 
 There’s a whole method for how to go about making predictions and the specifics of testing them. It’s named [[The Scientific Method]].
 
----
-
+****
 ### Source
 - [[A Briefer History of Time]]
 

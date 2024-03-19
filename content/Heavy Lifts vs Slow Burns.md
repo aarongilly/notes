@@ -21,8 +21,7 @@ Slow Burns are done incrementally over time. Slow burns are sustainable in the l
 - Spend 10 minutes every few nights tearing out bits of the bathroom piece by piece
 - [[Stitch Existing Materials into Something New]]
 
----
-
+****
 ### Source
 - [[Building A Second Brain]]
 

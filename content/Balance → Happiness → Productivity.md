@@ -12,7 +12,7 @@ The most productive people work no more than 40 hours. The most productive peopl
 
 Follow your natural rhythms. Don't push through needed [[Breaks [[index)]]]]. Make the most of them.
 
----
+****
 ### Source
 - [[The Sweet Spot]]
 

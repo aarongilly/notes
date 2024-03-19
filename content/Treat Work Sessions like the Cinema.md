@@ -20,7 +20,7 @@ You need to **prepare to do work** the same way you'd prepare to watch a movie. 
 
 Do a pre-work prep ritual so you can actually do the work. 
 
----
+****
 ### Source
 ![https://youtu.be/R5i8alK5hPo](https://youtu.be/R5i8alK5hPo)
 

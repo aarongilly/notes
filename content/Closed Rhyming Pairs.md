@@ -10,8 +10,7 @@ There's a pretty great Wikipedia article on Closed Rhyming Pairs - words that ha
 
 I'll put in this snippet here briefly, to act as a sort of example, chiefly.
 
----
-
+****
 ### Source
 
 [List of closed pairs of English rhyming words](https://en.wikipedia.org/wiki/List_of_closed_pairs_of_English_rhyming_words)

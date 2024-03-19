@@ -15,8 +15,7 @@ Minimal Tech → [[Digital Detox]]
 
 Questions to ask yourself → [[Minimalist Questions]] 
 
----
-
+****
 ### Source
 - [[Digital Minimalism]]
 

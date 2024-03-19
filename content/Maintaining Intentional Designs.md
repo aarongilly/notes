@@ -15,7 +15,7 @@ Good design is vulnerable to *rot*. Unconstrained/uncoordinated acquisitions/add
 - When it comes to coding projects, sometimes [[Worse is Better]].
 - When it comes interior design, I'm not really qualified. Probably have less stuff, though.
 
----
+****
 ### Source
 - self
 

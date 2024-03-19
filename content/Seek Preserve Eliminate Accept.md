@@ -15,7 +15,7 @@ Marshall Goldsmith, CEO Coach, has a series of questions that can help a group (
 3. What do we have that we should eliminate
 4. What do we need to accept?
 
----
+****
 ### Source
 - [[Triggers]]
 

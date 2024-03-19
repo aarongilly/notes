@@ -21,8 +21,7 @@ tags:
 
 **Quadrant 4)** unimportant and not urgent. Don’t do these things. 
 
----
-
+****
 ### Source
 - [[The 7 Habits of Highly Effective People]]
 - [[Stillness is the Key]]

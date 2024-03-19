@@ -26,7 +26,7 @@ For some reason you use the term ''[[Congruent]]" when doing modulus operations?
 	13 mod 4 "is congruent to" 1...
 		Perhaps because when applied to the 'going around a circle' way of thinking, they form the same angle?
 
----
+****
 ### Source
 - school
 - Kahn Academy Public Key Encryption tutorial

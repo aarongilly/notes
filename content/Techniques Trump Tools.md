@@ -14,8 +14,7 @@ It is better to rely on well-founded, **tool-independent** **techniques** than t
 - Anything can be an "inbox". You don't need a specific tool.
 - A [[weekly review]] can be performed in any number of tools, or just by going through a mental checklist once/week.
 
----
-
+****
 ### Source
 
 ### Related

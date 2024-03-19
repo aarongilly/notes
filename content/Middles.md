@@ -19,8 +19,7 @@ If you're well-ahead of pace at the mid-point, don't let up. If you're slightly 
 - Stop for the day NOT at a natural end-point. Stop in the middle of a 
 - Don't break the chain. 
 
----
-
+****
 ### Source
 - [[When (book)]]
 

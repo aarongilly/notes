@@ -13,8 +13,7 @@ Try using things as long as possible. Don't replace things prematurely. If you a
 
 You can prolong the utility of items further if you [[Maintain what You Have]].
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 

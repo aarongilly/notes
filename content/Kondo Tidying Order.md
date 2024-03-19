@@ -12,8 +12,7 @@ For whatever reason this is "the best way". Marie Kondo says it helps you hone i
 
 Clothes > books > paper > "kimono" (I.e. miscellaneous) > sentimental items
 
----
-
+****
 ### Source
 - [[The Life-Changing Magic of Tidying Up]]
 

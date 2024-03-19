@@ -19,7 +19,7 @@ summary: A landing place for principles I try to embrace
 
 This list is not meant to be exhaustive. It's meant to be shortened to those that resonate the strongest.
 
----
+****
 ### Source
 - self.
 

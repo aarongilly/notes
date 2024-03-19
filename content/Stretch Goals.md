@@ -12,8 +12,7 @@ Stretch Goals are those you set out at the beginning of an endeavor that seem li
 
 These are tied closely in with what John Doerr called "Big, Hairy, Audacious Goals" in [[Measure What Matters]] time and time again.  The point of OKRs was that you weren't *really* supposed to achieve **all** of them, because that meant you set your ambitions too low.
 
----
-
+****
 ### Source
 - [[Smarter, Faster, Better]]
 

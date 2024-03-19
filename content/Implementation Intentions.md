@@ -12,8 +12,7 @@ Intentions can and probably should also be set on a day-by-day basis for achievi
 
 [[Habit Stacking]] is an easy for of implementation intentions. Another specific form is [[Temptation Bundling]]. You can also use [[Contextual Reminders]], appointments (such as [[Time Blocking]]), or simple to-do lists.
 
----
-
+****
 ### Source
 - [[Atomic Habits]]
 - [[Indistractable]]

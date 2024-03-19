@@ -13,8 +13,7 @@ Don’t highlight notes when you capture them. Highlight them upon revisit when 
 
 Each time you “touch” a note, you should make it a little more discoverable/useful for your future self. Leave it better than how you found like, like when you’re camping. (see: [[Organize Notes for Action]])
 
----
-
+****
 ### Source
 - [[Building A Second Brain]]
 

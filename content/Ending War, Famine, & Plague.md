@@ -12,8 +12,7 @@ Recently humanity turned a corner. More people alive today are likely to die fro
 - Famine
 - Plague
 
----
-
+****
 ### Source
 - [[Homo Deus]]
 

@@ -24,8 +24,7 @@ It uses:
 
 I find "*Troubleshooting*" to be a really odd inclusion on this list as a distinct element from the rest. Troubleshooting would not seem to me like a topic worthy of inclusion on a list of 5 slices of knowledge. I suppose this is to do with the type of knowledge typically kept in these repos.
 
----
-
+****
 ### Source
 
 [Darwin Information Typing Architecture - Wikipedia](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture?wprov=sfti1)

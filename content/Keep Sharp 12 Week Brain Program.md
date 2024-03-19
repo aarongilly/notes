@@ -54,8 +54,7 @@ Basically just check yo' self on all of the above. Re-read the book for anything
 
 Ugh. I think the above pretty much covers it.
 
----
-
+****
 ### Source
 - [[Keep Sharp]]
 

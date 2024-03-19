@@ -13,8 +13,7 @@ Force yourself to choose between being bored, or doing the thing you need to do.
 
 De clutter your schedule, then don't fill it back up.
 
----
-
+****
 ### Source
 - [[YouTube]]
 

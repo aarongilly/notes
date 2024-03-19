@@ -16,8 +16,7 @@ There are dozens of places we're all aware of today that use artificial intellig
 - Self-driving cars
 - Cambridge Analytica and their [[AI-Powered Targeted Ads]]
 
----
-
+****
 ### Source
 - [[The Sentiment Machine]]
 

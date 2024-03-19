@@ -18,8 +18,7 @@ This problem-solving approach to negotiation **didn’t hold up to a very practi
 
 > [!tldr] 👉 Negotiation is about feelings, not logic
 
----
-
+****
 ### Source
 - [[Never Split the Difference]]
 

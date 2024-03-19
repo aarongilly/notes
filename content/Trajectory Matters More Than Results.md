@@ -11,7 +11,7 @@ One year from now, what you accomplished today will matter much less than your t
 
 Long-term thinking drives sustainable growth. [[Prefer a Long-Term Philosophy]].
 
----
+****
 ### Source
 - [[Atomic Habits]]
 ### Related

@@ -12,8 +12,7 @@ tags:
 
 "Simplicity" is the *value*, "Do the simplest thing" is the *principle*. 
 
----
-
+****
 ### Source
 - [[Start with Why (source)]]
 

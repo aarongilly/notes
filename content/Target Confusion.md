@@ -10,8 +10,7 @@ Target Confusion is what happens when you fail to select an option when making a
 
 It applies to much more than just hunting, though. Too many options can be daunting. [[Wealth of Information ⇒ Poverty of Attention]]. You can suffer from analysis paralysis. You may try chasing two rabbits and losing them both. 
 
----
-
+****
 ### Source
 
 ### Related

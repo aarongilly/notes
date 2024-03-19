@@ -11,8 +11,7 @@ Archives are for resources, tasks, projects, and areas that are no longer releva
 
 Get it done then get it out of the way.
 
----
-
+****
 ### Source
 - [[PARA Method]]
 

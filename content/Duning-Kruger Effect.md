@@ -11,8 +11,7 @@ The Duning-Kruger Effect is that people who don't know enough to know they don't
 
 ![[assets/Untitled 7.png]]
 
----
-
+****
 ### Source
 - [[Think Again]]
 

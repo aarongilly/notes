@@ -15,7 +15,7 @@ This is also partially why you should [[Compare Yourself to Your Average]] inste
 
 This also is one reason why financial advice is to avoid [[Lifestyle Creep]], as it keeps your money low without really doing anything for your happiness. The [[Diderot Effect]] also comes to mind.
 
----
+****
 ### Source
 - [[Homo Deus]]
 

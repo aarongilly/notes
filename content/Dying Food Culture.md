@@ -12,8 +12,7 @@ tags:
 
 We aren't appreciating what's been a vital part of the human experience for all of history and we're less nourished thanks to our efforts. Good used to be [[Enough]].
 
----
-
+****
 ### Source
 - [[Stuff You Should Know]]
 

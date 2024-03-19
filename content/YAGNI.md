@@ -18,8 +18,7 @@ Simple design is better that complex. See the [[The Zen of Python]].
 
 In my experience, when re-writing the [[PDW]], I built in a lot of “pre-planned” functionality that wound up becoming totally unnecessary (and deleted) later on. 
 
----
-
+****
 ### Source
 
 [Is Design Dead?](https://www.martinfowler.com/articles/designDead.html)

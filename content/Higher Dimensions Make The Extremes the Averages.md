@@ -28,7 +28,7 @@ For 3D, it's 100+100+ 36*(8)/1000 = 48.8%
 4D would continue this trend. 
 {a,b,c,d} => 1 - 0.8^4 = 59%
 
----
+****
 ### Source
 - [[Ultralearning]]
 

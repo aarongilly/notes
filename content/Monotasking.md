@@ -14,7 +14,7 @@ You can do anything, but you can’t do everything. Not all at once, at least. M
 
 You cannot have a breakthrough on something while thinking about something else. Juggling several tasks at once leads to poor performance on all of them, burnout, and undue stress.
 
----
+****
 ### Source
 - [[Deep Work]]
 - [[The 4-Hour Work Week]]

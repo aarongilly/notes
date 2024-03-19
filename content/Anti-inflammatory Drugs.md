@@ -24,8 +24,7 @@ Many drugs can ease pain, swelling and [[Inflammation]]. They may also prevent o
         - Adalimumab (Humira)
         - Etanercept (Enbrel)
 
----
-
+****
 ### Source
 
 ### Source

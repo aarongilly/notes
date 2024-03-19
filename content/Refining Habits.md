@@ -19,8 +19,7 @@ tags:
 - Can you dive deeper?
 - Should you upgrade or refine your identity statement?
 
----
-
+****
 ### Source
 - [[Atomic Habits]]
 

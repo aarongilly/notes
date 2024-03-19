@@ -19,8 +19,7 @@ You do all those things automatically while you think about where you want to go
 
 Be careful to stop and smell the roses every so often. [[Results are not Presence]]. Don't fill your day executing routines only to go to sleep not being sure where the day went. 
 
----
-
+****
 ### Source
 - [[Stillness is the Key]]
 - [[The Power of Habit]]

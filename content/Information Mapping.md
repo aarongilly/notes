@@ -14,8 +14,7 @@ It relates heavily to data visualization, graphic design, knowledge management, 
 
 The concept of "information mapping" was developed (at least in part) by Professor Robert Horn, of Harvard, Columbia, and other universities.
 
----
-
+****
 ### Source
 
 [Information mapping - Wikipedia](https://en.wikipedia.org/wiki/Information_mapping)

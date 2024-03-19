@@ -11,7 +11,7 @@ Object Management Technique is a method for modeling systems (mostly software) t
 	- State Chart Diagrams - _behavior_
 	- Data Flow Diagrams - _functional_
 
----
+****
 ### Source
 - [[Udacity Software Architecture Course]]
 

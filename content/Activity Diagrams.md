@@ -12,8 +12,7 @@ Activity Diagrams are graphical representations of behaviors (aka ‘activities�
 
 I find UML Activity Diagrams to be somewhat confusing, the “bar” notation for representing parallel splits & joins is too visually distracting.
 
----
-
+****
 ### Source
 - [[Wikipedia]]
 - [Activity diagram - Wikipedia](https://en.wikipedia.org/wiki/Activity_diagram)

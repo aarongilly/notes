@@ -15,8 +15,7 @@ A black box is a function or process where the inputs and outputs are known, but
 - A function out of the lodash [[JavaScript]] library
 - That thing X person does at work
 
----
-
+****
 ### Source
 
 ### Related

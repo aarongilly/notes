@@ -24,7 +24,7 @@ If the whole frog seems like too much, just [[Commit for a Bit]], have some frog
 
 Eating the Frog can syngerize well with a number of other productivity techniques. Frogs are best identified in advance, say as part of a [[Weekly Review]]. It is a form of Time Blocking. Frogs identified in advance can be made to align with your [[OKRs]] or made to align with a [[Commitment Inventory]].
 
----
+****
 ### Source
 - [[Essentialism]]
 - [[The 4-Hour Work Week]]

@@ -10,8 +10,7 @@ tags:
 
 In the book "[[How to Do Nothing]]" this concept is pitched as quite literally 'doing nothing', which is what enables you to ground sense the concrete world around you wherever you are.
 
----
-
+****
 ### Source
 - [[10% Happier]]
 - [[How to Do Nothing]]

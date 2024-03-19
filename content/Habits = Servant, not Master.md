@@ -12,7 +12,7 @@ Habits are a good servant. They get you to where you want to be. They make you w
 > [!tldr] Ask yourself: 
 > "To what end am I pursuing this habit?"
 
----
+****
 ### Source
 - [[Better Than Before]]
 

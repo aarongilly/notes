@@ -14,7 +14,7 @@ This is a claim by "Stutz", Johan Hill's therapist. There are some (probably Dr.
 
 [[Outlive|Dr. Peter Attia]] would just be happy you're considering mental health at all.
 
----
+****
 ### Source
 - [Stutz article](https://theconversation.com/netflix-psychiatrist-phil-stutz-says-85-of-early-therapy-gains-are-down-to-lifestyle-changes-is-he-right-195567)
 - Some podcast I can't quite remember

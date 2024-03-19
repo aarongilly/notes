@@ -26,7 +26,7 @@ Most ontologies use the same basic set of components. The first four are the "ma
 - Events
     - Changing of attributes or relations
 
----
+****
 ### Source
 - [Ontology components - Wikipedia](https://en.wikipedia.org/wiki/Ontology_components)
 

@@ -10,7 +10,7 @@ A snowflake schema is more normalized than a [[Star Schema]]. The dimension tabl
 
 ![[IMG_9715.png]]
 
----
+****
 ### Source
 - [Wikipedia](https://en.wikipedia.org/wiki/Snowflake_schema)
 

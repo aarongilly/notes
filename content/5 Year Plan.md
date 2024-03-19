@@ -19,8 +19,7 @@ Ask yourself 'what about that person is different from the person I am now?'. Ho
 
 Often when you ask people to describe their lives to to this point, they tend to break their story up into ~2-to-4 year chunks. During these years I did (whatever), then I started to get into (something different), then I (moved/started school/changed jobs/life event). This is the realm of Horizon 4 from David Allen's [[Six Horizons of Focus]] - and fall somewhere in between the top 2 levels of the [[Antifragile Planning Method]].
 
----
-
+****
 ### Source
 - [[Designing Your Life]]
 - [[Antifragile Planning (article)]]

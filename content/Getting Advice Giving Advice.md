@@ -9,8 +9,7 @@ tags:
 
 A study found a person’s success is better correlated with them *advising* others than them receiving advice from others.
 
----
-
+****
 ### Source
 - [[How To Change]]
 

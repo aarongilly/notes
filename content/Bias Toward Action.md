@@ -15,7 +15,7 @@ Have a bias toward action. Don't wait until you're 100% you won't fail. Just *ac
 
 > Fear of failure keeps us in an unsatisfied routines. Instead of daydreaming about change, reach out and attempt new things. Small steps with accompanying successes, lead to major life transitions. - Bernard Roth
 
----
+****
 ### Source
 - [[The Achievement Habit]]
 - [[Ultralearning]]

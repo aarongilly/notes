@@ -18,8 +18,7 @@ It is incredibly easy to take your current problems as “the way things are” 
 
 If something is giving you trouble, you can ***almost always*** find a solution online. Describe the problem to Google and you’re likely to find you’re not alone. Often, you’ll find a solution. Time and time again I find solutions to something I’d previously “accepted” as an unavoidable deficiency.
 
----
-
+****
 ### Source
 
 ### Related

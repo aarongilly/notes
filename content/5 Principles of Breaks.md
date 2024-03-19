@@ -17,8 +17,7 @@ tags:
 > [!tldr] 👌 **Ideal Break:**
 A short walk with a friend outside in which you discuss something entirely unrelated.
 
----
-
+****
 ### Source
 - [[When (book)]]
 

@@ -15,8 +15,7 @@ Thin Slicing is using [[Inductive vs Deductive|Inductive reasoning]] to arrive a
 - Malpractice Suits predicted by a doctor's tone of voice alone
 - Your room is more telling than your friendship
 
----
-
+****
 ### Source
 - [[Blink]]
 

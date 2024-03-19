@@ -15,8 +15,7 @@ A KPI measure has to have a clear & unambiguous definition, should be associated
 
 KPIs are not without faults. See [[Gaming KPIs]] 
 
----
-
+****
 ### Source
 - 
 

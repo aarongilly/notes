@@ -19,8 +19,7 @@ tags:
 6. Reduce the Number of Decisions — [[Decision Fatigue]] & [[Decide and Move On]] 
     1. Use standard processes and systematize the administrative stuff in a simple, intuitive way, so that you don't have to think about “Where” or “How” To capture a task or not, but instead you can [[focus]] on the thing itself. — [[Standard Processes]] 
 
----
-
+****
 ### Source
 - [[How to Take Smart Notes]]
 

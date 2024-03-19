@@ -14,8 +14,7 @@ A Zettelkasten isn’t ONE method of note taking. There’s no wrong way to eat 
 
 **Tags** - this note falls into some sort of theme
 
----
-
+****
 ### Source
 - [[Secondary Summary How to Take Smart Notes]]
 

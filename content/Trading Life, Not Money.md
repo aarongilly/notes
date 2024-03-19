@@ -12,8 +12,7 @@ Cal Newport's [[Digital Minimalism]] talks about a lesson in [[Henry David Thore
 
 > [!tldr] 👉 Economic opportunities should be evaluated only based on the money you stand to gain or lose, but also on the amount of *life*.
 
----
-
+****
 ### Source
 - [[Digital Minimalism]]
 

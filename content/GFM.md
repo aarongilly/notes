@@ -9,8 +9,7 @@ tags:
 
 GFM is GitHub-Flavored [[Markdown]]. It is arguably the most popular example of [[Extended Markdown Syntax]]. 
 
----
-
+****
 ### Source
 
 ### Related

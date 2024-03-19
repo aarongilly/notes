@@ -33,8 +33,7 @@ Both the Objectives and Key Results should be written as though they were going 
 
 OKRs are typically set and renewed quarterly, but there's nothing saying it has to be that way. They should be a prime focus and reviewed bi-weekly at a minimum.
 
----
-
+****
 ### Source
 - [[Measure What Matters]]
 

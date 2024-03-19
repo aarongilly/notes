@@ -22,8 +22,7 @@ To help figure out what's important, ask yourself
 
 Doing something easy just to give yourself a chance to cross something off your to-do list is what Charles Duhigg referred to as "Mood Repair" in [Smarter, Faster, [[Smarter Faster Better]]
 
----
-
+****
 ### Source
 - [[The 4 Hour Work Week]]
 - [[Indistractable]]

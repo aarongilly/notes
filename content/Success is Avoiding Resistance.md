@@ -11,7 +11,7 @@ Studies on highly successful people have repeatedly demonstrated that their succ
 
 You shouldn't struggle through resistance. Redirect it, like judo. 
 
----
+****
 ### Source
 - [[How to Take Smart Notes]]
 

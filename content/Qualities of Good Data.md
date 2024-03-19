@@ -20,7 +20,7 @@ Good data is:
 	- Example: dates should use [[ISO 8601]], unless the database technology has built-in [[Data Types|Date Types]].
 - **Complete** - sort of a facet of being "Trustable", but you shouldn't unknowingly have missing data
 
----
+****
 ### Source
 - 
 

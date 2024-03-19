@@ -22,7 +22,7 @@ This is a hilariously incomplete table. I didn't want to do a thousand rows.
 
 **PostgreSQL** has a [boatload](https://www.postgresql.org/docs/current/datatype.html) of supported types. 
 
----
+****
 ### Source
 - 
 

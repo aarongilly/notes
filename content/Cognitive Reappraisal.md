@@ -11,7 +11,7 @@ aliases:
 
 Note - the two feelings have to be similar enough. You can't trick your mind while you're exhausted by saying "Gee whizz I'm so full of energy". Doing this doesn't work. You *miiight* be able to say "alright I am satisfied".
 
----
+****
 ### Source
 - A TED talk from a long time ago
 - [[The Extended Mind]]

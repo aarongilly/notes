@@ -10,8 +10,7 @@ tags:
 > Time you plan to waste isn't wasted time. - Nir Eyal
 > 
 
----
-
+****
 ### Source
 - [[Indistractable]]
 

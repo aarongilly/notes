@@ -11,7 +11,7 @@ So:
 **Pheromones = between individuals
 Hormones = within an individual**
 
----
+****
 ### Source
 - Andrew Huberman's "[[Huberman Labs]]" podcast 
 

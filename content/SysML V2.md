@@ -11,7 +11,7 @@ SysML V2 is big. The SysML V2 Specification is apparently bigger than V1 + the r
 
 SysML V2 is a graph now, where relationships are "Reified" into model elements themselves as part of the standard. They are a first class citizen and can now be easily represented with a [[Graph Database]].
 
----
+****
 ### Source
 - [SysML Preview Video](https://youtu.be/FXBlwmw5dEQ?si=r9OIdMNxpiZqO_WH)
 

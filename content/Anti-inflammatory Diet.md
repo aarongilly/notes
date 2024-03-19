@@ -32,8 +32,7 @@ A lot of this reads like “good diet tips” in general. The Mediterranean Diet
 
 - Magnesium
 
----
-
+****
 ### Source
 
 [Source!](https://www.fammed.wisc.edu/files/webfm-uploads/documents/outreach/im/handout_ai_diet_patient.pdf)

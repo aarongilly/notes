@@ -13,8 +13,7 @@ Knowing when to pass up poor opportunities is hugely important. Saying yes to ev
 
 Professional baseball players that made a name for themselves hitting home runs against lesser pitchers going up have to learn to look for the pitches they want, or they'll strikeout swinging at everything. Pick your pitches.
 
----
-
+****
 ### Source
 - [[Stillness is the Key]]
 

@@ -11,8 +11,7 @@ tags:
 
 Starting a new creative work, its best to be in a mode of broad thinking. Let new ideas come and make note of things that might be a good fit. Don't chase rabbits too far down the path or you might miss a fully cooked steak on a side path. At a certain point you then shift into a convergent mode of thinking, as the bad ideas and only okay ideas are pruned off and the truly great ideas remain.
 
----
-
+****
 ### Source
 - [[Building A Second Brain]]
 

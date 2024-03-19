@@ -25,8 +25,7 @@ According to Dr. Mike Griffin, it’s the main job of a Systems Engineer to ensu
 
 **Superior Lifecycle Properties** - robustness, safety, flexibility to change, maintainability, sustainability...
 
----
-
+****
 ### Source
 - [[MIT 16 842 Fundamentals of Systems Engineering MIT Course]]
 

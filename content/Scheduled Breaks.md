@@ -19,8 +19,7 @@ Daniel Pink, author of [[When (book)]], recommends pre-scheduling your breaks th
 - 1:30pm - go talk with someone from another department about their kid
 - 3pm - walk a lap around the build in the other direction
 
----
-
+****
 ### Source
 - [[When (book)]]
 

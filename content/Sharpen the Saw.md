@@ -22,8 +22,7 @@ It is because of this that I do my 60-minute "me-time" routine each morning.
 
 The difference between Sharpening the Saw and [[Unkink the Hose]] is that sharpening the saw is putting work into the think that helps you do work, even if the effort spent sharpening the saw isn't producing immediate results, it will produce more results in the long run. Unlinking the hose is just about removing obstacles rather than trying harder. Unlinking the hose is more general. 
 
----
-
+****
 ### Source
 - [[The 7 Habits of Highly Effective People]]
 

@@ -33,7 +33,7 @@ You could keep medical records, doctor's visit [[Note Types#Logs]]. Use a tag to
 ## [[System Modeling General Process]] Pre-work
 A promising use case for work-related endeavors - Obsidian is **not** a great collaborative or "shared knowledge" tool (although perhaps it could be). But it is *fantastic* at accumulating, organizing, and expressing **personal** knowledge. This personal explanation of "how things work" could be forced into a consistent schema and *then* used as the basis for an [[Enterprise Architecture]] model (or simply [[Archimate]]/[[UML]]/[[SysML]]/[[UAF]]) to be built. It *may* be possible to build a translator that takes the contents of an Obsidian vault and translates them for **import** into a modeling tool. You may be able to use [[Obsidian Linting]] to assist with the cleaning.
 
----
+****
 ### Source
 - Self
 

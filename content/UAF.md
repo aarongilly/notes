@@ -26,7 +26,7 @@ In the UAF Guide they detail the different domains from the UAF Grid. This is a 
 
 ![[IMG_1137.jpeg]]
 
----
+****
 ### Source
 - https://www.omg.org/uaf/
 - https://www.omg.org/spec/UAF/1.2/UAFML/PDF - the official Spec

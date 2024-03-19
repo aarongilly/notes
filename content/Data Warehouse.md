@@ -12,7 +12,7 @@ A staple of business intelligence, a data warehouse is a central repository of i
 
 Gave rise to the terminology "facts" & "dimensions". ([[Facts vs Dimensions]]) 
 
----
+****
 ### Source
 - [Data warehouse](https://en.wikipedia.org/wiki/Data_warehouse)
 

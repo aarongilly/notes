@@ -15,8 +15,7 @@ A way to minimize these sorts of injustices is to figure out how closely we can 
 
 An algorithm that implicitly factored in the race when determining The likelihood of recidivism of a person who is about to be sentenced for a crime, and would routinely turn off work for four black and Latino man from the ghetto, because the ghetto has more crime in it and therefore (the algorithm inferences) they are more likely to commit crime when they get out. 
 
----
-
+****
 ### Source
 - [[Weapons of Math Destruction]]
 

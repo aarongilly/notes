@@ -28,8 +28,7 @@ Oura Ring
 - Integrates with Apple Health
 - Covers sleep duration, [[naps]], bedtime & wake time, gross activity levels, and body temperature.
 
----
-
+****
 ### Source
 
 ### Related

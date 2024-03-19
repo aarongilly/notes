@@ -11,8 +11,7 @@ Gambler's Fallacy is when people think the likelihood of a given result for an i
 
 Note - for *dependent* events, such as drawing colored marbles from a bag one by one **without replacement**, the probability of each successive draw really is a function of all the previous draws.
 
----
-
+****
 ### Source
 
 ### Related

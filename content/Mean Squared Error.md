@@ -32,8 +32,7 @@ For the dataset: [7, 9, 9, 11, 14]
     - 10.5 ⇒ 39.25
     - 11 ⇒ 33
 
----
-
+****
 ### Source
 - [[Noise - A Flaw in Human Judgment]]
 - [[Wikipedia]]

@@ -16,8 +16,7 @@ Capitalism is the repeated process of investing profits from a venture into capi
 
 Exiting Capital → Exiting Profits → More Capital → More Profits → Even More Capital → Even More Profits 
 
----
-
+****
 ### Source
 - [[Homo Deus]]
 

@@ -15,7 +15,7 @@ Current well-known LLMs:
 - Google's Gemini (formerly Bard)
 - Meta's LLaMA
 
----
+****
 ### Source
 - ChatGPT
 

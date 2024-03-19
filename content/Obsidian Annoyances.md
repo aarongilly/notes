@@ -19,7 +19,7 @@ As much as I like Obsidian, there are some annoying things about it.
 	- Eventually I (more or less) settled into a mode of operation & this doesn't bother me
 - There's not a good way to have a "summary" of a note aside from just starting the note with an opening paragraph. The database view of my notes with their summary in Notion was great. I miss that. 🙁
 
----
+****
 ### Source
 - 
 

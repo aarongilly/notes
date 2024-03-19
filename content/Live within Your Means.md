@@ -12,8 +12,7 @@ Living within your means is avoiding debt. This assures that the money you spend
 
 Avoiding debt avoids interest. The items you buy using loans often wind up costing you 3x more than their sticker price.
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 

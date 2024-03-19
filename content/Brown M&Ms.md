@@ -10,8 +10,7 @@ Van Halen were known as divas in the rocker world. One famous piece of anecdotal
 
 What they were actually doing was giving themselves a signal to determine if the concert showrunners had actually read and followed through on the contract and the instructions for preparations for the show. The M&M clause was mixed in with a lot of other technical & logistical linchpins that were required for Van Halen's large, pyrotechnic shows. Most concern showrunners would need the extra instructions, all would have claimed to have read it. The brown M&Ms was a big of [[Manufactured Feedback]] the band could use to see if they needed to have someone double-check the rest of the work performed in advance of the show.
 
----
-
+****
 ### Source
 I don’t remember where I first learned this.
 

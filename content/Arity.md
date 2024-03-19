@@ -17,8 +17,7 @@ Note Arity is not the same term as "[[Cardinality]]", although they are very sim
 - f(x,y,z) has an arity of "3".
 - "Distance travelled" of a flying object is primarily a function of velocity, azimuth, and drag. This is also an arity of 3.
 
----
-
+****
 ### Source
 
 ### Related

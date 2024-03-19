@@ -18,8 +18,7 @@ Snap Judgments are the result of nearly instantaneous calculations by the uncons
 - Implicit associations & unconscious bias (IAT)
 - The Warren Harding Effect
 
----
-
+****
 ### Source
 - [[Blink]]
 

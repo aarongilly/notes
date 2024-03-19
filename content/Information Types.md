@@ -17,8 +17,7 @@ Robert Horn, the father of [[Information Mapping]], suggested that there's 6 fun
 5. **Structure** - a description of anything that has parts or boundaries
 6. **Fact** - a statement that's assumed to be true
 
----
-
+****
 ### Source
 
 [Information mapping - Wikipedia](https://en.wikipedia.org/wiki/Information_mapping)

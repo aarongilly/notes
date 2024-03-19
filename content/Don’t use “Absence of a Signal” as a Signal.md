@@ -9,8 +9,7 @@ I’ve seen a number of silent failures occur in my life. When designing a syste
 
 Positive confirmation of success is better than implicit assumptions of not failing.
 
----
-
+****
 ### Source
 
 ### Related

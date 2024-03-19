@@ -14,8 +14,7 @@ After having set a lofty goal, figure out how to achieve using as little energy 
 
 This is the template for high-reward, relatively low-effort endeavors. The juice is worth the squeeze. 
 
----
-
+****
 ### Source
 - me
 

@@ -34,8 +34,7 @@ In the dilemma, a **rational self-interested agent** would increment their partn
 
 This has all sorts of real-world practical implications, particularly in a military sense. See related notes.
 
----
-
+****
 ### Source
 - [[Sapiens]]
 - [[The Sentiment Machine]]

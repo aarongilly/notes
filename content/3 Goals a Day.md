@@ -16,8 +16,7 @@ A good one-two punch is to pair this habit with [[Time Blocking]] to achieve [[D
 
 > [!success] A person who consistently achieves 1 to 3 goals every single day is a person who's way more productive than most others.
 
----
-
+****
 ### Source
 - [[The 4-Hour Work Week]]
 

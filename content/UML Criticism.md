@@ -11,8 +11,7 @@ One of the creators of [[UML]] has said that it’s “dead”. It got too compl
 
 Know *why* you’re using UML. Is your [[Modeling Purposes]] to create something simulatable? You probably shouldn’t. Instead make something that’s incomplete, but more clear. Effective communication is more important that exhaustive completion.
 
----
-
+****
 ### Source
 
 ### Related

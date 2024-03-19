@@ -13,8 +13,7 @@ Tumor Necrosis Factor (TNF) is a signaling protein (a cytokine) in the immune sy
 
 **Suppression of TNFR1** is important in the treatment of autoimmune diseases, like [[Ankylosing Spondylitis]]. That’s what the [[Biologics]] are doing. That’s why those drugs also lower your body’s ability to fight off other infections, because they dampen the pro-inflammation TNFR1 receptor activation.
 
----
-
+****
 ### Source
 
 [Tumor necrosis factor - Wikipedia](https://en.wikipedia.org/wiki/Tumor_necrosis_factor)

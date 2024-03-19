@@ -12,7 +12,7 @@ High levels of testosterone are associated with:
 - migrates hair from the head to the beard
 - increases strength
 
----
+****
 ### Source
 - some googling
 - [[Huberman Labs]]

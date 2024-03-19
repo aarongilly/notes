@@ -1,6 +1,5 @@
 ---
 created: 2024-02-20
-created:
 tags: 
 aliases:
 ---
@@ -27,7 +26,7 @@ Take photos of the:
 - Hotel receipt
 - Parking receipt
 
----
+****
 ### Source
 - experience
 

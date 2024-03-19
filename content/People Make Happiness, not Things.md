@@ -12,8 +12,7 @@ Subjective ratings of happiness are only more consistently high for those people
 
 In [[The Little Book of Hygge]] this principle is used as evidence of the importance of sharing "Hygge" with other people.
 
----
-
+****
 ### Source
 - [[Sapiens]]
 - [[The Little Book of Hygge]]

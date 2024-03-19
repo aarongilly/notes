@@ -22,7 +22,7 @@ aliases:
 > We'll be compelled to force the lid!
 > - *Kenneth Boulding, economist*
 
----
+****
 ### Source
 - [[Thinking in Systems]]
 

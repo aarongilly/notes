@@ -11,8 +11,7 @@ We have three selves, the anticipating self, the experiencing self, and the reme
 
 “We pamper the present like a spoiled child.”
 
----
-
+****
 ### Source
 - [[Off The Clock]]
 

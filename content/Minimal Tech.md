@@ -21,8 +21,7 @@ A minimalist practice that involves weeding out technology from your life unless
 
 The author of The Organized Mind has a nostalgic view of the benefits of physical organization, such as a library. The act of physical browsing enables serendipity.
 
----
-
+****
 ### Source
 - [[Digital Minimalism]]
 - [[The Organized Mind]]

@@ -18,7 +18,7 @@ This does **not** mean "use no plugins". This means the plaintext [[Principles I
 - I am not using the [[Excalidraw]] *plug-in*, but instead using Excalidraw and saving the results as [[SVG]] or PNG with the drawing data baked-in. 
 - I will use the [[Obsidian Linting]] "Linting" plugin to *enhance* portability
 
----
+****
 ### Source
 - 
 

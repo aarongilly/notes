@@ -29,8 +29,7 @@ A simple procedure per [[Outlive]] is to alternate between 4 minutes on and 4 mi
 
 Average healthy male is 35-40 mL/(kg * min). Female average is 27-31 mL/(kg * min). Training can raise this up to ~80 mL/(kg * min), if you're "elite".
 
----
-
+****
 ### Source
 
 - [VO2 max - Wikipedia](https://en.wikipedia.org/wiki/VO2_max)

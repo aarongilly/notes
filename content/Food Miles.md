@@ -16,8 +16,7 @@ From an energy perspective, the energy content of a grape doesn’t change depen
 
 It’s much more efficient to grow your own garden from seeds than it is to have all your food shipped in from farms afar.
 
----
-
+****
 ### Source
 
 [Food miles - Wikipedia](https://en.wikipedia.org/wiki/Food_miles)

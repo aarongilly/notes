@@ -32,8 +32,7 @@ In [[Blink]] a study was described that showed that [[Thin Slicing]] gave better
 
 In [[The Sentiment Machine]] a study was described that showed how analysis of fewer than 100 "likes" on Facebook could yield highly accurate depictions of the OCEAN traits, which was exploited my Cambridge Analytica in their advertising for the Trump campaign in 2016.
 
----
-
+****
 ### Source
 - [Big Five Personality Traits | Simply Psychology](https://www.simplypsychology.org/big-five-personality.html)
 

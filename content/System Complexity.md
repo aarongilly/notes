@@ -28,7 +28,7 @@ More worth considering, though, is *subjective complexity*. That is, how quickly
 
 [[Affordances]] and piggybacking on [[Standard Processes]] lessen subjective complexity.
 
----
+****
 ### Source
 - [[Systems Engineering Book of Knowledge]]
 

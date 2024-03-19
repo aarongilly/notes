@@ -16,7 +16,7 @@ Rule beating may be done out of spite, or could possibly just be done out of apa
 
 Rule beating behavior is a signal that the rules are *not ideal* in some form (be them overly restrictive, vague, outdated, or bad [[Proxy Measures]]). 
 
----
+****
 ### Source
 - [[Thinking in Systems]]
 

@@ -12,8 +12,7 @@ Transclusion is the term for including, by reference, a portion of remote conten
 
 Notion synced blocks are an example of **Transclusion**.
 
----
-
+****
 ### Source
 
 [Transclusion - Wikipedia](https://en.wikipedia.org/wiki/Transclusion?wprov=sfti1)

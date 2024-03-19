@@ -15,7 +15,7 @@ In response to their competitor's technology-based market initiatives, UPS devel
 The CIO decided there should be a *single package database* and a global telecom capability for package data to be captured & accessed from anywhere it might go. Rules were put in place to enforce certain standard be upheld and IT was given the authority to enforce them. 
 The business side's senior management defined four **core processes**: package delivery, product development, customer relationship management, and customer information management. They then standardized tasks within these processes.
 
----
+****
 ### Source
 - [[Enterprise Architecture as a Strategy]]
 

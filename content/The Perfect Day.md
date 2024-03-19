@@ -27,8 +27,7 @@ What would your family time be?
 
 There are 26 questions in Taylor Pearson's article.
 
----
-
+****
 ### Source
 - [[Antifragile Planning (article)]]
 

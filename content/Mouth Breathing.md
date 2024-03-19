@@ -17,8 +17,7 @@ Mouth breathing:
 
 > [!tldr] 👃 Your nose is for breathing. Your mouth is for eating.
 
----
-
+****
 ### Source
 - [[Breath]]
 

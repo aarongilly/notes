@@ -9,7 +9,7 @@ I made this flowchart to illustrate where our money comes from and where it goes
 
 ![[IMG_1156.jpeg]]
 
----
+****
 ### Source
 - Self.
 

@@ -16,8 +16,7 @@ It may be worthwhile having a periodic check-in to your biggest failures. Each m
 
 Revisit this every month or so, see if you're failing to learn from your failures. If you see the same reasons for failing over and over, that's something to pay attention to. You should also **have** some failures. Your [[Fail Quota]] shouldn't be zero.
 
----
-
+****
 ### Source
 - [[Designing Your Life]]
 

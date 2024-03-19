@@ -17,8 +17,7 @@ Surveys are a rudimentary form of feedback. They serve as a lagging proxy measur
 
 I much prefer situations where you can insert frictionless feedback at multiple points in a process, giving a chance for [[Leading Measures]] from early in the process. 
 
----
-
+****
 ### Source
 
 ### Related

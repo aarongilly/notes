@@ -26,7 +26,7 @@ Scrum is a way of working that revolves around "Sprints", and some [[Periodic Re
 - **Scrum Master** - leads the ceremonies, guides the team to self-organize
 - **Development Team** - people who do the work, are expected to take the advice of the PO, but also to have ideas of their own and act with some level of autonomy within the constraints of the process
 
----
+****
 ### Source
 - Work
 - ChatGPT

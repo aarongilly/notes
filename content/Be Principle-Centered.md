@@ -16,8 +16,7 @@ Stephen never really explained principles well enough for me to grasp what he me
 - Do not cheat in the name of playing fair
 - In short, do what Captain America does
 
----
-
+****
 ### Source
 - [[The 7 Habits of Highly Effective People]]
 

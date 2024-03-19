@@ -28,8 +28,7 @@ In cases where more information leads to a [[Law of Diminishing Returns]], you'r
 > Most of the time you don't need more information, you need more courage. 
 > - James Clear
 
----
-
+****
 ### Source
 - [[The Organized Mind]]
 - [[Blink]]

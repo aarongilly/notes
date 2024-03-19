@@ -16,8 +16,7 @@ If you cut corners in a process, you are more likely to have to put in more effo
 - Measure and mark so you don’t make the wrong cut and have to go back and fix it.
 - Document your functions in your code so you don’t forget what you’ve done or how it’s used.
 
----
-
+****
 ### Source
 
 ### Related

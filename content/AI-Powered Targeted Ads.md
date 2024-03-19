@@ -14,8 +14,7 @@ Cambridge Analyitica built **OCEAN** ( [[The 5 Big Personality Traits]] ) modele
 
 They can and did apply this type of manipulation en masse during the 2016 election and will do so in the future.
 
----
-
+****
 ### Source
 - [[The Sentiment Machine]]
 

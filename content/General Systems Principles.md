@@ -12,7 +12,7 @@ The following 5 were selected by [[Just Enough Structured Analysis]].
 4. Systems grow - man-made systems especially tend to increase in size over time
 5. The interactions between systems components are often subtle and complex
 
----
+****
 ### Source
 - [[Just Enough Structured Analysis]]
 

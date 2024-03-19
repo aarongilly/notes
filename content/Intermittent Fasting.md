@@ -28,8 +28,7 @@ Mechanisms:
 - “We weren’t evolved to eat tiny little meals constantly”
 - “It’s simply a reduction of total calories”
 
----
-
+****
 ### Source
 
 ### Related

@@ -59,7 +59,7 @@ This has to do with the fact that `A` and `B` wound up doing the same [[Modular 
 
 In reality this is done in conjunction with a pseudorandom generator to encrypt messages between people who've never met before.
 
----
+****
 ### Source
 - ![Stellar Key Exchange video](https://youtu.be/M-0qt6tdHzk)
 - [Kahn Academy](https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-1)

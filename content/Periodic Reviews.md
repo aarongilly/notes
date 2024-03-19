@@ -19,8 +19,7 @@ There is a valid argument to be made for reviews on just about any frequency. Ha
 
 More frequent reviews should be quick, even if they are shallow. More infrequent reviews should be deep, even if they take a while. There’s a threshold between scope and period to aim for. You can multiply the frequency by the duration and get a rough order-of-magnitude of the energy they take. Nightly review that takes 1 minute would be 365 minutes over the course of a year. An equivalent annual review would then take ~6 hours. 
 
----
-
+****
 ### Source
 
 ### Related

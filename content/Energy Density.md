@@ -15,8 +15,7 @@ Batteries have worse energy density than gasoline… but it's not nothing. Here 
 | 5 gallons of water, 30 feet up | 18871g | 0.00047kWh |
 | 1 gallon of gasoline | 2722g | ~33.5kWh |
 
----
-
+****
 ### Source
 - [[Wikipedia]]
 

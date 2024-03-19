@@ -15,8 +15,7 @@ The manufacturing & technology company Gore-tex explicitly uses this number as t
 
 Companies crossing a threshold above 150 employees can no longer expect their employee base to generally know everyone. 
 
----
-
+****
 ### Source
 - [[The Tipping Point]]
 

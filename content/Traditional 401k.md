@@ -10,8 +10,7 @@ Traditional 401(k) is what *most* employers offer to their employees. They are
 
 Currently you cannot withdrawal before age 59 1/2 without paying a 10% penalty, unless you meet some exclusion. You **have** to start taking distributions by 70 1/2.
 
----
-
+****
 ### Source
 - [[Ultimate List of Tax Advantaged Accounts]]
 

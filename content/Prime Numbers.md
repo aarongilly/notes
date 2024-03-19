@@ -13,8 +13,7 @@ Numbers that are *not* prime are called [[Composite Numbers]].
 
 There is an infinite number of prime numbers. They never stop. 
 
----
-
+****
 ### Source
 
 ### Related

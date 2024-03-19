@@ -15,8 +15,7 @@ Criticism doesn't touch the man who performs only for his own purposes. If you'r
 
 **[[Intrinsic Motivation]] >> Rewards**. It leads to [[Flow]].
 
----
-
+****
 ### Source
 - [[The Happiness Equation]]
 - [[Flow]]

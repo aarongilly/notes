@@ -17,7 +17,7 @@ Processes that happen. The material that flows between them. Including process m
 ### Timeline
 The bottom of all the Value Stream Maps I've seen are where the actual *value stream* is. 
 
----
+****
 ### Source
 - Wikipedia
 - [lean.org](https://www.lean.org/lexicon-terms/value-stream-mapping/)

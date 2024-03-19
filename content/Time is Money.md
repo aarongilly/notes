@@ -17,8 +17,7 @@ The adage "Time is Money" is true.
 - In [[The Organized Mind]], Daniel Levitin also suggests you [[Find the Value of Your Time]].
 - Time and money can be converted between one another [[Converting Resources]]
 
----
-
+****
 ### Source
 - [[Your Money or Your Life]]
 
